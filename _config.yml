@@ -17,7 +17,7 @@ baseurl: ""
 title: Thaycacac
 
 # Short description of your site
-description: Blog's thaycacac | HoaPN!
+description: HoaPN
 
 # --- Navigation bar options --- #
 
@@ -82,8 +82,6 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-
-
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
