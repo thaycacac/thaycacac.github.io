@@ -1,54 +1,54 @@
-facebook:
-  name: "Facebook"
-  baseURL: "https://www.facebook.com/thaycacac"
-  icon: "fa-facebook"
+# facebook:
+#   name: "Facebook"
+#   baseURL: "https://www.facebook.com/thaycacac"
+#   icon: "fa-facebook"
 
-github:
-  name: "GitHub"
-  baseURL: "https://github.com/thaycacac"
-  icon: "fa-github"
+# github:
+#   name: "GitHub"
+#   baseURL: "https://github.com/thaycacac"
+#   icon: "fa-github"
 
-twitter:
-  name: "Twitter"
-  baseURL: "https://twitter.com/thaycacac"
-  icon: "fa-twitter"
+# twitter:
+#   name: "Twitter"
+#   baseURL: "https://twitter.com/thaycacac"
+#   icon: "fa-twitter"
 
-google-plus:
-  name: "Google+"
-  baseURL: "https://plus.google.com/u/0/+Thaycacacofficial"
-  icon: "fa-google-plus"
+# google-plus:
+#   name: "Google+"
+#   baseURL: "https://plus.google.com/u/0/+Thaycacacofficial"
+#   icon: "fa-google-plus"
 
-email:
-  name: "Email me"
-  baseURL: "mailto:thaycacac@gmail.com"
-  icon: "fa-envelope"
+# email:
+#   name: "Email me"
+#   baseURL: "mailto:thaycacac@gmail.com"
+#   icon: "fa-envelope"
 
-linkedin:
-  name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/thaycacac"
-  icon: "fa-linkedin"
+# linkedin:
+#   name: "LinkedIn"
+#   baseURL: "https://linkedin.com/in/thaycacac"
+#   icon: "fa-linkedin"
 
-stackoverflow:
-  name: "StackOverflow"
-  baseURL: "https://stackoverflow.com/users/9454460"
-  icon: "fa-stack-overflow"
+# stackoverflow:
+#   name: "StackOverflow"
+#   baseURL: "https://stackoverflow.com/users/9454460"
+#   icon: "fa-stack-overflow"
 
-instagram:
-  name: "Instagram"
-  baseURL: "https://www.instagram.com/thaycacac"
-  icon: "fa-instagram"
+# instagram:
+#   name: "Instagram"
+#   baseURL: "https://www.instagram.com/thaycacac"
+#   icon: "fa-instagram"
 
-youtube:
-  name: "YouTube"
-  baseURL: "https://www.youtube.com/channel/UCSfVU0_rcB5Kn1SkYrcTbRw"
-  icon: "fa-youtube"
+# youtube:
+#   name: "YouTube"
+#   baseURL: "https://www.youtube.com/channel/UCSfVU0_rcB5Kn1SkYrcTbRw"
+#   icon: "fa-youtube"
 
-spotify:
-  name: "Spotify"
-  baseURL: "https://open.spotify.com/user/thaycacac"
-  icon: "fa-spotify"
+# spotify:
+#   name: "Spotify"
+#   baseURL: "https://open.spotify.com/user/thaycacac"
+#   icon: "fa-spotify"
 
-telephone:
-  name: "Phone"
-  baseURL: "tel: +84968038714"
-  icon: "fa-phone"
+# telephone:
+#   name: "Phone"
+#   baseURL: "tel: +84968038714"
+#   icon: "fa-phone"
