@@ -32,6 +32,14 @@ a:hover,
 a:focus {
   color: {{ site.hover-col }};
 }
+a:after {
+  display:block;
+  content: '';
+  border-left: solid 2px #019fb6;  
+  transform: scaleX(0);  
+  transition: transform 250ms ease-in-out;
+}
+a:hover:after { transform: scaleX(1); }
 blockquote {
   color: #808080;
   font-style: italic;
@@ -45,6 +53,7 @@ hr.small {
   border-width: 4px;
   border-color: inherit;
   border-radius: 3px;
+  background-image: linear-gradient(to right, #fff, #00d1b2 , #fff);
 }
 
 .main-content {
@@ -125,7 +134,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
+  font-weight: 600;
   color: {{ site.navbar-text-col }};
 }
 
@@ -157,7 +166,7 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 20px 0;
+    padding: 2px 0;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -175,7 +184,7 @@ img {
   margin-top: -25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
-  width: 100%;
+  width: 0%;
   border-radius: 50%;
   margin-left: -50%;
   display: inline-block;
@@ -200,7 +209,7 @@ img {
   }
 
   .navbar-custom .avatar-container  .avatar-img-border {
-    width: 100%;
+    width: 0%;
     box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
     -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
     -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
@@ -316,13 +325,13 @@ footer .theme-by {
 /* --- Post preview --- */
 
 .post-preview {
-  padding: 20px 0;
+  padding: 20px 0 0 0;
   border-bottom: 1px solid #eee;
 }
 
 @media only screen and (min-width: 768px) {
   .post-preview {
-    padding: 35px 0;
+    padding: 20px 0 0 0;
   }
 }
 
@@ -507,12 +516,15 @@ footer .theme-by {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
+  font-style: italic;
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
+  font-style: italic;
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
+  font-style: italic;
   font-weight: 400;
 }
 .intro-header.big-img .page-heading hr {
