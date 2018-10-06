@@ -67,7 +67,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "thaycacac@gmail.com"
   facebook: thaycacac
   github: thaycacac
@@ -75,14 +75,15 @@ social-network-links:
   telephone: +84968038714
   inkedin: thaycacac
   instagram: thaycacac
-  google-plus: +Thaycacacofficial
+  google-plus: u/0/+Thaycacacofficial
+  youtube: UCSfVU0_rcB5Kn1SkYrcTbRw
+  spotify: thaycacac
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
+
 
 #  steam: deanat78
 #  twitch: yourname
