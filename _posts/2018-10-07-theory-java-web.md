@@ -8,7 +8,8 @@ tags: [java, share]
 ---
 Tổng hợp lý thuyết môn Java Web...
 
-###**Session1: Servlet**
+### Session1: Servlet
+
 - **Servlet:**
     - `Servlet `là một công nghệ được sử dụng để tạo ra ứng dụng web.
     - `Servlet` là một API cung cấp các interface và lớp bao gồm các tài liệu.
@@ -32,7 +33,7 @@ Tổng hợp lý thuyết môn Java Web...
     - Đăng xuất user: các máy chủ hỗ trợ servlet 2.4, bạn đăng xuất khách hàng ra khỏi Web server và làm mất hiệu lực tất cả session của tất cả người dùng
     - Cấu hình web.xml: nếu bạn đang sử dụng Tomcat, ngoài các phương pháp đã đề cập ở trên, bạn có thể thiết định thời gian session trong tệp web.xml
 
-###Session2: JSP
+### Session2: JSP
 - `JSP` là viết tắt của JavaServer Pages là một công nghệ để phát triển các trang web động. JSP giúp các nhà phát triển chèn java code vào các trang HTML bằng cách sử dụng các thẻ JSP đặc biệt.
 - **Vòng đời của JSP bao gồm 4 pha sau:**
     - Biên dịch (`Compilation`).
@@ -109,7 +110,7 @@ Tổng hợp lý thuyết môn Java Web...
 <jsp:include page="pageToInclude.jsp" />
 ```
 
-###**Session 3: Tổng Quan**
+### Session 3: Tổng Quan
 - **Cấu trúc file và thư mục có thể có là**
     - static content
     - JSP pages
@@ -177,7 +178,7 @@ Tổng hợp lý thuyết môn Java Web...
 </servlet>
 ```
 
-###**JDBC**
+### JDBC
 - **JDBC API**
 
 1. `Connection:` For creating a connection to a DBMS
