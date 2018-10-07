@@ -6,68 +6,59 @@ gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, fork, follow]
 tags: [java, share]
 ---
+Tổng hợp lý thuyết môn Java Web...
 
 ###**Session1: Servlet**
-
 - **Servlet:**
-
-1. Servlet là một công nghệ được sử dụng để tạo ra ứng dụng web.
-1. Servlet là một API cung cấp các interface và lớp bao gồm các tài liệu.
-1. Servlet là một thành phần web được triển khai trên máy chủ để tạo ra trang web động.
-
+    - `Servlet `là một công nghệ được sử dụng để tạo ra ứng dụng web.
+    - `Servlet` là một API cung cấp các interface và lớp bao gồm các tài liệu.
+    - `Servlet` là một thành phần web được triển khai trên máy chủ để tạo ra trang web động.
 - **Gói servlet:** javax.servlet và javax.servlet.http
 - **Vòng đời**
-
-1. Servlet được khởi tạo bằng cách gọi phương thức init ().
-1. Phương thức servlet service() được gọi để xử lý yêu cầu của khách hàng.
-1. Servlet được hủy bằng cách gọi phương thức destroy().
-1. Cuối cùng, servlet được thu thập bởi bộ sưu tập rác của JVM.
-
+    - `Servlet` được khởi tạo bằng cách gọi phương thức `init ()`.
+    - Phương thức servlet `service()` được gọi để xử lý yêu cầu của khách hàng.
+    - Servlet được hủy bằng cách gọi phương thức `destroy()`.
+    - Cuối cùng, servlet được thu thập bởi bộ sưu tập rác của JVM.
 - **Đọc dữ liệu từ Form trong servlet**
-
-1. getParameter() – Gọi phương thức request.getParameter() để lấy giá trị của một tham số của form.
-1. getParameterValues​() – Gọi phương thức này nếu tham số xuất hiện nhiều lần và trả về nhiều giá trị, ví dụ checkbox.
-1. getParameterNames() – Gọi phương thức này nếu bạn muốn có một danh sách đầy đủ của tất cả các tham số trong yêu cầu hiện tại.
+    - `getParameter()` – Gọi phương thức request.getParameter() để lấy giá trị của một tham số của form.
+    - `getParameterValues​()` – Gọi phương thức này nếu tham số xuất hiện nhiều lần và trả về nhiều giá trị, ví dụ checkbox.
+    - `getParameterNames()` – Gọi phương thức này nếu bạn muốn có một danh sách đầy đủ của tất cả các tham số trong yêu cầu hiện tại.
 
 - **Cookie:** là các tập tin văn bản được lưu trữ trên client. Mục đích của cookie là để theo dõi các thông tin khác nhau. Ví dụ trường hợp remember login.
 - **Xóa Session**
+    - Xoá một thuộc tính cụ thể: bạn có thể gọi phương thức public void removeAttribute(String name) để xóa giá trị kết hợp với một khoá cụ thể.
+    - Xóa toàn bộ sesssion: bạn có thể gọi phương thức public void invalidate() để xóa toàn bộ sesssion.
+    - Cài đặt thời gian chờ cho session: bạn có thể gọi phương thức public void setMaxInactiveInterval(int interval) để đặt thời gian chờ cho một session riêng.
+    - Đăng xuất user: các máy chủ hỗ trợ servlet 2.4, bạn đăng xuất khách hàng ra khỏi Web server và làm mất hiệu lực tất cả session của tất cả người dùng
+    - Cấu hình web.xml: nếu bạn đang sử dụng Tomcat, ngoài các phương pháp đã đề cập ở trên, bạn có thể thiết định thời gian session trong tệp web.xml
 
-1. Xoá một thuộc tính cụ thể: bạn có thể gọi phương thức public void removeAttribute(String name) để xóa giá trị kết hợp với một khoá cụ thể.
-1. Xóa toàn bộ sesssion: bạn có thể gọi phương thức public void invalidate() để xóa toàn bộ sesssion.
-1. Cài đặt thời gian chờ cho session: bạn có thể gọi phương thức public void setMaxInactiveInterval(int interval) để đặt thời gian chờ cho một session riêng.
-1. Đăng xuất user: các máy chủ hỗ trợ servlet 2.4, bạn đăng xuất khách hàng ra khỏi Web server và làm mất hiệu lực tất cả session của tất cả người dùng.
-1. Cấu hình web.xml: nếu bạn đang sử dụng Tomcat, ngoài các phương pháp đã đề cập ở trên, bạn có thể thiết định thời gian session trong tệp web.xml
-   ###Session2: JSP
-
-- **JSP** là viết tắt của JavaServer Pages là một công nghệ để phát triển các trang web động. JSP giúp các nhà phát triển chèn java code vào các trang HTML bằng cách sử dụng các thẻ JSP đặc biệt.
+###Session2: JSP
+- `JSP` là viết tắt của JavaServer Pages là một công nghệ để phát triển các trang web động. JSP giúp các nhà phát triển chèn java code vào các trang HTML bằng cách sử dụng các thẻ JSP đặc biệt.
 - **Vòng đời của JSP bao gồm 4 pha sau:**
+    - Biên dịch (`Compilation`).
+    - Khởi tạo (`Initialization`).
+    - Thực thi (`Execution`).
+    - Hủy (`Cleanup`).
 
-1. Biên dịch (Compilation).
-1. Khởi tạo (Initialization).
-1. Thực thi (Execution).
-1. Hủy (Cleanup).
-
-- **JSP Scriptlet:** <% java code %>
-- **JSP Declaration:** <%! declaration; [ declaration; ]+ ... %>
-- **JSP Expression:** <%= expression %>
-- **JSP Directives:** <%@ directive attribute="value" %>
-- **JSP Action:** <jsp:action_name attribute="value" />
+- **JSP Scriptlet:** `<% java code %>`
+- **JSP Declaration:** `<%! declaration; [ declaration; ]+ ... %>`
+- **JSP Expression:** `<%= expression %>`
+- **JSP Directives:** `<%@ directive attribute="value" %>`
+- **JSP Action:** `<jsp:action_name attribute="value" />`
 - **Các đối tượng ẩn trong JSP**
-
-1. HttpServletRequest
-1. HttpServletResponse
-1. PrintWriter
-1. HttpSession
-1. ServletContext
-1. ServletConfig
-1. this
-1. Exception
+    - HttpServletRequest
+    - HttpServletResponse
+    - PrintWriter
+    - HttpSession
+    - ServletContext
+    - ServletConfig
+    - this
+    - Exception
 
 - **JSP Page**
-
 1. **Một trang JSP có thể bao gồm những công nghệ:** specific tags, declarations, and possibly scriptlets, in combination with other static HTML or XML tags.
-1. **Đuôi mở rộng:** extension .jsp
-1. **Được dịch khi lần đầu tiền gọi:** các lần sau nó sẽ lưu trong bộ nhớ server, các lần sau được phản hồi rất nhanh
+2. **Đuôi mở rộng:** `extension .jsp`
+3. **Được dịch khi lần đầu tiền gọi:** các lần sau nó sẽ lưu trong bộ nhớ server, các lần sau được phản hồi rất nhanh
 
 - **Comment**
 
@@ -119,22 +110,20 @@ tags: [java, share]
 ```
 
 ###**Session 3: Tổng Quan**
-
 - **Cấu trúc file và thư mục có thể có là**
-
-1. static content
-2. JSP pages
-3. servlet pages
-4. the deployment descriptor
-5. tag libraries
-6. JAR files and Java class files
-7. and describe how to protect resource files from HTTP access
+    - static content
+    - JSP pages
+    - servlet pages
+    - the deployment descriptor
+    - tag libraries
+    - JAR files and Java class files
+    - and describe how to protect resource files from 
+    - HTTP access
 
 - **Thư mục đặc biệt bên dưới context root**
-
-1. **/WEB-INF/classes**— cho những lớp tồn tại như separate Java classes(không có file JAR). Có thể là servlet hoặc other support classes
-1. **/WEB-INF/ lib**—dành cho những file JAR. Bên trong có thể bao gồm nhiều thứ: the main servlets for your application, supporting classes that connect to databases—whatever
-1. **/ WEB-INF** —chính nó là một tệp tin chính cực kỳ quan trọng **web.xml,** tệp mô tả triển khai
+    - `/WEB-INF/classes`— cho những lớp tồn tại như separate Java classes(không có file JAR). Có thể là servlet hoặc other support classes
+    - `/WEB-INF/ lib`—dành cho những file JAR. Bên trong có thể bao gồm nhiều thứ: the main servlets for your application, supporting classes that connect to databases—whatever
+    - `/WEB-INF` —chính nó là một tệp tin chính cực kỳ quan trọng `web.xml`, tệp mô tả triển khai
 
 - **Cấu trúc deploy ment descriptor**
 
@@ -158,6 +147,7 @@ tags: [java, share]
     <security-constraint>
     <login-config>
     <security-roly>
+</web-app>
 ```
 
 - Servlet and những thẻ con quan trọng
@@ -183,30 +173,24 @@ tags: [java, share]
         <description>
         <role-name>
         <role-link>
+    </security-roly-ref>
+</servlet>
 ```
 
-> **JDBC**
-
-- **JDBC**
-
-1. **DriverManager** class
-2. Java.lang.Class.forName(DriverClass) will dynamically load the concrete driver class, provided by a **specific provider for a specific database.**
-
+###**JDBC**
 - **JDBC API**
 
-1. **Connection:** For creating a connection to a DBMS
-1. **Statement:** For executing SQL statements
-1. **ResultSet:** For storing result data set and achieving columns
-1. **DatabaseMetadata:** For getting database metadata
-1. **ResultSetMetadata:** For getting resultset metadata
+1. `Connection:` For creating a connection to a DBMS
+2. `Statement:` For executing SQL statements
+3. `ResultSet:` For storing result data set and achieving columns
+4. `DatabaseMetadata:` For getting database metadata
+5. `ResultSetMetadata:` For getting resultset metadata
 
 - **Có 4 loại JDBC Drivers**
-
-1. JDBC ODBC (populated)
-1. Native API
-1. Network Protocol
-1. Native Protocol(populated)
-   > **Session management**
+    - JDBC ODBC (populated)
+    - Native API
+    - Network Protocol
+    - Native Protocol(populated)
 
 - **Initialization Parameters**
 
@@ -247,16 +231,15 @@ ServletConfig sc = getServletConfig();
 String name = sc.getInitParameter(“name");
 ```
 
-> **Expression Language**
+**Expression Language**
 
 - **Scoped variables in EL expressions**
+    - pageContext
+    - requestScope
+    - sessionScope
+    - applicationScope
 
-1. pageContext
-2. requestScope
-3. sessionScope
-4. applicationScope
-
-- **<jsp:useBean>** lets you load in a JavaBean to be used in the JSP
+- `<jsp:useBean>` lets you load in a JavaBean to be used in the JSP
 
 ```java
 <jsp:useBean> lets you load in a JavaBean to be used in the JSP
