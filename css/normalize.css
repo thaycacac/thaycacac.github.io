@@ -226,12 +226,15 @@ pre {
  * Address odd `em`-unit font size rendering in all browsers.
  */
 
-code,
 kbd,
 pre,
 samp {
   font-family: monospace, monospace;
   font-size: 1em;
+}
+code {
+  font-family: Consolas,"courier new";
+  font-size: 0.8em;
 }
 
 /* Forms

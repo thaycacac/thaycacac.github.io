@@ -691,12 +691,8 @@ pre code {
   white-space: pre;
 }
 pre.highlight, .highlight > pre, td.code pre {
-  background-color: #FAFAFA;
-  background-image: linear-gradient(#F9F9F9 50%, #FDFDFD 50%);
-  background-repeat: repeat;
-  background-size: 3em 3em;
-  background-position: 0px 10px;
-  border-left: 7px solid #444;
+  font-size: 1.4rem;
+  border-left: 4px solid #00d1b2;
 }
 code table, code table td, code table th, code table tbody, code table tr,
 td.gutter pre {
