@@ -682,13 +682,17 @@ table tr td :last-child {
 }
 
 /* --- Code blocks --- */
-
+.highlight {
+  margin-top: 10px;
+}
 pre {
   font-size: 16px;
   line-height: 1.5em;
 }
 pre code {
   white-space: pre;
+  font-family: Consolas,"courier new";
+  font-size: 1.5rem;
 }
 pre.highlight, .highlight > pre, td.code pre {
   font-size: 1.4rem;
