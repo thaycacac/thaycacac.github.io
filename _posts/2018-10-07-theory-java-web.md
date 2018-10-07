@@ -4,7 +4,7 @@ title: Theory for PRJ321
 subtitle: Theory of course Web-Based Java Applications
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
-tags: [java, share]
+tags: [share]
 ---
 Tổng hợp lý thuyết môn Java Web...
 
