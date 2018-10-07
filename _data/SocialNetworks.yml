@@ -3,10 +3,20 @@ facebook:
   baseURL: "https://www.facebook.com/"
   icon: "fa-facebook"
 
+github:
+  name: "GitHub"
+  baseURL: "https://github.com/"
+  icon: "fa-github"
+
 twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
   icon: "fa-twitter"
+
+reddit:
+  name: "Reddit"
+  baseURL: "https://reddit.com/u/"
+  icon: "fa-reddit"
 
 google-plus:
   name: "Google+"
@@ -20,13 +30,23 @@ email:
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/thaycacac"
+  baseURL: "https://linkedin.com/in/"
   icon: "fa-linkedin"
+
+xing:
+  name: "Xing"
+  baseURL: "https://www.xing.com/profile/"
+  icon: "fa-xing"
 
 stackoverflow:
   name: "StackOverflow"
-  baseURL: "https://stackoverflow.com/users/9454460"
+  baseURL: "https://stackoverflow.com/users/"
   icon: "fa-stack-overflow"
+
+snapchat:
+  name: "Snapchat"
+  baseURL: "https://www.snapchat.com/add/"
+  icon: "fa-snapchat-ghost"
 
 instagram:
   name: "Instagram"
@@ -35,7 +55,7 @@ instagram:
 
 youtube:
   name: "YouTube"
-  baseURL: "https://www.youtube.com/channel/"
+  baseURL: "https://www.youtube.com/"
   icon: "fa-youtube"
 
 spotify:
@@ -47,3 +67,23 @@ telephone:
   name: "Phone"
   baseURL: "tel:"
   icon: "fa-phone"
+
+rss:
+  name: "RSS"
+  baseURL: "{{ '/feed.xml' | prepend: site.baseurl }}"
+  icon: "fa-rss"
+
+steam:
+  name: "Steam"
+  baseURL: "https://steamcommunity.com/id/"
+  icon: "fa-steam"
+
+twitch:
+  name: "Twitch"
+  baseURL: "https://www.twitch.tv/"
+  icon: "fa-twitch"
+
+yelp:
+  name: "Yelp"
+  baseURL: "https://{{ site.author.yelp }}.yelp.com"
+  icon: "fa-yelp"
