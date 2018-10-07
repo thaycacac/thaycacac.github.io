@@ -682,7 +682,7 @@ table tr td :last-child {
 }
 
 /* --- Code blocks --- */
-/* 
+
 pre {
   font-size: 16px;
   line-height: 1.5em;
@@ -693,6 +693,7 @@ pre code {
 pre.highlight, .highlight > pre, td.code pre {
   font-size: 1.4rem;
   border-left: 4px solid #00d1b2;
+  font-family: Consolas,"courier new";
 }
 code table, code table td, code table th, code table tbody, code table tr,
 td.gutter pre {
@@ -714,7 +715,7 @@ td.code pre {
 }
 td.gutter {
   padding-top: 3px;
-} */
+}
 
 /* --- Social media sharing section --- */
 
