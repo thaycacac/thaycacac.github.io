@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Note] Javascript
+title: Javascript - Note
 subtitle: Note for me - JavaScript
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
