@@ -91,3 +91,4 @@ added components:  components/button@1.0.0, components/login@1.0.0, components/l
 
 Chúng ta có thể sử dụng một lệnh nhanh là `bit status` để thấy những components đã được cô lập và sẵn sàng share.
 
+
