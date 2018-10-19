@@ -12,26 +12,30 @@ Docker là một open platform cung cấp cho người sử dụng những công
 
 Docker là một nền tảng để cung cấp cách để building, deploying và running ứng dụng một cách dễ dàng trên nền tảng ảo hóa. Có nhiều công nghệ Container khác như Solaris Zones, BSD jails, và LXC. Nhưng tại sao Docker lại phát triển, phổ biến nhanh chóng? Đây là những nguyên nhân: **Ease of use, Speed, DockerHub, Modularity and Scalability**.
 
+Docker có nhiều lợi ích mà bạn nên sử dụng: 
+- Tốn ít dung lượng bộ nhớ, tài nguyên so với ảo hoá hệ điều hành
+- Cài đặt dễ dàng, nhanh, chính xác so với cấu hình thủ công
+- Chia sẻ được file cấu hình: **Dockerfile, docker-compose.yml**
+
 Để cài đặt, bạn xem hướng dẫn tại đây: [Install Docker](https://www.docker.com/get-started) và thực hiện một số lệnh như sau để kiểm tra xem đã có trên máy chưa:
 
-Kiểm tra version của docker
-
+Kiểm tra version của docker:
 ```
 docker version
 ```
-Thông tin về docker
-
+Thông tin về docker:
 ```
 docker info
 ```
 
-Tạo thử một container
-
+Tạo thử một container:
 ```
 docker run hello-world
 ```
 
-## Cài đặt docker.
+## Các lệnh Linux đủ dùng cho Docker
+
+
 
 ## Sử dụng Docker container.
 
