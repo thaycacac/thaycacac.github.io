@@ -6,12 +6,43 @@ gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
 tags: [note for me, docker]
 ---
-- Alpine do
-  * Kích thước nhỏ 4.1 Mb,
-  * Sử dụng làm base docker image
-  * Tốn ít RAM khi chạy
-  * Hỗ nhợ nhiều kiến trúc CPU, intel, arm
-  * Các gói phần mềm hỗ trợ phong phú
+Docker là một open platform cung cấp cho người sử dụng những công cụ và service để người sử dụng có thể đóng gói và chạy chương trình của mình trên các môi trường khác nhau một cách nhanh nhất.
+
+## Docker là gì và để làm gì?
+
+Docker là một nền tảng để cung cấp cách để building, deploying và running ứng dụng một cách dễ dàng trên nền tảng ảo hóa. Có nhiều công nghệ Container khác như Solaris Zones, BSD jails, và LXC. Nhưng tại sao Docker lại phát triển, phổ biến nhanh chóng? Đây là những nguyên nhân: **Ease of use, Speed, DockerHub, Modularity and Scalability**.
+
+Để cài đặt, bạn xem hướng dẫn tại đây: [Install Docker](https://www.docker.com/get-started) và thực hiện một số lệnh như sau để kiểm tra xem đã có trên máy chưa:
+
+Kiểm tra version của docker
+
+```
+docker version
+```
+Thông tin về docker
+
+```
+docker info
+```
+
+Tạo thử một container
+
+```
+docker run hello-world
+```
+
+## Cài đặt docker.
+
+## Sử dụng Docker container.
+
+## Đóng gói Docker image
+
+## Phối hợp Docker container bằng docker-compose
+
+## Volume - Networking
+
+## Docker swarm
+
 ```
 docker run -it -rm alpine:latest /bin/ash
 ```
