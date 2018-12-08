@@ -795,3 +795,7 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+.is-footer {
+  bottom: 0;
+}
