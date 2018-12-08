@@ -1,10 +1,6 @@
 ---
-layout: post
-title: Git - Note
-subtitle: Note for me
-gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
-tags: [note for me]
+title: Note Git
+author: Thaycacac
 ---
 ### **1. File** `.gitignore`
 * Git will be skip file declared in this file 

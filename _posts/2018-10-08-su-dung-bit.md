@@ -4,7 +4,7 @@ title: Chia sẻ và sử dụng Component NPM + Bit
 subtitle: Làm thế nào để cài đặt các component với bất kỳ thư viện React, Vue hoặc UI bằng cách sử dụng Bit và NPM
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
-tags: [share]
+tags: [code]
 ---
 
 Hiện nay có rất nhiều thư viện component trong thế giới javascript, và chúng đều theo một concept: Bạn cài đặt tất cả thư viện nhưung chỉ sử dụng một hoặc hai component.

@@ -1,10 +1,6 @@
 ---
-layout: post
-title: Charming Text - Note
-subtitle: Note for me - charming text
-gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
-tags: [note for me, javascript]
+title: Note Charming
+author: Thaycacac
 ---
 
 ### 1. Set up

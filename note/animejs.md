@@ -1,10 +1,6 @@
 ---
-layout: post
-title: AnimeJS - Note
-subtitle: Note for me - AnimeJS
-gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
-tags: [note for me, javascript]
+title: Note AnimeJS
+author: Thaycacac
 ---
 
 ### 1. Set up
@@ -131,10 +127,6 @@ methods: {
     }
 ```
 ### 6. Draw Illustrator
-- [x] Config
-
-![Image](https://github.com/thaycacac/document-note-for-me/blob/master/js/animation/settingSVG.PNG?raw=true)
-
 **HTML**
 
 ```html

@@ -1,12 +1,8 @@
 ---
-layout: post
-title: CSS - Note
-subtitle: Note for me - css
-gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
-tags: [note for me, css]
+title: Note CSS
+author: Thaycacac
 ---
-* Box text responsive
+* Responsive sẽ ẩn đi khi vượt quá số dùng
 ```css
   display: -webkit-box;
   -webkit-line-clamp: 1;
@@ -15,7 +11,7 @@ tags: [note for me, css]
   text-overflow: ellipsis;
 ```
 
-* Flex center
+* Flex để center
 ```css
   display: flex;
   align-items: center;

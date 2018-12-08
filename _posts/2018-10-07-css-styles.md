@@ -4,7 +4,7 @@ title: CSS Style
 subtitle: Phong cách code cho CSS
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
-tags: [share]
+tags: [code]
 ---
 Khi thiết kế và phát triển web, đôi lúc chúng ta gặp khó khăn trong việc tổ chức và quản lý code CSS. Nhiều nhà thiết kế website nghĩ rằng việc tổ chức và quản lý code thật là rắc rối, tuy nhiên nếu bạn đưa chúng vào một tiêu chuẩn cụ thể, thì sẽ giúp cho công việc của bạn tốt hơn, cũng như website của bạn sẽ hoạt động và có khả năng cải tiến tốt hơn trong tương lai.
 

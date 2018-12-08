@@ -1,10 +1,6 @@
 ---
-layout: post
-title: ReactJS - Note
-subtitle: Note for me - reactjs
-gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
-tags: [note for me, javascript]
+title: Note ReactJS
+author: Thaycacac
 ---
 
 ## 1. Tạo ứng dụng ReactJS
@@ -51,11 +47,6 @@ var Three = () => (
 * Sử dụng Class
 
 `rcjc`
-
-
-
-
-
 ## 3. Props
 
 * Sử dụng function

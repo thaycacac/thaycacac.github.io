@@ -1,10 +1,6 @@
 ---
-layout: post
-title: VueJS - Note
-subtitle: Note for me - vuejs
-gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
-tags: [note for me, javascript]
+title: Note VueJS
+author: Thaycacac
 ---
 
 ## Interact with the DOM
