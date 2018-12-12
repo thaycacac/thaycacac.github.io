@@ -5,6 +5,7 @@ subtitle: Học cách cấu trúc một project Sass cho hợp lý và dễ bả
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
 tags: [code]
+keywords: [thaycacac, cấu trúc project sass, cau truc project sass, cau truc sass, cấu trúc sass, sass là gì, sass la gi]
 ---
 Khi một project phát triển và mở rộng, việc mô-đun hoá và cấu trúc là thiết yếu. Vì vậy việc tổ chức tệp tin và folder là việc cần thiết mặc dù không có cấu trúc nào "hoàn toàn chính xác" mà nó phụ thuộc vào bạn, dưới đây chỉ là cấu trúc dành cho bạn để tham khảo.
 

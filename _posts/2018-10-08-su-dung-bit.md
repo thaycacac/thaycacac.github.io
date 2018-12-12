@@ -5,6 +5,7 @@ subtitle: Làm thế nào để cài đặt các component với bất kỳ thư
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
 tags: [code]
+keywords: [thaycacac, sử dụng bit, su dung bit, bit là gì, bit la gi]
 ---
 
 Hiện nay có rất nhiều thư viện component trong thế giới javascript, và chúng đều theo một concept: Bạn cài đặt tất cả thư viện nhưung chỉ sử dụng một hoặc hai component.
