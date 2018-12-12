@@ -17,7 +17,7 @@ Bit làm việt với Git và NPM để giúp bạn tạo ra nhiều packages t�
 
 Sau đó, bạn cũng có thể thay đổi các gói này từ bất kỳ repository hoặc project khác. 
 
-## Bước 1: Cô lập code từ project của bạn
+### Bước 1: Cô lập code từ project của bạn
 
 Sử dụng bit bạn có thể dễ dàn cô lập bất kỳ phần nào của repository mà không cần thay đổi tất cả, vì vậy, bạn có thể sử dụng code này từ những project khác. 
 

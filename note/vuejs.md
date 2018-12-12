@@ -12,13 +12,10 @@ author: Thaycacac
 - [x] Hoặc `enter` hoặc `space` sẽ thực hiện
 
 ```javascript
-<input type="text" @keyup.enter.space="alert">
+<input type="text" @keyup.enter.space="alert" />
 ```
 - [x] `Code templates`
 
-```javascript
-<p>{{ couter > 10 ? 'Greater than 10' : 'Smaller than 10' }}</p>
-```
 - [x] `Computed`
 
 ```javascript

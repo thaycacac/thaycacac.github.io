@@ -9,8 +9,9 @@ tags: [code]
 Khi thiết kế và phát triển web, đôi lúc chúng ta gặp khó khăn trong việc tổ chức và quản lý code CSS. Nhiều nhà thiết kế website nghĩ rằng việc tổ chức và quản lý code thật là rắc rối, tuy nhiên nếu bạn đưa chúng vào một tiêu chuẩn cụ thể, thì sẽ giúp cho công việc của bạn tốt hơn, cũng như website của bạn sẽ hoạt động và có khả năng cải tiến tốt hơn trong tương lai.
 
 ### Cú pháp
-- Sử dụng tabs ngắn (2 khoảng trắng) - đó là cách để đảm bảo code được dịch giống nhau trong mọi môi trường.
-- Khi có bộ chọn (selectors), hãy giữ mỗi bộ chọn nằm trên một dòng.
+Sử dụng tabs ngắn (2 khoảng trắng) - đó là cách để đảm bảo code được dịch giống nhau trong mọi môi trường.
+
+Khi có bộ chọn (selectors), hãy giữ mỗi bộ chọn nằm trên một dòng.
 - Giữa các khối nên có một dòng trắng để dễ đọc code
 - Thêm một khoảng trắng phía sau dấu `:` của mỗi thuộc tính.
 - Với mỗi định nghĩa chỉ nên nằm trên riêng một dòng sẽ cho báo lỗi được chính xác hơn.
@@ -45,7 +46,7 @@ Khi thiết kế và phát triển web, đôi lúc chúng ta gặp khó khăn tr
   box-shadow: 0 1px 2px #ccc, inset 0 1px 0 #fff;
 }
 ```
-## Thứ tự khai báo
+### Thứ tự khai báo
 1. Định vị trí (Positioning)
 2. Kiểu hình khối (Box model)
 3. Kiểu kí tự (Typographic)
@@ -87,7 +88,7 @@ Các thành phần còn lại hãy đặt theo từng thành phần tương ứn
 }
 ```
 
-## Không sử dụng @import
+### Không sử dụng @import
 So với các `<link>`, @import sẽ chậm hơn, nó sẽ cần nhiều yêu cầu từ trang hơn và không dự tính được hết các lỗi có thể xảy ra. Hãy dùng một số cách thay thế sau thay vì sử dụng @import:
 - Sử dụng nhiều `<link>`
 - Sử dụng các trình phiên dịch như SASS & LESS để phiên dịch CSS vào trong một file duy nhất
@@ -102,7 +103,7 @@ So với các `<link>`, @import sẽ chậm hơn, nó sẽ cần nhiều yêu c�
 <!-- Good -->
 <link rel="stylesheet" href="core.css">
 ```
-## Vị trí đặt Media query
+### Vị trí đặt Media query
 Hãy đặt Media query gần với bộ chọn có liên quan khi có thể. Đừng gom tất cả các quy tắc trong một khu vực riêng biệt như phần cuối trang.
 
 ```css
@@ -117,7 +118,7 @@ Hãy đặt Media query gần với bộ chọn có liên quan khi có thể. Đ
 }
 
 ```
-## Thuộc tính tiền tố
+### Thuộc tính tiền tố
 Khi sử dụng các thuộc tính tiền tố (Prefixed properties), hãy thụt đầu dòng vào dể các giá trị có thể thẳng hàng với nhau giúp dễ dàng để thay đổi giá trị.
 
 ```css
@@ -127,7 +128,7 @@ Khi sử dụng các thuộc tính tiền tố (Prefixed properties), hãy thụ
 }
 ```
 
-## Khai báo CSS đơn
+### Khai báo CSS đơn
 Trong trường hợp chỉ có 1 định nghĩa CSS, hãy loại bỏ những ngắt dòng để có thể dễ chỉnh sửa hơn. Còn lại thì nên xuống dòng
 
 Đây là một trong yếu tố quan trọng để phát hiện ra lỗi, ví dụ một CSS đang có báo lỗi ở Line 200. Với định nghĩa nằm ở 1 dòng, bạn sẽ dễ tìm hơn.
@@ -150,7 +151,7 @@ Trong trường hợp chỉ có 1 định nghĩa CSS, hãy loại bỏ những n
 }
 ```
 
-## Kí hiệu viết tắt
+### Kí hiệu viết tắt
 Hãy hạn chế các kí hiệu viết tắt, thay vào đó hãy định nghĩa rõ ràng các giá trị. Các thuộc tính viết tắt thường được sử dụng nhiều bao gồm:
 - padding
 - margin
@@ -178,7 +179,7 @@ Thông thường hầu như không cần phải đặt toàn bộ các thuộc t
   border-top-right-radius: 3px;
 }
 ```
-## Bộ chọn
+### Bộ chọn
 - Sử dụng Class cho những tag để tối ưu hiệu suất dịch code.
 - Hạn chế chọn phần tử kiểu chọn theo thuộc tính (attribute) (ví dụ `[class^="..."]`) . Hiệu suất trình duyệt sẽ bị ảnh hưởng.
 - Giữ cho tên Class ngắn và gọi phần cha ít. Cố gắng gọi tối đa 3 Class.
@@ -196,7 +197,7 @@ span { ... }
 .tweet .avatar { ... 
 ```
 
-## Chú thích
+### Chú thích
 - Nên dùng hai gạch (`//`) để đặt chú thích.
 - Nên đặt chú thích trên một dòng riêng, không đặt ở cuối dòng.
 - Viết chú thích chi tiết cho những dòng code mà không thể hiện được ý nghĩa rõ ràng khi đọc, ví dụ:
@@ -247,7 +248,7 @@ Khuyến khích một số cách kết hợp giữa OOCSS và BEM cho những l�
       color: #fff;
       font-size: 18px;
       line-height: 1.5;
-   }
+  }
  /* style .btn--green   */
   .btn--green {
       background: green;
