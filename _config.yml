@@ -3,7 +3,6 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://thaycacac.github.io"
 baseurl: ""
 
@@ -23,6 +22,9 @@ description: HoaPN
 
 # List of links in the navigation bar
 navbar-links:
+  Code: "code"
+  Share: "share"
+  My Life: "mylife"
   About Me: "aboutme"
   Facebook: "http://facebook.com/thaycacac"
 
@@ -106,7 +108,7 @@ url-pretty: "thaycacac.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #google_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-TGFJGLR"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
@@ -141,7 +143,7 @@ title-separator: "|"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Vietnam"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -233,7 +235,7 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 prose:
-  rooturl: '_note-thaycacac'
+  rooturl: 'note'
   media: 'img'
   ignore:
     - 404.html
