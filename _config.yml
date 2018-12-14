@@ -77,8 +77,8 @@ social-network-links:
   linkedin: thaycacac
   instagram: thaycacac
   google-plus: u/0/+Thaycacacofficial
-  youtube: UCSfVU0_rcB5Kn1SkYrcTbRw
-  spotify: thaycacac
+  youtube: channel/UCSfVU0_rcB5Kn1SkYrcTbRw
+  spotify: /vn-en/
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  xing: yourname
@@ -125,12 +125,12 @@ gtm: "GTM-TGFJGLR"
 # disqus: ""
 
 # To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
+fb_comment_id: "2190189127692080"
 
 # --- Misc --- #
 
 # Facebook App ID
-# fb_app_id: ""
+fb_app_id: "2190189127692080"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
