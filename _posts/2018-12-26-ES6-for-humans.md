@@ -7,9 +7,6 @@ gh-badge: [star, follow]
 tags: [code]
 keywords: [thaycacac, es6, javascript, học javascript, es6 la gi, es6 là gì, es6 co gi moi, es6 có gì mới, what is es6, những điểm mới es6, nhung diem moi es6]
 ---
-### Mục lục
-
-- [keywords: [thaycacac, es6, javascript, học javascript, es6 la gi, es6 là gì, es6 co gi moi, es6 có gì mới, what is es6, những điểm mới es6, nhung diem moi es6]](#keywords-thaycacac-es6-javascript-h%E1%BB%8Dc-javascript-es6-la-gi-es6-l%C3%A0-g%C3%AC-es6-co-gi-moi-es6-c%C3%B3-g%C3%AC-m%E1%BB%9Bi-what-is-es6-nh%E1%BB%AFng-%C4%91i%E1%BB%83m-m%E1%BB%9Bi-es6-nhung-diem-moi-es6)
   - [Mục lục](#m%E1%BB%A5c-l%E1%BB%A5c)
   - [1. let, const và block scoping](#1-let-const-v%C3%A0-block-scoping)
   - [2. Arrow Functions](#2-arrow-functions)
