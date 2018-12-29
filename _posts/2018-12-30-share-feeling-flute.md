@@ -8,7 +8,7 @@ tags: [mylife]
 keywords: [thaycacac, sáo trúc, sao truc, cảm âm sáo trúc, cam am sao truc, flute]
 ---
 
-Dưới đây là tổng hợp một số cảm âm sáo trúc mà tôi yêu thích và đa số không có ở trên các trang web cảm âm, app ở Việt Nam mà tôi sưu tìm kiếm ở nước ngoài. Mục đích là để lưu trữ thỉnh thoảng có thể vào tìm kiếm dễ dàng hơn.
+Dưới đây là ba cảm âm sáo trúc mà tôi yêu thích nhất và trong đó đa số không có ở trên các trang web cảm âm, app ở Việt Nam mà tôi sưu tìm kiếm ở nước ngoài. Mục đích là để lưu trữ thỉnh thoảng có thể vào tìm kiếm dễ dàng hơn.
 
 ### Fog Bound
 
