@@ -8,7 +8,7 @@ tags: [code]
 keywords: [thaycacac, reactjs, setstate, bạn hiểu gì về setstate, ban hieu gi ve set state, nguyên lý hoạt động của setstate, nguyen ly hoat dong setstate]
 ---
 
-Khi bạn gọi *setState* ở trong một component, điều gì đã xảy ra?
+Khi bạn gọi **setState** ở trong một component, điều gì đã xảy ra?
 
 ```javascript
 import React from 'react';
@@ -38,21 +38,21 @@ class Button extends React.Component {
 ReactDOM.render(<Button />, document.getElementById('container'));
 ```
 
-Chắc bạn cũng biết rằng React sẽ re-renders lại components thay đổi *state* `{ clicked: true }` cập nhật DOM và return ra `<h1>Thanks</h1>`. Có vẻ dễ nhưng... thế React làm điều đó hay React DOM?
+Chắc bạn cũng biết rằng React sẽ re-renders lại components thay đổi **state** `{ clicked: true }` cập nhật DOM và return ra `<h1>Thanks</h1>`. Có vẻ dễ nhưng... thế React làm điều đó hay React DOM?
 
-Cập nhật DOM nghe có vẻ như React DOM sẽ thực hiện điều trên nhưng rất tiếc là không phải :)). Mà cơ sở *React.Component* của chúng ta được định nghĩa bên trong chính React. 
+Cập nhật DOM nghe có vẻ như React DOM sẽ thực hiện điều trên nhưng rất tiếc là không phải :)). Mà cơ sở **React.Component** của chúng ta được định nghĩa bên trong chính React. 
 
 ### Vậy làm thế nào để setState trong React.Component cập nhật DOM?
 
-Chúng ta có thể nghĩ rằng lớp *React.Component* chứa logic cập nhật DOM. Nếu điều này xảy ra thì làm sao mà `this.setState()` có thể làm việc trong môi trường khác? Tỷ dụ một một component ở trong ứng dụng React Native cũng *extend React.Component* và  chúng ta vẫn có thể gọi `this.setState()` như bên trên mặc cho React Native làm việc với native view của Android và IOS chứ không phải là DOM.
+Chúng ta có thể nghĩ rằng lớp **React.Component** chứa logic cập nhật DOM. Nếu điều này xảy ra thì làm sao mà `this.setState()` có thể làm việc trong môi trường khác? Tỷ dụ một một component ở trong ứng dụng React Native cũng **extend React.Component** và  chúng ta vẫn có thể gọi `this.setState()` như bên trên mặc cho React Native làm việc với native view của Android và IOS chứ không phải là DOM.
 
-Như vậy, bằng một cách nào đó *React.Component đại diện xử lý cập nhật state trên nền tảng cụ thể.* Trước khi tìm hiểu xem điều gì đã xảy ra hãy tìm hiểu sâu hơn về cách phân tách gói và tại sao.
+Như vậy, bằng một cách nào đó **React.Component đại diện xử lý cập nhật state trên nền tảng cụ thể.** Trước khi tìm hiểu xem điều gì đã xảy ra hãy tìm hiểu sâu hơn về cách phân tách gói và tại sao.
 
 _Có một sai lầm phổ biến đó là *engine* React ở trong package *React* nhưng thật ra không phải_
 
-Thực tế, kể từ khi [package split in React 0.14](https://reactjs.org/blog/2015/07/03/react-v0.14-beta-1.html#two-packages) thì gói React chỉ hiển thị API để defining components. Hầu hết các *implementation* của React đểu lives ở trong “renderers”. Một vài tỷ dụ của renderers như là _react-dom, react-dom/server, react-native, react-test-renderer, react-art_.
+Thực tế, kể từ khi [package split in React 0.14](https://reactjs.org/blog/2015/07/03/react-v0.14-beta-1.html#two-packages) thì gói React chỉ hiển thị API để defining components. Hầu hết các **implementation** của React đểu lives ở trong “renderers”. Một vài tỷ dụ của renderers như là _react-dom, react-dom/server, react-native, react-test-renderer, react-art_.
 
-Đây là lý do tại sao mà gói *React* được sử dụng ở bất kể nền tảng nào. Tất cả các exports tỷ dụ như _React.Component, React.createElement, React.Children_ các utilities hay thậm chí cả Hooks đều độc lập với target platform. Cho dù bạn chạy _React DOM, React DOM Server, or React Native_ thì componets của bạn sẽ import và sử dụng chúng theo cùng một cách.
+Đây là lý do tại sao mà gói **React** được sử dụng ở bất kể nền tảng nào. Tất cả các exports tỷ dụ như _React.Component, React.createElement, React.Children_ các utilities hay thậm chí cả Hooks đều độc lập với target platform. Cho dù bạn chạy _React DOM, React DOM Server, or React Native_ thì componets của bạn sẽ import và sử dụng chúng theo cùng một cách.
 
 Ngược lại các gói dành riêng cho nền tảng tỷ dụ như _ReactDOM.render()_ cho phép bạn mount cấu trúc React vào DOM node. Mỗi một renderer sẽ cung cấp một API như thế. Một điều đáng nói ở đây nữa là gói React chỉ cho bạn sử dụng các tính năng của React nhưng chúng không biết cách mà renderer implemented như thế nào.
 
@@ -60,7 +60,7 @@ Oke bây giờ chúng ta đã biết được một số thứ thú vị trong g
 
 ### Câu trả lời là mọi renderer sẽ thiết lập một trường đặc biệt trong lớp được tạo.
 
-Trường này được gọi là *updater*. Nó không phải là một thứ mà bạn có thể thiết lập, mà nó có một cái gì đó _React DOM, React DOM Server hoặc React Native_ được thiết lập ngay sau khi tạo một thể hiện của lớp của bạn:
+Trường này được gọi là **updater**. Nó không phải là một thứ mà bạn có thể thiết lập, mà nó có một cái gì đó _React DOM, React DOM Server hoặc React Native_ được thiết lập ngay sau khi tạo một thể hiện của lớp của bạn:
 
 ```javascript
 // Inside React DOM

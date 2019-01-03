@@ -22,7 +22,7 @@ class Checkbox extends React.Component {
   // ...
 }
 ```
-Trong javascript, `super` sẽ refers đến hàm khởi tạo của class cha (parent class constructor). Ví dụ ở trên nó đang trỏ đến *React.Component*
+Trong javascript, `super` sẽ refers đến hàm khởi tạo của class cha (parent class constructor). Ví dụ ở trên nó đang trỏ đến **React.Component**
 
 Điều quan trọng là bạn không thể sử dụng `this` ở trong contructor cho tới khi bạn gọi parent constructor.
 
@@ -37,7 +37,7 @@ class Checkbox extends React.Component {
   // ...
 }
 ```
-Để cho dễ giải thích tại sao nó phải gọi parent constructor trước khi có thể sử dụng *this* thì hãy xem xét một ví dụ dưới đây:
+Để cho dễ giải thích tại sao nó phải gọi parent constructor trước khi có thể sử dụng **this** thì hãy xem xét một ví dụ dưới đây:
 
 ```javascript
 class Person {
@@ -56,7 +56,7 @@ class PolitePerson extends Person {
   }
 }
 ```
-Tỷ dụ như chúng ta được sử dụng biến *this* ở đây, một thời gian sau tôi thay đổi một chút ở hàm `greetColleagues()` như sau:
+Tỷ dụ như chúng ta được sử dụng biến **this** ở đây, một thời gian sau tôi thay đổi một chút ở hàm `greetColleagues()` như sau:
 
 ```javascript
 greetColleagues() {
@@ -65,7 +65,7 @@ greetColleagues() {
   }
 ```
 
-Nhưng bạn quên rằng `this.greetColleagues()` được gọi trước `super()` vì thế mà cái `this.name` nó không biết là cái nào hay nói cách khác thì `this.name` chưa được định nghĩa. Để tránh như vật thì JavaScript yêu cầu bạn phải gọi *super* ở đầu tiên là vì thế.
+Nhưng bạn quên rằng `this.greetColleagues()` được gọi trước `super()` vì thế mà cái `this.name` nó không biết là cái nào hay nói cách khác thì `this.name` chưa được định nghĩa. Để tránh như vật thì JavaScript yêu cầu bạn phải gọi **super** ở đầu tiên là vì thế.
 
 ```javascript
 constructor(props) {
@@ -77,7 +77,7 @@ constructor(props) {
 
 ### Tại sao lại truyền vào props?
 
-Điều gì sẽ xảy ra khi bạn truyền tham số *props* vào `super()`? *React.Component* sẽ khởi tạo `this.props`  ở trong constructor và xử lý như sau:
+Điều gì sẽ xảy ra khi bạn truyền tham số **props** vào `super()`? **React.Component** sẽ khởi tạo `this.props`  ở trong constructor và xử lý như sau:
 
 ```javascript
 // Inside React
@@ -89,9 +89,9 @@ class Component {
 }
 ```
 
-Nhưng bằng một cách nào đó, thậm chí khi bạn chỉ gọi `super()` mà không truyền *props* vào bạn vẫn có thể dùng `this.props` :)) Nó đã làm như thế nào?
+Nhưng bằng một cách nào đó, thậm chí khi bạn chỉ gọi `super()` mà không truyền **props** vào bạn vẫn có thể dùng `this.props` :)) Nó đã làm như thế nào?
 
-Hoá ra React tự động gán *props* cho instance ngay sau khi gọi constructor của bạn:
+Hoá ra React tự động gán **props** cho instance ngay sau khi gọi constructor của bạn:
 
 ```javascript
 // Inside React
@@ -99,11 +99,11 @@ Hoá ra React tự động gán *props* cho instance ngay sau khi gọi construc
   instance.props = props;
 ```
 
-Đó là lý do mà tại sao bạn quên truyền *props* vào `super()` mà vẫn sử dụng được `this.props`
+Đó là lý do mà tại sao bạn quên truyền **props** vào `super()` mà vẫn sử dụng được `this.props`
 
 ### Như vậy có thể dùng super() thay thế cho super(props)
 
-*Có lẽ là không vì nó vẫn gây confusing.* Lý do là vì React sẽ gắn `this.props` sau khi contructor của bạn đã chạy. Vì thế nó sẽ dẫn đến `this.props` vẫn là _undifined_ từ lúc `super()` được gọi cho tới khi contructor kết thúc:
+**Có lẽ là không vì nó vẫn gây confusing.** Lý do là vì React sẽ gắn `this.props` sau khi contructor của bạn đã chạy. Vì thế nó sẽ dẫn đến `this.props` vẫn là _undifined_ từ lúc `super()` được gọi cho tới khi contructor kết thúc:
 
 ```javascript
 // Inside React
@@ -125,7 +125,7 @@ class Button extends React.Component {
 }
 ```
 
-Thậm chí nó còn có thể gây ra một vài khó khăn khi debug các hàm được gọi trong contructor. Đó là lý do tại sao tôi luôn khuyến khích sử dụng *super(props)*
+Thậm chí nó còn có thể gây ra một vài khó khăn khi debug các hàm được gọi trong contructor. Đó là lý do tại sao tôi luôn khuyến khích sử dụng **super(props)**
 
 ```javascript
 class Button extends React.Component {

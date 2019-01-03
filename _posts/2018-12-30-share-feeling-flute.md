@@ -12,7 +12,7 @@ Dưới đây là ba cảm âm sáo trúc mà tôi yêu thích nhất và trong 
 
 ### Fog Bound
 
-Đây là bài nhạc phim trong bộ phim *Cướp biển vùng Caribbean (Pirates Of The Caribbean)*. Nhưng bài này khá là nhanh và dồn dập khó thổi nên tôi đã mix lại bài cho tiết tấu đi từ chập đến nhanh và phù hợp cho việc thổi sáo. Bạn có thể nghe ở [đây...](https://soundcloud.com/thaycacac/fog-bound-thaycacac) Dưới dây là phần cảm âm:
+Đây là bài nhạc phim trong bộ phim **Cướp biển vùng Caribbean (Pirates Of The Caribbean)**. Nhưng bài này khá là nhanh và dồn dập khó thổi nên tôi đã mix lại bài cho tiết tấu đi từ chập đến nhanh và phù hợp cho việc thổi sáo. Bạn có thể nghe ở [đây...](https://soundcloud.com/thaycacac/fog-bound-thaycacac) Dưới dây là phần cảm âm:
 
 ```
 La Do2 Re2 Re2  Re2 Mi2 Fa2 Fa2
@@ -45,7 +45,7 @@ Sol2 Fa2 Mi2 Fa2 Mi2 Re2
 
 ### Chi Tử Vu Quy
 
-Nhạc phim trong phim *"Hoa Tư Dẫn"*, mặc dù đã rất cố gắng tìm kiếm beat nhưng vẫn không thể tim được beat của bài này :((. Dưới đây là phần cảm âm:
+Nhạc phim trong phim **"Hoa Tư Dẫn"**, mặc dù đã rất cố gắng tìm kiếm beat nhưng vẫn không thể tim được beat của bài này :((. Dưới đây là phần cảm âm:
 
 ```
 RÊ2 ĐÔ2 RÊ2 ĐÔ2, Sol La Sib ĐÔ2 RÊ2 ĐÔ2
@@ -77,7 +77,7 @@ Sib ĐÔ2 RÊ2 Sol Fa Sol ĐÔ2 …Sib…La…Sol
 
 ### Tuý Hồng Nhan
 
-Nhạc phim của *Tân Thuỷ Hử*, nghe so sad. Tôi thích bản nhạc này từ đợt nghe [Khuất](https://www.youtube.com/watch?v=IhCw_JWfC3Y). Dưới đây là phần cảm âm:
+Nhạc phim của **Tân Thuỷ Hử**, nghe so sad. Tôi thích bản nhạc này từ đợt nghe [Khuất](https://www.youtube.com/watch?v=IhCw_JWfC3Y). Dưới đây là phần cảm âm:
 
 ```
 ĐÔ2 La La ĐÔ2 Sib…Sol La
