@@ -17,7 +17,3 @@ Dạ ngâm ưng giác nguyệt quang hàn.
 Bồng Lai thử khứ vô đa lộ,
 Thanh điểu ân cần vị thám khan.
 ```
-
-What else do you need?
-
-### my history
