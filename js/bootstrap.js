@@ -1,8 +1,3 @@
-/*
- Bootstrap v3.3.2 (http://getbootstrap.com)
- Copyright 2011-2015 Twitter, Inc.
- Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
-*/
 if("undefined"===typeof jQuery)throw Error("Bootstrap's JavaScript requires jQuery");+function(b){b=b.fn.jquery.split(" ")[0].split(".");if(2>b[0]&&9>b[1]||1==b[0]&&9==b[1]&&1>b[2])throw Error("Bootstrap's JavaScript requires jQuery version 1.9.1 or higher");}(jQuery);
 +function(b){function e(){var b=document.createElement("bootstrap"),d={WebkitTransition:"webkitTransitionEnd",MozTransition:"transitionend",OTransition:"oTransitionEnd otransitionend",transition:"transitionend"},a;for(a in d)if(void 0!==b.style[a])return{end:d[a]};return!1}b.fn.emulateTransitionEnd=function(f){var d=!1,a=this;b(this).one("bsTransitionEnd",function(){d=!0});setTimeout(function(){d||b(a).trigger(b.support.transition.end)},f);return this};b(function(){b.support.transition=e();b.support.transition&&
 (b.event.special.bsTransitionEnd={bindType:b.support.transition.end,delegateType:b.support.transition.end,handle:function(f){if(b(f.target).is(this))return f.handleObj.handler.apply(this,arguments)}})})}(jQuery);

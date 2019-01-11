@@ -5,7 +5,8 @@ subtitle: Chia sẻ một số cảm âm sáo trúc mà tôi yêu thích và sư
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
 tags: [mylife]
-keywords: [thaycacac, sáo trúc, sao truc, cảm âm sáo trúc, cam am sao truc, flute]
+keywords:
+  [thaycacac, sáo trúc, sao truc, cảm âm sáo trúc, cam am sao truc, flute]
 ---
 
 Dưới đây là ba cảm âm sáo trúc mà tôi yêu thích nhất và trong đó đa số không có ở trên các trang web cảm âm, app ở Việt Nam mà tôi sưu tìm kiếm ở nước ngoài. Mục đích là để lưu trữ thỉnh thoảng có thể vào tìm kiếm dễ dàng hơn.
@@ -26,18 +27,18 @@ Re2 Fa2 Mi2 Mi2 Fa2 Re2 Mi2
 La Do2 Re2 Re2  Re2 Mi2 Fa2 Fa2
 Fa2 Sol2 Mi2 Mi2  Re2 Do2 Do2 Re2
 La Do2 Re2 Re2  Re2 Mi2 Fa2 Fa2
-Fa2 Sol2 Mi2 Mi2    
-Re2 Do2 Re2 Re2 Mi2 Fa2 Fa2 Sol2 La2 
+Fa2 Sol2 Mi2 Mi2
+Re2 Do2 Re2 Re2 Mi2 Fa2 Fa2 Sol2 La2
 Fa2 Re2 La
-Si2  Fa2 Re2 Si 
+Si2  Fa2 Re2 Si
 Mi2 Mi2 Re2  Fa2
 Fa2 Sol2 La2 La2 Si2 La  Sol2 Sol2 Sol2 Sol2 La2
-La2 La2 La2 Si2 La2  Sol2 Fa2 Mi2 Re2 
+La2 La2 La2 Si2 La2  Sol2 Fa2 Mi2 Re2
 Re Mi Fa  Sol La Sol Fa Mi Fa Sol La Sol
 Fa sol La Sol Fa Mi Fa Mi Re Do Re
 Re Mi Fa Mi Fa Sol Fa Sol La Sol Fa Re
 Re Mi Fa Sol La Si Re Sol Fa Sol Mi Re Mi Do
-La2 Si2 La2  La2  La2  La2 Sol2 Sol2 Fa2 Mi2 Fa2 Mi2 Re2 
+La2 Si2 La2  La2  La2  La2 Sol2 Sol2 Fa2 Mi2 Fa2 Mi2 Re2
 Re2 Mi2 Fa2 La2 Re2 Mi2 Fa2 Si2
 Re2 Mi2 Fa2 La2 La2 Do3 La2 Sol2
 Sol2 Fa2 Mi2 Fa2 Mi2 Re2

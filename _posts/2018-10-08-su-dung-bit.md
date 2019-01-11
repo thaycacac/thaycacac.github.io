@@ -16,13 +16,14 @@ Vấn đề này dẫn đến một loạt các vấn đề khác và giải ph�
 
 Bit làm việt với Git và NPM để giúp bạn tạo ra nhiều packages từ bất kỳ repository nào hiện có mà không tách nó, thay đổi nó hoặc phải cấu hình dependency trees và build các quy trình để publish chúng.
 
-Sau đó, bạn cũng có thể thay đổi các gói này từ bất kỳ repository hoặc project khác. 
+Sau đó, bạn cũng có thể thay đổi các gói này từ bất kỳ repository hoặc project khác.
 
 ### Bước 1: Cô lập code từ project của bạn
 
-Sử dụng bit bạn có thể dễ dàn cô lập bất kỳ phần nào của repository mà không cần thay đổi tất cả, vì vậy, bạn có thể sử dụng code này từ những project khác. 
+Sử dụng bit bạn có thể dễ dàn cô lập bất kỳ phần nào của repository mà không cần thay đổi tất cả, vì vậy, bạn có thể sử dụng code này từ những project khác.
 
 Đây là một ví dụ về cấu trúc của một dự án:
+
 ```
 $ tree
 .
@@ -47,6 +48,7 @@ $ tree
 
 5 directories, 13 files
 ```
+
 Trong repo này, chúng ta có 3 components chúng ta muốn sử dụng trong những project khác như một npm package là: `button`, `login`, và `logo`.
 
 Theo cách bình thường, chúng ta phải **tạo mới repo** cho từng component của chúng. Trong mỗi repo lại phải **boilerplate và configure** với bit thì mọi chuyện trở nên đơn giản hơn rất nhiều.
@@ -56,6 +58,7 @@ Theo cách bình thường, chúng ta phải **tạo mới repo** cho từng com
 ```
 $ npm install bit-bin -g
 ```
+
 Sau đó khởi tạo dự án muốn chia sẻ
 
 ```
@@ -73,7 +76,8 @@ $ bit import bit.envs/testers/jest --tester
 the following component environments were installed
 - bit.envs/testers/jest@0.0.7
 ```
-Bây giờ hãy nó chô Bit những phần trong project của bạn muốn cần đóng gói. Bạn cũng có thể chỉ ra một file cụ thể trong component dùng lệnh `bit add` để add, nhưng bây giờ hãy làm nó một cách đơn giản: 
+
+Bây giờ hãy nó chô Bit những phần trong project của bạn muốn cần đóng gói. Bạn cũng có thể chỉ ra một file cụ thể trong component dùng lệnh `bit add` để add, nhưng bây giờ hãy làm nó một cách đơn giản:
 
 ```
 # use a glob pattern to track multiple components in the same path, or a single path to track a single component.
@@ -91,5 +95,3 @@ added components:  components/button@1.0.0, components/login@1.0.0, components/l
 `Bit` bây giờ sẽ theo dõi những tệp trong project này, đã giải quyết dependency tree của họ, locked một phiên bản và chuẩn bị một môi tường để xây dựng và kiểm tra chúng.
 
 Chúng ta có thể sử dụng một lệnh nhanh là `bit status` để thấy những components đã được cô lập và sẵn sàng share.
-
-

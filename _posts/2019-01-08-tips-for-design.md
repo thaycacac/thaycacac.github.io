@@ -5,15 +5,28 @@ subtitle: Tổng hợp những tips cho việc thiết kế.
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
 tags: [code]
-keywords: [thaycacac, tips for design, cheating at design, tips thiết kế web, tips thiet ke web, thủ thuật thiết kế web, thiet ke web, thiet ke, thiết kế, design]
+keywords:
+  [
+    thaycacac,
+    tips for design,
+    cheating at design,
+    tips thiết kế web,
+    tips thiet ke web,
+    thủ thuật thiết kế web,
+    thiet ke web,
+    thiet ke,
+    thiết kế,
+    design,
+  ]
 ---
 
 Nhiều công ty không có người design làm full-time khiến cho việc chờ đợi design rất mất thời gian và đôi khi bạn muốn code một tính năng mới ngay lập tức nhưng lại không có thiết kế vì bạn "Không phải là nghệ sĩ". Nhưng thật ra có rất nhiều mánh khoé bạn có thể sử dụng cho công việc của mình mà không cần có kiến thức nền tảng đồ hoạ.
 
 ### Sử dụng màu sắc và độ đậm nhạt để thể hiện mức độ thay vì chỉnh sửa size
+
 ![trick1](https://i.imgur.com/e2k58Vc.png)
 
-Một lỗi phổ biến là thường sử dụng size chữ để thể hiện mức độ quan trọng của nó. 
+Một lỗi phổ biến là thường sử dụng size chữ để thể hiện mức độ quan trọng của nó.
 
 `“Is this text important? Let’s make it bigger.”`
 
@@ -26,6 +39,7 @@ Thay vào đó bạn hãy sử dụng màu sắc và độ đậm nhạt của c
 `“Is this text secondary? Let’s use a lighter color.”`
 
 Hãy thử 2 hoặc 3 màu
+
 - **Màu tối** (không phải đen) dùng làm màu cho nội dung chính (tỷ dụ như headlind của bài viết)
 - **Màu xám** cho nội dung secondary (tỷ dụ như ngày, trạng thái của bài viết)
 - **Màu xám sáng** cho nội nội dung phụ (tỷ dụ như thống báo bản quyền ở footer)
@@ -33,6 +47,7 @@ Hãy thử 2 hoặc 3 màu
 ![trick2](https://i.imgur.com/PBrJyj0.png)
 
 Tương tự, hai font-weight là đủ làm việc với UI:
+
 - Font weight bình thường (tầm 400 hoặc 500 dự vào font chữ) cho hầu hết các văn bản
 - Font weight đâm hơn (tầm 600 hoặc 700) dành cho các đoạn text bạn muốn nhấn mạnh
 
@@ -48,9 +63,9 @@ Sử dụng màu xám nhạt là một cách tốt để làm nó nổi bật tr
 
 ![trick5](https://i.imgur.com/dBtjVGo.png)
 
-Có 2 cách để giảm độ tương phản: 
+Có 2 cách để giảm độ tương phản:
 
-- **Giảm  opacity của chữ trắng**: sử dụng chữ màu trắng và giảm opacity xuống. Khi đó sẽ có một chút màu của background trong màu text vì thế nó sẽ làm nổi bật văn bản mà lại không xung đột với màu nền.
+- **Giảm opacity của chữ trắng**: sử dụng chữ màu trắng và giảm opacity xuống. Khi đó sẽ có một chút màu của background trong màu text vì thế nó sẽ làm nổi bật văn bản mà lại không xung đột với màu nền.
 
 ![trick6](https://i.imgur.com/h99JsdK.png)
 
@@ -75,7 +90,7 @@ Nếu như làm bảo với form input bạn có thể áp dụng dưới đây
 Khi bạn muốn tách biệt cách thành phần với nhau, bạn không nên lúc nào cũng sử dụng border để làm chúng vì như thế sẽ làm bố cục lộn xộn và cảm giác khó chịu. Bạn có thể sử dụng một số cách sau cũng với mục đích tương tự:
 
 - **Sử dụng box shadow**: đây là một cách tốt để chia các thành phần nó cũng gần tương tự với border nhưng sẽ mang lại cảm giác nhẹ nhành hơn rất nhiều
-  
+
 ![trick11](https://i.imgur.com/85IDaWc.png)
 
 - **Sử dụng màu background khác nhau**: chọn màu nền gần tương tự nhau và xoá bỏ border cũng là một cách để phân tách các phần tử với nhau.
@@ -90,7 +105,7 @@ Khi bạn muốn tách biệt cách thành phần với nhau, bạn không nên 
 
 ![trick14](https://i.imgur.com/Ad4Wxtg.png)
 
-Nếu như bạn đang thiết kế và bạn muốn sử dụng icon với kích thước to. Bạn có thể sử một một số set icon free như *Font Awesome* hoặc *Zondicons*. Mặc dù nó được vẽ bằng vector tuy nhiên nếu như bạn zoom lên tầm 3x 4x thì nhìn vào không còn được chuyên nghiệp nữa. Thay vì thế bạn có thể cho các icon vào các hình khối như hình tròn, hình vuông và sử dụng màu nền để giải quyết vấn đề này.
+Nếu như bạn đang thiết kế và bạn muốn sử dụng icon với kích thước to. Bạn có thể sử một một số set icon free như _Font Awesome_ hoặc _Zondicons_. Mặc dù nó được vẽ bằng vector tuy nhiên nếu như bạn zoom lên tầm 3x 4x thì nhìn vào không còn được chuyên nghiệp nữa. Thay vì thế bạn có thể cho các icon vào các hình khối như hình tròn, hình vuông và sử dụng màu nền để giải quyết vấn đề này.
 
 ### Thêm màu border giúp đỡ tẻ nhạt
 
@@ -109,10 +124,11 @@ Khi mà trên một trang mà người dùng thực hiện nhiều hành động
 ![trick18](https://i.imgur.com/kbmtkZl.png)
 
 Tỷ dụ như: `Đó là một hành động tích cực? Hãy sử dụng button màu xanh lá cây`, chính vì điều này nó sẽ giúp cho việc thể hiện mức độ được rõ ràng hơn. Ngoài ra cần chú ý:
+
 - **Những hành động chính nên rõ ràng**: sử dụng solid, độ tương phản màu nền cao.
 - **Các hành động phụ nên rõ ràng nhưng không cần nổi bật**: Outline styles hoặc là độ tưởng phản màu nền thấp.
 - **Các hành động thứ ba làm đơn giản**: Tốt nhất là nên để như một đường link.
-  
+
 ![trick19](https://i.imgur.com/wNK3ZB5.png)
 
 ### Sử dụng shadow bên trong thay vì border
@@ -120,7 +136,6 @@ Tỷ dụ như: `Đó là một hành động tích cực? Hãy sử dụng butt
 Nếu bạn đang làm việc với hình ảnh bạn có thể sử dụng bóng đổ vào bên trong hình ảnh để tạo sự khác biệt thay vì border. Border có thể sẽ xung đột màu với hình ảnh trong khi hầu như mọi người không thể nhìn ra shadow bên trong đó.
 
 ![trick20](https://i.imgur.com/AzZmIkp.png)
-
 
 ### Hãy sáng tạo thay vì cứ mãi sử dụng text
 
@@ -146,8 +161,3 @@ Hãy sáng tạo giao diện cho các radio button đừng để nó giới hạ
 
 [sourse](https://twitter.com/i/moments/994601867987619840)
 [sourse](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
-
-
-
-
-

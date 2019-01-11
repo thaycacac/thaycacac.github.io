@@ -5,14 +5,26 @@ subtitle: Phong cách code cho CSS
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
 tags: [code]
-keywords: [thaycacac, css, code css, thế nào là code css chuẩn, style code css, code css như thế nào, code css nhu the nao]
+keywords:
+  [
+    thaycacac,
+    css,
+    code css,
+    thế nào là code css chuẩn,
+    style code css,
+    code css như thế nào,
+    code css nhu the nao,
+  ]
 ---
+
 Khi thiết kế và phát triển web, đôi lúc chúng ta gặp khó khăn trong việc tổ chức và quản lý code CSS. Nhiều nhà thiết kế website nghĩ rằng việc tổ chức và quản lý code thật là rắc rối, tuy nhiên nếu bạn đưa chúng vào một tiêu chuẩn cụ thể, thì sẽ giúp cho công việc của bạn tốt hơn, cũng như website của bạn sẽ hoạt động và có khả năng cải tiến tốt hơn trong tương lai.
 
 ### Cú pháp
+
 Sử dụng tabs ngắn (2 khoảng trắng) - đó là cách để đảm bảo code được dịch giống nhau trong mọi môi trường.
 
 Khi có bộ chọn (selectors), hãy giữ mỗi bộ chọn nằm trên một dòng.
+
 - Giữa các khối nên có một dòng trắng để dễ đọc code
 - Thêm một khoảng trắng phía sau dấu `:` của mỗi thuộc tính.
 - Với mỗi định nghĩa chỉ nên nằm trên riêng một dòng sẽ cho báo lỗi được chính xác hơn.
@@ -47,7 +59,9 @@ Khi có bộ chọn (selectors), hãy giữ mỗi bộ chọn nằm trên một 
   box-shadow: 0 1px 2px #ccc, inset 0 1px 0 #fff;
 }
 ```
+
 ### Thứ tự khai báo
+
 1. Định vị trí (Positioning)
 2. Kiểu hình khối (Box model)
 3. Kiểu kí tự (Typographic)
@@ -90,7 +104,9 @@ Các thành phần còn lại hãy đặt theo từng thành phần tương ứn
 ```
 
 ### Không sử dụng @import
+
 So với các `<link>`, @import sẽ chậm hơn, nó sẽ cần nhiều yêu cầu từ trang hơn và không dự tính được hết các lỗi có thể xảy ra. Hãy dùng một số cách thay thế sau thay vì sử dụng @import:
+
 - Sử dụng nhiều `<link>`
 - Sử dụng các trình phiên dịch như SASS & LESS để phiên dịch CSS vào trong một file duy nhất
 - Kết nối các files CSS của bạn bằng các tính năng được môi trường cung cấp sẵn nhu Rail, Jekyll và các môi trường khác
@@ -99,49 +115,76 @@ So với các `<link>`, @import sẽ chậm hơn, nó sẽ cần nhiều yêu c�
 <!-- Bad -->
 <style>
   @import url("more.css");
-
 </style>
 <!-- Good -->
-<link rel="stylesheet" href="core.css">
+<link rel="stylesheet" href="core.css" />
 ```
+
 ### Vị trí đặt Media query
+
 Hãy đặt Media query gần với bộ chọn có liên quan khi có thể. Đừng gom tất cả các quy tắc trong một khu vực riêng biệt như phần cuối trang.
 
 ```css
-.element { ... }
-.element-avatar { ... }
-.element-selected { ... }
-
-@media (min-width: 480px) {
-  .element { ...}
-  .element-avatar { ... }
-  .element-selected { ... }
+.element {
+  ...;
+}
+.element-avatar {
+  ...;
+}
+.element-selected {
+  ...;
 }
 
+@media (min-width: 480px) {
+  .element {
+    ...;
+  }
+  .element-avatar {
+    ...;
+  }
+  .element-selected {
+    ...;
+  }
+}
 ```
+
 ### Thuộc tính tiền tố
+
 Khi sử dụng các thuộc tính tiền tố (Prefixed properties), hãy thụt đầu dòng vào dể các giá trị có thể thẳng hàng với nhau giúp dễ dàng để thay đổi giá trị.
 
 ```css
 .selector {
-  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-          box-shadow: 0 1px 2px rgba(0,0,0,.15);
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
 }
 ```
 
 ### Khai báo CSS đơn
+
 Trong trường hợp chỉ có 1 định nghĩa CSS, hãy loại bỏ những ngắt dòng để có thể dễ chỉnh sửa hơn. Còn lại thì nên xuống dòng
 
 Đây là một trong yếu tố quan trọng để phát hiện ra lỗi, ví dụ một CSS đang có báo lỗi ở Line 200. Với định nghĩa nằm ở 1 dòng, bạn sẽ dễ tìm hơn.
 
 ```css
 /* Single declarations on one line */
-.span1 { width: 60px; }
-.span2 { width: 140px; }
-.span3 { width: 220px; }
-.icon           { background-position: 0 0; }
-.icon-home      { background-position: 0 -20px; }
-.icon-account   { background-position: 0 -40px; }
+.span1 {
+  width: 60px;
+}
+.span2 {
+  width: 140px;
+}
+.span3 {
+  width: 220px;
+}
+.icon {
+  background-position: 0 0;
+}
+.icon-home {
+  background-position: 0 -20px;
+}
+.icon-account {
+  background-position: 0 -40px;
+}
 
 /* Multiple declarations, one per line */
 .sprite {
@@ -153,14 +196,16 @@ Trong trường hợp chỉ có 1 định nghĩa CSS, hãy loại bỏ những n
 ```
 
 ### Kí hiệu viết tắt
+
 Hãy hạn chế các kí hiệu viết tắt, thay vào đó hãy định nghĩa rõ ràng các giá trị. Các thuộc tính viết tắt thường được sử dụng nhiều bao gồm:
+
 - padding
 - margin
 - font
 - background
 - border
 - border-radius
-Thông thường hầu như không cần phải đặt toàn bộ các thuộc tính của chúng. Sử dụng đinh nghĩa viết tắt quá nhiều sẽ dẫn dến các định nghĩa bị lặp lại quá nhiều và xảy ra lỗi ngoài ý muốn.
+  Thông thường hầu như không cần phải đặt toàn bộ các thuộc tính của chúng. Sử dụng đinh nghĩa viết tắt quá nhiều sẽ dẫn dến các định nghĩa bị lặp lại quá nhiều và xảy ra lỗi ngoài ý muốn.
 
 ```css
 /* Bad CSS */
@@ -180,7 +225,9 @@ Thông thường hầu như không cần phải đặt toàn bộ các thuộc t
   border-top-right-radius: 3px;
 }
 ```
+
 ### Bộ chọn
+
 - Sử dụng Class cho những tag để tối ưu hiệu suất dịch code.
 - Hạn chế chọn phần tử kiểu chọn theo thuộc tính (attribute) (ví dụ `[class^="..."]`) . Hiệu suất trình duyệt sẽ bị ảnh hưởng.
 - Giữ cho tên Class ngắn và gọi phần cha ít. Cố gắng gọi tối đa 3 Class.
@@ -195,10 +242,11 @@ span { ... }
 /* Good CSS */
 .avatar { ... }
 .tweet-header .username { ... }
-.tweet .avatar { ... 
+.tweet .avatar { ...
 ```
 
 ### Chú thích
+
 - Nên dùng hai gạch (`//`) để đặt chú thích.
 - Nên đặt chú thích trên một dòng riêng, không đặt ở cuối dòng.
 - Viết chú thích chi tiết cho những dòng code mà không thể hiện được ý nghĩa rõ ràng khi đọc, ví dụ:
@@ -206,34 +254,37 @@ span { ... }
   - Khả năng tương thích và trình duyệt
 
 ### Đặt tên Class
+
 Khuyến khích một số cách kết hợp giữa OOCSS và BEM cho những lý do sau:
 
--   Giúp tạo ra mối quan hệ chặt chẽ rõ ràng giữa CSS và HTML
--   Giúp tạo ra những thành phần có thể tái sử dụng.
--   Cho phép ít lồng nhau (nested) và giảm sự riêng biệt 
--   Giúp xây dựng stylesheet có khả năng mở rộng
+- Giúp tạo ra mối quan hệ chặt chẽ rõ ràng giữa CSS và HTML
+- Giúp tạo ra những thành phần có thể tái sử dụng.
+- Cho phép ít lồng nhau (nested) và giảm sự riêng biệt
+- Giúp xây dựng stylesheet có khả năng mở rộng
 
 **OOCSS**, hay “CSS hướng đối tượng”, là một phương pháp để viết CSS mà khuyến khích bạn định hình stylesheet như một sự tập hợp của nhiều “đối tượng” (object): có thể tái sử dụng, có thể lặp lại độc lập xuyên suốt toàn bộ một trang web.
 
-  * [OOCSS wiki](https://github.com/stubbornella/oocss/wiki) của Nicole Sullivan
-  * [Giới thiệu về OOCSS](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/) trên Smashing Magazine
+- [OOCSS wiki](https://github.com/stubbornella/oocss/wiki) của Nicole Sullivan
+- [Giới thiệu về OOCSS](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/) trên Smashing Magazine
 
 **BEM**, hay “Block-Element-Modifier”, là một quy ước đặt tên cho class trong HTML và CSS. Ban đầu nó được phát triển bởi Yandex với codebase lớn, có khả năng mở rộng, và có thể coi như một tập hợp của các hướng dẫn cho việc thực hiện OOCSS.
 
-  * [BEM 101](https://css-tricks.com/bem-101/) trên CSS Tricks
-  * [Giới thiệu về BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) của Harry Roberts
+- [BEM 101](https://css-tricks.com/bem-101/) trên CSS Tricks
+- [Giới thiệu về BEM](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) của Harry Roberts
 
 **Ví dụ**
 
     .block {}   /* Block */
+
 ```css
     .block__element {}  /* Element */
     .block--modifier {}  / Modifier /
 ```
-- **.block:** Thành phần cấp to nhất của abstraction hoặc component. 
-- **.block__element:** Thành phần con bên trong của block 
+
+- **.block:** Thành phần cấp to nhất của abstraction hoặc component.
+- **.block\_\_element:** Thành phần con bên trong của block
 - **.block--modifier** Là 1 phiên bản # của block. Hay những thay đổi style khác so với style ban đầu
-**1. Modifier**
+  **1. Modifier**
 
 ```html
 <a class="btn btn--green" href="#"></a>
@@ -241,46 +292,45 @@ Khuyến khích một số cách kết hợp giữa OOCSS và BEM cho những l�
 
 ```css
 .btn {
-      background: gray;
-      border: 0;
-      border-radius: 3px;
-      box-shadow: none;
-      padding: 5px 20px;
-      color: #fff;
-      font-size: 18px;
-      line-height: 1.5;
-  }
- /* style .btn--green   */
-  .btn--green {
-      background: green;
-  }
+  background: gray;
+  border: 0;
+  border-radius: 3px;
+  box-shadow: none;
+  padding: 5px 20px;
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.5;
+}
+/* style .btn--green   */
+.btn--green {
+  background: green;
+}
 ```
+
 **2. Element**
 
 ```html
 <div class="info">
-  <div class="info__title">
-  </div>
-  <div class="info__description">
-  </div>
+  <div class="info__title"></div>
+  <div class="info__description"></div>
 </div>
 ```
 
 ```css
-  .info {
-    background: #f2f4f7;
-    margin-top: 23px;
-    padding-bottom: 30px;
-    &__description {
-      font-size: 15px;
-      font-family: "Kozuka Gothic Pr6N", sans-serif;
-    }
-    &__title {
-      font-size: 20px;
-      font-family: "Kozuka Gothic Pr6N", sans-serif;
-      font-weight: bold;
-    }
+.info {
+  background: #f2f4f7;
+  margin-top: 23px;
+  padding-bottom: 30px;
+  &__description {
+    font-size: 15px;
+    font-family: "Kozuka Gothic Pr6N", sans-serif;
   }
+  &__title {
+    font-size: 20px;
+    font-family: "Kozuka Gothic Pr6N", sans-serif;
+    font-weight: bold;
+  }
+}
 ```
 
 **3. Chainable Modifiers**
@@ -291,12 +341,11 @@ Khuyến khích một số cách kết hợp giữa OOCSS và BEM cho những l�
 
 ```css
 .btn {
-  ....
-  &.-color-green {
-    ....
+  .... &.-color-green {
+    ....;
   }
   &.-bg-blue {
-    ...
+    ...;
   }
 }
 ```

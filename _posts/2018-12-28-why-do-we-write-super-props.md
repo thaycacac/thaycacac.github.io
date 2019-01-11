@@ -5,9 +5,18 @@ subtitle: Nếu bạn muốn tìm hiểu sâu hơn về cách mọi thứ hoạt
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
 tags: [code]
-keywords: [thaycacac, tại sao viết super props, super trong react để làm gì, super reactjs de lam gi, ý nghĩa của super trong reactjs, y nghia cua super trong reactjs]
+keywords:
+  [
+    thaycacac,
+    tại sao viết super props,
+    super trong react để làm gì,
+    super reactjs de lam gi,
+    ý nghĩa của super trong reactjs,
+    y nghia cua super trong reactjs,
+  ]
 ---
-Điều này không quan trọng khi bạn sử dụng React hiệu quả nhưng bạn sẽ cảm thấy chúng thú vị hoặc muốn tìm  hiểu sâu hơn về cách hoạt động.
+
+Điều này không quan trọng khi bạn sử dụng React hiệu quả nhưng bạn sẽ cảm thấy chúng thú vị hoặc muốn tìm hiểu sâu hơn về cách hoạt động.
 
 ### Về super
 
@@ -22,6 +31,7 @@ class Checkbox extends React.Component {
   // ...
 }
 ```
+
 Trong javascript, `super` sẽ refers đến hàm khởi tạo của class cha (parent class constructor). Ví dụ ở trên nó đang trỏ đến **React.Component**
 
 Điều quan trọng là bạn không thể sử dụng `this` ở trong contructor cho tới khi bạn gọi parent constructor.
@@ -37,6 +47,7 @@ class Checkbox extends React.Component {
   // ...
 }
 ```
+
 Để cho dễ giải thích tại sao nó phải gọi parent constructor trước khi có thể sử dụng **this** thì hãy xem xét một ví dụ dưới đây:
 
 ```javascript
@@ -52,10 +63,11 @@ class PolitePerson extends Person {
     super(name);
   }
   greetColleagues() {
-    alert('Good morning folks!');
+    alert("Good morning folks!");
   }
 }
 ```
+
 Tỷ dụ như chúng ta được sử dụng biến **this** ở đây, một thời gian sau tôi thay đổi một chút ở hàm `greetColleagues()` như sau:
 
 ```javascript
@@ -77,7 +89,7 @@ constructor(props) {
 
 ### Tại sao lại truyền vào props?
 
-Điều gì sẽ xảy ra khi bạn truyền tham số **props** vào `super()`? **React.Component** sẽ khởi tạo `this.props`  ở trong constructor và xử lý như sau:
+Điều gì sẽ xảy ra khi bạn truyền tham số **props** vào `super()`? **React.Component** sẽ khởi tạo `this.props` ở trong constructor và xử lý như sau:
 
 ```javascript
 // Inside React
@@ -95,8 +107,8 @@ Hoá ra React tự động gán **props** cho instance ngay sau khi gọi constr
 
 ```javascript
 // Inside React
-  const instance = new YourComponent(props);
-  instance.props = props;
+const instance = new YourComponent(props);
+instance.props = props;
 ```
 
 Đó là lý do mà tại sao bạn quên truyền **props** vào `super()` mà vẫn sử dụng được `this.props`
@@ -118,8 +130,8 @@ class Component {
 class Button extends React.Component {
   constructor(props) {
     super(); // 😬 We forgot to pass props
-    console.log(props);      // ✅ {}
-    console.log(this.props); // 😬 undefined 
+    console.log(props); // ✅ {}
+    console.log(this.props); // 😬 undefined
   }
   // ...
 }
@@ -131,7 +143,7 @@ Thậm chí nó còn có thể gây ra một vài khó khăn khi debug các hàm
 class Button extends React.Component {
   constructor(props) {
     super(props); // ✅ We passed props
-    console.log(props);      // ✅ {}
+    console.log(props); // ✅ {}
     console.log(this.props); // ✅ {}
   }
   // ...

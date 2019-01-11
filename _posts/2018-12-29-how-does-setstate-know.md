@@ -5,14 +5,23 @@ subtitle: Nếu bạn muốn tìm hiểu sâu hơn về cách mọi thứ hoạt
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
 tags: [code]
-keywords: [thaycacac, reactjs, setstate, bạn hiểu gì về setstate, ban hieu gi ve set state, nguyên lý hoạt động của setstate, nguyen ly hoat dong setstate]
+keywords:
+  [
+    thaycacac,
+    reactjs,
+    setstate,
+    bạn hiểu gì về setstate,
+    ban hieu gi ve set state,
+    nguyên lý hoạt động của setstate,
+    nguyen ly hoat dong setstate,
+  ]
 ---
 
 Khi bạn gọi **setState** ở trong một component, điều gì đã xảy ra?
 
 ```javascript
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from "react";
+import ReactDOM from "react-dom";
 
 class Button extends React.Component {
   constructor(props) {
@@ -27,24 +36,20 @@ class Button extends React.Component {
     if (this.state.clicked) {
       return <h1>Thanks</h1>;
     }
-    return (
-      <button onClick={this.handleClick}>
-        Click me!
-      </button>
-    );
+    return <button onClick={this.handleClick}>Click me!</button>;
   }
 }
 
-ReactDOM.render(<Button />, document.getElementById('container'));
+ReactDOM.render(<Button />, document.getElementById("container"));
 ```
 
 Chắc bạn cũng biết rằng React sẽ re-renders lại components thay đổi **state** `{ clicked: true }` cập nhật DOM và return ra `<h1>Thanks</h1>`. Có vẻ dễ nhưng... thế React làm điều đó hay React DOM?
 
-Cập nhật DOM nghe có vẻ như React DOM sẽ thực hiện điều trên nhưng rất tiếc là không phải :)). Mà cơ sở **React.Component** của chúng ta được định nghĩa bên trong chính React. 
+Cập nhật DOM nghe có vẻ như React DOM sẽ thực hiện điều trên nhưng rất tiếc là không phải :)). Mà cơ sở **React.Component** của chúng ta được định nghĩa bên trong chính React.
 
 ### Vậy làm thế nào để setState trong React.Component cập nhật DOM?
 
-Chúng ta có thể nghĩ rằng lớp **React.Component** chứa logic cập nhật DOM. Nếu điều này xảy ra thì làm sao mà `this.setState()` có thể làm việc trong môi trường khác? Tỷ dụ một một component ở trong ứng dụng React Native cũng **extend React.Component** và  chúng ta vẫn có thể gọi `this.setState()` như bên trên mặc cho React Native làm việc với native view của Android và IOS chứ không phải là DOM.
+Chúng ta có thể nghĩ rằng lớp **React.Component** chứa logic cập nhật DOM. Nếu điều này xảy ra thì làm sao mà `this.setState()` có thể làm việc trong môi trường khác? Tỷ dụ một một component ở trong ứng dụng React Native cũng **extend React.Component** và chúng ta vẫn có thể gọi `this.setState()` như bên trên mặc cho React Native làm việc với native view của Android và IOS chứ không phải là DOM.
 
 Như vậy, bằng một cách nào đó **React.Component đại diện xử lý cập nhật state trên nền tảng cụ thể.** Trước khi tìm hiểu xem điều gì đã xảy ra hãy tìm hiểu sâu hơn về cách phân tách gói và tại sao.
 
