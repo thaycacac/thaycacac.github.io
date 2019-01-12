@@ -1,163 +1,146 @@
 ---
 layout: post
-title: Tips cho Design
-subtitle: Tổng hợp những tips cho việc thiết kế.
+title: Thế nào là Agile, Scrum?
+subtitle: Giới thiệu chắt lọc kiến thức về Agile và cách làm việc hiệu quả với Scrum
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
 tags: [code]
-keywords:
-  [
+keywords: [
     thaycacac,
-    tips for design,
-    cheating at design,
-    tips thiết kế web,
-    tips thiet ke web,
-    thủ thuật thiết kế web,
-    thiet ke web,
-    thiet ke,
-    thiết kế,
-    design,
+    agile,
+    scrum,
+    agile la gi
+    agile là gì
+    cái gì là agile,
+    cai gi la agile,
+    scrum la gi,
+    scrum là gì,
+    cái gì là scrum,
+    cai gi la scrum,
   ]
 ---
 
-Nhiều công ty không có người design làm full-time khiến cho việc chờ đợi design rất mất thời gian và đôi khi bạn muốn code một tính năng mới ngay lập tức nhưng lại không có thiết kế vì bạn "Không phải là nghệ sĩ". Nhưng thật ra có rất nhiều mánh khoé bạn có thể sử dụng cho công việc của mình mà không cần có kiến thức nền tảng đồ hoạ.
+Hiện nay trong các sản phẩm, người sử dụng luôn đặt ra các tính năng, yêu cầu nhiều hơn so với thực tế của họ. Theo thống kê của _Standish group_ vào năm 2002 thì có đến 45% các tính năng người sử dụng không bao giờ dùng đến. Cũng như khi bạn vào nhà hàng thay vì bạn gọi rất nhiều các món ăn trong khi bạn chỉ sử dụng 30% số đó và vẫn phải trả 100% số tiền thì bạn hãy gọi từng món ăn đến khi nào no thì bạn chỉ phải trả 30%. Có hợp lý không? Agile, Scrum cũng tương tự như vậy.
 
-### Sử dụng màu sắc và độ đậm nhạt để thể hiện mức độ thay vì chỉnh sửa size
+### Agile là gì?
 
-![trick1](https://i.imgur.com/e2k58Vc.png)
+Agile là tập hợp các nguyên lý của các mô hình phát triển phần mềm linh hoạt và nhanh chóng.
 
-Một lỗi phổ biến là thường sử dụng size chữ để thể hiện mức độ quan trọng của nó.
+### Tuyên ngôn của Agile
 
-`“Is this text important? Let’s make it bigger.”`
+- **Cá nhân và sự tương tác** hơn là quy trình và công cụ: Agile đề cao tính tương tác của con người, tính trách nhiệm của cá nhân hơn là các quy trình và các công cụ khác.
+- **Phần mềm chạy tốt** hơn là tài liệu đầy đủ: Tập trung tất cả nguồn nhân lực cho sản phẩm chạy được hơn là viết những tài liệu để có các bằng chứng với khách hàng.
+- **Cộng tác với khách hàng** hơn là đàm phán hợp đồng: Giữ mối quan hệ với khách hàng luôn luôn tôn trọng và đáp ứng nhu cầu của khách hàng hơn là những điểm trong hợp đồng.
+- **Phản hồi với các thay đổi** hơn là bám sát kế hoạch: Trách nhiệm thay đổi phần mềm theo yêu cầu của người sử dụng quan trọng hơn là chạy theo một kế hoạch đã định ra.
 
-`“Is this text secondary? Let’s make it smaller.”`
+_Mặc dù những điều bên phải vẫn còn giá trị nhưng chúng tôi đánh giá cao hơn các mục ở bên trái_
 
-Thay vào đó bạn hãy sử dụng màu sắc và độ đậm nhạt của chữ để thể hiện nó sẽ đạt hiệu quả tương tự.
+Trong agile có nhiều hình thức triển khai dự án, và trong đó có `Scrum` là một trong những mô hình phù hợp và dễ dàng áp dụng với mọi dự án.
 
-`“Is this text important? Let’s make it bolder.”`
+Tuy nhiên vẫn có một số dự án không phù hợp với dự án _Scrum_ đó là những dự án có nguyên tắc cố định và có những luật định không bao giờ thay đổi, không cần sự sáng tạo thì không nên sử dụng agile scrum tỷ dụ như dự án xây dựng phần mềm kế toán, phần mềm nghiệp vụ ngân hàng.
 
-`“Is this text secondary? Let’s use a lighter color.”`
+### Thế nào là Scrum
 
-Hãy thử 2 hoặc 3 màu
+Scrum hoạt động dựa trên những giai đoạn bước rút (Sprint), thường kéo dài từ 2 - 4 tuần.
 
-- **Màu tối** (không phải đen) dùng làm màu cho nội dung chính (tỷ dụ như headlind của bài viết)
-- **Màu xám** cho nội dung secondary (tỷ dụ như ngày, trạng thái của bài viết)
-- **Màu xám sáng** cho nội nội dung phụ (tỷ dụ như thống báo bản quyền ở footer)
+Scrum là mô hình thúc đẩy sự tương tác và gia tăng hoạt động tự quản lý dự án dựa trên việc tổ chức một nhóm nhỏ khoảng 5 - 9 người có khả năng chuyên sâu làm việc phụ thuộc lẫn nhau trong khoảng thời gian cố định.
 
-![trick2](https://i.imgur.com/PBrJyj0.png)
+### Scrum framework
 
-Tương tự, hai font-weight là đủ làm việc với UI:
+Khung làm việc của Scrum rất đơn giản
 
-- Font weight bình thường (tầm 400 hoặc 500 dự vào font chữ) cho hầu hết các văn bản
-- Font weight đâm hơn (tầm 600 hoặc 700) dành cho các đoạn text bạn muốn nhấn mạnh
+![Scrum framework](https://i.imgur.com/CJlliCO.png)
 
-![trick3](https://i.imgur.com/DC9qW34.png)
+Đầu tiên là bạn cần phải có **Product backlog** gồm tập hợp tất cả các yêu cầu của một sản phẩm, các yêu cầu được viết dưới dạng _User Story_ - người sử dụng mong muốn gì. Tập hợp của product backlog là toàn bộ yêu cầu sản phẩm tuy nhiên _product backlog_ luôn luôn được sắp thứ tự ưu tiên, những _User Story_ nào có thứ tự ưu tiên cao nhất sẽ được triển khai trước, những _User Story_ có thứ tự ưu tiên thấp hơn sẽ được triển khai sau và có khi bỏ qua không cần triển khai nữa!!!
 
-**Tránh việc để font-weight dưới 400** vì chúng có thể chúng sẽ làm cho headings to hơn nhưng sẽ rất khó đọc. Nếu như bạn có ý định như thế thì hãy làm cho màu chữ đậm lên hoặc thay đổi kích thước chữ.
+Tiếp theo là cần phải có **Sprint Backlog** là một tập hợp các _User Story_ sẽ làm trong một Sprint, như đã đề cập ở trên một _Sprint_ sẽ được tiến hành từ 2 - 4 tuần. Và phải cam kết hoàn thành các _User Story_ đã lựa chọn.
 
-### Không sử dụng chữ màu xám trên màu nền khác trắng
+Trong quá trình thực hiện _Sprint_ chúng ta sẽ tổ chức một buổi họp **Sprint Planing** - buổi họp có tất cả thành viên của dự án tham gia và có cả đại diện của khách hàng để trả lời các câu hỏi dự án. Đội dự án thảo luận và đưa ra các task công việc cần làm trong _Sprint_
 
-![trick4](https://i.imgur.com/1ur2DGs.png)
+Hàng ngày sẽ có buổi **daily meeting** và **burn down chart** để biết được tiến độ của dự án.
 
-Sử dụng màu xám nhạt là một cách tốt để làm nó nổi bật trên nền trắng nhưng nó không được ổn trên nên màu. Bạn có thể sử dụng màu text gần với màu background để thể hiện mức độ là một cách tốt.
+Kết thúc một _Sprint_ sẽ có một buổi họp thứ nhất là demo cho khách hàng và thứ 2 là để rút kinh nghiệm.
 
-![trick5](https://i.imgur.com/dBtjVGo.png)
+Tiếp tục chúng ta tổ chức _Sprint_ tiếp theo. Các _Sprint_ cứ tiếp tục như vậy cho đến khi khách hàng thoả mãn các tính năng của phần mềm.
 
-Có 2 cách để giảm độ tương phản:
+### Khung làm việc của Scrum
 
-- **Giảm opacity của chữ trắng**: sử dụng chữ màu trắng và giảm opacity xuống. Khi đó sẽ có một chút màu của background trong màu text vì thế nó sẽ làm nổi bật văn bản mà lại không xung đột với màu nền.
+![Khung lam viec Scrum](https://i.imgur.com/BEFH3Cn.png)
 
-![trick6](https://i.imgur.com/h99JsdK.png)
+Vai trò của scrum: bao gồm
 
-- **Chọn một màu dựa trên màu của background**: cách này tốt hơn cách trên: chọn màu cùng `hue` với màu background sau đó chỉnh độ sáng cho đến khi phù hợp
+- **Product Owner**: là người đại diện của khách hàng, người có tiếng nói quyết định về các tính năng cũng như các yêu cầu thực hiện trong dự án.
+- **Scrum master**: là người thực hiện các quy trình về scrum trong dự án.
+- **Team**: tất cả các thành viên của dự án gồm desinger, dev, testing đều có vai trò như nhau.
 
-![trick7](https://i.imgur.com/RPEg4F0.png)
+Artifact
 
-### Offset shadows
+- **Definition of done**: định nghĩa ra thế nào là hoàn thành, phải thống nhất với nhau về tiêu chí hoàn thành cho một dự án, cho một sprint để dựa vào đó xác định đã hoàn thành hay chưa.
+- **Product backlog**: là một tập hợp quản lý các yêu cầu của dự án xuyên suốt từ đầu cho đến cuối của dự án. Cái này sẽ do _Product Owner_ tạo ra và quản lý, sắp xếp thứ tự ưu tiên. _Product backlog_ sẽ được liên tục cập nhật hàng ngày.
+- **Release plan**: cũng sẽ do _Product Owner_ lập ra, đây là kế hoạch bàn giao sản phẩm, chúng ta sẽ có những chặng bàn giao để kịp tiến độ với khách hàng.
+- **Sprint backlog**: là các yêu cầu để thực hiện cho từng sprint.
+- **Kanban board**: là một bảng theo dõi và quản lý công việc, task của dự án.
+- **Velocity**: chỉ số đo năng suất của dự án, chỉ số này đo bằng _User Story Point_ trên một _Sprint_.
 
-![trick8](https://i.imgur.com/EdI8gqI.png)
+Event
 
-Thay vì làm to blur và spread values để làm nổi bật box thì hãy thêm một vertical offset. Nó nhìn trông tự nhiên hơn rất nhiều vì nó sẽ tạo cảm giác có nguồn sáng chiếu chéo xuống dưới giống ở thực tế hơn.
+- **Sprint planning**: là buổi lập kế hoạch cho một _Sprint_.
+- **Daily meeting**: là buổi họp hàng ngày để theo dõi và báo cáo kết quả của toàn đội dự án.
+- **Sprint review**: là buổi để giới thiệu và demo sản phẩm với khách hàng khi kết thúc một sprint cũng là để lấy yêu cầu mong muốn thay đổi để thực hiện ở các _Sprint_ tiếp theo.
+- **Sprint retrospective**: là buổi họp rút kinh nghiệm của toàn đội dự á- để rút kinh nghiệm cho các _Sprint_ tiếp theo.
 
-Nếu như làm bảo với form input bạn có thể áp dụng dưới đây
+### Giá trị của Scrum
 
-![trick9](https://i.imgur.com/F5viUL8.png)
+Để hoàn thành dự án một cách nhanh chóng và thành công nhất, chúng ta phải tôn tọng các giá trị sau của Scrum:
 
-### Bớt sử dụng border
+- **Comitment**: tính cam kết cao trong công việc.
+- **Focus**: tập trung vào đúng mục tiêu, chiến lược trong một thời điểm nhất định.
+- **Openness**: mọi thông tin đều minh bạch đối với cả trong và ngoài dự án.
+- **Respect**: giá trị gắn kết giữa các thành viêc dự án với nhau, với khách hàng cũng như trong tổ chức.
+- **Courage**: giá trị của sự can đảm, lãnh nhận và cam kết công việc, can đảm công khai minh bạch mọi thông tin.
 
-![trick10](https://i.imgur.com/kboRf9Q.png)
+### Trọng tâm của Scrum
 
-Khi bạn muốn tách biệt cách thành phần với nhau, bạn không nên lúc nào cũng sử dụng border để làm chúng vì như thế sẽ làm bố cục lộn xộn và cảm giác khó chịu. Bạn có thể sử dụng một số cách sau cũng với mục đích tương tự:
+Scrum có những trọng tâm, nguyên tắc mà khi sử dụng không được phép phá vỡ nó, đó là những nguyên tắc sau:
 
-- **Sử dụng box shadow**: đây là một cách tốt để chia các thành phần nó cũng gần tương tự với border nhưng sẽ mang lại cảm giác nhẹ nhành hơn rất nhiều
+- **Timeboxing**: các quy tắc về thời gian luôn luôn là cố định.
+- **Learning form mistakes and self managin**: học hỏi, rút kinh nghiệm từ những sai lầm và sự tự chủ động quản lý.
+- **Shippable code**: sản phẩm phải chạy được là trọng tâm của dự án. Các yêu cầu phải được làm và hoàn thiện gọn gàng hoàn chỉnh và sản phẩm được đóng gói nhiều lần theo từng giai đoạn để sử dụng thử và cải tiến.
+- **Enough to start**: vừa đủ để thực hiện - các hoạt động của Scrum được diễn ra khi thông tin vừa đủ để bắt đầu, không chờ đến khi mọi thức được rõ ràng và đầy đủ mới được thực hiện.
 
-![trick11](https://i.imgur.com/85IDaWc.png)
+### Vai trò và trách nhiệm của từng vị trí
 
-- **Sử dụng màu background khác nhau**: chọn màu nền gần tương tự nhau và xoá bỏ border cũng là một cách để phân tách các phần tử với nhau.
+Product Owner
 
-![trick12](https://i.imgur.com/5L5ON5y.png)
+- Xác định lộ trình phát triển sản phẩm.
+- Xác định thứ tự ưu tiên cho các tính năng của sản phẩm.
+- Thiết lập các quy tắc trong việc phát triển sản phẩm.
+- Mô tả và duy trì mức độ chi tiết cho các tính năng của sản phẩm.
+- Sẵn sàng chuẩn bị cho những cuộc đàm phán có thể xảy ra.
+- Định hướng nghiệp vụ trong quá trình phát triển sản phẩm.
+- Chấp nhận và xác định mức độ có thể chấp nhận sản phẩm (xác định thời điểm kết thúc việc phát triển sản phẩm).
+- Vị trí này có thể là: Trưởng phòng sản xuất, trưởng phòng kinh doanh, quản trị dự án... hoặc khách hàng
 
-- **Sử dụng extra spacing**: khoảng cách xa hơn là một cách tuyệt vời để tạo ra sự phân tách giữa các yếu tố.
+Scrum Master
 
-![trick13](https://i.imgur.com/7GlOzJ7.png)
+- Bảo vệ nhóm và giữ cho họ tập tủng tới mục tiêu đã định.
+- Loại bỏ các trở ngại đối với nhóm để hướng tới mục tiêu của Sprint.
+- Chấp hành, thi hành các qui tắc đối với nhóm.
+- Là thành viên điều phối của nhóm.
+- Đại diện cho nhóm trước các bên liên quan.
 
-### Đừng cố phóng to icon
+Kỹ năng cần thiết cho Scrum Master
 
-![trick14](https://i.imgur.com/Ad4Wxtg.png)
+- Đặt việc phục vụ nhóm lên hàng đấu.
+- Lắng nghe đồng đội cũng như các bên liên quan.
+- Phương pháp làm việc hướng việc tự tổ chức nhomms.
+- Tạo điều kiện (loại bỏ trở ngại).
 
-Nếu như bạn đang thiết kế và bạn muốn sử dụng icon với kích thước to. Bạn có thể sử một một số set icon free như _Font Awesome_ hoặc _Zondicons_. Mặc dù nó được vẽ bằng vector tuy nhiên nếu như bạn zoom lên tầm 3x 4x thì nhìn vào không còn được chuyên nghiệp nữa. Thay vì thế bạn có thể cho các icon vào các hình khối như hình tròn, hình vuông và sử dụng màu nền để giải quyết vấn đề này.
+Team
 
-### Thêm màu border giúp đỡ tẻ nhạt
+- Làm việc đa năng trong dự án (có thể làm nhiều việc khác nhau không phụ thuộc vào chuyên môn).
+- Không phân cấp thứ bậc trong dự án (không ai quản ai).
+- Tất cả cùng chịu trachs nhiệm với sản phẩm bàn giao cho khách hàng.
+- Báo cáo tình hình công việc mình làm cho Scrum master và cả Team.
 
-![trick15](https://i.imgur.com/TikGlhK.png)
-
-Một cách rất đơn giản tạo sự khác biệt, nhấn nhá trong UI của bạn là hãy sử dụng các đường viền có màu sắc sặc sỡ.
-
-![trick16](https://i.imgur.com/lse6EZO.png)
-
-### Không phải lúc nào cũng nên để màu nền cho button
-
-![trick17](https://i.imgur.com/uclFG4Z.png)
-
-Khi mà trên một trang mà người dùng thực hiện nhiều hành động thì rất dễ làm rối mắt người xem. Một số framework như Bootstrap cung cấp một số menu với màu sắc thể hiện ngữ nghĩa cho hành động ở dạng button như:
-
-![trick18](https://i.imgur.com/kbmtkZl.png)
-
-Tỷ dụ như: `Đó là một hành động tích cực? Hãy sử dụng button màu xanh lá cây`, chính vì điều này nó sẽ giúp cho việc thể hiện mức độ được rõ ràng hơn. Ngoài ra cần chú ý:
-
-- **Những hành động chính nên rõ ràng**: sử dụng solid, độ tương phản màu nền cao.
-- **Các hành động phụ nên rõ ràng nhưng không cần nổi bật**: Outline styles hoặc là độ tưởng phản màu nền thấp.
-- **Các hành động thứ ba làm đơn giản**: Tốt nhất là nên để như một đường link.
-
-![trick19](https://i.imgur.com/wNK3ZB5.png)
-
-### Sử dụng shadow bên trong thay vì border
-
-Nếu bạn đang làm việc với hình ảnh bạn có thể sử dụng bóng đổ vào bên trong hình ảnh để tạo sự khác biệt thay vì border. Border có thể sẽ xung đột màu với hình ảnh trong khi hầu như mọi người không thể nhìn ra shadow bên trong đó.
-
-![trick20](https://i.imgur.com/AzZmIkp.png)
-
-### Hãy sáng tạo thay vì cứ mãi sử dụng text
-
-Hãy tạo ra một UI riêng biệt, bạn có thể thiết kế chúng một cách thú vị, độc đáo theo cách của bạn.
-
-![trick21](https://i.imgur.com/dv5wuXs.png)
-
-![trick22](https://i.imgur.com/ebbIfZV.png)
-
-![trick23](https://i.imgur.com/c8ar4dV.png)
-
-### Hãy để ý tới độ tương phản
-
-Khi sử dụng màu nền trắng để đạt được tỷ lệ tương phản là rất khó. Để tránh sự sặc sỡ khi kết hợp với màu nền các thành phần khác một trong những cách là giảm opacity xuống:
-
-![trick24](https://i.imgur.com/4lbfakA.png)
-
-### Đừng để radio button mãi là list
-
-Hãy sáng tạo giao diện cho các radio button đừng để nó giới hạn bởi các danh sách điển hình. Tỷ dụ như sử dụng chọn card bằng cách trình bày như dưới đây theo cách thú vị hơn:
-
-![trick25](https://i.imgur.com/iLT2I5h.png)
-
-[sourse](https://twitter.com/i/moments/994601867987619840)
-[sourse](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+Hy vọng bạn sẽ áp dụng thành công việc áp dụng Scrum vào dự án của mình!!!

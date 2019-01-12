@@ -40,8 +40,6 @@ keywords:
   - [16. Generators](#16-generators)
   - [17. Promises](#17-promises)
 
-<br>
-
 ### 1. let, const và block scoping
 
 `let` cho phép bạn tạo khởi tạo khai báo với phạm vi trong block được gọi là block scope. Nó dùng để thay thế `var`, cái mà trước đây phạm vi của nó là function scope, khuyễn khích nên sử dụng biễn trong block scope (`let` or `const`) trong ES6.
