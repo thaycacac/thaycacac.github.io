@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snippet của bạn trong VS Code
+title: Tạo snippet cho riêng bạn trong VS Code
 subtitle: Hướng dẫn tự tạo snippet cho riếng bạn trong Visual Studio Code
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
@@ -27,15 +27,15 @@ Snippet là một đoạn code được định nghĩa sẵn và gắn vào mộ
 
 ![Snippet 1](https://i.imgur.com/q6sJggk.png)
 
-Tiếp theo sẽ chọn tạo file snippet mới `New Global Snippets file...`
+Tiếp theo là chọn tạo file snippet mới `New Global Snippets file...`
 
 ![Snippet 2](https://i.imgur.com/NqTfewl.png)
 
-Và đặt tên để hoàn tất việc tạo file snippet
+Đặt tên để hoàn tất việc tạo file snippet:
 
 ![Snippet 3](https://i.imgur.com/u6lEun8.png)
 
-Và cuối cùng là viết snippet cho riêng bạn:
+Cuối cùng là viết snippet cho riêng bạn, dưới đây là một ví dụ:
 
 ```json
 {
@@ -48,7 +48,7 @@ Và cuối cùng là viết snippet cho riêng bạn:
 }
 ```
 
-Mối snippet được định nghĩa bởi tên của snippet đó bên trong nó bao gồm: _scope, prefix, body_ và _description_ và được ngăn cách nhau bởi dấy phẩy `,`.
+Mỗi snippet được định nghĩa bởi tên của snippet đó bên trong nó bao gồm: _scope, prefix, body_ và _description_ và được ngăn cách nhau bởi dấy phẩy `,`.
 
 **scope**: là ngôn ngữ cho phép sử dụng snippet, nếu như bị bỏ trống hoặc không có thì snippet này sẽ áp dụng cho tất cả các ngôn ngữ.
 **prefix**: là từ khoá (trigger) của đoạn code.
