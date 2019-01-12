@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips cho Designer
-subtitle: Tổng hợp những tips cho việc thiết kế.
+subtitle: Tìm hiểu thiết kế UI
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
 tags: [code]

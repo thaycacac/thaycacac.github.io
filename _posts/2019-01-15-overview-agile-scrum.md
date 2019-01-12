@@ -55,7 +55,7 @@ Khung làm việc của Scrum rất đơn giản
 
 Tiếp theo là cần phải có **Sprint Backlog** là một tập hợp các _User Story_ sẽ làm trong một Sprint, như đã đề cập ở trên một _Sprint_ sẽ được tiến hành từ 2 - 4 tuần. Và phải cam kết hoàn thành các _User Story_ đã lựa chọn.
 
-Trong quá trình thực hiện _Sprint_ chúng ta sẽ tổ chức một buổi họp **Sprint Planing** - buổi họp có tất cả thành viên của dự án tham gia và có cả đại diện của khách hàng để trả lời các câu hỏi dự án. Đội dự án thảo luận và đưa ra các task công việc cần làm trong _Sprint_
+Trong quá trình thực hiện _Sprint_ chúng ta sẽ tổ chức một buổi họp **Sprint Planning** - buổi họp có tất cả thành viên của dự án tham gia và có cả đại diện của khách hàng để trả lời các câu hỏi dự án. Đội dự án thảo luận và đưa ra các task công việc cần làm trong _Sprint_
 
 Hàng ngày sẽ có buổi **daily meeting** và **burn down chart** để biết được tiến độ của dự án.
 
