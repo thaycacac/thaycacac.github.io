@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips z Design
+title: Tips cho Designer
 subtitle: Tổng hợp những tips cho việc thiết kế.
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
