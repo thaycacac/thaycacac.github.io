@@ -21,7 +21,7 @@ keywords:
   ]
 ---
 
-- []](#)
+- [Table content](#)
   - [1. let, const và block scoping](#1-let-const-v%C3%A0-block-scoping)
   - [2. Arrow Functions](#2-arrow-functions)
   - [3. Default Function Parameters](#3-default-function-parameters)
