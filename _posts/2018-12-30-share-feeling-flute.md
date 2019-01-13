@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Top 3 cảm âm mà tôi yêu thích nhất
-subtitle: Chia sẻ một số cảm âm sáo trúc mà tôi yêu thích và sưu tầm.
+title: Top 3 flute sheet that I love the most
+subtitle: Top 3 flute sheet that I love the most...
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [star, follow]
 tags: [mylife]
@@ -9,11 +9,11 @@ keywords:
   [thaycacac, sáo trúc, sao truc, cảm âm sáo trúc, cam am sao truc, flute]
 ---
 
-Dưới đây là ba cảm âm sáo trúc mà tôi yêu thích nhất và trong đó đa số không có ở trên các trang web cảm âm, app ở Việt Nam mà tôi sưu tìm kiếm ở nước ngoài. Mục đích là để lưu trữ thỉnh thoảng có thể vào tìm kiếm dễ dàng hơn.
+Here are three of my favorite flute sheet and most of them are not on the sonic websites, the app in Vietnam that I search for abroad. The purpose is that storage can sometimes be easier to find.
 
 ### Fog Bound
 
-Đây là bài nhạc phim trong bộ phim **Cướp biển vùng Caribbean (Pirates Of The Caribbean)**. Nhưng bài này khá là nhanh và dồn dập khó thổi nên tôi đã mix lại bài cho tiết tấu đi từ chập đến nhanh và phù hợp cho việc thổi sáo. Bạn có thể nghe ở [đây...](https://soundcloud.com/thaycacac/fog-bound-thaycacac) Dưới dây là phần cảm âm:
+This sheet is OST of film **Pirates Of The Caribbean)**. But this song is quite fast and it is hard to blow, so I mixed the song for the rhythm to go from fast to fast and suitable for playing the flute. You can listen at[here...](https://soundcloud.com/thaycacac/fog-bound-thaycacac) 
 
 ```
 La Do2 Re2 Re2  Re2 Mi2 Fa2 Fa2
@@ -46,7 +46,7 @@ Sol2 Fa2 Mi2 Fa2 Mi2 Re2
 
 ### Chi Tử Vu Quy
 
-Nhạc phim trong phim **"Hoa Tư Dẫn"**, mặc dù đã rất cố gắng tìm kiếm beat nhưng vẫn không thể tim được beat của bài này :((. Dưới đây là phần cảm âm:
+This sheet is OST of film **之子于归**, Although I tried my best to find the beat, I still couldn't find the beat of this song :'(
 
 ```
 RÊ2 ĐÔ2 RÊ2 ĐÔ2, Sol La Sib ĐÔ2 RÊ2 ĐÔ2
@@ -78,7 +78,7 @@ Sib ĐÔ2 RÊ2 Sol Fa Sol ĐÔ2 …Sib…La…Sol
 
 ### Tuý Hồng Nhan
 
-Nhạc phim của **Tân Thuỷ Hử**, nghe so sad. Tôi thích bản nhạc này từ đợt nghe [Khuất](https://www.youtube.com/watch?v=IhCw_JWfC3Y). Dưới đây là phần cảm âm:
+This sheet is OST of film **All men are brothers**, .. so sad. I like this song from the listening song [Khuat](https://www.youtube.com/watch?v=IhCw_JWfC3Y).
 
 ```
 ĐÔ2 La La ĐÔ2 Sib…Sol La
