@@ -13,13 +13,21 @@ Search Engine Optimisation hay gọi tắt là SEO là tập hợp những phư�
 
 ### Một số thuật ngữ
 **Website:** là tập hợp nhiều trang web con bao gồm văn bản, hình ảnh, video, flas,... được liên kết lại với nhau.
+
 **URL:** là đường dẫn của một trang web, mỗi trang web con sẽ có một URL khác nhau, duy nhất.
+
 **CTR:** là tỷ lệ click *= số click chuột / số lượt tìm kiếm.*
+
 **Domain Age:** là tuổi đời của tên miền.
+
 **Internal Link:** là số liên kết nội bộ(có cùng tên miền được liên kết với nhau) cần phải liên kết chặt chẽ.
+
 **External Link:** là số liên kết ra bên ngoài, cần hạn chế.
+
 **Volume:** là số lần tìm kiếm trung bình theo một khoảng thời gian nhất định. Nếu bạn lựa chọn theo thời gian tháng thì sẽ có số lần tìm kiếm trung bình theo tháng.
+
 **CPC:** là chi phí cho mỗi lần nhấp chuột (Cost per Click) *= chi phí cho toàn bộ chiến lược / số lượt click.*
+
 **Competition:** là độ khó của từ khoá, cụ thể mình sẽ nói ở phần sau.
 
 ### Tên miền và hosting
@@ -28,9 +36,10 @@ Search Engine Optimisation hay gọi tắt là SEO là tập hợp những phư�
 
 **Tên miền** là định danh của website trên Internet, thường gắn kèm với tên công ty hoặc thương hiệu của doanh nghiệp. Tên miền là duy nhất và được cấp phát cho chủ thể nào đăng ký trước.
 Tên miền có 2 dạng
-- Tên miền quốc tế: www.tencongty.com (.net, .biz .org, .info...)
-- Tên miền quốc gia: www.tencongty.com.vn (hoặc .net.vn, .biz.vn .org.vn, .gov.vn...)
+- **Tên miền quốc tế**: www.tencongty.com (.net, .biz .org, .info...)
+- **Tên miền quốc gia**: www.tencongty.com.vn (hoặc .net.vn, .biz.vn .org.vn, .gov.vn...)
 Đối với từng mô hình tổ chức và nhu cầu mà từng đuôi tên miền có ý nghĩa như sau:
+
 |Tên miền|Đối tượng|
 |--------|-------|
 |.com|Dành cho tổ chức, doanh nghiệp, cá nhân họat động thương mại|
