@@ -9,7 +9,7 @@ keywords:
   [
     thaycacac,
     es6,
-    javascript,
+    es6 javascript,
     học javascript,
     es6 la gi,
     es6 là gì,
@@ -21,24 +21,23 @@ keywords:
   ]
 ---
 
-- [Table content](#)
-  - [1. let, const và block scoping](#1-let-const-v%C3%A0-block-scoping)
-  - [2. Arrow Functions](#2-arrow-functions)
-  - [3. Default Function Parameters](#3-default-function-parameters)
-  - [4. Spread / Rest Operator](#4-spread--rest-operator)
-  - [5. Object Literal Extensions](#5-object-literal-extensions)
-  - [6. Octal và Binary Literals](#6-octal-v%C3%A0-binary-literals)
-  - [7. Array và Object Destructuring](#7-array-v%C3%A0-object-destructuring)
-  - [8. Super in Objects](#8-super-in-objects)
-  - [9. Template Literal và Delimiters](#9-template-literal-v%C3%A0-delimiters)
-  - [10. for...of vs for...in](#10-forof-vs-forin)
-  - [11. Map và WeakMap](#11-map-v%C3%A0-weakmap)
-  - [12. Set và WeakSet](#12-set-v%C3%A0-weakset)
-  - [13. Classes trong ES6](#13-classes-trong-es6)
-  - [14. Symbol](#14-symbol)
-  - [15. Iterators](#15-iterators)
-  - [16. Generators](#16-generators)
-  - [17. Promises](#17-promises)
+- [1. let, const và block scoping](#1-let-const-v%C3%A0-block-scoping)
+- [2. Arrow Functions](#2-arrow-functions)
+- [3. Default Function Parameters](#3-default-function-parameters)
+- [4. Spread / Rest Operator](#4-spread--rest-operator)
+- [5. Object Literal Extensions](#5-object-literal-extensions)
+- [6. Octal và Binary Literals](#6-octal-v%C3%A0-binary-literals)
+- [7. Array và Object Destructuring](#7-array-v%C3%A0-object-destructuring)
+- [8. Super in Objects](#8-super-in-objects)
+- [9. Template Literal và Delimiters](#9-template-literal-v%C3%A0-delimiters)
+- [10. for...of vs for...in](#10-forof-vs-forin)
+- [11. Map và WeakMap](#11-map-v%C3%A0-weakmap)
+- [12. Set và WeakSet](#12-set-v%C3%A0-weakset)
+- [13. Classes trong ES6](#13-classes-trong-es6)
+- [14. Symbol](#14-symbol)
+- [15. Iterators](#15-iterators)
+- [16. Generators](#16-generators)
+- [17. Promises](#17-promises)
 
 ### 1. let, const và block scoping
 
