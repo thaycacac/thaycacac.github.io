@@ -11,7 +11,7 @@ keywords:
 
 Search Engine Optimisation hay gọi tắt là SEO là tập hợp những phương pháp tối ưu hóa để website trở nên thân thiện với máy chủ tìm kiếm (Search Engine) từ đó nâng cao thứ hạng website khi người dùng tìm kiếm với các từ khóa liên quan. Bài viết này mình sẽ chia sẻ tất tần tật về kiến thức SEO mà mình đã nghiên cứu.
 
-### Một số thuật ngữ
+### 1. Một số thuật ngữ
 **Website:** là tập hợp nhiều trang web con bao gồm văn bản, hình ảnh, video, flas,... được liên kết lại với nhau.
 
 **URL:** là đường dẫn của một trang web, mỗi trang web con sẽ có một URL khác nhau, duy nhất.
@@ -30,10 +30,10 @@ Search Engine Optimisation hay gọi tắt là SEO là tập hợp những phư�
 
 **Competition:** là độ khó của từ khoá, cụ thể mình sẽ nói ở phần sau.
 
-### Tên miền và hosting
+### 2. Tên miền và hosting
+
 
 #### Tên miền là gì?
-
 **Tên miền** là định danh của website trên Internet, thường gắn kèm với tên công ty hoặc thương hiệu của doanh nghiệp. Tên miền là duy nhất và được cấp phát cho chủ thể nào đăng ký trước.
 Tên miền có 2 dạng
 - **Tên miền quốc tế**: www.tencongty.com (.net, .biz .org, .info...)
@@ -55,8 +55,8 @@ Tên miền có 2 dạng
 |.health|Dành cho các tổ chức y tế, dược phẩm và các cơ quan, tổ chức, doanh nghiệp có hoạt động liên quan tới lĩnh vực y tế, dược phẩm|
 |.name|Dành cho tên riêng của cá nhân tham gia hoạt động Internet|
 
-#### Web hosting là gì?
 
+#### Web hosting là gì?
 **Web hosting** là nơi không gian trên máy chủ có cài dịch vụ Internet như ftp, www, nơi đó bạn có thể chứa nội dung trang web hay dữ liệu trên không gian đó. Lý do bạn phải thuê Web hosting để chứa nội dung trang web, dịch vụ mail, ftp, vì những máy tính đó luôn có một địa chỉ cố định mỗi khi kết nối vào Internet (đó là địa chỉ IP), còn như nếu bạn truy cập vào Internet như thông thường hiện nay thông qua các IPS (Internet Service Provider - Nhà cung cấp dịch vụ Internet) thì địa chỉ IP trên máy bạn luôn bị thay đổi, do đó dữ liệu trên máy của bạn không thể truy cập được từ những máy khác trên Internet.
 Tuỳ theo nhà cung cấp dịch vụ Web hosting khác nhau mà chất lượng cũng khác nhau:
 - Tốc độ truy cập Internet tại server Web hosting đó.
