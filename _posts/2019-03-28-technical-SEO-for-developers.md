@@ -62,3 +62,6 @@ Tuỳ theo nhà cung cấp dịch vụ Web hosting khác nhau mà chất lượn
 - Tốc độ truy cập Internet tại server Web hosting đó.
 - Dung lượng đĩa mà bạn có thể chứa được nhiều web page hay dữ liệu của bạn.
 - Các tiện ích như các hệ quản trị cơ sở dữ liệu có hỗ trợ hay không cũng khác nhau.
+
+
+#### Mối liên quan giữa tên miền và hosting
