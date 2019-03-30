@@ -5,8 +5,7 @@ subtitle: Biết người biết ta trận nào cũng thắng, biết ta mà kh�
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 tags: [code]
-keywords:
-  []
+keywords: []
 ---
 
 Search Engine Optimisation hay gọi tắt là SEO là tập hợp những phương pháp tối ưu hóa để website trở nên thân thiện với máy chủ tìm kiếm (Search Engine) từ đó nâng cao thứ hạng website khi người dùng tìm kiếm với các từ khóa liên quan. Bài viết này mình sẽ chia sẻ tất tần tật về kiến thức SEO mà mình đã nghiên cứu.
@@ -98,3 +97,66 @@ Hãy nhớ rằng bạn cũng có thể trỏ nhiều tên miền vào cùng m�
 * Mua Hosting để demo và phát triển dự án ở giai đoạn ban đầu : không cần thiết mua Tên Miền cùng lúc vì có thể nhu cầu về Tên Miền và Hosting chính thức khi triển khai là khác so với giai đoạn thử nghiệm.
 
 Tóm lại, tùy theo mục đích và nhu cầu sử dụng cũng như tính chất dự án triển khai mà chúng ta nên mua tên miền và hosting cùng lúc hoặc sau một khoảng thời gian nhất định hoặc chỉ mua tên miền hoặc chỉ mua hosting mà thôi. 
+
+### 3. SEO là gì?
+#### Seo là gì
+Trước tiên hãy nhìn tấm ảnh dưới đây:
+![seo1](https://i.imgur.com/X9tRs3F.png)
+Khi bạn search từ khóa “máy chạy bộ”, bạn có thể nhìn thấy hàng loạt kết quả tìm kiếm. Phần đầu tiên, có ghi là “Qc” (quảng cáo) hoặc “Ad” (advertising) có nghĩa là Google Adwords, và phần tiếp theo không có những chữ ấy kế bên đó là S.E.O (Search Engine Optimization – Tối ưu hóa công cụ tìm kiếm). Và theo thứ tự, các website đứng ở vị trí kế tiếp lần lượt được xem là có vị trí top 1, top 2, top 3 trên Google.
+
+Đôi khi bạn nghĩ rằng những website thuộc sở hữu của những thương hiệu nổi tiếng, có lượng traffic (lượng truy cập) cực kì lớn thì mới đứng lên những vị trí đầu được, và dĩ nhiên, những doanh nghiệp nhỏ lẻ chưa có tên tuổi và ít được mọi người biết đến sẽ không bao giờ đứng ở vị trí top đầu này. Tuy nhiên, sự thật  không phải vậy! Tất cả các vị trí top đều có phương pháp để được lên thứ hạng  trên bộ máy tìm kiếm, và thuật ngữ chuyên môn gọi đó là SEO. Vậy SEO là gì?
+
+SEO (viết tắt của Search Engine Optimization) là tên gọi của các phương pháp được sử dụng nhằm cải thiện thứ hạng của một website trên trang kết quả công cụ tìm kiếm (và thông thường, công cụ đó chính là Google). SEO không chỉ giúp xây dựng website thân thiện với bộ máy tìm kiếm, mà còn giúp website chất lượng hơn trong mắt người dùng. Để cuối cùng, mục tiêu của SEO chính là: gia tăng số lượng & chất lượng lưu lượng truy cập (hay còn gọi là traffic) của khách hàng tiềm năng vào website.
+
+#### Google làm việc như thế nào?
+Thu thập dữ liệu
+Thu thập dữ liệu là quá trình Googlebot phát hiện ra những trang mới và những trang được cập nhật để thêm vào chỉ mục của Google.
+
+Chúng tôi sử dụng một tập hợp lớn máy tính để tìm nạp (hay "thu thập dữ liệu") hàng tỷ trang trên web. Chương trình thực hiện việc tìm nạp được gọi là Googlebot (còn được gọi là robot, bot hay trình thu thập dữ liệu). Googlebot sử dụng một quá trình thuật toán: các chương trình máy tính xác định sẽ thu thập dữ liệu trang web nào, với tần suất nào và sẽ tìm nạp bao nhiêu trang từ mỗi trang web.
+
+Quá trình thu thập dữ liệu của Google bắt đầu với danh sách các URL của trang web đã được tạo từ các quá trình thu thập dữ liệu trước đó và được bổ sung với dữ liệu Sơ đồ trang web do các quản trị web cung cấp. Khi Googlebot truy cập mỗi trang web trong số này, nó phát hiện các liên kết trên từng trang và thêm chúng vào danh sách các trang cần thu thập dữ liệu. Các trang web mới, có thay đổi so với các trang web hiện tại và các liên kết gãy được ghi chú và sử dụng để cập nhật chỉ mục của Google.
+
+Google tìm một trang như thế nào?
+Google sử dụng nhiều kỹ thuật để tìm một trang, bao gồm:
+
+Truy cập các liên kết từ các trang hoặc trang web khác
+Đọc sơ đồ trang web
+Làm thế nào để Google biết không nên thu thập dữ liệu trang nào?
+Chúng tôi sẽ không thu thập dữ liệu các trang bị chặn trong robots.txt, nhưng vẫn có thể lập chỉ mục các trang đó nếu chúng được liên kết với một trang khác. (Google có thể phỏng đoán nội dung của trang thông qua liên kết trỏ đến trang đó và lập chỉ mục trang mà không cần phân tích cú pháp nội dung của trang.)
+Google không thể thu thập dữ liệu bất kỳ trang nào không cho người dùng ẩn danh truy cập. Do đó, mọi biện pháp bảo vệ bằng cách yêu cầu đăng nhập hoặc ủy quyền khác sẽ ngăn Google thu thập dữ liệu một trang.
+Đối với các trang đã thu thập dữ liệu và được coi là trang trùng lặp của một trang khác, Google sẽ thu thập dữ liệu các trang này ít thường xuyên hơn.
+Cải thiện kết quả thu thập dữ liệu
+Bạn có thể sử dụng các kỹ thuật này để giúp Google tìm thấy các trang phù hợp trên trang web của mình:
+
+Gửi sơ đồ trang web
+Gửi yêu cầu thu thập dữ liệu cho các trang riêng lẻ
+Sử dụng đường dẫn URL đơn giản, dễ đọc và hợp lý cho các trang của bạn cũng như cung cấp liên kết nội bộ rõ ràng và trực tiếp trong trang web.
+Nếu bạn sử dụng tham số URL trên trang web của mình cho mục đích di chuyển, chẳng hạn như bạn cho biết quốc gia của người dùng trong trang web mua sắm toàn cầu, hãy sử dụng công cụ tham số URL để cho Google biết về các tham số quan trọng.
+Sử dụng robots.txt một cách hợp lý: Sử dụng robots.txt để cho Google biết những trang bạn muốn Google tìm thấy hoặc thu thập dữ liệu trước tiên nhằm bảo vệ tải máy chủ của bạn, chứ không phải như một phương thức chặn nội dung xuất hiện trong chỉ mục của Google.
+Sử dụng hreflang để trỏ đến các trang ngôn ngữ thay thế.
+Xác định rõ ràng trang chuẩn và trang thay thế của bạn.
+Xem trạng thái thu thập dữ liệu và lập chỉ mục của bạn trong báo cáo Trạng thái lập chỉ mục
+Lập chỉ mục
+Googlebot xử lý từng trang trong số những trang mà chúng tôi thu thập dữ liệu để tổng hợp một chỉ mục khổng lồ có chứa tất cả các từ chúng tôi nhận biết được và vị trí của các từ trên mỗi trang. Ngoài ra, chúng tôi sẽ xử lý thông tin có trong các thẻ và thuộc tính nội dung chính, như các thẻ <title> và các thuộc tính thay thế. Googlebot có thể xử lý nhiều, nhưng không phải tất cả, loại nội dung. Ví dụ: chúng tôi không thể xử lý nội dung của một số tệp đa phương tiện.
+
+Trong quá trình thu thập dữ liệu và lập chỉ mục, Google sẽ xác định xem một trang có phải là trang trùng lặp hay trang chuẩn của trang khác không. Nếu trang được coi là trùng lặp, Google sẽ thu thập dữ liệu trang đó ít thường xuyên hơn.
+
+Xin lưu ý rằng Google không thu thập dữ liệu các trang có lệnh noindex (trong tiêu đề hoặc thẻ). Tuy nhiên, Google phải có thể nhìn thấy lệnh; nếu trang bị chặn bởi tệp robots.txt, trang đăng nhập hoặc thiết bị khác, có thể trang đó sẽ được lập chỉ mục ngay cả khi Google không truy cập vào trang!
+
+Cải thiện kết quả lập chỉ mục
+Có nhiều kỹ thuật để cải thiện khả năng của Google trong việc hiểu nội dung trang của bạn:
+
+Ngăn Google thu thập dữ liệu hoặc tìm các trang mà bạn muốn ẩn bằng noindex. Không dùng lệnh "noindex" với một trang bị robots.txt chặn. Nếu bạn làm như vậy, Google sẽ không thấy lệnh noindex và vẫn có thể lập chỉ mục trang.
+Sử dụng dữ liệu có cấu trúc.
+Tuân theo Nguyên tắc quản trị trang web của Google.
+Đọc hướng dẫn SEO của chúng tôi để biết các mẹo khác.
+Kết quả phân phát
+Khi người dùng nhập một truy vấn, công cụ tìm kiếm của chúng tôi sẽ tìm kiếm chỉ mục khớp với các trang và trả lại kết quả mà chúng tôi cho là phù hợp nhất đối với người dùng. Mức độ phù hợp được xác định bởi hơn 200 yếu tố và chúng tôi luôn nỗ lực cải thiện thuật toán của mình. Google xem xét trải nghiệm người dùng trong việc chọn và xếp hạng kết quả, vì vậy hãy đảm bảo rằng trang của bạn tải nhanh và thân thiện với thiết bị di động.
+
+Cải thiện kết quả phân phát
+Nếu kết quả của bạn nhắm đến người dùng ở các vị trí hoặc nói các ngôn ngữ cụ thể, bạn có thể cho Google biết tùy chọn của mình.
+Đảm bảo rằng trang của bạn tải nhanh và thân thiện với thiết bị di động.
+Tuân theo Nguyên tắc quản trị trang web để tránh những lỗi phổ biến và cải thiện thứ hạng trang web của bạn.
+Cân nhắc triển khai các tính năng kết quả Tìm kiếm cho trang web của bạn, chẳng hạn như thẻ công thức hoặc thẻ bài viết.
+Triển khai AMP để trang tải nhanh hơn trên thiết bị di động. Một số trang AMP cũng đủ điều kiện cho các tính năng tìm kiếm bổ sung, chẳng hạn như băng chuyền tin bài hàng đầu.
+Chúng tôi đang liên tục cải thiện thuật toán của Google. Thay vì cố gắng đoán thuật toán và thiết kế trang của bạn theo đó, hãy tạo ra nội dung hữu ích, mới mẻ mà người dùng muốn và thực hiện theo các nguyên tắc của chúng tôi.
