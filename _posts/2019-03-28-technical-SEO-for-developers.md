@@ -160,3 +160,115 @@ Tuân theo Nguyên tắc quản trị trang web để tránh những lỗi phổ
 Cân nhắc triển khai các tính năng kết quả Tìm kiếm cho trang web của bạn, chẳng hạn như thẻ công thức hoặc thẻ bài viết.
 Triển khai AMP để trang tải nhanh hơn trên thiết bị di động. Một số trang AMP cũng đủ điều kiện cho các tính năng tìm kiếm bổ sung, chẳng hạn như băng chuyền tin bài hàng đầu.
 Chúng tôi đang liên tục cải thiện thuật toán của Google. Thay vì cố gắng đoán thuật toán và thiết kế trang của bạn theo đó, hãy tạo ra nội dung hữu ích, mới mẻ mà người dùng muốn và thực hiện theo các nguyên tắc của chúng tôi.
+
+### 4. Hướng dẫn dành cho người mới làm quen với Tối ưu hóa cho công cụ tìm kiếm (SEO)
+#### Trang của bạn có hiển thị trên Google không?
+Xác định xem trang web của bạn có trong chỉ mục của Google không - Thực hiện phép tìm kiếm trang web: tìm kiếm đối với URL trang chủ trên trang web của bạn. Nếu thấy kết quả thì bạn đang ở trong chỉ mục. Ví dụ: thao tác tìm kiếm "site:wikipedia.org" sẽ trả về các kết quả như sau2.
+
+Nếu trang web của bạn không có trong Google - Dù Google thu thập dữ liệu hàng tỷ trang nhưng vẫn không thể tránh được việc một số trang web bị bỏ sót. Khi trình thu thập dữ liệu của chúng tôi bỏ sót một trang web thì thường là do một trong các nguyên nhân sau:
+
+Trang web không được liên kết tốt từ các trang khác trên web
+Bạn vừa khởi chạy một trang web mới và Google chưa có thời gian thu thập dữ liệu trang đó
+Thiết kế của trang web khiến Google khó thu thập dữ liệu nội dung trang một cách hiệu quả
+Google nhận được thông báo lỗi khi cố thu thập dữ liệu trang web của bạn
+Chính sách của bạn chặn không cho Google thu thập dữ liệu trang web
+
+#### Làm thế nào để đưa trang web của tôi lên Google?
+Việc thêm trang web vào kết quả tìm kiếm của Google rất dễ dàng và miễn phí, thậm chí bạn không cần gửi trang web của mình tới Google. Google là một công cụ tìm kiếm hoàn toàn tự động sử dụng trình thu thập dữ liệu web để liên tục khám phá web và tìm các trang web để thêm vào chỉ mục của chúng tôi. Trong thực tế, phần lớn các trang web được liệt kê trong kết quả của chúng tôi không được gửi theo cách thủ công để đưa vào chỉ mục, mà được tìm thấy và tự động thêm vào khi chúng tôi thu thập dữ liệu web. Tìm hiểu cách Google phát hiện, thu thập dữ liệu và phân phối các trang web.3
+
+Chúng tôi cung cấp nguyên tắc quản trị trang web4 về cách xây dựng một trang web thân thiện với Google. Mặc dù không có gì đảm bảo rằng trình thu thập dữ liệu của chúng tôi sẽ tìm thấy một trang web cụ thể, việc thực hiện theo nguyên tắc này sẽ làm cho trang web của bạn xuất hiện trong kết quả tìm kiếm của chúng tôi.
+
+Google Search Console cung cấp công cụ để giúp bạn gửi nội dung đến Google và theo dõi hiệu suất của bạn trong Google Tìm kiếm. Nếu bạn muốn, Search Console thậm chí có thể gửi cho bạn thông báo về các vấn đề nghiêm trọng mà Google gặp phải với trang web của bạn. Hãy đăng ký Search Console5.
+
+Dưới đây là một số câu hỏi cơ bản để bạn tự hỏi về trang web của mình khi bắt đầu.
+
+Trang web của tôi có đang hiển thị trên Google không?
+Tôi có phân phối nội dung chất lượng cao cho người dùng hay không?
+Doanh nghiệp địa phương của tôi có đang hiển thị trên Google không?
+Nội dung của tôi có truy cập dễ dàng và nhanh chóng trên tất cả các thiết bị không?
+Trang web của tôi có bảo mật không?
+Bạn có thể tìm thêm thông tin về cách bắt đầu trên http://g.co/webmasters6
+
+Phần còn lại của tài liệu này cung cấp hướng dẫn về cách cải thiện trang web của bạn cho công cụ tìm kiếm, được tổ chức theo chủ đề. Bạn có thể tải xuống danh sách kiểm tra ngắn và có thể in về các mẹo từ trang http://g.co/WebmasterChecklist7.
+
+#### Giúp Google tìm nội dung của bạn
+Bước đầu tiên để đưa trang web của bạn lên Google là đảm bảo rằng Google có thể tìm thấy trang đó. Cách tốt nhất để làm điều đó là gửi sơ đồ trang web. Sơ đồ trang web là một tệp trên trang web của bạn nhằm cung cấp thông tin cho các công cụ tìm kiếm về những trang mới hoặc đã thay đổi trên trang web. Tìm hiểu thêm về cách tạo và gửi sơ đồ trang web12.
+
+Google cũng tìm các trang thông qua liên kết từ các trang khác. Hãy xem phần Quảng bá trang web của bạn ở phần sau trong tài liệu này để tìm hiểu cách thúc đẩy mọi người tìm thấy trang web của bạn.
+
+#### Robots.txt - chỉ dẫn cho Google không thu thập dữ liệu những trang nào? 
+Đối với thông tin không nhạy cảm, hãy chặn quá trình thu thập dữ liệu không mong muốn bằng cách sử dụng robots.txt
+
+Tệp "robots.txt" cho công cụ tìm kiếm biết họ có thể truy cập và thu thập dữ liệu các phần trên trang web của bạn hay không. Tệp này phải được đặt tên là "robots.txt" và được đặt trong thư mục gốc của trang web. Có thể công cụ tìm kiếm vẫn thu thập được dữ liệu từ các trang bị robots.txt chặn, vì vậy, đối với những trang nhạy cảm bạn nên sử dụng một phương pháp an toàn hơn.
+
+Bạn có thể không muốn một số trang nhất định của trang web được thu thập dữ liệu bởi vì các trang này có thể không hữu ích cho người dùng nếu nằm trong kết quả tìm kiếm của công cụ tìm kiếm. Nếu bạn muốn ngăn không cho các công cụ tìm kiếm thu thập dữ liệu các trang của mình, Google Search Console có một trình tạo robots.txt thân thiện để giúp bạn tạo tệp này. Xin lưu ý rằng nếu trang web của bạn sử dụng tên miền phụ và bạn muốn một số trang nhất định không được thu thập dữ liệu trên một tên miền phụ cụ thể, bạn sẽ phải tạo tệp robots.txt riêng cho tên miền phụ đó. Để biết thêm thông tin về robots.txt, bạn nên đọc hướng dẫn này trong Trung tâm trợ giúp quản trị trang web về sử dụng tệp robots.txt1
+
+Đối với thông tin nhạy cảm, hãy sử dụng các phương pháp an toàn hơn
+
+Robots.txt không phải là cách thích hợp hoặc hiệu quả để chặn các tài liệu mật hoặc nhạy cảm. Robots.txt chỉ hướng dẫn cho những trình thu thập dữ liệu đang hoạt động bình thường rằng các trang này không dành cho các trình đó, nhưng tệp không ngăn máy chủ của bạn phân phối các trang đó đến một trình duyệt yêu cầu chúng. Một lý do là các công cụ tìm kiếm vẫn có thể tham chiếu các URL bạn đã chặn (chỉ hiển thị URL không kèm theo tiêu đề hoặc đoạn trích) nếu có liên kết đến những URL đó trên Internet (chẳng hạn như nhật ký liên kết giới thiệu). Ngoài ra, những công cụ tìm kiếm không tuân thủ hoặc lừa đảo mà không thừa nhận Tiêu chuẩn loại trừ robot có thể không tuân theo hướng dẫn trong tệp robots.txt của bạn. Cuối cùng, một người dùng tò mò có thể kiểm tra các thư mục hoặc thư mục con trong tệp robots.txt của bạn và đoán URL của nội dung mà bạn không muốn họ nhìn thấy.
+
+Trong những trường hợp này, hãy sử dụng thẻ noindex nếu bạn chỉ muốn trang không xuất hiện trong Google nhưng không ngại việc bất kỳ người dùng nào có liên kết đều có thể truy cập vào trang. Tuy nhiên, để được bảo mật thật sự, bạn nên sử dụng các phương pháp ủy quyền thích hợp, như yêu cầu mật khẩu người dùng hoặc gỡ bỏ trang hoàn toàn khỏi trang web của bạn.
+
+#### Cho phép Google xem trang của bạn giống như cách người dùng vẫn xem
+Khi thu thập dữ liệu một trang, Googlebot sẽ thấy trang giống như cách người dùng bình thường sẽ thấy15. Để hiển thị và lập chỉ mục tối ưu, luôn cho phép Googlebot truy cập vào các tệp JavaScript, CSS và hình ảnh được sử dụng trên trang web của bạn. Nếu tệp robots.txt của trang web không cho phép thu thập dữ liệu những phần tử này, tệp sẽ trực tiếp gây ảnh hưởng xấu đến cách các thuật toán của chúng tôi hiển thị và lập chỉ mục nội dung của bạn. Điều này có thể dẫn đến xếp hạng dưới mức tối ưu.
+
+**Tạo tiêu đề trang chính xác và riêng biệt**
+Thẻ <title> cho cả người dùng và công cụ tìm kiếm biết chủ đề của một trang cụ thể là gì. Thẻ <title> phải được đặt trong phần tử <head> của tài liệu HTML. Bạn nên tạo tiêu đề riêng biệt cho mỗi trang trên trang web của mình.
+
+**Tạo tiêu đề và đoạn trích thu hút trong kết quả tìm kiếm**
+Nếu tài liệu của bạn xuất hiện trong trang kết quả tìm kiếm, nội dung của thẻ tiêu đề có thể xuất hiện trong dòng đầu tiên của kết quả (nếu không quen thuộc với các phần khác nhau của kết quả tìm kiếm của Google, thì bạn nên xem phân tích chi tiết video kết quả tìm kiếm17).
+
+Tiêu đề cho trang chủ có thể liệt kê tên trang web/doanh nghiệp của bạn và có thể bao gồm các thông tin quan trọng khác như vị trí thực tế của doanh nghiệp hay một vài sản phẩm hay dịch vụ chính của doanh nghiệp.
+Mô tả chính xác nội dung của trang
+Chọn một tiêu đề tự nhiên và truyền đạt chủ đề của nội dung trang một cách hiệu quả.
+**Tránh:**
+* Chọn tiêu đề không liên quan đến nội dung trên trang.
+* Sử dụng tiêu đề mặc định hoặc chung chung như "Không có tiêu đề" hoặc "Trang mới số 1".
+Tạo tiêu đề riêng biệt cho mỗi trang
+
+Mỗi trang trên trang web của bạn nên có một tiêu đề riêng biệt để giúp Google biết trang này khác biệt với những trang khác như thế nào. Nếu trang web của bạn sử dụng các trang dành riêng cho thiết bị di động, hãy nhớ sử dụng các tiêu đề hay trên các phiên bản dành cho thiết bị di động.
+
+**Tránh:**
+* Sử dụng một tiêu đề chung cho tất cả các trang hoặc một nhóm lớn các trang trên trang web của bạn.
+* Sử dụng các tiêu đề ngắn nhưng mang tính mô tả
+
+Tiêu đề có thể ngắn mà vẫn giàu thông tin. Nếu tiêu đề quá dài hoặc bị coi là ít liên quan, Google có thể chỉ hiển thị một phần tiêu đề hoặc một tiêu đề được tạo tự động trong kết quả tìm kiếm. Google cũng có thể hiển thị các tiêu đề khác nhau tùy thuộc vào truy vấn của người dùng hoặc thiết bị dùng để tìm kiếm.
+
+Tránh:
+* Sử dụng các tiêu đề quá dài không hữu ích cho người dùng.
+* Chèn các từ khóa không cần thiết trong thẻ tiêu đề của bạn.
+
+**Cách viết title trang web**
+* Từ khoá SEO cần nằm trong title
+* Từ khoá cần SEO nên xuất hiện ngay khi mở đầu title
+* Độ dài của title 65-70 ký tự MAX
+* Mỗi trang web phải có title khác nhau
+
+#### Sử dụng thẻ meta "mô tả"
+Thẻ meta mô tả của trang cung cấp cho Google và các công cụ tìm kiếm khác phần tóm tắt nội dung của trang. Tiêu đề của trang có thể là một vài từ hoặc một cụm từ, trong khi đó thẻ meta mô tả trang có thể là một hoặc hai câu hay thậm chí một đoạn văn ngắn. Giống như thẻ <title>, thẻ meta mô tả được đặt trong phần tử <head> của tài liệu HTML của bạn.
+
+**Những ưu điểm của thẻ meta mô tả là gì?**
+Thẻ meta mô tả quan trọng bởi vì Google có thể sử dụng thẻ dưới dạng đoạn trích cho các trang của bạn. Xin lưu ý rằng chúng tôi nói "có thể" bởi vì Google có thể chọn sử dụng một phần thích hợp của văn bản hiển thị trên trang của bạn nếu phần đó phù hợp với truy vấn của người dùng. Việc thêm các thẻ meta mô tả vào mỗi trang luôn là một phương pháp tốt trong trường hợp Google không thể tìm thấy một văn bản phù hợp để sử dụng trong đoạn trích. Blog trung tâm quản trị trang web có các bài đăng giàu thông tin về việc cải tiến đoạn trích với các thẻ meta mô tả tốt hơn18 và đoạn trích tốt hơn cho người dùng của bạn19. Chúng tôi cũng có một bài viết hữu ích trên Trung tâm trợ giúp về cách tạo các tiêu đề và đoạn trích tốt20.
+
+Viết một đoạn mô tả mà sẽ vừa cung cấp thông tin vừa gây hứng thú cho người dùng nếu họ nhìn thấy thẻ meta mô tả của bạn dưới dạng đoạn trích trong kết quả tìm kiếm. Mặc dù không có chiều dài tối thiểu hoặc tối đa cho văn bản trong thẻ meta mô tả, bạn nên đảm bảo rằng thẻ đủ dài để được hiển thị đầy đủ trong Tìm kiếm (xin lưu ý rằng người dùng có thể thấy các đoạn trích có kích thước khác nhau tùy thuộc vào cách và nơi họ tìm kiếm) và chứa tất cả thông tin liên quan mà người dùng sẽ cần để xác định xem trang có hữu ích và thích hợp với họ hay không.
+
+Tránh
+* Viết một thẻ meta mô tả không liên quan đến nội dung trên trang.
+* Sử dụng các mô tả chung chung như "Đây là một trang web" hoặc "Trang về thiệp bóng chày".
+* Chỉ sử dụng từ khóa trong mô tả.
+* Sao chép và dán toàn bộ nội dung của tài liệu vào thẻ meta mô tả.
+
+Sử dụng mô tả riêng biệt cho mỗi trang. Việc sử dụng thẻ meta mô tả khác nhau cho mỗi trang giúp cả người dùng và Google, đặc biệt là trong các tìm kiếm mà người dùng có thể xem nhiều trang trên miền của bạn (ví dụ: các tìm kiếm sử dụng toán tử site:). Nếu trang web của bạn có hàng ngàn hoặc thậm chí hàng triệu trang, việc tạo thẻ meta mô tả theo cách thủ công có lẽ không khả thi. Trong trường hợp này, bạn có thể tự động tạo các thẻ meta mô tả dựa trên nội dung của mỗi trang.
+
+Tránh
+* Sử dụng một thẻ meta mô tả chung cho tất cả các trang hoặc một nhóm lớn các trang trên trang web của bạn.
+
+#### Sử dụng các thẻ tiêu đề để nhấn mạnh văn bản quan trọng
+Do thẻ tiêu đề thường chứa văn bản lớn hơn văn bản thông thường trên trang, đây là một gợi ý trực quan cho người dùng rằng văn bản này rất quan trọng và có thể giúp họ biết được phần nào về loại nội dung bên dưới văn bản tiêu đề. Nhiều kích thước tiêu đề được sử dụng để tạo cấu trúc phân cấp cho nội dung của bạn và điều này giúp người dùng dễ dàng di chuyển trong tài liệu của bạn.
+
+Hãy tưởng tượng bạn đang viết một bản phác thảo. Tương tự như việc viết một bản phác thảo cho một tài liệu lớn, hãy suy nghĩ về những điểm chính và điểm phụ của nội dung trên trang và quyết định vị trí thích hợp để sử dụng các thẻ tiêu đề.
+Tránh:
+* Đặt văn bản trong các thẻ tiêu đề mà sẽ không hữu ích trong việc xác định cấu trúc của trang.
+* Sử dụng thẻ tiêu đề trong khi các thẻ khác như <em> và <strong> có thể thích hợp hơn.
+* Thay đổi bất thường từ một kích thước thẻ tiêu đề sang kích thước khác.
+Sử dụng ít tiêu đề trên trang. Hãy sử dụng thẻ tiêu đề ở vị trí thích hợp. Quá nhiều thẻ tiêu đề trên một trang có thể gây khó khăn cho người dùng trong việc đọc lướt qua nội dung và xác định nơi một chủ đề kết thúc và một chủ đề khác bắt đầu.
