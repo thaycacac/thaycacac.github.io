@@ -4,7 +4,7 @@ title: Nghệ thuật SEO
 subtitle: Biết người biết ta trận nào cũng thắng, biết ta mà không biết người trận thắng trận bại, không biết ta không biết người trận nào cũng bại
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
-tags: [code]
+tags: [share]
 keywords: []
 ---
 
