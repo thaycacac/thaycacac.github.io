@@ -3,7 +3,7 @@ layout: post
 title: Cấu trúc project Sass
 subtitle: Học cách cấu trúc một project Sass cho hợp lý và dễ bảo trì
 gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
+gh-badge: [follow]
 tags: [code]
 keywords:
   [

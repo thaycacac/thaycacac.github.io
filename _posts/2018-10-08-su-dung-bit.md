@@ -3,7 +3,7 @@ layout: post
 title: Chia sẻ và sử dụng Component NPM + Bit
 subtitle: Làm thế nào để cài đặt các component với bất kỳ thư viện React, Vue hoặc UI bằng cách sử dụng Bit và NPM
 gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
+gh-badge: [follow]
 tags: [code]
 keywords: [thaycacac, sử dụng bit, su dung bit, bit là gì, bit la gi]
 ---

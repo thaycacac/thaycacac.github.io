@@ -3,7 +3,7 @@ layout: post
 title: CSS Style
 subtitle: Phong cách code cho CSS
 gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
+gh-badge: [follow]
 tags: [code]
 keywords:
   [

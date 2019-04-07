@@ -3,7 +3,7 @@ layout: post
 title: Practice Speaking JPD131
 subtitle: Luyện tập thi nói nhật 3 - JPD131
 gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
+gh-badge: [follow]
 tags: [share]
 keywords:
   [

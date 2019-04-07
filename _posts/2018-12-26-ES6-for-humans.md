@@ -3,7 +3,7 @@ layout: post
 title: ES6 for Humans
 subtitle: Tiêu chuẩn mới nhất của JavaScript - ES2015 trở lên
 gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
+gh-badge: [follow]
 tags: [code]
 keywords:
   [

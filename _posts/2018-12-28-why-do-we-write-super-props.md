@@ -3,7 +3,7 @@ layout: post
 title: Tại sao chúng ta lại viết super(props) trong React?
 subtitle: Nếu bạn muốn tìm hiểu sâu hơn về cách mọi thứ hoạt động.
 gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
+gh-badge: [follow]
 tags: [code]
 keywords:
   [

@@ -3,7 +3,7 @@ layout: post
 title: Kiến thức về UI
 subtitle: Tổng hợp kiến thức về UI cho designer
 gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
+gh-badge: [follow]
 tags: [share]
 keywords: [
     thaycacac,

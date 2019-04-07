@@ -3,7 +3,7 @@ layout: post
 title: Top 3 flute sheet that I love the most
 subtitle: Top 3 flute sheet that I love the most...
 gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
+gh-badge: [follow]
 tags: [mylife]
 keywords:
   [thaycacac, sáo trúc, sao truc, cảm âm sáo trúc, cam am sao truc, flute]

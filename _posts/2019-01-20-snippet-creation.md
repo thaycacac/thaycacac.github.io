@@ -3,7 +3,7 @@ layout: post
 title: Tạo snippet cho riêng bạn trong VS Code
 subtitle: Hướng dẫn tự tạo snippet cho riếng bạn trong Visual Studio Code
 gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
+gh-badge: [follow]
 tags: [code]
 keywords: [
     snippet,
