@@ -4,7 +4,8 @@ title: Kiến thức về UI
 subtitle: Tổng hợp kiến thức về UI cho designer
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
-tags: [share]
+categories: [share]
+tags: [design]
 keywords: [
     thaycacac,
     ux ui là gì,

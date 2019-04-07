@@ -3,7 +3,8 @@ layout: post
 title: Cuộc đời là những chuyến đi...
 subtitle: Cuộc sống buông thả vẫn nhè nhẹ trôi, thấy ta rành về cuộc đời nhưng chỉ bập bẹ thôi.
 gh-repo: thaycacac/thaycacac.github.io
-gh-badge: [star, follow]
+gh-badge: [follow]
+categories: [mylife]
 tags: [mylife]
 keywords:
   [

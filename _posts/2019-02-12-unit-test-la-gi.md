@@ -4,7 +4,8 @@ title: Unit Test là gì?
 subtitle: Tổng hợp kiến thức về Unit test
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
-tags: [code]
+categories: [code]
+tags: [testing]
 keywords: [
     thaycacac,
     unit test là gì,

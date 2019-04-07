@@ -4,7 +4,8 @@ title: Bạn có hiểu setState trong React?
 subtitle: Nếu bạn muốn tìm hiểu sâu hơn về cách mọi thứ hoạt động.
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
-tags: [code]
+categories: [code]
+tags: [reactjs]
 keywords:
   [
     thaycacac,

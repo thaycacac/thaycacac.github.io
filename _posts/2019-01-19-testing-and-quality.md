@@ -4,7 +4,8 @@ title: Testing ảnh hưởng gì đến Software quality
 subtitle: Testing ảnh hưởng gì đến chất lượng phần mềm
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
-tags: [share]
+categories: [share]
+tags: [testing]
 keywords: [
 thaycacac,
 testing,

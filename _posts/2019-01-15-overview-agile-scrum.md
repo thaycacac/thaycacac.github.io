@@ -4,7 +4,8 @@ title: Thế nào là Agile, Scrum?
 subtitle: Giới thiệu chắt lọc kiến thức về Agile và cách làm việc hiệu quả với Scrum
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
-tags: [code]
+categories: [share]
+tags: [agile, scrum]
 keywords: [
     thaycacac,
     agile,

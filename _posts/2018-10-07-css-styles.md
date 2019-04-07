@@ -4,7 +4,8 @@ title: CSS Style
 subtitle: Phong cách code cho CSS
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
-tags: [code]
+categories: [code]
+tags: [css]
 keywords:
   [
     thaycacac,
