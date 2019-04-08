@@ -3,6 +3,7 @@ common-css:
 - "/css/bootstrap.min.css"
 - "/css/bootstrap-social.css"
 - "/css/main.css"
+- "/css/jquery-sakura.min.css"
 common-ext-css:
 - "//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"
 common-googlefonts:
@@ -31,5 +32,10 @@ common-js:
   {% include footer-scripts.html %}
 
 </body>
+<script>
+$(window).load(function () {
+  $('body').sakura();
+});
+</script>
 
 </html>
