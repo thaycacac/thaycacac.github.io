@@ -391,19 +391,14 @@ h3.post-subtitle:after {
   font-size: 1.3rem;
 }
 .post-image {
-  float: right;
-  height: 192px;
-  width: 192px;
-  margin-top: -35px;
+  margin-top: 10px;
   filter: grayscale(90%);
 }
 .post-image:hover {
   filter: grayscale(0%);
 }
 .post-image img {
-  border-radius: 100px;
-  height: 192px;
-  width: 192px;
+  border-radius: 15px;
 }
 .post-preview .post-read-more {
   font-weight: 600;
@@ -559,7 +554,7 @@ h3.post-subtitle:after {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 70px;
+    font-size: 60px;
   }
   .intro-header .post-heading h1 {
     font-size: 40px;

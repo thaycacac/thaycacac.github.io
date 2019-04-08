@@ -6,6 +6,7 @@ gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [mylife]
 tags: [mylife]
+image: js-1.png
 keywords:
   [
     thaycacac,
