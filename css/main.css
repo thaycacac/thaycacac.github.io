@@ -334,22 +334,6 @@ footer .theme-by {
   color: #404040;
 }
 
-h3.post-subtitle:after {
-	content: '';
-  position: absolute;
-  left: 0;
-  display: inline-block;
-  height: 1em;
-  width: 100%;
-  border-bottom: 1px solid;
-  margin-top: 10px;
-  opacity: 1;
-	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
-	transition: opacity 0.35s, transform 0.35s;
-	-webkit-transform: scale(0,1);
-	transform: scale(0,1);
-}
-
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
@@ -361,15 +345,17 @@ h3.post-subtitle:after {
 
 
 .post-preview .post-title {
-  font-size: 30px;
+  font-size: 25px;
   margin-top: 0;
 }
+
 .post-preview .post-subtitle {
   margin: 0;
   font-weight: 300;
   margin-bottom: 10px;
   font-size: 16px;
 }
+
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
@@ -404,12 +390,6 @@ h3.post-subtitle:after {
   font-weight: 600;
   color: hsl(0, 0%, 71%);
   font-size: 13px;
-}
-
-@media only screen and (min-width: 768px) {
-  .post-preview .post-title {
-    font-size: 25px;
-  }
 }
 
 /* --- Tags --- */
@@ -622,7 +602,6 @@ h3.post-subtitle:after {
 
 .pager li a {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
   letter-spacing: 1px;
