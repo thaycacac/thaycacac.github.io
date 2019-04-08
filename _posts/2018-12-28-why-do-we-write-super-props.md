@@ -19,7 +19,7 @@ keywords:
 
 Điều này không quan trọng khi bạn sử dụng React hiệu quả nhưng bạn sẽ cảm thấy chúng thú vị hoặc muốn tìm hiểu sâu hơn về cách hoạt động.
 
-### Về super
+## Về super
 
 Nếu như bạn đã code react thì chắc bạn đã sử dụng `super(props)`, thế bạn có hiểu về chúng?
 
@@ -88,7 +88,7 @@ constructor(props) {
   }
 ```
 
-### Tại sao lại truyền vào props?
+## Tại sao lại truyền vào props?
 
 Điều gì sẽ xảy ra khi bạn truyền tham số **props** vào `super()`? **React.Component** sẽ khởi tạo `this.props` ở trong constructor và xử lý như sau:
 
@@ -114,7 +114,7 @@ instance.props = props;
 
 Đó là lý do mà tại sao bạn quên truyền **props** vào `super()` mà vẫn sử dụng được `this.props`
 
-### Như vậy có thể dùng super() thay thế cho super(props)
+## Như vậy có thể dùng super() thay thế cho super(props)
 
 **Có lẽ là không vì nó vẫn gây confusing.** Lý do là vì React sẽ gắn `this.props` sau khi contructor của bạn đã chạy. Vì thế nó sẽ dẫn đến `this.props` vẫn là _undifined_ từ lúc `super()` được gọi cho tới khi contructor kết thúc:
 

@@ -48,7 +48,7 @@ Chắc bạn cũng biết rằng React sẽ re-renders lại components thay đ�
 
 Cập nhật DOM nghe có vẻ như React DOM sẽ thực hiện điều trên nhưng rất tiếc là không phải :)). Mà cơ sở **React.Component** của chúng ta được định nghĩa bên trong chính React.
 
-### Vậy làm thế nào để setState trong React.Component cập nhật DOM?
+## Vậy làm thế nào để setState trong React.Component cập nhật DOM?
 
 Chúng ta có thể nghĩ rằng lớp **React.Component** chứa logic cập nhật DOM. Nếu điều này xảy ra thì làm sao mà `this.setState()` có thể làm việc trong môi trường khác? Tỷ dụ một một component ở trong ứng dụng React Native cũng **extend React.Component** và chúng ta vẫn có thể gọi `this.setState()` như bên trên mặc cho React Native làm việc với native view của Android và IOS chứ không phải là DOM.
 
@@ -64,7 +64,7 @@ Ngược lại các gói dành riêng cho nền tảng tỷ dụ như _ReactDOM.
 
 Oke bây giờ chúng ta đã biết được một số thứ thú vị trong gói React và renderers như _react-dom, react-native_ nhưng vẫn chưa trả lời được câu hỏi ở mục một. :))
 
-### Câu trả lời là mọi renderer sẽ thiết lập một trường đặc biệt trong lớp được tạo.
+## Câu trả lời là mọi renderer sẽ thiết lập một trường đặc biệt trong lớp được tạo.
 
 Trường này được gọi là **updater**. Nó không phải là một thứ mà bạn có thể thiết lập, mà nó có một cái gì đó _React DOM, React DOM Server hoặc React Native_ được thiết lập ngay sau khi tạo một thể hiện của lớp của bạn:
 

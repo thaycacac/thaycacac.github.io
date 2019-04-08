@@ -22,7 +22,7 @@ keywords: [
 
 Khi vòng đời của một sản phẩm thì không thể thiếu công đoạn test, trong công việc test thì phải nhắc đến unit test, vậy unit test là gì, tại sao lại phải sử dụng kỹ thuật unit test, và tạo ra một unit test như thế nào?
 
-### Unit test là gì?
+## Unit test là gì?
 Unit testing là công việc *validate* những đơn vị riêng lẻ (**individual units**) của một chương trình phần mềm có hoạt động đúng hay không. Trong một dự án lập trình cấu trúc thì các đơn vị riêng lẻ như là các hàm, procedure,... còn đối với lập trình hướng đối tượng thì các đơn vị riêng lẻ là các method. Dưới đây là một ví dụ một đơn vị riêng lẻ:
 
 ```java
@@ -55,7 +55,7 @@ public class TestMath extends TestCase {
 ```
 Ta sẽ kiểm tra hàm tính tổng xem nó có ra kết quả không. `num1, num2, total` lần lượt là số thứ nhất, số thứ 2 và kết quả mong muốn. `sum` là kết quả trả ra của hàm tính tổng mà chúng ta đã viết. Công việc `assertEquals(sum, total);` là để so sánh xem kết quả mong đợi và kết quả trả về của hàm có chính xác hay không. Đây là một ví dụ đơn giản của một unit test.
 
-### Tại sao cần Unit Test?
+## Tại sao cần Unit Test?
 Mục tiêu của unit test là để
 
 - Đảm bảo được chất lượng phần mềm.
@@ -66,7 +66,7 @@ Biểu đồ dưới đây sẽ mô tả về số lượng defect tìm được
 
 ![Unit Test 1](https://i.imgur.com/nfISnJ8.jpg)
 
-### Unit Test như thế nào?
+## Unit Test như thế nào?
 
 ![Unit Test 2](https://i.imgur.com/ERbMrZu.jpg)
 
@@ -129,7 +129,7 @@ Khi xử lý vòng lặp đối với white-box cần phải test 4 trường h�
 - Cho chạy qua n lần
 
 
-### Ví dụ mã đi tuần
+## Ví dụ mã đi tuần
 
 Mã đi tuần (hay hành trình của quân mã) là bài toán về việc di chuyển một quân mã trên bàn cờ vua với kích thước bàn cờ là người dùng nhập vào. Quân mã được đặt ở một ô trên một bàn cờ trống nó phải di chuyển theo quy tắc của cờ vua để đi qua mỗi ô trên bàn cờ đúng một lần.
 

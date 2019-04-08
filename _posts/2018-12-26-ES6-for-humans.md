@@ -40,7 +40,7 @@ keywords:
 - [16. Generators](#16-generators)
 - [17. Promises](#17-promises)
 
-### 1. let, const và block scoping
+## 1. let, const và block scoping
 
 `let` cho phép bạn tạo khởi tạo khai báo với phạm vi trong block được gọi là block scope. Nó dùng để thay thế `var`, cái mà trước đây phạm vi của nó là function scope, khuyễn khích nên sử dụng biễn trong block scope (`let` or `const`) trong ES6.
 
@@ -80,7 +80,7 @@ Một số điều cần ghi nhớ:
 
 <br>
 
-### 2. Arrow Functions
+## 2. Arrow Functions
 
 Arrow functions là dạng viết ngắn gọn cho một hàm trong ES6. Một arrow function được hình thành bơi một danh sách các parameter `( ... )`, theo sau là `=>` để đánh đấu sau nó là body function. Đối với hàm chỉ có một parameter thì có thể bỏ qua cặp dấu ngoặc tròn.
 
@@ -167,7 +167,7 @@ let p = new Person();
 
 <br>
 
-### 3. Default Function Parameters
+## 3. Default Function Parameters
 
 ES6 cho phép bạn set giá trị mặc định cho parameters khi khai báo hàm
 ES6 allows you to set default parameters in function definitions. Dưới đây là một minh hoạ đơn giản:
@@ -179,7 +179,7 @@ getFinalPrice(500); // 850
 
 <br>
 
-### 4. Spread / Rest Operator
+## 4. Spread / Rest Operator
 
 `...` là toán tử được gọi là spread hoặc rest operator, tuỳ thuộc vào cách thức và nơi chúng được sử dụng.
 
@@ -229,7 +229,7 @@ foo(1, 2, 3, 4, 5); // [1, 2, 3, 4, 5]
 
 <br>
 
-### 5. Object Literal Extensions
+## 5. Object Literal Extensions
 
 ES6 cho phép khai báo các đối tượng bằng cách cung cấp cú pháp ngắn gọn để khởi tạo các thuộc tính từ các biến và xác định các phương thức hàm. Nó cũng có thể có computed property keys trong một object literal.
 
@@ -269,7 +269,7 @@ console.log(car);
 
 <br>
 
-### 6. Octal và Binary Literals
+## 6. Octal và Binary Literals
 
 ES6 có hỗ trợ mới cho các số bát phân và nhị phân.
 Một số bắt đầu với `0o` hoặc `0O` sẽ được convert sang hệ bát phân. Hãy xem ví dụ dưới đây:
@@ -284,7 +284,7 @@ console.log(bValue); // 2
 
 <br>
 
-### 7. Array và Object Destructuring
+## 7. Array và Object Destructuring
 
 Destructuring giúp tránh sự cần thiết của các biến tạm thời khi làm việc với đối tượng và mảng.
 
@@ -322,7 +322,7 @@ console.log(make, miles); // Tesla 12000
 
 <br>
 
-### 8. Super in Objects
+## 8. Super in Objects
 
 ES6 sử dụng phương thức `super` trong (classless) đối tượng với prototypes. Theo dõi ví dụ dưới đây:
 
@@ -347,7 +347,7 @@ child.foo(); // Hello from the Parent
 
 <br>
 
-### 9. Template Literal và Delimiters
+## 9. Template Literal và Delimiters
 
 ES6 giới thiệu một cách dễ dàng hơn để thêm các phép interpolations được đánh giá tự động.
 
@@ -361,7 +361,7 @@ console.log(`Hi ${user}!`); // Hi Kevin!
 
 <br>
 
-### 10. for...of vs for...in
+## 10. for...of vs for...in
 
 - `for...of` lặp qua các đối tượng lặp, chẳng hạn như mảng.
 
@@ -392,7 +392,7 @@ for (let nickname in nicknames) {
 
 <br>
 
-### 11. Map và WeakMap
+## 11. Map và WeakMap
 
 ES6 giới thiệu bộ cấu trúc mới gọi là `Map` và `WeakMap`. Bầy giờ, chúng ta hoàn toàn có thể sử dụng map trong Javascript. Thực thế tất cả các object đều có thể xem như một `Map`.
 
@@ -448,7 +448,7 @@ w.has(o1); // false
 
 <br>
 
-### 12. Set và WeakSet
+## 12. Set và WeakSet
 
 _Set_ objects là tập hợp các giá trị duy nhất. Những giá trị trùng lặp sẽ bị bỏ qua, vì tất cả các giá trị trong _Set_ phải là duy nhất. Các giá trị có thể là kiểu nguyên thủy hoặc tham chiếu đối tượng.
 
@@ -505,7 +505,7 @@ ws.has(window); // false, window has been removed
 
 <br>
 
-### 13. Classes trong ES6
+## 13. Classes trong ES6
 
 ES6 giới thiệu cú pháp class mới. Cần chú ý răng Class trong ES6 không phải là mô hình thừa kế hướng đối tượng mới. Chúng chỉ đóng vai trò là đường tổng hợp so với kế thừa dựa trên nguyên mẫu hiện có của JavaScript.
 
@@ -570,7 +570,7 @@ Một vài cần lưu ý:
 
 <br>
 
-### 14. Symbol
+## 14. Symbol
 
 Một `Symbol` là một kiểu dữ liệu duy nhất và bất biến được giới thiệu trong ES6. Mục đích của symbol là tạo ra một mã định danh duy nhất nhưng bạn không bao giờ có thể có quyền truy cập vào mã định danh đó.
 
@@ -598,7 +598,7 @@ console.log(Object.getOwnPropertyNames(o)); // val
 
 <br>
 
-### 15. Iterators
+## 15. Iterators
 
 Một iterator cho phép lặp từng phần tử từ một tập trong cùng một thời điểm, trong khi theo dõi vị trí hiện tại của nó trong chuỗi đó. Iterators cung cấp phương thức `next()` sẽ trả về item tiếp theo trong dãy. Phương thức này sẽ trả về một đối tượng với hai thuộc tính: done và value.
 
@@ -621,7 +621,7 @@ Chú ý bạn có thể customer interator bơi `obj[Symbol.iterator]()` với �
 
 <br>
 
-### 16. Generators
+## 16. Generators
 
 Generator functions là một tính năng mới trong ES6 nó cho phép một hàm có thể tạo ra nhiều giá trị theo thời gian bằng cách trả về một đối tượng có thể được lặp đi lặp lại để kéo các giá trị từ hàm một giá trị tại một thời điểm.
 
@@ -647,7 +647,7 @@ Mỗi lần _yield_ được gọi, giá trị yielded trở thành giá trị t
 
 <br>
 
-### 17. Promises
+## 17. Promises
 
 ES6 có hỗ trợ riêng cho các promises. Một _promise_ là một đối tượng mà nó sẽ chờ cho một hoạt động không đồng bộ hoàn thành, và khi toán tử hoàn thành, promise sẽ trả về hoặc là fulfilled(resolved) hoặc là rejected.
 

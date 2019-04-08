@@ -12,7 +12,7 @@ keywords: []
 
 Search Engine Optimisation hay gọi tắt là SEO là tập hợp những phương pháp tối ưu hóa để website trở nên thân thiện với máy chủ tìm kiếm (Search Engine) từ đó nâng cao thứ hạng website khi người dùng tìm kiếm với các từ khóa liên quan. Bài viết này mình sẽ chia sẻ tất tần tật về kiến thức SEO mà mình đã nghiên cứu.
 
-### 1. Một số thuật ngữ
+## 1. Một số thuật ngữ
 **Website:** là tập hợp nhiều trang web con bao gồm văn bản, hình ảnh, video, flas,... được liên kết lại với nhau.
 
 **URL:** là đường dẫn của một trang web, mỗi trang web con sẽ có một URL khác nhau, duy nhất.
@@ -31,9 +31,9 @@ Search Engine Optimisation hay gọi tắt là SEO là tập hợp những phư�
 
 **Competition:** là độ khó của từ khoá, cụ thể mình sẽ nói ở phần sau.
 
-### 2. Tên miền và hosting
+## 2. Tên miền và hosting
 
-#### Tên miền là gì?
+### Tên miền là gì?
 **Tên miền** là định danh của website trên Internet, thường gắn kèm với tên công ty hoặc thương hiệu của doanh nghiệp. Tên miền là duy nhất và được cấp phát cho chủ thể nào đăng ký trước.
 Tên miền có 2 dạng
 * **Tên miền quốc tế**: www.tencongty.com (.net, .biz .org, .info...)
@@ -55,7 +55,7 @@ Tên miền có 2 dạng
 |.health|Dành cho các tổ chức y tế, dược phẩm và các cơ quan, tổ chức, doanh nghiệp có hoạt động liên quan tới lĩnh vực y tế, dược phẩm|
 |.name|Dành cho tên riêng của cá nhân tham gia hoạt động Internet|
 
-#### Chọn tên miền như thế nào?
+### Chọn tên miền như thế nào?
 Có một số quy tắc bạn nên biết trước khi chọn tên miền: 
 **Chọn tên miền ngắn là tốt nhất**
 **Tạo tên miền dễ nhớ**
@@ -76,14 +76,14 @@ Dưới đây là một số gợi ý để bạn đặt tên miền:
 
 > Chú ý: Tên miền chứa từ khoá được Google ưu tiên xếp hạng và tên miền đại diện cho chỉ một từ khoá
 
-#### Web hosting là gì?
+### Web hosting là gì?
 **Web hosting** là nơi không gian trên máy chủ có cài dịch vụ Internet như ftp, www, nơi đó bạn có thể chứa nội dung trang web hay dữ liệu trên không gian đó. Lý do bạn phải thuê Web hosting để chứa nội dung trang web, dịch vụ mail, ftp, vì những máy tính đó luôn có một địa chỉ cố định mỗi khi kết nối vào Internet (đó là địa chỉ IP), còn như nếu bạn truy cập vào Internet như thông thường hiện nay thông qua các IPS (Internet Service Provider - Nhà cung cấp dịch vụ Internet) thì địa chỉ IP trên máy bạn luôn bị thay đổi, do đó dữ liệu trên máy của bạn không thể truy cập được từ những máy khác trên Internet.
 Tuỳ theo nhà cung cấp dịch vụ Web hosting khác nhau mà chất lượng cũng khác nhau:
 - Tốc độ truy cập Internet tại server Web hosting đó.
 - Dung lượng đĩa mà bạn có thể chứa được nhiều web page hay dữ liệu của bạn.
 - Các tiện ích như các hệ quản trị cơ sở dữ liệu có hỗ trợ hay không cũng khác nhau.
 
-#### Mối liên quan giữa tên miền và hosting
+### Mối liên quan giữa tên miền và hosting
 Tên miền và hosting là hai sản phẩm dịch vụ hoàn toàn riêng rẽ, nhưng đôi khi cố gắng bán cả hai thì các nhà đăng ký tên miền thường gây nhầm lẫn cho khách hàng. Khi bạn mua hosting cho website, bạn có thể hiểu đơn giản là đang thuê một folder trên một máy tính (gọi là máy chủ Web) được kết nối với Internet. Bạn trả cho công ty phí hàng tháng hoặc hàng năm để duy trì các file website của bạn trên mạng và giữ chúng an toàn tránh khỏi các hacker hay những “kẻ xấu” trên mạng khác. Mặc dù về mặt kỹ thuật, bạn vẫn có thể tự lưu trữ một website, nhưng với chi phí khoảng 10 hoặc 20 USD/tháng thuê hosting thì đó là khoản chi tiêu hợp lý. Duy trì máy chủ web luôn họat động và ở tình trạng tốt là việc khá quan trọng, vì vậy hãy để nhiệm vụ này cho các chuyên gia, những người yêu thích kiểu công việc đó.
 
 Về cơ bản, một tên miền trỏ đến một thư mục riêng biệt trên một máy chủ web cụ thể. Bạn có thể mua một tên miền mà không mua dịch vụ hosting. Nhiều người thường mua các tên miền khá lâu trước khi họ có thể tiến hành tạo lập một trang web. Cho đến khi bạn tạo ra một trang web, tên miền sẽ trỏ đến một “trang được giữ chỗ”. Trang này được tạo lập bởi nhà đăng ký tên miền như một nơi giữ chỗ cho đến lúc bạn mua hosting và đưa trang của bạn lên mạng. Trang được giữ chỗ này để cho những người khác biết rằng tên miền đó không có sẵn nữa. Sau khi bạn phát triển một trang, có được hosting, và đưa được các file của trang web đó vào trong thư mục của bạn lên máy chủ web thì bạn hãy chuyển tên miền của bạn trỏ vào trang này.
@@ -100,8 +100,8 @@ Hãy nhớ rằng bạn cũng có thể trỏ nhiều tên miền vào cùng m�
 
 Tóm lại, tùy theo mục đích và nhu cầu sử dụng cũng như tính chất dự án triển khai mà chúng ta nên mua tên miền và hosting cùng lúc hoặc sau một khoảng thời gian nhất định hoặc chỉ mua tên miền hoặc chỉ mua hosting mà thôi. 
 
-### 3. SEO là gì?
-#### Seo là gì
+## 3. SEO là gì?
+### Seo là gì
 Trước tiên hãy nhìn tấm ảnh dưới đây:
 ![seo1](https://i.imgur.com/X9tRs3F.png)
 Khi bạn search từ khóa “máy chạy bộ”, bạn có thể nhìn thấy hàng loạt kết quả tìm kiếm. Phần đầu tiên, có ghi là “Qc” (quảng cáo) hoặc “Ad” (advertising) có nghĩa là Google Adwords, và phần tiếp theo không có những chữ ấy kế bên đó là S.E.O (Search Engine Optimization – Tối ưu hóa công cụ tìm kiếm). Và theo thứ tự, các website đứng ở vị trí kế tiếp lần lượt được xem là có vị trí top 1, top 2, top 3 trên Google.
@@ -110,7 +110,7 @@ Khi bạn search từ khóa “máy chạy bộ”, bạn có thể nhìn thấy
 
 SEO (viết tắt của Search Engine Optimization) là tên gọi của các phương pháp được sử dụng nhằm cải thiện thứ hạng của một website trên trang kết quả công cụ tìm kiếm (và thông thường, công cụ đó chính là Google). SEO không chỉ giúp xây dựng website thân thiện với bộ máy tìm kiếm, mà còn giúp website chất lượng hơn trong mắt người dùng. Để cuối cùng, mục tiêu của SEO chính là: gia tăng số lượng & chất lượng lưu lượng truy cập (hay còn gọi là traffic) của khách hàng tiềm năng vào website.
 
-#### Google làm việc như thế nào?
+### Google làm việc như thế nào?
 Thu thập dữ liệu
 Thu thập dữ liệu là quá trình Googlebot phát hiện ra những trang mới và những trang được cập nhật để thêm vào chỉ mục của Google.
 
@@ -163,8 +163,8 @@ Cân nhắc triển khai các tính năng kết quả Tìm kiếm cho trang web 
 Triển khai AMP để trang tải nhanh hơn trên thiết bị di động. Một số trang AMP cũng đủ điều kiện cho các tính năng tìm kiếm bổ sung, chẳng hạn như băng chuyền tin bài hàng đầu.
 Chúng tôi đang liên tục cải thiện thuật toán của Google. Thay vì cố gắng đoán thuật toán và thiết kế trang của bạn theo đó, hãy tạo ra nội dung hữu ích, mới mẻ mà người dùng muốn và thực hiện theo các nguyên tắc của chúng tôi.
 
-### 4. Hướng dẫn dành cho người mới làm quen với Tối ưu hóa cho công cụ tìm kiếm (SEO)
-#### Trang của bạn có hiển thị trên Google không?
+## 4. Hướng dẫn dành cho người mới làm quen với Tối ưu hóa cho công cụ tìm kiếm (SEO)
+### Trang của bạn có hiển thị trên Google không?
 Xác định xem trang web của bạn có trong chỉ mục của Google không - Thực hiện phép tìm kiếm trang web: tìm kiếm đối với URL trang chủ trên trang web của bạn. Nếu thấy kết quả thì bạn đang ở trong chỉ mục. Ví dụ: thao tác tìm kiếm "site:wikipedia.org" sẽ trả về các kết quả như sau2.
 
 Nếu trang web của bạn không có trong Google - Dù Google thu thập dữ liệu hàng tỷ trang nhưng vẫn không thể tránh được việc một số trang web bị bỏ sót. Khi trình thu thập dữ liệu của chúng tôi bỏ sót một trang web thì thường là do một trong các nguyên nhân sau:
@@ -175,7 +175,7 @@ Thiết kế của trang web khiến Google khó thu thập dữ liệu nội du
 Google nhận được thông báo lỗi khi cố thu thập dữ liệu trang web của bạn
 Chính sách của bạn chặn không cho Google thu thập dữ liệu trang web
 
-#### Làm thế nào để đưa trang web của tôi lên Google?
+### Làm thế nào để đưa trang web của tôi lên Google?
 Việc thêm trang web vào kết quả tìm kiếm của Google rất dễ dàng và miễn phí, thậm chí bạn không cần gửi trang web của mình tới Google. Google là một công cụ tìm kiếm hoàn toàn tự động sử dụng trình thu thập dữ liệu web để liên tục khám phá web và tìm các trang web để thêm vào chỉ mục của chúng tôi. Trong thực tế, phần lớn các trang web được liệt kê trong kết quả của chúng tôi không được gửi theo cách thủ công để đưa vào chỉ mục, mà được tìm thấy và tự động thêm vào khi chúng tôi thu thập dữ liệu web. Tìm hiểu cách Google phát hiện, thu thập dữ liệu và phân phối các trang web.3
 
 Chúng tôi cung cấp nguyên tắc quản trị trang web4 về cách xây dựng một trang web thân thiện với Google. Mặc dù không có gì đảm bảo rằng trình thu thập dữ liệu của chúng tôi sẽ tìm thấy một trang web cụ thể, việc thực hiện theo nguyên tắc này sẽ làm cho trang web của bạn xuất hiện trong kết quả tìm kiếm của chúng tôi.
@@ -193,12 +193,12 @@ Bạn có thể tìm thêm thông tin về cách bắt đầu trên http://g.co/
 
 Phần còn lại của tài liệu này cung cấp hướng dẫn về cách cải thiện trang web của bạn cho công cụ tìm kiếm, được tổ chức theo chủ đề. Bạn có thể tải xuống danh sách kiểm tra ngắn và có thể in về các mẹo từ trang http://g.co/WebmasterChecklist7.
 
-#### Giúp Google tìm nội dung của bạn
+### Giúp Google tìm nội dung của bạn
 Bước đầu tiên để đưa trang web của bạn lên Google là đảm bảo rằng Google có thể tìm thấy trang đó. Cách tốt nhất để làm điều đó là gửi sơ đồ trang web. Sơ đồ trang web là một tệp trên trang web của bạn nhằm cung cấp thông tin cho các công cụ tìm kiếm về những trang mới hoặc đã thay đổi trên trang web. Tìm hiểu thêm về cách tạo và gửi sơ đồ trang web12.
 
 Google cũng tìm các trang thông qua liên kết từ các trang khác. Hãy xem phần Quảng bá trang web của bạn ở phần sau trong tài liệu này để tìm hiểu cách thúc đẩy mọi người tìm thấy trang web của bạn.
 
-#### Robots.txt - chỉ dẫn cho Google không thu thập dữ liệu những trang nào? 
+### Robots.txt - chỉ dẫn cho Google không thu thập dữ liệu những trang nào? 
 Đối với thông tin không nhạy cảm, hãy chặn quá trình thu thập dữ liệu không mong muốn bằng cách sử dụng robots.txt
 
 Tệp "robots.txt" cho công cụ tìm kiếm biết họ có thể truy cập và thu thập dữ liệu các phần trên trang web của bạn hay không. Tệp này phải được đặt tên là "robots.txt" và được đặt trong thư mục gốc của trang web. Có thể công cụ tìm kiếm vẫn thu thập được dữ liệu từ các trang bị robots.txt chặn, vì vậy, đối với những trang nhạy cảm bạn nên sử dụng một phương pháp an toàn hơn.
@@ -211,7 +211,7 @@ Robots.txt không phải là cách thích hợp hoặc hiệu quả để chặn
 
 Trong những trường hợp này, hãy sử dụng thẻ noindex nếu bạn chỉ muốn trang không xuất hiện trong Google nhưng không ngại việc bất kỳ người dùng nào có liên kết đều có thể truy cập vào trang. Tuy nhiên, để được bảo mật thật sự, bạn nên sử dụng các phương pháp ủy quyền thích hợp, như yêu cầu mật khẩu người dùng hoặc gỡ bỏ trang hoàn toàn khỏi trang web của bạn.
 
-#### Cho phép Google xem trang của bạn giống như cách người dùng vẫn xem
+### Cho phép Google xem trang của bạn giống như cách người dùng vẫn xem
 Khi thu thập dữ liệu một trang, Googlebot sẽ thấy trang giống như cách người dùng bình thường sẽ thấy15. Để hiển thị và lập chỉ mục tối ưu, luôn cho phép Googlebot truy cập vào các tệp JavaScript, CSS và hình ảnh được sử dụng trên trang web của bạn. Nếu tệp robots.txt của trang web không cho phép thu thập dữ liệu những phần tử này, tệp sẽ trực tiếp gây ảnh hưởng xấu đến cách các thuật toán của chúng tôi hiển thị và lập chỉ mục nội dung của bạn. Điều này có thể dẫn đến xếp hạng dưới mức tối ưu.
 
 **Tạo tiêu đề trang chính xác và riêng biệt**
@@ -246,7 +246,7 @@ Tránh:
 * Độ dài của title 65-70 ký tự MAX
 * Mỗi trang web phải có title khác nhau
 
-#### Sử dụng thẻ meta "mô tả"
+### Sử dụng thẻ meta "mô tả"
 Thẻ meta mô tả của trang cung cấp cho Google và các công cụ tìm kiếm khác phần tóm tắt nội dung của trang. Tiêu đề của trang có thể là một vài từ hoặc một cụm từ, trong khi đó thẻ meta mô tả trang có thể là một hoặc hai câu hay thậm chí một đoạn văn ngắn. Giống như thẻ <title>, thẻ meta mô tả được đặt trong phần tử <head> của tài liệu HTML của bạn.
 
 **Những ưu điểm của thẻ meta mô tả là gì?**
@@ -265,7 +265,7 @@ Sử dụng mô tả riêng biệt cho mỗi trang. Việc sử dụng thẻ met
 Tránh
 * Sử dụng một thẻ meta mô tả chung cho tất cả các trang hoặc một nhóm lớn các trang trên trang web của bạn.
 
-#### Sử dụng các thẻ tiêu đề để nhấn mạnh văn bản quan trọng
+### Sử dụng các thẻ tiêu đề để nhấn mạnh văn bản quan trọng
 Do thẻ tiêu đề thường chứa văn bản lớn hơn văn bản thông thường trên trang, đây là một gợi ý trực quan cho người dùng rằng văn bản này rất quan trọng và có thể giúp họ biết được phần nào về loại nội dung bên dưới văn bản tiêu đề. Nhiều kích thước tiêu đề được sử dụng để tạo cấu trúc phân cấp cho nội dung của bạn và điều này giúp người dùng dễ dàng di chuyển trong tài liệu của bạn.
 
 Hãy tưởng tượng bạn đang viết một bản phác thảo. Tương tự như việc viết một bản phác thảo cho một tài liệu lớn, hãy suy nghĩ về những điểm chính và điểm phụ của nội dung trên trang và quyết định vị trí thích hợp để sử dụng các thẻ tiêu đề.

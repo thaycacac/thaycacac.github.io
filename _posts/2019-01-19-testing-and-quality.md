@@ -24,7 +24,7 @@ Testing sẽ mang lại sự tự tin cho phần mềm nếu nó tìm thấy ít
 
 Khi test và tìm thấy defect chất lượng của phần mềm sẽ tăng lên khi mà lỗi đó được fixed những chúng phải được thực hiện đúng cách.
 
-### Quality là gì?
+## Quality là gì?
 
 Bất kể một project nào cũng đều được cung cấp các thông số kỹ thuật. Với các dự án phải giao cho khách hàng thì càng phải chính xác. Điều này như là `validation` (nó có phải là specification đúng không ?) và `verification` (hệ thống có chạy đúng với specification không?).
 

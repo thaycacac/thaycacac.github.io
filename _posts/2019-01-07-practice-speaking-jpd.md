@@ -19,7 +19,7 @@ keywords:
 ---
 Note lại đề thi nói Nhật 3 (JPD131).
 
-### Bài 8
+## Bài 8
 
 ```
 おとうさん/おかあさんはどこではたらいていますか
@@ -85,7 +85,7 @@ Note lại đề thi nói Nhật 3 (JPD131).
 - Tiếng Nhật, nước Nhật, phim Nhật, đại học FPT như thế nào?
 - Đẹp và nổi tiếng.
 
-### Bài 9
+## Bài 9
 
 ```
 ～さんはどんなスポーツができますか。
@@ -131,7 +131,7 @@ Note lại đề thi nói Nhật 3 (JPD131).
 
 - Sở thích của bạn ... là gì? (Xem tranh)
 
-### Bài 10
+## Bài 10
 
 ```
 きょうしつで写真をとってもいいですか。
@@ -189,7 +189,7 @@ FPT 大学から何が聞こえますか。
 - Năm sau bạn bao nhiêu tuổi?
 - Năm sau tôi 20 tuổi.
 
-### Bài 11
+## Bài 11
 
 ```
 毎朝	うんどうしていますか。/新聞を	読んでいますか。

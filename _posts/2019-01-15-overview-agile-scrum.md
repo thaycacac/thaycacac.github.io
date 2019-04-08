@@ -23,11 +23,11 @@ keywords: [
 
 Hiện nay trong các sản phẩm, người sử dụng luôn đặt ra các tính năng, yêu cầu nhiều hơn so với thực tế của họ. Theo thống kê của _Standish group_ vào năm 2002 thì có đến 45% các tính năng người sử dụng không bao giờ dùng đến. Cũng như khi bạn vào nhà hàng thay vì bạn gọi rất nhiều các món ăn trong khi bạn chỉ sử dụng 30% số đó và vẫn phải trả 100% số tiền thì bạn hãy gọi từng món ăn đến khi nào no thì bạn chỉ phải trả 30%. Có hợp lý không? Agile, Scrum cũng tương tự như vậy.
 
-### Agile là gì?
+## Agile là gì?
 
 Agile là tập hợp các nguyên lý của các mô hình phát triển phần mềm linh hoạt và nhanh chóng.
 
-### Tuyên ngôn của Agile
+## Tuyên ngôn của Agile
 
 - **Cá nhân và sự tương tác** hơn là quy trình và công cụ: Agile đề cao tính tương tác của con người, tính trách nhiệm của cá nhân hơn là các quy trình và các công cụ khác.
 - **Phần mềm chạy tốt** hơn là tài liệu đầy đủ: Tập trung tất cả nguồn nhân lực cho sản phẩm chạy được hơn là viết những tài liệu để có các bằng chứng với khách hàng.
@@ -40,13 +40,13 @@ Trong agile có nhiều hình thức triển khai dự án, và trong đó có `
 
 Tuy nhiên vẫn có một số dự án không phù hợp với dự án _Scrum_ đó là những dự án có nguyên tắc cố định và có những luật định không bao giờ thay đổi, không cần sự sáng tạo thì không nên sử dụng agile scrum tỷ dụ như dự án xây dựng phần mềm kế toán, phần mềm nghiệp vụ ngân hàng.
 
-### Thế nào là Scrum
+## Thế nào là Scrum
 
 Scrum hoạt động dựa trên những giai đoạn bước rút (Sprint), thường kéo dài từ 2 - 4 tuần.
 
 Scrum là mô hình thúc đẩy sự tương tác và gia tăng hoạt động tự quản lý dự án dựa trên việc tổ chức một nhóm nhỏ khoảng 5 - 9 người có khả năng chuyên sâu làm việc phụ thuộc lẫn nhau trong khoảng thời gian cố định.
 
-### Scrum framework
+## Scrum framework
 
 Khung làm việc của Scrum rất đơn giản
 
@@ -64,7 +64,7 @@ Kết thúc một _Sprint_ sẽ có một buổi họp thứ nhất là demo cho
 
 Tiếp tục chúng ta tổ chức _Sprint_ tiếp theo. Các _Sprint_ cứ tiếp tục như vậy cho đến khi khách hàng thoả mãn các tính năng của phần mềm.
 
-### Khung làm việc của Scrum
+## Khung làm việc của Scrum
 
 ![Khung lam viec Scrum](https://i.imgur.com/BEFH3Cn.png)
 
@@ -90,7 +90,7 @@ Event
 - **Sprint review**: là buổi để giới thiệu và demo sản phẩm với khách hàng khi kết thúc một sprint cũng là để lấy yêu cầu mong muốn thay đổi để thực hiện ở các _Sprint_ tiếp theo.
 - **Sprint retrospective**: là buổi họp rút kinh nghiệm của toàn đội dự á- để rút kinh nghiệm cho các _Sprint_ tiếp theo.
 
-### Giá trị của Scrum
+## Giá trị của Scrum
 
 Để hoàn thành dự án một cách nhanh chóng và thành công nhất, chúng ta phải tôn tọng các giá trị sau của Scrum:
 
@@ -100,7 +100,7 @@ Event
 - **Respect**: giá trị gắn kết giữa các thành viêc dự án với nhau, với khách hàng cũng như trong tổ chức.
 - **Courage**: giá trị của sự can đảm, lãnh nhận và cam kết công việc, can đảm công khai minh bạch mọi thông tin.
 
-### Trọng tâm của Scrum
+## Trọng tâm của Scrum
 
 Scrum có những trọng tâm, nguyên tắc mà khi sử dụng không được phép phá vỡ nó, đó là những nguyên tắc sau:
 
@@ -109,7 +109,7 @@ Scrum có những trọng tâm, nguyên tắc mà khi sử dụng không đượ
 - **Shippable code**: sản phẩm phải chạy được là trọng tâm của dự án. Các yêu cầu phải được làm và hoàn thiện gọn gàng hoàn chỉnh và sản phẩm được đóng gói nhiều lần theo từng giai đoạn để sử dụng thử và cải tiến.
 - **Enough to start**: vừa đủ để thực hiện - các hoạt động của Scrum được diễn ra khi thông tin vừa đủ để bắt đầu, không chờ đến khi mọi thức được rõ ràng và đầy đủ mới được thực hiện.
 
-### Vai trò và trách nhiệm của từng vị trí
+## Vai trò và trách nhiệm của từng vị trí
 
 Product Owner
 

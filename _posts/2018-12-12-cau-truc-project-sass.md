@@ -20,7 +20,7 @@ keywords:
 
 Khi một project phát triển và mở rộng, việc mô-đun hoá và cấu trúc là thiết yếu. Vì vậy việc tổ chức tệp tin và folder là việc cần thiết mặc dù không có cấu trúc nào "hoàn toàn chính xác" mà nó phụ thuộc vào bạn, dưới đây chỉ là cấu trúc dành cho bạn để tham khảo.
 
-### Cấu trúc dự án Sass như thế nào?
+## Cấu trúc dự án Sass như thế nào?
 
 Các tập tin riêng biệt sẽ đại diện cho các components khác nhau. Sau đó import bằng cách sử dụng `@import` vào trong một file chính đặt là _main.scss_. Ví dụ:
 
@@ -39,7 +39,7 @@ Tạo folder layout để chứa các file dành cho các phần bố cục cụ
 
 _Lưu ý:_ Tên của các tệp luôn bắt đầu bằng dấu gạch dưới `_` để import.
 
-### Cấu trúc đơn giản
+## Cấu trúc đơn giản
 
 Nếu như bạn đang làm một project nhỏ với sass ví dụ như một single web page. Một cấu trúc tối thiếu sẽ như sau:
 
@@ -60,7 +60,7 @@ Với 3 file bên trên sẽ được import vào file _main.scss_
 Nếu như project của bạn phát triển và nó khiến cho việc cấu trúc như trên rắc rôi và khó quản lý thì bạn hãy tách chúng nhỏ ra thành các file nhỏ để dễ quản lý như _\_button.scss_ và _\_carousel.scss_
 Tuy nhiên làm việc với những project lớn thì chúng ta cần cấu trúc một cách chặt chẽ hơn. Hãy xem phần tiếp theo dưới đây.
 
-### 7–1 Pattern
+## 7–1 Pattern
 
 Kiến trúc được gọi là _7–1 pattern_ (7 folders, 1 file), là một cấu trúc được áp dụng rộng rãi làm cơ sở cho các dự án lớn. Chúng ta có tất cả 7 folders khác nhau để bỏ các thành phần vào và một file nằm ở cấp gốc (thường đặt là _main.scss_) để xử lí việc import các file còn lại và cũng là tập để biên dịch thành CSS.
 Dưới đây là một ví dụ sử dụng cấu trúc 7-1 pattern và có ví dụ một số file nằm ở trong mỗi thư mục:

@@ -5,22 +5,25 @@ subtitle: Phong cách code cho CSS
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [code]
-tags: [css]
-keywords:
-  [
-    thaycacac,
-    css,
-    code css,
-    thế nào là code css chuẩn,
-    style code css,
-    code css như thế nào,
-    code css nhu the nao,
-  ]
+tags: [css, frontend]
+description: Là một lập trình viên, bạn cần phải biết các code css cho chuẩn, cách đặt tên class cho css hay cấu trúc css là những thứ vô cùng quan trọng mà bạn cần phải học
+keywords: [
+  comment code css,
+  cau truc css,
+  html5 css3,
+  css chuẩn w3c,
+  cach viet css chuan,
+  cách dùng css,
+  khoảng cách chữ css,
+  css cho header,
+  quy tắc đặt tên class css,
+  scss là gì
+]
 ---
 
 Khi thiết kế và phát triển web, đôi lúc chúng ta gặp khó khăn trong việc tổ chức và quản lý code CSS. Nhiều nhà thiết kế website nghĩ rằng việc tổ chức và quản lý code thật là rắc rối, tuy nhiên nếu bạn đưa chúng vào một tiêu chuẩn cụ thể, thì sẽ giúp cho công việc của bạn tốt hơn, cũng như website của bạn sẽ hoạt động và có khả năng cải tiến tốt hơn trong tương lai.
 
-### Cú pháp
+## Cú pháp
 
 Sử dụng tabs ngắn (2 khoảng trắng) - đó là cách để đảm bảo code được dịch giống nhau trong mọi môi trường.
 
@@ -61,7 +64,7 @@ Khi có bộ chọn (selectors), hãy giữ mỗi bộ chọn nằm trên một 
 }
 ```
 
-### Thứ tự khai báo
+## Thứ tự khai báo
 
 1. Định vị trí (Positioning)
 2. Kiểu hình khối (Box model)
@@ -104,7 +107,7 @@ Các thành phần còn lại hãy đặt theo từng thành phần tương ứn
 }
 ```
 
-### Không sử dụng @import
+## Không sử dụng @import
 
 So với các `<link>`, @import sẽ chậm hơn, nó sẽ cần nhiều yêu cầu từ trang hơn và không dự tính được hết các lỗi có thể xảy ra. Hãy dùng một số cách thay thế sau thay vì sử dụng @import:
 
@@ -121,7 +124,7 @@ So với các `<link>`, @import sẽ chậm hơn, nó sẽ cần nhiều yêu c�
 <link rel="stylesheet" href="core.css" />
 ```
 
-### Vị trí đặt Media query
+## Vị trí đặt Media query
 
 Hãy đặt Media query gần với bộ chọn có liên quan khi có thể. Đừng gom tất cả các quy tắc trong một khu vực riêng biệt như phần cuối trang.
 
@@ -149,7 +152,7 @@ Hãy đặt Media query gần với bộ chọn có liên quan khi có thể. Đ
 }
 ```
 
-### Thuộc tính tiền tố
+## Thuộc tính tiền tố
 
 Khi sử dụng các thuộc tính tiền tố (Prefixed properties), hãy thụt đầu dòng vào dể các giá trị có thể thẳng hàng với nhau giúp dễ dàng để thay đổi giá trị.
 
@@ -160,7 +163,7 @@ Khi sử dụng các thuộc tính tiền tố (Prefixed properties), hãy thụ
 }
 ```
 
-### Khai báo CSS đơn
+## Khai báo CSS đơn
 
 Trong trường hợp chỉ có 1 định nghĩa CSS, hãy loại bỏ những ngắt dòng để có thể dễ chỉnh sửa hơn. Còn lại thì nên xuống dòng
 
@@ -196,7 +199,7 @@ Trong trường hợp chỉ có 1 định nghĩa CSS, hãy loại bỏ những n
 }
 ```
 
-### Kí hiệu viết tắt
+## Kí hiệu viết tắt
 
 Hãy hạn chế các kí hiệu viết tắt, thay vào đó hãy định nghĩa rõ ràng các giá trị. Các thuộc tính viết tắt thường được sử dụng nhiều bao gồm:
 
@@ -227,7 +230,7 @@ Hãy hạn chế các kí hiệu viết tắt, thay vào đó hãy định nghĩ
 }
 ```
 
-### Bộ chọn
+## Bộ chọn
 
 - Sử dụng Class cho những tag để tối ưu hiệu suất dịch code.
 - Hạn chế chọn phần tử kiểu chọn theo thuộc tính (attribute) (ví dụ `[class^="..."]`) . Hiệu suất trình duyệt sẽ bị ảnh hưởng.
@@ -246,7 +249,7 @@ span { ... }
 .tweet .avatar { ...
 ```
 
-### Chú thích
+## Chú thích
 
 - Nên dùng hai gạch (`//`) để đặt chú thích.
 - Nên đặt chú thích trên một dòng riêng, không đặt ở cuối dòng.
@@ -254,7 +257,7 @@ span { ... }
   - Sử dụng `z-index`
   - Khả năng tương thích và trình duyệt
 
-### Đặt tên Class
+## Đặt tên Class
 
 Khuyến khích một số cách kết hợp giữa OOCSS và BEM cho những lý do sau:
 
@@ -351,7 +354,7 @@ Khuyến khích một số cách kết hợp giữa OOCSS và BEM cho những l�
 }
 ```
 
-### JavaScript hook
+## JavaScript hook
 
 Nên tạo ra các class riêng cho JavaScript để gắn kết, tiền tố bắt đầu với `.js-`:
 
