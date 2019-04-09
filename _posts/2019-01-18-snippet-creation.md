@@ -5,21 +5,20 @@ subtitle: Hướng dẫn tự tạo snippet cho riếng bạn trong Visual Studi
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [code]
-tags: [vs code]
+tags: [fpt university]
+description: Hướng dẫn tạo snippet trong vs code, snippet là gì và tại sao cần phải tạo snippet chúng ta có thể xem bài viết để hiểu hơn
 keywords: [
-    snippet,
-    tạo snippet,
-    tao snippet,
-    snippet là gì
-    snippet la gi
-    tự tạo snippet,
-    tu tao snippet,
-    hướng dẫn tạo snippet,
-    huong dan tao snippet,
-    tips trong vs code,
-    thủ thuật trong vs code,
-    thu thuat trong vs code,
-  ]
+  snippet la gi,
+  code snippets la gi,
+  trigger code snippet,
+  snippet code la gi,
+  sublime text 3 la gi,
+  snippet meaning,
+  snippet visual studio code,
+  cac extension hay cho visual studio code,
+  goi y code visual studio,
+  snippet trong visual studio code
+]
 ---
 
 Snippet là một đoạn code được định nghĩa sẵn và gắn vào một từ khoá nào đó, khi cần dùng thì ta sẽ gọi từ khoá đó để chèn nội dung mà ta đã định nghĩa. Với snippet, quá trình gõ code của bạn sẽ nhanh hơn vì bạn sẽ không phải gõ đi gõ lại nhiều đoạn code giống nhau. Bài viết này sẽ hướng dẫn bạn làm thế nào để tạo, snippet trong Visual Studio Code. Bài viết này tôi viết cho MacOS và ở window cũng tương tự nhé.

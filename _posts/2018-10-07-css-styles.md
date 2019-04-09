@@ -5,7 +5,7 @@ subtitle: Phong cách code cho CSS
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [code]
-tags: [css, frontend]
+tags: [css, front end]
 description: Là một lập trình viên, bạn cần phải biết các code css cho chuẩn, cách đặt tên class cho css hay cấu trúc css là những thứ vô cùng quan trọng mà bạn cần phải học
 keywords: [
   comment code css,

@@ -1,22 +1,23 @@
 ---
 layout: post
-title: Unit Test là gì?
-subtitle: Tổng hợp kiến thức về Unit test
+title: Unit Test
+subtitle: Testing dẫn đến failure, và failure dẫ đến sự hiểu biết
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [code]
-tags: [testing]
+tags: [testing, fpt university]
+description: Khi vòng đời của một sản phẩm thì không thể thiếu công đoạn test, trong công việc test thì phải nhắc đến unit test, vậy unit test là gì, tại sao lại phải sử dụng kỹ thuật unit test, và tạo ra một unit test như thế nào
 keywords: [
-    thaycacac,
-    unit test là gì,
-    unit test la gi,
-    tạo một unit test như thế nào,
-    tao mot unit test nhu the nao,
-    tạo unit test,
-    tao unnit test,
-    unit test,
-    thế nào là unit test,
-    the nao la unit test
+  unit test c,
+  unit test tutorial,
+  unit test java,
+  theme unit test la gi,
+  demo unit test,
+  kiem thu on vi unit testing,
+  cách viết unit test tốt,
+  ai là người viết unit test,
+  test case là gì,
+  ví dụ về unit test c#
 ]
 ---
 

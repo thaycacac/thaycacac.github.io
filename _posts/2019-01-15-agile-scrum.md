@@ -1,24 +1,24 @@
 ---
 layout: post
-title: Thế nào là Agile, Scrum?
+title: Agile & Scrum
 subtitle: Giới thiệu chắt lọc kiến thức về Agile và cách làm việc hiệu quả với Scrum
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [share]
 tags: [agile, scrum]
+description: Tìm hiểu kiến thức agile là gì và cách làm việc hiệu quả với scrum, chúng ta có nên áp dụng agile vào dự án của mình không, sử dụng scrum như thế nào? tất cả có trong bài viết này
 keywords: [
-    thaycacac,
-    agile,
-    scrum,
-    agile la gi
-    agile là gì
-    cái gì là agile,
-    cai gi la agile,
-    scrum la gi,
-    scrum là gì,
-    cái gì là scrum,
-    cai gi la scrum,
-  ]
+  agile là gì,
+  agile là gì wikipedia,
+  agile nghia la gi,
+  agile model la gi,
+  agile model là gì,
+  scrum wiki,
+  scrum model,
+  sprint in scrum,
+  agile scrum tutorial,
+  moi truong agile la gi
+]
 ---
 
 Hiện nay trong các sản phẩm, người sử dụng luôn đặt ra các tính năng, yêu cầu nhiều hơn so với thực tế của họ. Theo thống kê của _Standish group_ vào năm 2002 thì có đến 45% các tính năng người sử dụng không bao giờ dùng đến. Cũng như khi bạn vào nhà hàng thay vì bạn gọi rất nhiều các món ăn trong khi bạn chỉ sử dụng 30% số đó và vẫn phải trả 100% số tiền thì bạn hãy gọi từng món ăn đến khi nào no thì bạn chỉ phải trả 30%. Có hợp lý không? Agile, Scrum cũng tương tự như vậy.

@@ -1,21 +1,24 @@
 ---
 layout: post
-title: Bạn có hiểu setState trong React?
+title: setState trong React
 subtitle: Nếu bạn muốn tìm hiểu sâu hơn về cách mọi thứ hoạt động.
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [code]
-tags: [reactjs]
-keywords:
-  [
-    thaycacac,
-    reactjs,
-    setstate,
-    bạn hiểu gì về setstate,
-    ban hieu gi ve set state,
-    nguyên lý hoạt động của setstate,
-    nguyen ly hoat dong setstate,
-  ]
+tags: [reactjs, front end]
+description: Bạn có muốn tìm hiểu rõ hơn về cách hoạt động của setState trong react/ react native không? Bài viết này sẽ giải đáp thắc mắc, nguyên lý của hà setState trong react/ react native
+keywords: [
+  reactjs,
+  setstate reactjs,
+  setstate react native,
+  truyền dữ liệu trong react native,
+  quan ly state trong react native,
+  truyền dữ liệu component react
+  setState() hoạt động như thế nào,
+  setState() hoat dong nhu the nao,
+  ham setstate trong react,
+  setstate trong react native
+]
 ---
 
 Khi bạn gọi **setState** ở trong một component, điều gì đã xảy ra?

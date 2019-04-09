@@ -1,15 +1,23 @@
 ---
 layout: post
-title: Testing ảnh hưởng gì đến Software quality
-subtitle: Testing ảnh hưởng gì đến chất lượng phần mềm
+title: Testing ảnh hưởng gì đến Software Quality
+subtitle: Tìm hiểu về testing ảnh hưởng gì đến chất lượng phần mềm
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [share]
-tags: [testing]
+tags: [testing, fpt university]
+description: Bạn có bao giờ tự hỏi test để làm gì? Bài viết này chúng ta sẽ tìm hiểu xem testing ảnh hưởng gì đến quality và quality của phần mềm thì có liên quan gì đến testing.
 keywords: [
-thaycacac,
-testing,
-quality
+  tester la gi,
+  software testing la gi,
+  tai lieu kiem thu phan mem,
+  hoc gi e tro thanh tester,
+  what is tester,
+  các giai đoạn kiểm thử phần mềm,
+  software defects,
+  tổng quan về kiểm thử phần mềm,
+  các kỹ thuật kiểm thử phần mềm,
+  tự học tester
 ]
 ---
 
@@ -24,8 +32,7 @@ Testing sẽ mang lại sự tự tin cho phần mềm nếu nó tìm thấy ít
 
 Khi test và tìm thấy defect chất lượng của phần mềm sẽ tăng lên khi mà lỗi đó được fixed những chúng phải được thực hiện đúng cách.
 
-## Quality là gì?
-
+**Quality là gì?**
 Bất kể một project nào cũng đều được cung cấp các thông số kỹ thuật. Với các dự án phải giao cho khách hàng thì càng phải chính xác. Điều này như là `validation` (nó có phải là specification đúng không ?) và `verification` (hệ thống có chạy đúng với specification không?).
 
 Định nghĩa bảng chú giải của ISTQB nói rằng quality không chỉ bao gồm những specified requirements mà nó còn bao gồm cả những gì user và customer cần và mong đợi. Khi làm việc cần phải thống nhất với khách hàng những gì mà họ mong đợi. Dưới phương diện của developers và tester thì quality là phần mềm đáp ứng được các đặc điểm kỹ thuật xác định. Để so sánh những kỳ vọng của mọi người thì bảng dưới đây sẽ tóm tắt và giải thích quan điểm quality trong phần mềm và việc chọn cà chua để nhìn thấy cách tiếp cận khác nhau.

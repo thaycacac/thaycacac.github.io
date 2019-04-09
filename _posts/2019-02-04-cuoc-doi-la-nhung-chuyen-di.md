@@ -5,19 +5,14 @@ subtitle: Cuộc sống buông thả vẫn nhè nhẹ trôi, thấy ta rành v�
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [mylife]
-tags: [mylife]
-image: js-1.png
-keywords:
-  [
-    thaycacac,
-    phạm ngọc hoà,
-    pham ngoc hoa,
-    phượt,
-    chia sẻ cuộc sống,
-    du lịch,
-    travel,
-    trải nghiệm
-  ]
+image: chua-ba-vang.jpg
+tags: [travel]
+keywords: [
+  thaycacac,
+  phạm ngọc hoà,
+  pham ngoc hoa,
+  hoapnse05740
+]
 ---
 
 Tôi thích đi nhiều nơi khi tôi còn trẻ, khi đôi chân còn đủ sức lang bạt trên những chặng đường dài hay tha thẩn trong những ngõ trưa vắng nắng. Tôi thích được thấy những hình ảnh mới của cuộc sống, đời thường và chân thật của con người và đất nước tươi đẹp của mình khi mắt tôi vẫn còn thấy được ánh sáng bình minh mỗi sáng tôi thức dậy. Tôi thích cảm giác mới mẻ của đất trời, được nhìn tận mắt những thứ giản dị, phóng khoáng những nơi tôi đến, khi tôi còn có thể cảm nhận được cuộc sống này...

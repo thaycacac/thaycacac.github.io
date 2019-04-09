@@ -1,21 +1,24 @@
 ---
 layout: post
 title: Cấu trúc project Sass
-subtitle: Học cách cấu trúc một project Sass cho hợp lý và dễ bảo trì
+subtitle: Học cách cấu trúc thư mục một project Sass cho hợp lý và dễ bảo trì
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [code]
-tags: [sass]
-keywords:
-  [
-    thaycacac,
-    cấu trúc project sass,
-    cau truc project sass,
-    cau truc sass,
-    cấu trúc sass,
-    sass là gì,
-    sass la gi,
-  ]
+tags: [sass, css, front end]
+description: Khi một project sass/scss phát triển và mở rộng, việc mô-đun hoá và cấu trúc là thiết yếu. Vì vậy việc tổ chức tệp tin và folder của sass/scss là việc cần thiết. Bạn có thể tham khảo cách dưới đây có một project sass/scss hợp lý
+keywords: [
+  sass structure,
+  cau truc thu muc sass,
+  hoc sass,
+  scss file,
+  scss syntax,
+  học sass,
+  sass cơ bản,
+  sass default,
+  css preprocessor là gì,
+  scss file
+]
 ---
 
 Khi một project phát triển và mở rộng, việc mô-đun hoá và cấu trúc là thiết yếu. Vì vậy việc tổ chức tệp tin và folder là việc cần thiết mặc dù không có cấu trúc nào "hoàn toàn chính xác" mà nó phụ thuộc vào bạn, dưới đây chỉ là cấu trúc dành cho bạn để tham khảo.

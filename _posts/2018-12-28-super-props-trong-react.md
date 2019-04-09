@@ -1,20 +1,24 @@
 ---
 layout: post
-title: Tại sao chúng ta lại viết super(props) trong React?
+title: super(props) trong React
 subtitle: Nếu bạn muốn tìm hiểu sâu hơn về cách mọi thứ hoạt động.
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [code]
-tags: [reactjs]
-keywords:
-  [
-    thaycacac,
-    tại sao viết super props,
-    super trong react để làm gì,
-    super reactjs de lam gi,
-    ý nghĩa của super trong reactjs,
-    y nghia cua super trong reactjs,
-  ]
+tags: [reactjs, front end]
+description: Ai từng code react đều biết super(props) nhưng bạn có thực sự hiểu ý nghĩa của super(props) trong react không. Chúng ta hãy tìm hiểu sâu hơn về cách hoạt động của react nhé.
+keywords: [
+  react component props state,
+  vòng đời component react native,
+  tim hiểu reactjs,
+  props và state trong react native,
+  component trong react,
+  props react,
+  tự học reactjs,
+  reactjs nâng cao,
+  props la gi,
+  props and state in react
+]
 ---
 
 Điều này không quan trọng khi bạn sử dụng React hiệu quả nhưng bạn sẽ cảm thấy chúng thú vị hoặc muốn tìm hiểu sâu hơn về cách hoạt động.

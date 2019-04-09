@@ -6,16 +6,6 @@ gh-repo: thaycacac/thaycacac.github.io
 categories: [share]
 gh-badge: [japanese]
 tags: [share]
-keywords:
-  [
-    thaycacac,
-    jpd131,
-    đề thi nói nhật,
-    de thi noi nhat,
-    thi nói nhật,
-    thi noi nhat,
-    jpd,
-  ]
 ---
 Note lại đề thi nói Nhật 3 (JPD131).
 

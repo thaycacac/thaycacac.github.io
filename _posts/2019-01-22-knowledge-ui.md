@@ -1,23 +1,24 @@
 ---
 layout: post
-title: Kiến thức về UI
+title: Nghệ thuật UI
 subtitle: Tổng hợp kiến thức về UI cho designer
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [share]
 tags: [design]
+description: Có bạn đã nghe về UI/ UX rồi nhưng bạn có biết chúng là cái gì, làm công việc gì không? Bài viết này mình sẽ giúp các bạn hiểu qua về UI và tập trung vào các kỹ thuật trong UI
 keywords: [
-    thaycacac,
-    ux ui là gì,
-    kiến thức về ui,
-    kien thuc ve ui,
-    ui la gi,
-    ui là gì,
-    thủ thuật trong thiết kế,
-    thu thuat trong thiet ke,
-    thủ thuật design,
-    thu thuat design
-  ]
+  ui ux,
+  ui website,
+  ui kit la gi,
+  ui ux cho web,
+  ui design,
+  ui designer,
+  user experience design,
+  ui ux designer tuyen dung,
+  học thiết kế ui ux,
+  quy trình thiết kế ui
+]
 ---
 
 Có bạn đã nghe về UI/ UX rồi nhưng bạn có biết chúng là cái gì, làm công việc gì không? Bài viết này mình sẽ giúp các bạn hiểu qua về UI và tập trung vào các kỹ thuật trong UI.
