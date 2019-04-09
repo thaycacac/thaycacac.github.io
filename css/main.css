@@ -793,3 +793,8 @@ td.gutter {
 .is-footer {
   bottom: 0;
 }
+
+/** Custom specify*/
+#this-is-lock {
+  text-align: center;
+}
