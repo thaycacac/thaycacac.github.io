@@ -21,8 +21,6 @@ Mỗi khi đi xa, tôi mang theo nỗi nhớ về nhà mình về những điề
 
 Tôi rất thích câu nói **"Cuộc đời là những chuyến đi"** bởi vì với tôi thì sống là để _trải nghiệm_, đi ở đây là những cuộc hành trình, không phải đi để đến. Mỗi ngày là một cuộc hành trình, và cuộc hành trình bản thân nó chính là nhà... Hơn nữa tôi còn một kỷ niệm với câu nói này, trong một chuyến đi của tôi không may gặp phải một tai nạn mà mà chắc là ít ai nghĩ là tôi có thể sống với lần tai nạn đó, trên chiếc mũ bảo hiểm có viết `Cuộc đời là những chuyến đi` :)).
 
-<!-- ## Ba Vàng - Yên Tử -->
-
 Bạn còn trẻ, xăng còn rẻ, đôi chân còn khỏe. Một lần trong đời, hãy xách ba lô lên và đi, tìm kiếm cho mình những niềm vui và trải nghiệm mới, đừng sợ mệt, đừng sợ ngày mai, đừng ngại không có tiền. Mỗi chuyến đi hãy tự tạo thử thách cho bản thân, dám làm những điều người khác không dám làm, nghĩ những điều người khác không dám nghĩ. Tôi không thích việc đọc review trước khi đi, vì tôi muốn chính mình được trải nghiệm những điều mới mẻ một cách tự nhiên nhất, tôi cũng không bao giờ nhớ đường đi bởi vì "Một nửa cái thú vui của việc đi là nghệ thuật đi lạc". Chúng tôi đi chuyến đi với gần 24h đồng hồ, với khoảng hơn 10 tiếng đi bộ và leo núi, đi khoảng 300 cây số trên đường, chân tay mệt đến rã rời đến khi ra lấy xe mới biết là mình là những người cuối cùng còn ở lại... cái cảm giác lần đầu được trải nghiệm thật sự là khó mà quên được.
 
 ![travel1](https://i.imgur.com/JGN9fiv.jpg)
