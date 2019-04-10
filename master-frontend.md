@@ -6,7 +6,7 @@ subtitle: Make everything okey
 
 ### Plan
 
-- Step 1: Learn HTML, CSS + Assignment
+- **Step 1: Learn HTML, CSS + Assignment**
 - Step 2: Learn framework CSS + process CSS preprocessor + Assignment
 - Step 3: Learn basic javascript + Assignment
 - Step 4: Learn framework frontend + Assignment
