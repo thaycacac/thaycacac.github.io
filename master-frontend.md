@@ -6,11 +6,11 @@ subtitle: Make everything okey
 
 ### Plan
 
-- :large_blue_circle: Step 1: Learn HTML, CSS + Assignment
-- :x: Step 2: Learn framework CSS + process CSS preprocessor + Assignment
-- :x: Step 3: Learn basic javascript + Assignment
-- :x: Step 4: Learn framework frontend + Assignment
-- :x: Step 5: Create Project
+:large_blue_circle: Step 1: Learn HTML, CSS + Assignment
+:x: Step 2: Learn framework CSS + process CSS preprocessor + Assignment
+:x: Step 3: Learn basic javascript + Assignment
+:x: Step 4: Learn framework frontend + Assignment
+:x: Step 5: Create Project
 
 ### Reference
 
