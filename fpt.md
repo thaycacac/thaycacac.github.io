@@ -25,10 +25,27 @@ subtitle: Share my experience
 
 - [Slide, Assignments, Workshop, Code example, Exercies](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing) - học thầy CauPD.
 - [Test - CauPD](https://www.youtube.com/watch?v=ZkI1jRlT7Pk)
-- [Practical Exam](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing): bao gồm example PE và source để chuẩn bị cho việc coppy khi thi PE.
+- [Practical Exam](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing): bao gồm example PE và source để chuẩn bị cho việc coppy khi thi PE (mình thi 10).
 - [Final Exam](https://drive.google.com/drive/folders/1Hsl4dWE1_OOvxJl1PEsAQnUBQCcAVRgR?usp=sharing): chủ yếu là luyện đọc hiểu code.
 
 #### SSG101 - Working in Group Skills
 
-- [Source Project](https://drive.google.com/drive/folders/0B7iEYGblY5QwN2E0c3Fkd2lXUDg?usp=sharing) toàn bộ source quá trình làm dự án của team mình. [Fast & Furious](https://www.facebook.com/fast.furious.fpt/)
+- [Source Project](https://drive.google.com/drive/folders/0B7iEYGblY5QwN2E0c3Fkd2lXUDg?usp=sharing) toàn bộ source quá trình làm dự án của team mình - [Fast & Furious](https://www.facebook.com/fast.furious.fpt/)
 - [Final Exam](https://quizlet.com/243222059/) trúng hết nhé
+
+### Semester 2
+
+#### DBI202 - Introduction to Databases
+
+- [Practice](https://drive.google.com/drive/folders/1FyboAPGD96WV2_JtT22yPuT5coTq1hi1?usp=sharing): để thực hành một số database như northwind, sakila,...
+- [PROJECT](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): database quản lý ký túc xá (mình được 9.5)
+- [Practical Exam](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): một số ví dụ đề thi pe
+- [Final Exam](https://quizlet.com/283436881/): tầm 9đ, mấy câu 2nf, 3nf.. nên hiểu
+
+#### PRO201 - Front-end Web Development
+
+#### PRO192 - Object-Oriented Programming
+
+#### MAD101 - Discrete mathematics
+
+#### LAB101 - C Lab
