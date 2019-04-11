@@ -62,4 +62,24 @@ subtitle: Share my experience
 
 #### LAB101 - C Lab
 
-[Lab](https://drive.google.com/drive/folders/1VXCUqOPP2JZUtEptxHp6OgUPfDGqh-2q?usp=sharing)
+- [Lab](https://drive.google.com/drive/folders/1VXCUqOPP2JZUtEptxHp6OgUPfDGqh-2q?usp=sharing)
+
+### Semester 3
+
+#### PRJ311 - Desktop Java Applications
+
+- [Practice PE](https://github.com/thaycacac/java/tree/master/%5BPRJ311%5D%20Desktop%20Java%20Applications/PE%20PRACTICE)
+- [Source For PE](https://github.com/thaycacac/java/tree/master/%5BPRJ311%5D%20Desktop%20Java%20Applications/KEY%20PE)
+- [Final Exam](https://quizlet.com/390863863/) không nhớ trúng không (thi được 8)
+
+#### LAB211 - OOP with Java Lab
+
+- [Lab](https://github.com/thaycacac/java/tree/master/%5BLAB211%5D%20OOP%20with%20Java%20Lab): full đề bài và full code
+- [Pass TuanVm](https://github.com/Sharp-Team/oop-javalab-master): đây là 3 bài mình pass TuanVM
+
+#### OSG202 - Operating Systems
+
+- [Book & Test](https://drive.google.com/drive/folders/17QIKSXrUlGZVJt3J-ceQ3rSXeYkCc025?usp=sharing): full test trên lớp của SonNT5
+- [Final Exam](https://quizlet.com/390866176/)
+
+#### JPD111 - Elementary Japanese 1.1
