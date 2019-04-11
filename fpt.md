@@ -38,14 +38,28 @@ subtitle: Share my experience
 #### DBI202 - Introduction to Databases
 
 - [Practice](https://drive.google.com/drive/folders/1FyboAPGD96WV2_JtT22yPuT5coTq1hi1?usp=sharing): để thực hành một số database như northwind, sakila,...
-- [PROJECT](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): database quản lý ký túc xá (mình được 9.5)
+- [Project](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): database quản lý ký túc xá (mình được 9.5 cô ChiNQ)
 - [Practical Exam](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): một số ví dụ đề thi pe
 - [Final Exam](https://quizlet.com/283436881/): tầm 9đ, mấy câu 2nf, 3nf.. nên hiểu
 
 #### PRO201 - Front-end Web Development
 
+- [Lab](https://drive.google.com/drive/folders/1R0dOhVNsh4grSCKmInMovTqwzm-3E8em?usp=sharing): thầy CauPD
+- [Project](https://github.com/thaycacac/blog-sharp-front-end): một trang blog team (mình được 10)
+- [Final Exam](https://www.javatpoint.com/javascript-quiz?fbclid=IwAR2tv7HDHRV11WtIqpGd4VHWZiKsO3mbe4X1-bYKV0o48hX-wW_tJH_J3Kk): học trên này > 8
+
 #### PRO192 - Object-Oriented Programming
+
+- [Homework, Code In Class](https://www.youtube.com/watch?v=CUippyBb0MI&list=PLhzwgSOATUj18xZbubYqnguY4k3XTZNNE) thầy DuyDT
+- [Assignment](https://drive.google.com/drive/folders/19pnt44hOMcV6EtLou9E7BHsocAc4Nrid?usp=sharing): bài cuối kỳ thầy DuyDT (mình được 10)
+- [Practical Exam](https://drive.google.com/drive/folders/1q1kf_s6S74LcxvkGqrqdM_5-NoAUnzEj?usp=sharing): không biết vứt đâu hết.
+- [Final Exam](https://drive.google.com/drive/folders/1sTsOr_QC3gq_Af9wXy_FD3K0SxtmqlrD?usp=sharing)
 
 #### MAD101 - Discrete mathematics
 
+- [Book](https://drive.google.com/drive/folders/1ezLJrUTDrgh1tjupX4Sfi08yK6DZ6CQy?usp=sharing)
+- Final Exam: nên tìm cao nhân chỉ bảo.
+
 #### LAB101 - C Lab
+
+[Lab](https://drive.google.com/drive/folders/1VXCUqOPP2JZUtEptxHp6OgUPfDGqh-2q?usp=sharing)
