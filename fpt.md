@@ -4,7 +4,7 @@ title: FPT University
 subtitle: Share my experience
 ---
 
-### Semester 1
+### [Semester 1](#)
 
 #### MAE101 - Mathematics for Engineering
 
@@ -64,10 +64,7 @@ subtitle: Share my experience
 
 - [Lab](https://drive.google.com/drive/folders/1VXCUqOPP2JZUtEptxHp6OgUPfDGqh-2q?usp=sharing)
 
-
-
-
-### Semester 3
+### [Semester 3](#)
 
 #### PRJ311 - Desktop Java Applications
 
@@ -88,13 +85,44 @@ subtitle: Share my experience
 - [Final Exam Image](https://drive.google.com/drive/folders/17QIKSXrUlGZVJt3J-ceQ3rSXeYkCc025?usp=sharing): key ảnh mình trúng tầm 80%
 
 #### JPD111 - Elementary Japanese 1.1
+
 - [Final Exam](https://drive.google.com/drive/folders/1vZ2D_eIPeK2JOXc1GgtXak2tPg6Hicq6?usp=sharing): để tham khảo, ngày trước mình học block5 trúng hết
 - [Speaking](https://www.youtube.com/watch?v=K16oJkxnYt8&feature=youtu.be)
 
 #### CSD201 - Data Structures and Algorithms
+
 - [Assignment 1](https://github.com/thaycacac/cute-editor-javaswing) code editor sử dụng stack (học SonNT5)
 - [Assignment 2](https://github.com/thaycacac/railway-system-vietnam) hệ thống chỉ đường sắt trên cao
 - [Code In Class](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20-%20Data%20Structures%20and%20Algorithms)
 - [Practical Exam](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20-%20Data%20Structures%20and%20Algorithms/8-KEY%20PE): vào chỉ việc copy paste thôi, khoảng 9 - 10 điểm
 - [Final Exam](https://drive.google.com/drive/folders/1wyj8L21HAxTTL3Z311qMHtBEK6WLgay9?usp=sharing): trúng hết
 
+### [Semester 4](#)
+
+#### NWC202 - Computer Networking
+
+- [Final Exam](https://drive.google.com/drive/folders/1V5ax-ej6xR-WHeGyHsdcHEJ40gBt5n2t?usp=sharing): trung 80 - 90%
+
+#### PRJ321	- Web-Based Java Applications
+
+- [Work shop 1 & 2](https://github.com/thaycacac/quiz-system-struts): làm một web quiz dành cho cả giáo viên và sinh viên
+- [Project](https://github.com/thaycacac/fap-registration-study): trang đăng ký học dành cho sinh viên (mình được 10), do mình học block 5 nên project có requirement cụ thể không dùng làm project trong kỳ được.
+- [Code In Class](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/INCLASS)
+- [Practical Exam](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/PE)
+- Final Exam: mất key rồi :v
+
+#### SWE102 - Introduction to Software Engineering
+
+- [Assignment 1](https://docs.google.com/document/d/1Xttf2eAhLCyqICxrMAjNUciInQ_vSIEKLJZLVFv7Le0/edit?usp=sharing): thầy TriTD (nhóm mình được 9.5)
+- [Assignment 2](https://docs.google.com/document/d/1hZsle98luQUTheCw51hVIA3urIaOR7-HI6zHkyLB_M8/edit?usp=sharing): thầy TriTD (được 9.5)
+- [All Slide](https://docs.google.com/presentation/d/1lMnS5AvD_8FNDLVangGg6QFNT3IPGK19aSB8tsU-e_w/edit#slide=id.p1)
+- Final Exam: đợt mình thi đổi key không trúng câu nào
+
+#### JPD121 - Elementary Japanese 1.2
+
+- [Final Exam](https://drive.google.com/drive/folders/1W_tXrm3kSgLnap_Q4hXrL4nvLsLfsol-?usp=sharing): trúng 80 - 90%, thi nói ngày trước cô cho giấy ôn
+
+#### LAB221 - Desktop Java Lab
+
+- [Calculator](https://github.com/Sharp-Team/calculator-javadesk): pass TuanVM
+- [Text Editor](https://github.com/Sharp-Team/text-editor-javadesk): pass TuanVM, còn một bài mình code trên lớp
