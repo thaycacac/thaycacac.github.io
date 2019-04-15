@@ -22,9 +22,18 @@ subtitle: Make everything okey
 | 4    | HTML5 từ đâu            | [HTML](https://mshare.io/file/vXwPWNg)             |
 |5|Xây dựng web responsive|[Part1](https://mshare.io/file/8qZ69D) [Part2](https://mshare.io/file/7WY27Fx)|
 |6|Thiết kế layout cho web| [Layout](https://mshare.io/file/IRL06sVD)|
+|7|Trang trí web bằng CSS| [Learn CSS](https://mshare.io/file/248R0Qg)|
 
 
-updating...
+### Assignment 1
+
+![ass1](https://i.imgur.com/31G5W7Z.png)
+
+Deadline: 21/04/2019
+
+Submit: [submit](https://drive.google.com/drive/u/0/folders/1XLFp_YMC4hN23apiEgwGVw1d_2i3VgJx)
+
+Syntax Folder: `[họ và tên]_[ngày nộp]_[tháng nộp]` (vd: PHAM_NGOC_HOA_15_04)
 
 ### Link drive
 
