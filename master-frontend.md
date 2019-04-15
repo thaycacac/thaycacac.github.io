@@ -31,9 +31,9 @@ subtitle: Make everything okey
 
 Deadline: 21/04/2019
 
-Submit: [submit](https://drive.google.com/drive/u/0/folders/1XLFp_YMC4hN23apiEgwGVw1d_2i3VgJx)
+Folder Submit: [submit](https://drive.google.com/drive/u/0/folders/1XLFp_YMC4hN23apiEgwGVw1d_2i3VgJx)
 
-Syntax Folder: `[họ và tên]_[ngày nộp]_[tháng nộp]` (vd: PHAM_NGOC_HOA_15_04)
+Folder Syntax: `[họ và tên]_[ngày nộp]_[tháng nộp]` (vd: PHAM_NGOC_HOA_15_04)
 
 ### Link drive
 
