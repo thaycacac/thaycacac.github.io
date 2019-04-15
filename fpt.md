@@ -33,9 +33,7 @@ subtitle: Share my experience
 - [Source Project](https://drive.google.com/drive/folders/0B7iEYGblY5QwN2E0c3Fkd2lXUDg?usp=sharing) toàn bộ source quá trình làm dự án của team mình - [Fast & Furious](https://www.facebook.com/fast.furious.fpt/)
 - [Final Exam](https://quizlet.com/243222059/) trúng hết nhé
 
-
-
-### Semester 2
+### [Semester 2](#)
 
 #### DBI202 - Introduction to Databases
 
