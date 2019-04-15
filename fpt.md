@@ -33,6 +33,8 @@ subtitle: Share my experience
 - [Source Project](https://drive.google.com/drive/folders/0B7iEYGblY5QwN2E0c3Fkd2lXUDg?usp=sharing) toàn bộ source quá trình làm dự án của team mình - [Fast & Furious](https://www.facebook.com/fast.furious.fpt/)
 - [Final Exam](https://quizlet.com/243222059/) trúng hết nhé
 
+
+
 ### Semester 2
 
 #### DBI202 - Introduction to Databases
@@ -64,13 +66,17 @@ subtitle: Share my experience
 
 - [Lab](https://drive.google.com/drive/folders/1VXCUqOPP2JZUtEptxHp6OgUPfDGqh-2q?usp=sharing)
 
+
+
+
 ### Semester 3
 
 #### PRJ311 - Desktop Java Applications
 
 - [Practice PE](https://github.com/thaycacac/java/tree/master/%5BPRJ311%5D%20Desktop%20Java%20Applications/PE%20PRACTICE)
 - [Source For PE](https://github.com/thaycacac/java/tree/master/%5BPRJ311%5D%20Desktop%20Java%20Applications/KEY%20PE)
-- [Final Exam](https://quizlet.com/390863863/) không nhớ trúng không (thi được 8)
+- [Final Exam](https://quizlet.com/390863863/)
+- [Final Exam Image](https://drive.google.com/drive/folders/1yaL5liKg4zPiO8kjNGoodRZC-j7HiHvD?usp=sharing): ngày trước mình trúng tầm 70%
 
 #### LAB211 - OOP with Java Lab
 
@@ -79,7 +85,18 @@ subtitle: Share my experience
 
 #### OSG202 - Operating Systems
 
-- [Book & Test](https://drive.google.com/drive/folders/17QIKSXrUlGZVJt3J-ceQ3rSXeYkCc025?usp=sharing): full test trên lớp của SonNT5
+- [Book & Test](https://drive.google.com/drive/folders/1k15TU2dnESz8RmXokCFPAtrFsYB6Rhaq?usp=sharing): full test trên lớp của SonNT5
 - [Final Exam](https://quizlet.com/390866176/)
+- [Final Exam Image](https://drive.google.com/drive/folders/17QIKSXrUlGZVJt3J-ceQ3rSXeYkCc025?usp=sharing): key ảnh mình trúng tầm 80%
 
 #### JPD111 - Elementary Japanese 1.1
+- [Final Exam](https://drive.google.com/drive/folders/1vZ2D_eIPeK2JOXc1GgtXak2tPg6Hicq6?usp=sharing): để tham khảo, ngày trước mình học block5 trúng hết
+- [Speaking](https://www.youtube.com/watch?v=K16oJkxnYt8&feature=youtu.be)
+
+#### CSD201 - Data Structures and Algorithms
+- [Assignment 1](https://github.com/thaycacac/cute-editor-javaswing) code editor sử dụng stack (học SonNT5)
+- [Assignment 2](https://github.com/thaycacac/railway-system-vietnam) hệ thống chỉ đường sắt trên cao
+- [Code In Class](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20-%20Data%20Structures%20and%20Algorithms)
+- [Practical Exam](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20-%20Data%20Structures%20and%20Algorithms/8-KEY%20PE): vào chỉ việc copy paste thôi, khoảng 9 - 10 điểm
+- [Final Exam](https://drive.google.com/drive/folders/1wyj8L21HAxTTL3Z311qMHtBEK6WLgay9?usp=sharing): trúng hết
+
