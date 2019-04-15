@@ -29,7 +29,7 @@ subtitle: Make everything okey
 
 ![ass1](https://i.imgur.com/31G5W7Z.png)
 
-Deadline: 21/04/2019
+Deadline: 23h59p - 21/04/2019
 
 Folder Submit: [submit](https://drive.google.com/drive/u/0/folders/1XLFp_YMC4hN23apiEgwGVw1d_2i3VgJx)
 
