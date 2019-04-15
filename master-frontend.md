@@ -20,6 +20,9 @@ subtitle: Make everything okey
 | 2    | Tài liệu học HTML       | [HTML](https://www.w3schools.com/html/default.asp) |
 | 3    | CSS3 cơ bản và nâng cao | [CSS](https://mshare.io/file/hw3dTq)               |
 | 4    | HTML5 từ đâu            | [HTML](https://mshare.io/file/vXwPWNg)             |
+|5|Xây dựng web responsive|[Part1](https://mshare.io/file/8qZ69D) [Part2](https://mshare.io/file/7WY27Fx)|
+|6|Thiết kế layout cho web| [Layout](https://mshare.io/file/IRL06sVD)|
+
 
 updating...
 
