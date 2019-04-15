@@ -14,12 +14,12 @@ subtitle: Share my experience
 #### CEA201 - Computer Organization and Architecture
 
 - [Book](https://drive.google.com/drive/folders/1tP1_smvIQ5UiqXaMA5NqfNBRXjGYHlG7?usp=sharing)
-- [Final Exam](https://quizlet.com/245233266/): trúng hết
+- [Final Exam](https://quizlet.com/245233266/): trúng 100%
 
 #### CSI101 - Connecting to Computer Science
 
 - [Book](https://drive.google.com/drive/u/2/folders/1RFNLaxAseNixlvVV9Kcrh2DNZkmd0vd4)
-- [Final Exam](https://quizlet.com/241199609/): trúng hết
+- [Final Exam](https://quizlet.com/241199609/): trúng 100%
 
 #### PRF192 - Programming Fundamentals
 
@@ -31,7 +31,7 @@ subtitle: Share my experience
 #### SSG101 - Working in Group Skills
 
 - [Source Project](https://drive.google.com/drive/folders/0B7iEYGblY5QwN2E0c3Fkd2lXUDg?usp=sharing) toàn bộ source quá trình làm dự án của team mình - [Fast & Furious](https://www.facebook.com/fast.furious.fpt/)
-- [Final Exam](https://quizlet.com/243222059/) trúng hết nhé
+- [Final Exam](https://quizlet.com/243222059/) trúng 100%
 
 ### [Semester 2](#)
 
@@ -76,7 +76,7 @@ subtitle: Share my experience
 #### LAB211 - OOP with Java Lab
 
 - [Lab](https://github.com/thaycacac/java/tree/master/%5BLAB211%5D%20OOP%20with%20Java%20Lab): full đề bài và full code
-- [Pass TuanVm](https://github.com/Sharp-Team/oop-javalab-master): đây là 3 bài mình pass TuanVM
+- [Pass TuanVM](https://github.com/Sharp-Team/oop-javalab-master): đây là 3 bài mình pass TuanVM
 
 #### OSG202 - Operating Systems
 
@@ -86,7 +86,7 @@ subtitle: Share my experience
 
 #### JPD111 - Elementary Japanese 1.1
 
-- [Final Exam](https://drive.google.com/drive/folders/1vZ2D_eIPeK2JOXc1GgtXak2tPg6Hicq6?usp=sharing): để tham khảo, ngày trước mình học block5 trúng hết
+- [Final Exam](https://drive.google.com/drive/folders/1vZ2D_eIPeK2JOXc1GgtXak2tPg6Hicq6?usp=sharing): để tham khảo, ngày trước mình học block5 trúng 100%
 - [Speaking](https://www.youtube.com/watch?v=K16oJkxnYt8&feature=youtu.be)
 
 #### CSD201 - Data Structures and Algorithms
@@ -95,7 +95,7 @@ subtitle: Share my experience
 - [Assignment 2](https://github.com/thaycacac/railway-system-vietnam) hệ thống chỉ đường sắt trên cao
 - [Code In Class](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20-%20Data%20Structures%20and%20Algorithms)
 - [Practical Exam](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20-%20Data%20Structures%20and%20Algorithms/8-KEY%20PE): vào chỉ việc copy paste thôi, khoảng 9 - 10 điểm
-- [Final Exam](https://drive.google.com/drive/folders/1wyj8L21HAxTTL3Z311qMHtBEK6WLgay9?usp=sharing): trúng hết
+- [Final Exam](https://drive.google.com/drive/folders/1wyj8L21HAxTTL3Z311qMHtBEK6WLgay9?usp=sharing): trúng 100%
 
 ### [Semester 4](#)
 
@@ -124,5 +124,39 @@ subtitle: Share my experience
 
 #### LAB221 - Desktop Java Lab
 
+- [Lab](https://drive.google.com/drive/folders/15EtpOufSJA78d-tsDMvU48PYTHyPQfor?usp=sharing)
 - [Calculator](https://github.com/Sharp-Team/calculator-javadesk): pass TuanVM
 - [Text Editor](https://github.com/Sharp-Team/text-editor-javadesk): pass TuanVM, còn một bài mình code trên lớp
+
+### [Semester 5](#)
+
+#### JPD131 - Elementary Japanese 2.1
+
+- [Final Exam](https://drive.google.com/drive/folders/1wrLRu8eFg0xRUd9TA7MY7qkMQtf5oWnV?usp=sharing) không nhớ trúng bao nhiêu
+- [Speaking](https://docs.google.com/document/d/1T1M3IJ2Uw1Xyufi2jS42ywI1yhgjZHxry-Y-ed9Bulo/edit)
+- [Practice Write](https://docs.google.com/document/d/1Bu-8UyXgNQfzuxANnjtlOU2yKSkk65fTpYp91NN6uhc/edit)
+
+#### LAB231 - Web Java Lab
+
+- [Lab](https://drive.google.com/drive/folders/1wF_D3vA0eOlauP9-mR0dYG28pNSVwftK?usp=sharing)
+- [Pass TuanVM](https://github.com/Sharp-Team/web-java-lab): bài digital và maria, một số câu hỏi của thầy mình để trong README của bài digital news. còn một bài mình code trên lớp
+
+#### SWR302 - Software Requirement
+
+- [Book & Final Exam Image](https://drive.google.com/drive/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1?usp=sharing)
+- [Assgnment 1](https://docs.google.com/document/d/1E6RoDtRTo2sQDG_g5HUvvDA08Qr1OWHheYZje38ceHI/edit?usp=sharing): thầy TrungNT được tầm 8 - 9 đ
+- [Assgnment 2](https://docs.google.com/document/d/1gPspJWdbKeN3CVgYcfjeGRSNST2ZcwVv3rsAleS2v18/edit?usp=sharing): được tầm 8 - 9 đ
+- [Final Exam](https://quizlet.com/387370660/swr302-flash-cards/)
+
+#### SWT301 - Software Testing
+
+- [Lab 1](https://github.com/Sharp-Team/ma-di-tuan) của BanTQ, học thuộc code để chấm :))
+- [Lab 2 - 3 - 4](https://docs.google.com/spreadsheets/d/11vjWQOPRJpISISe-2EqqV9tRlgOP5_EJw6l8woAZVPA/edit#gid=706477799)
+- [Test](https://quizlet.com/305941469/swt-flash-cards/) tất cả các bài test random trong này
+- [Final Exam](https://drive.google.com/drive/folders/1ShIp3qW4J3BX2q_3A1u8btPMqD7X2kNv?usp=sharing): trúng 100%
+
+#### PRN292 - .NET and C#
+
+- [Project](https://github.com/Sharp-Team/quiz-sharp): ứng dụng desktop học quiz như quizlet (nhóm mình được 9.5)
+- [Final Exam 1](https://quizlet.com/386568016/prn292_1-flash-cards/)
+- [Final Exam 2](https://quizlet.com/386754653/prn292_2-flash-cards/): mình ôn 2 bộ này trúng 80%
