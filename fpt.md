@@ -160,3 +160,7 @@ subtitle: Share my experience
 - [Project](https://github.com/Sharp-Team/quiz-sharp): ứng dụng desktop học quiz như quizlet (nhóm mình được 9.5)
 - [Final Exam 1](https://quizlet.com/386568016/prn292_1-flash-cards/)
 - [Final Exam 2](https://quizlet.com/386754653/prn292_2-flash-cards/): mình ôn 2 bộ này trúng 80%
+
+### [Semester 6](#)
+
+Đang học...
