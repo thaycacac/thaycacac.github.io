@@ -101,4 +101,23 @@ SEOmoz đã khảo sát và nghiên cứu các công cụ tìm kiếm xác đị
 Ngoài ra thì tùy vào đối tượng khác nhau mà thuật toán của Google có thể thay đổi để nó phù hợp hơn ví dụ như tìm kiếm tin tức, hình ảnh, sách, hay tìm kiếm dựa trên địa điểm hiện tại.
 Tóm lại, hiểu cách hoạt động của công cụ tìm kiếm là một phần quan trọng của SEO. Các thuật toán có thể điều chỉnh, vì thế mà muốn SEO chuyên nghiệp và thành công đòi hỏi SEOer không người nghiên cứu tìm tìm hiểu cách hoạt động của chúng!!!
 
+## 3. Bước đầu của SEO
+
+Ở trong phần này chúng ta sẽ nghiên cứu về những bước đầu của công việc SEO như kết hợp một kế hoạch SEO, thực hiện kiểm toán SEO kỹ thuật của một trang web,..
+Theo kinh nghiệm các nhà tư vấn SEO thì bạn nên làm SEO từ những bước đầu lập trang web và trước khi nó đi vào hoạt động. Trong bước này bạn cần phải làm những công việc như lựa chọn kỹ thuật, phân khúc thị trường,...
+Khi bắt đầu một dự án SEO bạn cần phải nghiên cứu kiến trúc trang web mà bạn mong muốn. Nhiệm vụ này được chia thành hai thành phần chính là: quyết định công nghệ và quyết định cấu trúc.
+
+**Quyết định công nghệ:** Dynamic URLs, Session IDs or user IDs in the URL, Superfluous flags in the URL nó về lĩnh vực chuyên sâu mình không nhắc tới ở đây.
+
+**Quyết định cấu trúc:** Một trong những yếu tố cơ bản để đưa ra cấu trúc đó là cấu trúc liên kết và điều hướng nội bộ, thường được vạch ra trong một tài liệu cấu trúc trang web. Những trang nào liên kết đến trang chủ? Những trang nào được sử dụng làm danh mục cao nhất sau đó khách truy cập đến những trang nào liên quan?
+
+**_Mục tiêu keywords:_** đây là một phần quan trọng trong SEO, mình sẽ nêu rõ hơn ở phần sau.
+Liên quan chéo nội dung liên quan: việc này thật sự hiệu quả và mạnh mẽ, nó sẽ giúp cho công cụ tìm kiếm xác định chắc chắn hơn mức độ phù hợp của một trang web với một chủ đề cụ thể.
+
+**_Sử dụng anchor text:_** bạn có thể hiểu đơn giản anchor text là dòng text hiển thị để sang liên kết khác. Anchor text được đánh giá như là “cơ hội vàng” của liên kết nội bộ, tránh sử dụng văn bản như “More”, “Click here”...
+
+**_Sử dụng breadcrumb navigation:_** là một cách hiển thị cho người dùng biết họ đang ở đâu trong hệ phân cấp điều hướng và cũng để công cụ tìm kiếm hiểu hơn về sự phân cấp của trang web.
+
+**_Minimize link depth: _**đừng để quá nhiều liên kết trên một trang (khuyến nghị không vượt quá 100 liên kết trên một trang web sẽ đề cập cụ thể hơn ở phần sau)
+
 Updating...
