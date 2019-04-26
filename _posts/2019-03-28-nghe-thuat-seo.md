@@ -120,4 +120,57 @@ Liên quan chéo nội dung liên quan: việc này thật sự hiệu quả và
 
 **_Minimize link depth: _**đừng để quá nhiều liên kết trên một trang (khuyến nghị không vượt quá 100 liên kết trên một trang web sẽ đề cập cụ thể hơn ở phần sau)
 
+## 4. Nghiên cứu từ khoá
+
+Nghiên cứu từ khóa là một trong những bước quan trọng nhất, có giá trị và lợi nhuận cao trong lĩnh vực tiếp thị công cụ tìm kiếm. Nghiên cứu từ khóa cho phép bạn dự đoán sự thay đổi nhu cầu, đáp ứng với điều kiện thị trường thay đổi và đảm bảo rằng bạn đang sản xuất các sản phẩm, dịch vụ và nội dung mà người dùng muốn tìm kiếm.
+Bạn đừng quá lo lắng về việc phải đối phó với những từ khóa với 5.000 lượt tìm kiếm mỗi ngày, bởi vì trên thực tế theo số liệu thống kê thì lượng từ khóa phổ biến chiếm khoảng 30% còn lại 70% là những câu truy vấn dài (long tail). Một ví dụ để thấy rõ hơn theo bạn thì từ khóa nào là từ khóa phổ thông nhất trong các từ này: “vé rẻ”, “vé giá rẻ”, “vé khuyến mãi”, “vé giảm giá”. Tra 2 từ “vé rẻ” và “vé giá rẻ” bạn sẽ thấy Jetstar đứng ngay đầu. Việc vượt qua họ là rất khó. Sao không nghĩ đến việc phát triển từ “vé khuyến mãi”, “vé giảm giá” và đặt mục tiêu là TOP 1 cho phòng vé của bạn.
+
+![Hình 13: Mức độ tìm kiếm](/assets/img/muc-do-tim-kiem.gif)
+
+### Tỷ lệ tìm kiếm và cạnh tranh
+
+Tỷ lệ tìm kiếm của từ khóa là tần suất của một từ khóa được tìm kiếm chính xác trên một khu vực địa lý hoặc một khu vực ngôn ngữ đã chọn trong một khoảng thời gian nhất định (thông thường là một tháng). Tỷ lệ này càng cao tương đương với với việc quan tâm của người dùng về chủ đề của từ khóa đó càng cao.
+
+![Hình 14: Tỷ lệ cạnh tranh](/assets/img/ty-le-canh-tranh.png)
+
+Tỷ lệ cạnh tranh của là số lượng trang web đang cùng SEO về cùng một keyword và số lượng nhà quảng cáo google adwords đang chạy quảng cáo cho chính keyword đó. Ngoài ra giá thầu được đề xuất cũng là một yếu tố để ta có thể biết được tỷ lệ cạnh tranh của từ khóa hiện tại có cao hay không.
+
+### Các bước SEO với từ khóa
+
+**Hiểu rõ sản phẩm, dịch vụ của bạn:** tập trung nghĩ xem, sản phẩm của mình là gì, mục tiêu của mình là ai, giải quyết vấn đề gì cho khách hàng và ghi nhớ những cụm từ chính.
+
+**Hiểu được khách hàng của bạn cần gì:** bạn phải xác định được mục tiêu khách hàng của bạn là ai? Họ sẽ mua gì, sử dụng dịch vụ gì của bạn? Những thắc mắc phàn nàn của họ, họ thích hay sợ gì? Từ đó phân tích để tìm được những từ khóa chính xác và hợp lý. Bạn nên cân nhắc xem có nên lựa chọn từ khóa ‘long tail’ hay không.
+
+**Sử dụng các công cụ để tìm từ khóa:** khi nghiên cứu từ khóa các bạn nên sử dụng những công cụ tìm từ khóa để có thể đưa ra lựa chọn cho phù hợp. Thường thì mình chỉ sử dụng keyword tool và extension keyword everywhere để nghiên cứu từ khóa.
+
+**Chọn từ khóa để phát triển SEO và chọn lựa nhóm từ khóa để phát triển:** bạn hãy thống kê và lựa chọn những từ khóa tốt để phát triển, từ đó chia nhóm từ khóa để phát triển. Nhóm 1 các từ khóa chính – thường là những từ ngắn, phổ thông, nhiều người tìm, ví dụ như website bán laptop thì từ khóa chính là Laptop, máy tính xách tay, netbook. Nhóm 2 các từ khóa phụ – longtail – cụ thể hơn, ít người tìm hơn. Với ví dụ trên thì từ khóa phụ sẽ là “mua laptop ở đâu, nên mua laptop ở đâu, mua laptop nào chơi game tốt, địa chỉ mua laptop trả góp”,….
+
+### Ý nghĩa thương mại của từ khóa
+
+Sai lầm phổ biến khi thực hiện nghiên cứu từ khóa là quá quan tâm đến search volume (lượng tìm kiếm hàng tháng), việc bạn quan tâm đến nói là không sai vì nếu như không ai tìm kiếm thì lên top cũng không có ý nghĩa gì. Nhưng việc quá quan tâm đến nó mà không để ý đến “traffic intent” - Ý nghĩa thương mại của từ khóa thì đó là một sai lầm.
+Có thể chia từ khóa thành 4 loại và với mỗi loại:
+
+**Từ khóa mua hàng:** Đây là những từ khóa mà chắc chắn khi người dùng Google thực hiện gõ vào ô Search Box thì khả năng cực cao là họ đang thực hiện hành vi mua hàng. Thường bắt đầu bằng những từ thông dụng như: **_Mua (buy), Khuyến mãi (coupon), giao hàng nhanh (shipping), bán (sell), miễn phí giao hàng (free ship),..._** Những từ khóa này có tỷ lệ chuyển đổi cao, có thể khi bạn thực hiện nghiên cứu các từ khóa này không có Search Volume cao nhưng chắc chắn rằng nếu bạn thực hiện chiến dịch SEO xoay quanh những từ khóa này nó sẽ mang về cho bạn nhiều đơn hàng.
+
+**Từ khóa sản phẩm:** là những tìm kiếm thể hiện cụ thể một sản phẩm nào đó, thương hiệu hoặc dịch vụ cụ thể. Các từ khóa sản phẩm như: **_đánh giá (review), best (tốt nhất), tên thương hiệu cụ thể (nike, adidas), sản phẩm cụ thể, giá rẻ (cheap), so sánh (compare),..._**
+
+**Từ khóa thông tin:** người dùng tìm kiếm dạng từ khóa này thường họ có nhu cầu tìm hiểu về thông tin, bổ sung kiến thức nhiều hơn là ý định mua hàng. Những từ khóa thông tin bao gồm: **_làm thế nào (how to), hướng dẫn (tutorial), cách tốt nhất để (best way to), phương pháp (the method to),..._**
+
+**Từ khóa miễn phí:** những người dùng tìm kiếm từ khóa này thì gần như không có ý định mua hàng mà chỉ muốn dùng miễn phí, những website view hoặc bán sản phẩm số thì sẽ gặp nhiều. Những từ có chứa những từ khóa này ngư: **_miễn phí (free), tải về (download), ... _**
+
+![Hình 15: Tỷ lệ cạnh tranh](/assets/img/nghien-cuu-tu-khoa.jpge)
+
+### Sử dụng các công cụ để tìm từ khóa
+
+**Công cụ trả tiền:** Keyword Tool, Keyword Discovery, Keyword Analytics,… bạn sử dụng từ khóa tiếng việt thì những công cụ này không đạt được hiệu quả cao lắm, và nó cũng khá đắt.
+
+**Công cụ miễn phí:** Google External Tool, Keyword Everywhere,... hiện tại mình đang sử dụng công cụ Keyword Everywhere dang extension của chrome và thấy công cụ này khá hữu ích
+Phần mềm SEO: Có một số phần mềm cho phép bạn tìm từ khóa và check từ khóa của các đối thủ cạnh tranh như SEO Elite 4, SEO Studio.
+
+**Tham khảo các website trong TOP:** Hãy xem từ khóa của TOP 3 website đầu tiên để chọn từ khóa thích hợp với bạn.
+
+**Suggestion Search của Google Toolbar:** Bạn có thể chú ý khi chúng ta tìm một từ khóa trên Google, các từ khóa có nhiều người tìm và được tìm kiếm gần đây nhất sẽ được đề nghị tìm.
+
+**Sử dụng Google Analytics để chọn lựa từ khóa:** GA cho phép chúng ta có thể check được nguồn khách hàng truy cập vào website đồng thời cho phép chúng ta biết được khách hàng tìm đến website chúng ta qua các từ khóa nào. Ở đây bạn hãy xem google analytics để biết được các từ khóa mà khách hàng để tìm ra site của bạn.
+
 Updating...
