@@ -2,6 +2,9 @@
 layout: page
 title: FPT University
 subtitle: Share my experience
+keyword: [
+  'fpt', 'thaycacac'
+]
 ---
 
 ### [Semester 1](#)
@@ -162,5 +165,10 @@ subtitle: Share my experience
 - [Final Exam 2](https://quizlet.com/386754653/prn292_2-flash-cards/): mình ôn 2 bộ này trúng 80%
 
 ### [Semester 6](#)
+
+#### SYB301 - Start Your Business
+
+- [Project](https://drive.google.com/drive/u/1/folders/1WAdhmGobI5TTfNHJAV8thcO48t4KxVlw): dự án mở quán ăn ở ngoài Hà Nội
+- [Final Exam](https://docs.google.com/document/d/1_p-iODd26RNBTZmm7kfMwkpudM6yKDm9z0GlSJyVKC4/edit#heading=h.gjdgxs)
 
 Đang học...
