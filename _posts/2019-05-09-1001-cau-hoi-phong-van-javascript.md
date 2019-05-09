@@ -10,7 +10,7 @@ description:
 keywords: []
 ---
 
-**Q1: Cái gì là `Coercion` trong Javasript?**
+**Q1: Cái gì là `Coercion` trong Javasript?** :start:
 
 Đây là cách chuyển đổi kiểu các giá trị trong javascript, ngầm hiểu là **type casting**. Coercion trong javascript gồm có hai kiểu là _explicit_ và _implicit_.
 Đây là ví dụ explicit coercion:
@@ -31,7 +31,7 @@ a; // "42"
 b; // 42 -- the number!
 ```
 
-**Q2: Toán tử typeof là cái gì?**
+**Q2: Toán tử typeof là cái gì?** :start:
 
 Javascript cung cấp một loại toán tử là `typeof` để cho bạn xác định xem kiểu của biến/ hằng:
 
