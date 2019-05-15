@@ -40,3 +40,14 @@ Sau đấy tôi mò tới công ty, được thằng bạn tôi làm ở đấy 
 
 Sau đấy tôi đi về và tdn lại đi nhầm bên càng đi càng xa và hậu quả là đi mất tầm hơn một tiếng mới về được tới nơi. Chúng tôi đi ăn cơm ở Làng Sen vì 2 ngày nay 2 thằng chưa ăn hạt cơm nào. Về tới phòng thì có thêm gặp 2 anh mới ở cùng luôn!!! Tắm giặt nghỉ ngơi rồi học hành một tý là hết ngày!!! Tôi sẽ nhớ mãi cái tuổi 21 này.
 
+### Day 02
+
+Dần quen với việc không được ngủ nướng, dậy đi ăn sáng đến chỗ mindx cũng phải tầm 9h. Tôi và thằng bạn bắt đầu ngày thực tập đầu tiên chính thức của mình. Nhiệm vụ ngày hôm nay của chúng tôi là học. Cứ nghĩ chỗ đấy ít ng ai ngờ đông vãi đái lại còn lắm gái nữa chứ,
+![Day02](/assets/img/day02-1.jpg)
+Buổi trưa đi ăn phở gà ở Thành công về mặc dù rất buồn ngủ nhưng tôi không ngủ vì sợ nó thành thói quen.
+![Day02](/assets/img/day02-2.jpg)
+Chiều tôi có một cuộc phỏng vấn lúc 3h chiều online. Cuộc phỏng vấn tầm 45phut của một công ty khủng vãi tè. Tôi cũng nghĩ mà mình pass nhưng trong đầu nhủ là không đi làm ở công ty đấy vì chưa sẵn sàng.
+![Day02](/assets/img/day02-4.jpg)
+Đến gần lúc về thì mưa tầm tã, trong lúc về thì còn biết tin là trượt pv, haiz tự nhiên có cảm giác buồn buồn rồi trong cái tình thế chán vãi luôn, đi chân đấy, trùm áo mưa và đi ăn cơm.
+![Day02](/assets/img/day02-3.jpg)
+Cảm giác ngày đầu tiên đi làm mà mệt mỏi thật, người không còn sức luôn, về tôi phải ngủ 1 tiếng để lấy sức đi tắm rồi về phòng xem game, xem view du lịch rồi đi ngủ. Một ngày mệt mỏi
