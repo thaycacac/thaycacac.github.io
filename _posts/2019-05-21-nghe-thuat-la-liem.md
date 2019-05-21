@@ -19,8 +19,10 @@ Từ lâu lắm rồi khi còn học cấp 3 tôi đã ấp ủ dự định là
 
 ### 1. Nui sốt bò băm phủ pho mai
 
-Địa chỉ: Ngõ 4C, Đặng Văn Ngữ, Đống Đa, Hà Nội
-Giá: 35K
+**Địa chỉ:** Ngõ 4C, Đặng Văn Ngữ, Đống Đa, Hà Nội
+
+**Giá:** 35K
+
 Nhìn có vẻ ngon, lạ, nghe tên rất kêu. Nhưng ăn thì không ra gì :)) bò băm thì mặn, nui thì là cái gì ấy ăn ghê dell chịu được :))
 
 ![Food 1](/assets/img/food-1.jpg)
