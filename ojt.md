@@ -51,3 +51,11 @@ Chiều tôi có một cuộc phỏng vấn lúc 3h chiều online. Cuộc phỏ
 Đến gần lúc về thì mưa tầm tã, trong lúc về thì còn biết tin là trượt pv, haiz tự nhiên có cảm giác buồn buồn rồi trong cái tình thế chán vãi luôn, đi chân đấy, trùm áo mưa và đi ăn cơm.
 ![Day02](/assets/img/day02-3.jpg)
 Cảm giác ngày đầu tiên đi làm mà mệt mỏi thật, người không còn sức luôn, về tôi phải ngủ 1 tiếng để lấy sức đi tắm rồi về phòng xem game, xem view du lịch rồi đi ngủ. Một ngày mệt mỏi
+
+### Day 03
+
+Tôi đang viết bài này trong tâm trạng tột cùng của nỗi đau nhưng cố gắng viết vài dòng trước khi đi ngủ. Sáng đi xe bị thủng xăm phải dắt một đoạn đường khá là dài, mặc dù thế tôi cũng không hề oán thán một câu mà ông bạn đi với tôi cứ kêu mãi...
+Tôi làm việc, đến tầm 1h có nc vs crush cũ và tôi cũng có kế hoạch là nói chuyện thẳng.
+Tối đi phỏng vấn tầm 1 tiếng do anh giám đốc và một a tech của công ty.
+Đi ăn ngô vs người bạn thân trong team code.
+Tối nói chuyện thẳng thắn vs crush và kết luận cuối cùng của em ấy là block tôi. Oke! I'm not fine :))
