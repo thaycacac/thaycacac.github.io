@@ -7,6 +7,7 @@ categories: [share]
 gh-badge: [japanese]
 tags: [share]
 ---
+
 Note lại đề thi nói Nhật 3 (JPD131).
 
 ## Bài 8
