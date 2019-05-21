@@ -5,7 +5,7 @@ subtitle: Đừng ăn thoả đói đừng nói thoả giận...
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [mylife]
-image: chua-ba-vang.jpg
+image: nghe-thuat-la-liem.jpg
 tags: [food, ojt]
 keywords: [
   thaycacac,
