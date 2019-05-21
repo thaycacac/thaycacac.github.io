@@ -26,3 +26,15 @@ Từ lâu lắm rồi khi còn học cấp 3 tôi đã ấp ủ dự định là
 Nhìn có vẻ ngon, lạ, nghe tên rất kêu. Nhưng ăn thì không ra gì :)) bò băm thì mặn, nui thì là cái gì ấy ăn ghê dell chịu được :))
 
 ![Food 1](/assets/img/food-1.jpg)
+
+### 2. Phở cuốn, Phở chiên giòn
+
+**Địa chỉ:** Số 23 Nguyễn Thị Định, Cầu Giấy 
+
+**Giá:** 125K
+
+Ăn khá ngon, mà ngon là ngon do cái phở ý, điểm trừ ở phần nước chấm - chắc là only mắm với nước thì phải. Bên trong phở cuốn có thịt xào, nghe nói là thịt bò, có rau diếp, còn phở chiên giòn thì là bò xào cải phủ lên phần phở được chiên. Nói chung là khá ổn.
+
+![Food 2](/assets/img/food-2.jpg)
+
+![Food 3](/assets/img/food-3.jpg)

@@ -47,7 +47,7 @@ Dần quen với việc không được ngủ nướng, dậy đi ăn sáng đ�
 Buổi trưa đi ăn phở gà ở Thành công về mặc dù rất buồn ngủ nhưng tôi không ngủ vì sợ nó thành thói quen.
 ![Day02](/assets/img/day02-2.jpg)
 Chiều tôi có một cuộc phỏng vấn lúc 3h chiều online. Cuộc phỏng vấn tầm 45phut của một công ty khủng vãi tè. Tôi cũng nghĩ mà mình pass nhưng trong đầu nhủ là không đi làm ở công ty đấy vì chưa sẵn sàng.
-![Day02](/assets/img/day02-4.png)
+![Day02](/assets/img/day02-4.jpg)
 Đến gần lúc về thì mưa tầm tã, trong lúc về thì còn biết tin là trượt pv, haiz tự nhiên có cảm giác buồn buồn rồi trong cái tình thế chán vãi luôn, đi chân đấy, trùm áo mưa và đi ăn cơm.
 ![Day02](/assets/img/day02-3.jpg)
 Cảm giác ngày đầu tiên đi làm mà mệt mỏi thật, người không còn sức luôn, về tôi phải ngủ 1 tiếng để lấy sức đi tắm rồi về phòng xem game, xem view du lịch rồi đi ngủ. Một ngày mệt mỏi
@@ -59,3 +59,5 @@ Tôi làm việc, đến tầm 1h có nc vs crush cũ và tôi cũng có kế ho
 Tối đi phỏng vấn tầm 1 tiếng do anh giám đốc và một a tech của công ty.
 Đi ăn ngô vs người bạn thân trong team code.
 Tối nói chuyện thẳng thắn vs crush và kết luận cuối cùng của em ấy là block tôi. Oke! I'm not fine :))
+
+Day 04 05 06... do đi chơi tới tận khuya nên về chỉ kịp tắm rồi ngủ không còn thời gian để viết bài :'(
