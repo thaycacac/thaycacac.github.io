@@ -38,3 +38,9 @@ Chắc là chuyến đi mệt nhất trong đời luôn. Xuất phát lúc 2h s�
 Như tất cả những kẻ lữ hành vĩ đại, tôi đã thầy nhiều hơn tôi có thể nhớ, và nhớ nhiều hơn tôi có thể thấy.
 
 ![travel3](/assets/img/travel-3.jpg)
+
+### 3. Cắm Trại - Cầu Vĩnh Tuy
+
+Đây không phải lần đầu tiên tôi đi cắm trại nhưng chắc đây là lần tôi nhớ nhất - là lần họp lớp 11 đầu tiên từ khi tôi lên đại học. Thật sự buổi cắm trại ấy rất là vui, từ việc set-up, đi xin lửa ở mấy trại bên, rồi chơi trò thử thách, hay đi quẩy các trại khác. Và đặc biệt là tiền đề để tôi hẹn một buổi gặp mặt với người bạn thân trước kia đã xảy ra một chút hiểu nhầm. Đêm còn về kể chuyện ma xong đêm hôm đấy còn mưa gió nữa chứ, cứ thỉnh thoảng lại có thằng phải ra cắm lại cọc trại. [Thật sự là rất vui!!!](https://youtu.be/WfYmfVHc7-8)
+
+![travel4](/assets/img/travel-4.jpg)
