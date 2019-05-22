@@ -45,7 +45,7 @@ Như tất cả những kẻ lữ hành vĩ đại, tôi đã thầy nhiều hơ
 
 ![travel4](/assets/img/travel-4.jpg)
 
-### 4. Tam Đảo - Vĩnh phúc
+### 4. Tam Đảo - Vĩnh Phúc
 
 Chuyến đi cùng với anh em **Young Tailor**, và tôi ở vị trí leader vụ này. Đây là chuyến đi đầu tiên mà tôi có tìm hiểu trước vì tôi phải lên kế hoạch cụ thể đi những đâu. Và nhận thấy là cái lúc mình đọc với thực tế nó khác quá :)) cái lúc đọc thì thấy nhiều địa điểm chơi vđ, xong nghe review hay nghe rất thú vị, trong đầu tưởng tượng ra là nó phải to, rộng, xong đẹp lắm. Nhưng "Hy vọng càng nhiều thì thất vọng càng nhiều". Thất vọng không phải là nó không đẹp hay không nên đi mà là do mình tưởng tượng quá mức xong vỡ mộng!!!
 
@@ -54,3 +54,9 @@ Chuyến đi cùng với anh em **Young Tailor**, và tôi ở vị trí leader 
 Chuyến đi của chúng tôi 2 ngày 1 đêm, đi cũng không theo kế hoạch do điều kiện bị động, cũng không đi hết được tất cả các điểm, nhưng được đi cùng ae team Young cũng vui rồi phải rất khó khăn mới đi được vì ae đều bận :'(
 
 ![travel5](/assets/img/travel-5.jpg)
+
+### 5. Chùa Tam Trúc - Hà Nam
+
+Đi và đã không định về!!! Chuyến đi cùng người bạn thân, chúng tôi định 15h xuất nhưng do tôi có việc đột suất nên phải đến 16h mới đi, xong 2 thằng lại còn không ăn. Kịp ăn mỗi cái bánh mỳ ở trên đường đi, tôi nghĩ trên đấy chắc buổi tối có quán ăn nữa. Lên đến nơi cũng 6 giờ rồi. May mà trời vẫn còn sáng để có thể ngắm cảm sông nước ở nơi đây. Hôm đấy đúng là nóng thật và chẳng có ai đi hết, nhưng mà tuổi trẻ mà, phải có lúc hoắng như thế sau này mới có cái mà nhớ lại chứ!!!
+
+![travel7](/assets/img/travel-7.jpg)
