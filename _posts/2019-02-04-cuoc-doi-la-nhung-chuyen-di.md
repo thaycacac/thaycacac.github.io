@@ -44,3 +44,13 @@ Như tất cả những kẻ lữ hành vĩ đại, tôi đã thầy nhiều hơ
 Đây không phải lần đầu tiên tôi đi cắm trại nhưng chắc đây là lần tôi nhớ nhất - là lần họp lớp 11 đầu tiên từ khi tôi lên đại học. Thật sự buổi cắm trại ấy rất là vui, từ việc set-up, đi xin lửa ở mấy trại bên, rồi chơi trò thử thách, hay đi quẩy các trại khác. Và đặc biệt là tiền đề để tôi hẹn một buổi gặp mặt với người bạn thân trước kia đã xảy ra một chút hiểu nhầm. Đêm còn về kể chuyện ma xong đêm hôm đấy còn mưa gió nữa chứ, cứ thỉnh thoảng lại có thằng phải ra cắm lại cọc trại. [Thật sự là rất vui!!!](https://youtu.be/WfYmfVHc7-8)
 
 ![travel4](/assets/img/travel-4.jpg)
+
+### 4. Tam Đảo - Vĩnh phúc
+
+Chuyến đi cùng với anh em **Young Tailor**, và tôi ở vị trí leader vụ này. Đây là chuyến đi đầu tiên mà tôi có tìm hiểu trước vì tôi phải lên kế hoạch cụ thể đi những đâu. Và nhận thấy là cái lúc mình đọc với thực tế nó khác quá :)) cái lúc đọc thì thấy nhiều địa điểm chơi vđ, xong nghe review hay nghe rất thú vị, trong đầu tưởng tượng ra là nó phải to, rộng, xong đẹp lắm. Nhưng "Hy vọng càng nhiều thì thất vọng càng nhiều". Thất vọng không phải là nó không đẹp hay không nên đi mà là do mình tưởng tượng quá mức xong vỡ mộng!!!
+
+![travel6](/assets/img/travel-6.jpg)
+
+Chuyến đi của chúng tôi 2 ngày 1 đêm, đi cũng không theo kế hoạch do điều kiện bị động, cũng không đi hết được tất cả các điểm, nhưng được đi cùng ae team Young cũng vui rồi phải rất khó khăn mới đi được vì ae đều bận :'(
+
+![travel5](/assets/img/travel-5.jpg)
