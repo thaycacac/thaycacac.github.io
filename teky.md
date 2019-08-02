@@ -19,11 +19,7 @@ keyword: [
 
 Tóm tắt:
 
-> Học kéo thả Scratch Jr và Cubico, phát triển sự sáng tạo tư duy logic của trẻ em qua việc tạo ra sản phẩm.
-
-> Cubico - sẽ được tìm hiểu các khái niệm lập trình thông qua các hoạt động trải nghiệm tương tác thông qua các công nghệ mới như thực tế ảo và IOT
-
-> Scratch - trẻ sẽ lắp ráp các khối câu lệnh chức năng để điều khiển nhân vật di chuyển, chạy, nhảy, hay thậm chí là hát. Trẻ cũng có thể thiết kế lại nhân vật, thêm chi tiết, thêm màu sắc âm thanh. Được tiếp xúc ngôn ngữ lập trình scratch cho trẻ em - được học bởi hàng triệu trẻ em trên thế giới.
+> Học kéo thả Scratch Jr và Cubico, phát triển sự sáng tạo tư duy logic của trẻ em qua việc tạo ra sản phẩm. Cubico - sẽ được tìm hiểu các khái niệm lập trình thông qua các hoạt động trải nghiệm tương tác thông qua các công nghệ mới như thực tế ảo và IOT. Scratch - trẻ sẽ lắp ráp các khối câu lệnh chức năng để điều khiển nhân vật di chuyển, chạy, nhảy, hay thậm chí là hát. Trẻ cũng có thể thiết kế lại nhân vật, thêm chi tiết, thêm màu sắc âm thanh. Được tiếp xúc ngôn ngữ lập trình scratch cho trẻ em - được học bởi hàng triệu trẻ em trên thế giới.
 
 - HP1: Học tư duy với những bài học trực quan như cỗ máy thời gian - cubico
 - HP2, HP3, HP4: comming soon
@@ -45,6 +41,8 @@ Tóm tắt:
 - HP5, HP6: comming soon
 
 #### Bé tập làm game (9 tuổi - 11 tuổi)
+
+[Demo](https://www.youtube.com/watch?v=NbX_MCkYypU)
 
 #### Bé làm game (9 tuổi - 11 tuổi) - Tynker
 
