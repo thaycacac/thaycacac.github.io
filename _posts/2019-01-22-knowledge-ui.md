@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nghệ thuật UI
-subtitle: Tổng hợp kiến thức về UI cho designer
+subtitle: UI designer
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [share]
