@@ -7,6 +7,28 @@ keyword: [
 ]
 ---
 
+## Cho học sinh trải nghiệm
+
+### Robotics:
+- **Wedo(7 - 9):** Lắp Milo hoặc cối xay gió
+- **MindStorm(> 9):** Lắp xe [Riley Rover](https://drive.google.com/file/d/1bUwBb2US-xVrypTTF7XaW5V1WzOCDehY/view)
+
+### Lập trình:
+- **Scratch JR(4 - 6):** [Course 1 / Lesson3](https://studio.code.org/s/course1/stage/3/puzzle/1) hoặc [Course 1 / Lesson4](https://studio.code.org/s/course1/stage/4/puzzle/1)
+- **Scratch(7 - 9):**
+  *Chưa học lập trình* [Course 2 / Lesson 3](https://studio.code.org/s/course2/stage/3/puzzle/1)
+  
+  *Nếu đã học lập trình*
+
+  Bước 1: Yêu cầu sử dụng một số câu lệnh đơn giản: di chuyển nhân vật, phát ra âm thanh, cho nhân vạt nói. Nếu pass thì chuyển bước tiếp theo, không thì học từ LV1.
+
+  Bước 2: Cho học sinh làm một sản phẩm theo yêu cầu, sử dụng câu lệnh điều kiện, vòng lặp. Ví dụ như phần mềm đỡ bóng, bắn bóng. Nếu pass thì học từ LV2.
+
+  Bước 3: Cho học sinh làm một bài về gửi nhận thông điệp và tạo bản sao.Ví dụ bong bóng nhiều màu. Nếu pass thì học LV3, không thì học từ LV2.
+- **Tynker:** [Dragon Blast](https://www.tynker.com/lesson/v2/host)
+- **Python:** [Toxic Jungle](https://www.tynker.com/nb/project/58225568af9231d0668b465a/?dir=director&chapterid=57f69349af92317e458b458c&s=0)
+
+
 ### Công nghệ 3D và truyền thông đa phương tiện
 
 ### Lập trình và phát triển ứng dụng
