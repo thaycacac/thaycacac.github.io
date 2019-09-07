@@ -21,8 +21,9 @@ keywords: [
 
 Buông bỏ một thứ gì đó mình yêu mến chưa bao giờ là dễ dàng, dù là buông tay người chúng ta yêu hay buông bỏ một ước mơ đang theo đuổi trong cuộc sống. Tuy vậy, có những thứ khi níu giữ chỉ càng khiến cho chúng ta đau khổ và mệt mỏi, và buông tay không phải là một sự chọn lựa, mà nó là điều duy nhất chúng ta có thể làm. Dưới đây là kỹ năng, cũng như bài luyện tập giúp chúng ta có thể buông bỏ, để có một cuộc sống hoan hỷ hơn.
 
-### 1. Phát triển kỹ năng buông bỏ
+#### Phát triển kỹ năng buông bỏ
 
+{: .thaycacac-description }
 **Nhận biết dấu hiệu:** Khi ta đang bám víu vào một thứ gì đó tiêu cực, sẽ luôn có những dấu hiệu nhỏ xuất hiện để cảnh báo, ví dụ như một cơn giận, hay sự thiếu quyết đoán. Kỹ năng đầu tiên là phải nhận biết các dấu hiệu này.
 
 **Nhận biết viễn cảnh lí tưởng:** Ta đang bám víu vào viễn cảnh lí tưởng nào mà lại xuất hiện các dấu hiệu?
