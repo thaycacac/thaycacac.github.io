@@ -1,11 +1,11 @@
 ---
 layout: page
-title: My Life
+title: UI/UX
 subtitle: Every human is an artist
 ---
 <div class="posts-list">
   {% for category in site.categories %}
-    {%- if category[0]=='mylife' -%}
+    {%- if category[0]=='ui/ux' -%}
       {% for post in category[1] %}
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl }}">
