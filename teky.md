@@ -160,7 +160,42 @@ Con thấy có hay không?
 - Mức độ thu hút của học sinh với môn học trong quá trình trải nghiệm: rất hào hứng, …
 - Kỹ năng: hơi trầm, rất sôi nổi, tương tác tốt với thầy giáo
 
-| Môn học                        | Nội dung                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Scratch JR (Mầm non lập trình) | Học kéo thả Scratch Jr và Cubico, phát triển sự sáng tạo tư duy logic của trẻ em qua việc tạo ra sản phẩm. Cubico - sẽ được tìm hiểu các khái niệm lập trình thông qua các hoạt động trải nghiệm tương tác thông qua các công nghệ mới như thực tế ảo và IOT. Scratch - trẻ sẽ lắp ráp các khối câu lệnh chức năng để điều khiển nhân vật di chuyển, chạy, nhảy, hay thậm chí là hát. Trẻ cũng có thể thiết kế lại nhân vật, thêm chi tiết, thêm màu sắc âm thanh. Được tiếp xúc ngôn ngữ lập trình scratch cho trẻ em - được học bởi hàng triệu trẻ em trên thế giới. - HP1: Học tư duy với những bài học trực quan như cỗ máy thời gian - cubico - HP2, HP3, HP4: comming soon - HP5: Học các khái niệm cơ bản như lập trình tuần tự, thay đổi parameter, sự kiện và tạo một số game dự án dựa trên đó - HP6: Tạo một số chương trình sử dụng toán học nhiều hơn sử dụng kỹ thuật liên quan đến âm thanh, nhiều kỹ thuật hơn như đếm các con số, tìm hiểu về vòng lặp, làm việc với âm thanh |
-| Scratch (Bé lập trình Scratch) | Học ngôn ngữ Scratch làm quen với bộ môn lập trình thông qua việc kéo thả, sáng tạo ra sản phẩm sử dụng thư viện media và studio nghệ thuật. Bé học được tư duy sáng tạo, làm việc cộng tác, suy nghĩ có hệ thống. True True tìm hiểu các kiến thức lập trình thông qua màu sắc, hình vẽ và hơn nữa là khả năng kết nối với Scratch để lập trình điều khiển Robot. - HP1: Khám phá các khối lệnh, cơ bản về lập trình tuần từ, các câu lệnh điều kiện, vòng lặp. - HP2: Điều khiển âm thanh, chuyển động qua camera, cơ bản về hàm. - HP3: Các khối lệnh clone, biến toán tử, khối lệnh pen. - HP4: Tìm hiểu các thẻ, các thẻ trình tự & thuật toán, kết nối scratch và lập trình với true true, học toán với true true và các project liên quan. - HP5, HP6: comming soon                                                                                                                                                                                                                     |
+### Scratch JR (Mầm non lập trình)
+
+*Học kéo thả Scratch Jr và Cubico, phát triển sự sáng tạo tư duy logic của trẻ em qua việc tạo ra sản phẩm. Cubico - sẽ được tìm hiểu các khái niệm lập trình thông qua các hoạt động trải nghiệm tương tác thông qua các công nghệ mới như thực tế ảo và IOT. Scratch. Trẻ sẽ lắp ráp các khối câu lệnh chức năng để điều khiển nhân vật di chuyển, chạy, nhảy, hay thậm chí là hát. Trẻ cũng có thể thiết kế lại nhân vật, thêm chi tiết, thêm màu sắc âm thanh. Được tiếp xúc ngôn ngữ lập trình scratch cho trẻ em. Được học bởi hàng triệu trẻ em trên thế giới.*
+
+- HP1: Học tư duy với những bài học trực quan như cỗ máy thời gian - cubico
+- HP2, HP3, HP4: comming soon
+- HP5: Học các khái niệm cơ bản như lập trình tuần tự, thay đổi parameter, sự kiện và tạo một số game dự án dựa trên đó - HP6: Tạo một số chương trình sử dụng toán học nhiều hơn sử dụng kỹ thuật liên quan đến âm thanh, nhiều kỹ thuật hơn như đếm các con số, tìm hiểu về vòng lặp, làm việc với âm thanh
+
+### Scratch (Bé lập trình Scratch)
+
+*Học ngôn ngữ Scratch làm quen với bộ môn lập trình thông qua việc kéo thả, sáng tạo ra sản phẩm sử dụng thư viện media và studio nghệ thuật. Bé học được tư duy sáng tạo, làm việc cộng tác, suy nghĩ có hệ thống. True True tìm hiểu các kiến thức lập trình thông qua màu sắc, hình vẽ và hơn nữa là khả năng kết nối với Scratch để lập trình điều khiển Robot.*
+
+- HP1: Khám phá các khối lệnh, cơ bản về lập trình tuần từ, các câu lệnh điều kiện, vòng lặp.
+- HP2: Điều khiển âm thanh, chuyển động qua camera, cơ bản về hàm.
+- HP3: Các khối lệnh clone, biến toán tử, khối lệnh pen.
+- HP4: Tìm hiểu các thẻ, các thẻ trình tự & thuật toán, kết nối scratch và lập trình với true true, học toán với true true và các project liên quan.
+- HP5, HP6: comming soon
+
+### Python (Siêu nhân lập trình)
+
+*Sẽ được tiếp cận với các ngôn ngữ lập trình cao cấp hơn là python (là cửa ngõ để bước vào thế giới khoa học máy tính, ứng dụng nhiều game đơn giản đến những thuật toán phức tạp, các sản phẩm và ứng dụng được phát triển bới các công ty hàng đầu như Google, Facebook, Amazon và luôn trong top 10 những ngôn ngữ lập trình phổ biến). Ngoài có tư duy lập trình, làm những sản phẩm thực tế còn giúp các bạn có cơ hội nghề nghiệp trong tương lai.*
+
+- HP1: Những kiến thức lập trình cơ bản, hình thành tư duy lập trình
+- HP2: Học một số phần nâng cao về lập trình và làm quen với thư viện lập trình game 2D
+- HP3, HP4, HP5: học python minecraft lập trình game 3D với  mức độ khó tăng dần
+
+### Wedo (Khám phá robot)
+
+*Đưa học sinh tiến sâu hơn vào chủ đề Robotics, logics lập trình và thiết kế kiến trúc với Lego Education WeDo. Thông qua việc kéo-và-thả các khối lệnh với Scratch, sử dụng thư viện media và studio nghệ thuật, và mô hình học theo dự án.  Bé sẽ học được cách suy nghĩ sáng tạo, làm việc cộng tác, và suy luận có hệ thống.*
+
+- HP1: Lắp rap và lập trình cần sự hướng dẫn nhiều
+- HP2: Độ khố tăng lên, cần tới ít sự trợ giúp của giảng viên
+- HP3: Độ khó tăng lên, để học sinh nhìn hình rồi tự tư duy để lắp rap và lập trình
+- HP4: Thiên về lập trình học tuần tự, học các khối lệnh cơ bản trong lập trình và ứng dụng trong việc lắp rap
+- HP5: Nâng cao về lập trình và ôn luyện để đi thi các cuộc thi
+
+### Mindstorm (Xưởng chế tạo robot)
+
+*Học sinh sẽ khám phá 1 chân trời thú vị về robotics và engineering, các em thỏa sức khám phá, sáng tạo trong thế giới robot và kỹ thuật. Bộ linh kiện gồm hàng trăm mảnh Lego, các cảm biến, động cơ và bộ điều khiển trung tâm cho phép các em kết hợp để tạo ra vô số các robot khác nhau.*
