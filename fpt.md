@@ -9,104 +9,104 @@ keyword: [
 
 ### [Semester 1](#)
 
-#### MAE101 - Mathematics for Engineering
+### MAE101 - Mathematics for Engineering
 
 - [Book](https://drive.google.com/drive/u/2/folders/1jtHVY8GgenAGH4rL1ZqIuu7yuaoQ67l2)
 - Final Exam: nên tìm cao nhân chỉ bảo.
 
-#### CEA201 - Computer Organization and Architecture
+### CEA201 - Computer Organization and Architecture
 
 - [Book](https://drive.google.com/drive/folders/1tP1_smvIQ5UiqXaMA5NqfNBRXjGYHlG7?usp=sharing)
 - [Final Exam](https://quizlet.com/245233266/): trúng 100%
 
-#### CSI101 - Connecting to Computer Science
+### CSI101 - Connecting to Computer Science
 
 - [Book](https://drive.google.com/drive/u/2/folders/1RFNLaxAseNixlvVV9Kcrh2DNZkmd0vd4)
 - [Final Exam](https://quizlet.com/241199609/): trúng 100%
 
-#### PRF192 - Programming Fundamentals
+### PRF192 - Programming Fundamentals
 
 - [Slide, Assignments, Workshop, Code example, Exercies](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing) - học thầy CauPD.
 - [Test - CauPD](https://www.youtube.com/watch?v=ZkI1jRlT7Pk)
 - [Practical Exam](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing): bao gồm example PE và source để chuẩn bị cho việc coppy khi thi PE (mình thi 10).
 - [Final Exam](https://drive.google.com/drive/folders/1Hsl4dWE1_OOvxJl1PEsAQnUBQCcAVRgR?usp=sharing): chủ yếu là luyện đọc hiểu code.
 
-#### SSG101 - Working in Group Skills
+### SSG101 - Working in Group Skills
 
 - [Source Project](https://drive.google.com/drive/folders/0B7iEYGblY5QwN2E0c3Fkd2lXUDg?usp=sharing) toàn bộ source quá trình làm dự án của team mình - [Fast & Furious](https://www.facebook.com/fast.furious.fpt/)
 - [Final Exam](https://quizlet.com/243222059/) trúng 100%
 
-### [Semester 2](#)
+## [Semester 2](#)
 
-#### DBI202 - Introduction to Databases
+### DBI202 - Introduction to Databases
 
 - [Practice](https://drive.google.com/drive/folders/1FyboAPGD96WV2_JtT22yPuT5coTq1hi1?usp=sharing): để thực hành một số database như northwind, sakila,...
 - [Project](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): database quản lý ký túc xá (mình được 9.5 cô ChiNQ)
 - [Practical Exam](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): một số ví dụ đề thi pe
 - [Final Exam](https://quizlet.com/283436881/): tầm 9đ, mấy câu 2nf, 3nf.. nên hiểu
 
-#### PRO201 - Front-end Web Development
+### PRO201 - Front-end Web Development
 
 - [Lab](https://drive.google.com/drive/folders/1R0dOhVNsh4grSCKmInMovTqwzm-3E8em?usp=sharing): thầy CauPD
 - [Project](https://github.com/thaycacac/blog-sharp-front-end): một trang blog team (mình được 10)
 - [Final Exam](https://www.javatpoint.com/javascript-quiz?fbclid=IwAR2tv7HDHRV11WtIqpGd4VHWZiKsO3mbe4X1-bYKV0o48hX-wW_tJH_J3Kk): học trên này > 8
 
-#### PRO192 - Object-Oriented Programming
+### PRO192 - Object-Oriented Programming
 
-- [Homework, Code In Class](https://www.youtube.com/watch?v=CUippyBb0MI&list=PLhzwgSOATUj18xZbubYqnguY4k3XTZNNE) thầy DuyDT
+- [Code In Class](https://github.com/thaycacac/java-core) thầy DuyDT
 - [Assignment](https://drive.google.com/drive/folders/19pnt44hOMcV6EtLou9E7BHsocAc4Nrid?usp=sharing): bài cuối kỳ thầy DuyDT (mình được 10)
 - [Practical Exam](https://drive.google.com/drive/folders/1q1kf_s6S74LcxvkGqrqdM_5-NoAUnzEj?usp=sharing): không biết vứt đâu hết.
 - [Final Exam](https://drive.google.com/drive/folders/1sTsOr_QC3gq_Af9wXy_FD3K0SxtmqlrD?usp=sharing)
 
-#### MAD101 - Discrete mathematics
+### MAD101 - Discrete mathematics
 
 - [Book](https://drive.google.com/drive/folders/1ezLJrUTDrgh1tjupX4Sfi08yK6DZ6CQy?usp=sharing)
 - Final Exam: nên tìm cao nhân chỉ bảo.
 
-#### LAB101 - C Lab
+### LAB101 - C Lab
 
 - [Lab](https://drive.google.com/drive/folders/1VXCUqOPP2JZUtEptxHp6OgUPfDGqh-2q?usp=sharing)
 
-### [Semester 3](#)
+## [Semester 3](#)
 
-#### PRJ311 - Desktop Java Applications
+### PRJ311 - Desktop Java Applications
 
 - [Practice PE](https://github.com/thaycacac/java/tree/master/%5BPRJ311%5D%20Desktop%20Java%20Applications/PE%20PRACTICE)
 - [Source For PE](https://github.com/thaycacac/java/tree/master/%5BPRJ311%5D%20Desktop%20Java%20Applications/KEY%20PE)
 - [Final Exam](https://quizlet.com/390863863/)
 - [Final Exam Image](https://drive.google.com/drive/folders/1yaL5liKg4zPiO8kjNGoodRZC-j7HiHvD?usp=sharing): ngày trước mình trúng tầm 70%
 
-#### LAB211 - OOP with Java Lab
+### LAB211 - OOP with Java Lab
 
 - [Lab](https://github.com/thaycacac/java/tree/master/%5BLAB211%5D%20OOP%20with%20Java%20Lab): full đề bài và full code
 - [Pass TuanVM](https://github.com/Sharp-Team/oop-javalab-master): đây là 3 bài mình pass TuanVM
 
-#### OSG202 - Operating Systems
+### OSG202 - Operating Systems
 
 - [Book & Test](https://drive.google.com/drive/folders/1k15TU2dnESz8RmXokCFPAtrFsYB6Rhaq?usp=sharing): full test trên lớp của SonNT5
 - [Final Exam](https://quizlet.com/390866176/)
 - [Final Exam Image](https://drive.google.com/drive/folders/17QIKSXrUlGZVJt3J-ceQ3rSXeYkCc025?usp=sharing): key ảnh mình trúng tầm 80%
 
-#### JPD111 - Elementary Japanese 1.1
+### JPD111 - Elementary Japanese 1.1
 
 - [Final Exam](https://drive.google.com/drive/folders/1vZ2D_eIPeK2JOXc1GgtXak2tPg6Hicq6?usp=sharing): để tham khảo, ngày trước mình học block5 trúng 100%
 - [Speaking](https://www.youtube.com/watch?v=K16oJkxnYt8&feature=youtu.be)
 
-#### CSD201 - Data Structures and Algorithms
+### CSD201 - Data Structures and Algorithms
 
 - [Assignment 1](https://github.com/thaycacac/cute-editor-javaswing) code editor sử dụng stack (học SonNT5)
 - [Assignment 2](https://github.com/thaycacac/railway-system-vietnam) hệ thống chỉ đường sắt trên cao
-- [Code In Class](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20-%20Data%20Structures%20and%20Algorithms)
-- [Practical Exam](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20-%20Data%20Structures%20and%20Algorithms/8-KEY%20PE): vào chỉ việc copy paste thôi, khoảng 9 - 10 điểm
+- [Code In Class](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20Data%20Structures%20and%20Algorithms)
+- [Practical Exam](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20Data%20Structures%20and%20Algorithms/8-KEY%20PE): vào chỉ việc copy paste thôi, khoảng 9 - 10 điểm
 - [Final Exam](https://drive.google.com/drive/folders/1wyj8L21HAxTTL3Z311qMHtBEK6WLgay9?usp=sharing): trúng 100%
 
-### [Semester 4](#)
+## [Semester 4](#)
 
-#### NWC202 - Computer Networking
+### NWC202 - Computer Networking
 
 - [Final Exam](https://drive.google.com/drive/folders/1V5ax-ej6xR-WHeGyHsdcHEJ40gBt5n2t?usp=sharing): trung 80 - 90%
 
-#### PRJ321	- Web-Based Java Applications
+### PRJ321 - Web-Based Java Applications
 
 - [Work shop 1 & 2](https://github.com/thaycacac/quiz-system-struts): làm một web quiz dành cho cả giáo viên và sinh viên
 - [Project](https://github.com/thaycacac/fap-registration-study): trang đăng ký học dành cho sinh viên (mình được 10), do mình học block 5 nên project có requirement cụ thể không dùng làm project trong kỳ được.
@@ -114,61 +114,64 @@ keyword: [
 - [Practical Exam](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/PE)
 - Final Exam: mất key rồi :v
 
-#### SWE102 - Introduction to Software Engineering
+### SWE102 - Introduction to Software Engineering
 
 - [Assignment 1](https://docs.google.com/document/d/1Xttf2eAhLCyqICxrMAjNUciInQ_vSIEKLJZLVFv7Le0/edit?usp=sharing): thầy TriTD (nhóm mình được 9.5)
 - [Assignment 2](https://docs.google.com/document/d/1hZsle98luQUTheCw51hVIA3urIaOR7-HI6zHkyLB_M8/edit?usp=sharing): thầy TriTD (được 9.5)
 - [All Slide](https://docs.google.com/presentation/d/1lMnS5AvD_8FNDLVangGg6QFNT3IPGK19aSB8tsU-e_w/edit#slide=id.p1)
 - Final Exam: đợt mình thi đổi key không trúng câu nào
 
-#### JPD121 - Elementary Japanese 1.2
+### JPD121 - Elementary Japanese 1.2
 
 - [Final Exam](https://drive.google.com/drive/folders/1W_tXrm3kSgLnap_Q4hXrL4nvLsLfsol-?usp=sharing): trúng 80 - 90%, thi nói ngày trước cô cho giấy ôn
 
-#### LAB221 - Desktop Java Lab
+### LAB221 - Desktop Java Lab
 
 - [Lab](https://drive.google.com/drive/folders/15EtpOufSJA78d-tsDMvU48PYTHyPQfor?usp=sharing)
 - [Calculator](https://github.com/Sharp-Team/calculator-javadesk): pass TuanVM
 - [Text Editor](https://github.com/Sharp-Team/text-editor-javadesk): pass TuanVM, còn một bài mình code trên lớp
 
-### [Semester 5](#)
+## [Semester 5](#)
 
-#### JPD131 - Elementary Japanese 2.1
+### JPD131 - Elementary Japanese 2.1
 
 - [Final Exam](https://drive.google.com/drive/folders/1wrLRu8eFg0xRUd9TA7MY7qkMQtf5oWnV?usp=sharing) không nhớ trúng bao nhiêu
 - [Speaking](https://docs.google.com/document/d/1T1M3IJ2Uw1Xyufi2jS42ywI1yhgjZHxry-Y-ed9Bulo/edit)
 - [Practice Write](https://docs.google.com/document/d/1Bu-8UyXgNQfzuxANnjtlOU2yKSkk65fTpYp91NN6uhc/edit)
 
-#### LAB231 - Web Java Lab
+### LAB231 - Web Java Lab
 
 - [Lab](https://drive.google.com/drive/folders/1wF_D3vA0eOlauP9-mR0dYG28pNSVwftK?usp=sharing)
 - [Pass TuanVM](https://github.com/Sharp-Team/web-java-lab): bài digital và maria, một số câu hỏi của thầy mình để trong README của bài digital news. còn một bài mình code trên lớp
 
-#### SWR302 - Software Requirement
+### SWR302 - Software Requirement
 
 - [Book & Final Exam Image](https://drive.google.com/drive/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1?usp=sharing)
 - [Assgnment 1](https://docs.google.com/document/d/1E6RoDtRTo2sQDG_g5HUvvDA08Qr1OWHheYZje38ceHI/edit?usp=sharing): thầy TrungNT được tầm 8 - 9 đ
 - [Assgnment 2](https://docs.google.com/document/d/1gPspJWdbKeN3CVgYcfjeGRSNST2ZcwVv3rsAleS2v18/edit?usp=sharing): được tầm 8 - 9 đ
 - [Final Exam](https://quizlet.com/387370660/swr302-flash-cards/)
 
-#### SWT301 - Software Testing
+### SWT301 - Software Testing
 
 - [Lab 1](https://github.com/Sharp-Team/ma-di-tuan) của BanTQ, học thuộc code để chấm :))
 - [Lab 2 - 3 - 4](https://docs.google.com/spreadsheets/d/11vjWQOPRJpISISe-2EqqV9tRlgOP5_EJw6l8woAZVPA/edit#gid=706477799)
 - [Test](https://quizlet.com/305941469/swt-flash-cards/) tất cả các bài test random trong này
 - [Final Exam](https://drive.google.com/drive/folders/1ShIp3qW4J3BX2q_3A1u8btPMqD7X2kNv?usp=sharing): trúng 100%
 
-#### PRN292 - .NET and C#
+### PRN292 - .NET and C
 
 - [Project](https://github.com/Sharp-Team/quiz-sharp): ứng dụng desktop học quiz như quizlet (nhóm mình được 9.5)
 - [Final Exam 1](https://quizlet.com/386568016/prn292_1-flash-cards/)
 - [Final Exam 2](https://quizlet.com/386754653/prn292_2-flash-cards/): mình ôn 2 bộ này trúng 80%
 
-### [Semester 6](#)
+## [Semester 6](#)
 
-#### SYB301 - Start Your Business
+### SYB301 - Start Your Business
 
 - [Project](https://drive.google.com/drive/u/1/folders/1WAdhmGobI5TTfNHJAV8thcO48t4KxVlw): dự án mở quán ăn ở ngoài Hà Nội
 - [Final Exam](https://docs.google.com/document/d/1_p-iODd26RNBTZmm7kfMwkpudM6yKDm9z0GlSJyVKC4/edit#heading=h.gjdgxs)
 
 Đang học...
+
+{: .thaycacac-description}
+Note: Tuyệt đối không share cho sv ngoài trường. Nếu bạn nào có key xịn hơn thì gửi để mình update cho mọi người nhé. Với lại mình đang học kỳ 7, ai có key cho mình xin luôn!!! Email: _thaycacac@gmail.com_
