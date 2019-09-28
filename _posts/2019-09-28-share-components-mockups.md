@@ -1,20 +1,21 @@
 ---
 layout: post
 title: Share components mockups
-subtitle: Binh vô thường thế, thủy vô thường hình, năng nhân địch biến hóa nhi thủ thắng giả, vị chi thần...
+subtitle: Gấp 10 lần thì bao vây, 5 lần thì tấn công, gấp 2 thì chia ra mà đánh, bằng địch thì phải đánh khéo,...
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [share]
 tags: [viet nam]
 keywords: [
-  so do bo may nha nuoc viet nam,
-  sơ đồ bộ máy nhà nước việt nam,
-  bộ máy nhà nước việt nam
-  bo may nha nuoc viet nam
-  danh sách bộ máy nhà nước,
-  danh sach bo may nha nuoc,
-  nhà nước là gì,
-  nha nuoc la gi
+  mockup app,
+  mockup generator,
+  mockups figma,
+  apps mockup,
+  tools mockup,
+  tạo mockups đơn giản,
+  tao mockup don gian,
+  hướng dẫn tạo mockups,
+  huong dan tao mockups
 ]
 ---
 
