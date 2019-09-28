@@ -5,7 +5,7 @@ subtitle: Gấp 10 lần thì bao vây, 5 lần thì tấn công, gấp 2 thì c
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [share]
-tags: [viet nam]
+tags: [share, ui/ux]
 keywords: [
   mockup app,
   mockup generator,
