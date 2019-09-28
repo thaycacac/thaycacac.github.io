@@ -18,7 +18,7 @@ keywords: [
 ]
 ---
 
-Do mình học môn HCI201(Human Computer Interaction) và thầy yêu cầu vẽ muckups, nhưng team mình thì lại thích design trên **figma**, ngại dùng một tools để vẽ nên mình đã tự tạo ra bộ components muckups đơn giản, đủ để tạo muckups cho trang web đơn giản làm bài tập trên lớp.
+Do mình học môn HCI201(Human Computer Interaction) và thầy yêu cầu vẽ mockups, nhưng team mình thì lại thích design trên **figma**, ngại dùng tools khác để vẽ nên mình đã tự tạo ra bộ components mockups đơn giản, có lẽ là đủ để tạo apps/web làm bài tập trên lớp mà lại dễ dùng.
 
 [Source](https://www.figma.com/file/I7KrEL0dABOiIgsB2rYrrY/HCI201?node-id=73%3A5504)
 
@@ -29,5 +29,7 @@ Do mình học môn HCI201(Human Computer Interaction) và thầy yêu cầu v�
 ![Share components muckups](/assets/img/mockups/1.png)
 
 ![Share components muckups](/assets/img/mockups/2.png)
+
+Nếu bạn không biết cách lâý bộ này để dùng thì liên hệ với mình để được hỗ trợ.
 
 I hope this could help you!!!
