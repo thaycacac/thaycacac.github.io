@@ -9,8 +9,6 @@ keyword: [
 
 ### [1. 10FingersFast](https://fingersfast.herokuapp.com/)
 
-![10 Fingers Fast](assets/img/projects/0.jpg)
+![10 Fingers Fast](/assets/img/projects/0.JPG)
 
-![10 Fingers Fast](assets/img/projects/1.jpg)
-
-![Share components muckups](/assets/img/mockups/0.png)
+![10 Fingers Fast](/assets/img/projects/1.JPG)
