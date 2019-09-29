@@ -189,4 +189,4 @@ keyword: [
 
 
 {: .thaycacac-description}
-Note: Tuyệt đối không share cho sv ngoài trường. Nếu bạn nào có key xịn hơn thì gửi để mình update cho mọi người nhé. Với lại mình đang học kỳ 7, ai có key cho mình xin luôn!!! Email: _thaycacac@gmail.com_
+Note: This is just my experience, maybe not right for you. Contact: _thaycacac@gmail.com_
