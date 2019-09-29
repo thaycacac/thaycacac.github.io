@@ -171,7 +171,22 @@ keyword: [
 - [Project](https://drive.google.com/drive/u/1/folders/1WAdhmGobI5TTfNHJAV8thcO48t4KxVlw): dự án mở quán ăn ở ngoài Hà Nội
 - [Final Exam](https://docs.google.com/document/d/1_p-iODd26RNBTZmm7kfMwkpudM6yKDm9z0GlSJyVKC4/edit#heading=h.gjdgxs)
 
-Đang học...
+## [Semester 7](#)
+
+### ACC101 - Principles of Accounting
+- [Test 1](https://www.youtube.com/watch?v=E_Xpc3sGD5A&feature=youtu.be) cô THAOGTM
+
+### HCI201 - Human-Computer Interaction
+- [Test 1](https://quizlet.com/432868761/hci201-flash-cards/) trúng 100%
+
+### PRM391 - Mobile Programming
+
+### SWD391 - Software Architecture and Design
+- [Test 1](https://quizlet.com/431686082/swd-test1-flash-cards/) trúng 100%
+
+### ISC301 - e-Commerce
+- [Test 1](https://quizlet.com/433386576/isc301-flash-cards/) trúng 100%
+
 
 {: .thaycacac-description}
 Note: Tuyệt đối không share cho sv ngoài trường. Nếu bạn nào có key xịn hơn thì gửi để mình update cho mọi người nhé. Với lại mình đang học kỳ 7, ai có key cho mình xin luôn!!! Email: _thaycacac@gmail.com_
