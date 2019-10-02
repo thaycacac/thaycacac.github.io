@@ -14,9 +14,9 @@
   {%if page.keywords %}
   <meta name="keywords" content="thaycacac, phạm ngọc hòa, pham ngoc hoa, {{ page.keywords | join: ', ' | escape }}" />
   {%endif %}
-  {%if !page.keywords %}
+  {%unless !page.keywords %}
   <meta name="keywords" content="thaycacac, phạm ngọc hòa, pham ngoc hoa" />
-  {%endif %}
+  {%endunless %}
   <meta name="p:domain_verify" content="e6c76996980df462b03d974d69da4855"/>
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}"
     href="{{ site.baseurl }}/feed.xml" />
