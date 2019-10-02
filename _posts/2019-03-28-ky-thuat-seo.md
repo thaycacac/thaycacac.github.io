@@ -22,20 +22,19 @@ keywords: [
 ]
 ---
 
-Thực ra những bài hướng dẫn SEO ở trên mạng cũng rất là nhiều nhưng thường thì là rất cũ rồi hoặc là nó không còn phù hợp nữa vì google thỉnh thoảng lại thay đổi thuật toán, chính vì thế mà cái kiến thức kỹ thuật SEO đó đã không còn hợp lý nữa. Chính vì thế mà bài này mình hưỡng dẫn những kỹ thuật mà thường sẽ không bị thay đổi hoặc bị ảnh hưởng nhiều khi cập nhật search engine.
+Thực ra những bài hướng dẫn SEO ở trên mạng cũng rất là nhiều nhưng thường thì là rất cũ rồi hoặc là nó không còn phù hợp nữa vì google thỉnh thoảng lại thay đổi thuật toán. Chính vì thế mà bài này mình hướng dẫn những kỹ thuật mà thường sẽ không bị thay đổi hoặc bị ảnh hưởng ít khi có thay đổi của các search engine.
 
-#### SEO viết bài viết
+#### SEO bài viết
 
-Hiểu hành vi của con người: bạn phải hiểu xem người dùng mong muốn gì khi đọc bài viết này.
+Bước 1: Hiểu hành vi của con người: bạn phải hiểu xem người dùng mong muốn gì khi đọc bài viết này.
 
-Nghiên cứu từ khóa:
+Bước 2: Nghiên cứu từ khóa:
 
-- Tìm idea, bạn có thể search trên thanh công cụ tìm kiếm để xem các gợi ý. Và có thể dùng thêm một số công cụ, mình sử dụng thêm 2 extension của chrome là: [SEOquake](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc?hl=vi) và [Keywords Everywhere](https://chrome.google.com/webstore/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp) => list file idea => chọn từ khóa phù hợp với nhu cầu
+- Tìm idea, bạn có thể search trên thanh công cụ tìm kiếm để xem các gợi ý. Và có thể dùng thêm một số công cụ, mình sử dụng thêm 2 extension của chrome là: [SEOquake](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc?hl=vi) và [Keywords Everywhere](https://chrome.google.com/webstore/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp) => list file idea => chọn từ khóa phù hợp với nhu cầu. Còn nếu như bạn lười, ngại nghiên cứu thì có thể sử dụng cái tool này [Keyword Sheeter](https://keywordsheeter.com/) rồi copy là xong
 - Sử dụng keyword planner => để so sánh các từ khóa, chọn được focus keyword
 - Vào trang [ahef](https://ahrefs.com/) => nhập link các trang của đối thủ có rank cao => nhìn vào các từ khóa đấy để có thể học hỏi
 - Sử dụng [Keyword tool](https://keywordtool.io/) => lọc nhóm keyword thành các nhóm chủ đề => từ đó có thể gợi ý cấu trúc của bài viết, mỗi đầu mục thành một đoạn
 
-Research các chủ đề dựa trên các đầu mục lựa chọn được ở bước trên.
+Bước 3: Research các chủ đề dựa trên các đầu mục lựa chọn được ở bước trên.
 
-Tốt nhất là bạn hãy cố gắng sử dụng hết đống keyword research được SEO một cách triệt để nhất.
-
+Bước 4: Tốt nhất là bạn hãy cố gắng sử dụng hết đống keyword research được SEO một cách triệt để nhất.
