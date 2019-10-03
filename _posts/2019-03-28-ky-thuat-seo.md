@@ -24,6 +24,12 @@ keywords: [
 
 Thực ra những bài hướng dẫn SEO ở trên mạng cũng rất là nhiều nhưng thường thì là rất cũ rồi hoặc là nó không còn phù hợp nữa vì google thỉnh thoảng lại thay đổi thuật toán. Chính vì thế mà bài này mình hướng dẫn những kỹ thuật mà thường sẽ không bị thay đổi hoặc bị ảnh hưởng ít khi có thay đổi của các search engine.
 
+### Kỹ thuật
+
+Chung: Tên miền => cấu trúc website => thiết lập **Sitemaps** => thiết lập **file Robots** => cài đặt **Google Analytics** => cài đặt **Google Webmaster Tool** cho website => Nghiên cứu từ khoá.
+
+Viết bài: Nội dung khoảng 300 - 500 từ => tỷ lệ text 20-80% => mật độ từ khoá dưới 2 - 3% => tối ưu URL(30 - 60 ký tự) => tối ưu title (50 - 55 ký tự) => tối ưu meta description (100 - 155 ký tự), meta keywords => tối ưu từ khoá (h1:1, h2:5-7, h3:10-15, h4 h5 h6 tuỳ biến)) => tối ưu nội dung như in đậm, liên kết nội bộ => tối ưu hình ảnh (tên file, alt, từ khoá, size, nội dung hình ảnh), video => mật độ từ khoá => page load
+
 #### SEO bài viết
 
 Bước 1: Hiểu hành vi của con người: bạn phải hiểu xem người dùng mong muốn gì khi đọc bài viết này.
@@ -38,3 +44,5 @@ Bước 2: Nghiên cứu từ khóa:
 Bước 3: Research các chủ đề dựa trên các đầu mục lựa chọn được ở bước trên.
 
 Bước 4: Tốt nhất là bạn hãy cố gắng sử dụng hết đống keyword research được SEO một cách triệt để nhất.
+
+[Một bài tổng họp kỹ thuật rất hay](https://azaseo.com/vi/tin-tuc/cach-seo-tu-khoa/)
