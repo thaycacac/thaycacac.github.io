@@ -274,4 +274,6 @@ Bước 3: Research các chủ đề dựa trên các đầu mục lựa chọn 
 
 Bước 4: Tốt nhất là bạn hãy cố gắng sử dụng hết đống keyword research được SEO một cách triệt để nhất.
 
+[Readmore](https://www.simpleeffectiveness.com/wp-content/uploads/2017/06/SEO-2017-Checklist-v2.1.pdf)
+
 I hope this could help you!!!
