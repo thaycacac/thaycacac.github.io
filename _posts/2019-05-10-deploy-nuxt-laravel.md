@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEO Checklist
+title: Deploy Nuxt - Laravel
 subtitle: Deploy Nuxt - Laravel
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
