@@ -15,18 +15,26 @@ keywords: []
 Cài đặt git:
 
 ```ssh
-apt-get update
-apt-get install git-core
-git -v
+sudo apt-get update
+sudo apt-get install git
+git --version
 ```
 
-Cài đặt nodejs, npm, yarn
+Cài đặt nodejs, npm
 
 ```ssh
 sudo apt install nodejs
 sudo apt install npm
-nodejs -v
-sudo port install yarn
+nodejs --version
+```
+
+Cài đặt yarn
+
+```ssh
+sudo apt remove cmdtest
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+sudo apt-get install --no-install-recommends yarn
 ```
 
 Cài đặt nginx
@@ -44,18 +52,9 @@ git clone github.com/demo .
 Cài đặt composer
 
 ```ssh
-sudo apt install curl php-cli php-mbstring git unzip
+sudo apt install curl php-cli php-mbstring unzip
 cd ~
-curl -sS https://getcomposer.org/installer -o composer-setup.php
-```
-
-Vào trang [này](https://composer.github.io/pubkeys.html) rồi copy vào SSH như thế này
-
-```ssh
-HASH=544e09ee996cdf60ece3804abc52599c22b1f40f4323403c44d44fdfdd586475ca9813a858088ffbc1f233e9b180f061
-php -r "if (hash_file('SHA384', 'composer-setup.php') === '$HASH') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
-sudo php composer-setup.php --install-dir=/usr/local/bin --filename=composer
-composer
+sudo apt install composer
 ```
 
 Vào project và chạy
@@ -67,6 +66,8 @@ composer install
 Tạo databse
 
 ```sql
+sudo apt install mysql-client-core-5.7
+sudo apt install mysql-server
 mysql -u root -p
 CREATE DATABASE thaycacacdb DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 GRANT ALL ON thaycacacdb.* TO 'admin'@'localhost' IDENTIFIED BY '123456'
@@ -102,4 +103,8 @@ LOGGED_IN_SALT=
 NONCE_SALT=
 ```
 
-Sửa file sau `/ect/nginx/sites/availble/default` thêm index.php
+Sửa file sau `/ect/nginx/sites-availble/default` thêm index.php
+
+```ssh
+sudo service nginx restart
+```
