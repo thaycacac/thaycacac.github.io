@@ -9,69 +9,85 @@ keyword: [
 
 #### Deploy laravel
 
-Cài đặt git:
+Update
 
 ```ssh
-sudo apt-get update
-sudo apt-get install git
-git --version
+sudo apt-get update -y
+sudo apt-get upgrade -y
 ```
 
-Cài đặt nodejs, npm
+Install git, nodejs,...
 
 ```ssh
-sudo apt install nodejs
-sudo apt install npm
+sudo apt-get install git nodejs npm curl
+git --version
 nodejs --version
 ```
 
-Cài đặt yarn
+Install yarn
 
 ```ssh
 sudo apt remove cmdtest
 curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
 echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
 sudo apt-get install --no-install-recommends yarn
+yarn --version
 ```
 
-Cài đặt nginx
+Install php,...
 
 ```ssh
-sudo apt install nginx
+sudo apt-get install php7.2 php7.2-fpm php7.2-mysql php7.2-curl php7.2-gd php7.2-mbstring php7.2-xml php7.2-xmlrpc
 ```
 
-Clone về `/var/www/html`
+Install composer
 
 ```ssh
-git clone github.com/demo .
-```
-
-Cài đặt composer
-
-```ssh
-sudo apt install curl php-cli php-mbstring unzip
-cd ~
+sudo apt install
 sudo apt install composer
 ```
 
-Vào project và chạy
+Install database
+
+- MySQL
 
 ```ssh
-composer install
-```
-
-Tạo databse
-
-```sql
 sudo apt install mysql-client-core-5.7
 sudo apt install mysql-server
+sudo systemctl status mysql
 mysql -u root -p
-CREATE DATABASE thaycacacdb DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
-GRANT ALL ON thaycacacdb.* TO 'admin'@'localhost' IDENTIFIED BY '123456'
-exit
 ```
 
-Tạo file `.env` với nội dung như sau, sửa phần key bên dưới:
+- Mariadb
+
+```ssh
+sudo apt-get install software-properties-common
+sudo apt-key adv --recv-keys --keyserver hkp://keyserver.ubuntu.com:80 0xF1656F24C74CD1D8
+sudo nano /etc/apt/sources.list.d/mariadb.list
+# MariaDB 10.3 Repository
+deb [arch=amd64,arm64,ppc64el] http://sfo1.mirrors.digitalocean.com/mariadb/repo/10.3/ubuntu bionic main
+deb-src http://sfo1.mirrors.digitalocean.com/mariadb/repo/10.3/ubuntu bionic main
+sudo apt install mariadb-server
+sudo systemctl status mariadb
+```
+
+Create database
+
+```sql
+CREATE DATABASE thaycacac DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+GRANT ALL ON thaycacac.\* TO 'thaycacacuser'@'localhost' IDENTIFIED BY '123456';
+```
+
+Install project
+
+```ssh
+cd /var/www/html
+git clone github.com/demo .
+composer install
+yarn
+```
+
+Setup file `.env`
 
 ```ssh
 WP_DEBUG=true
@@ -100,46 +116,27 @@ LOGGED_IN_SALT=
 NONCE_SALT=
 ```
 
-Sửa file sau `/ect/nginx/sites-availble/default` thêm index.php
+Install web server
 
 ```ssh
-sudo service nginx restart
+sudo apt install nginx
+nano /etc/nginx/sites-available
+server {
+  listen 80 default_server;
+  listen [::]:80 default_server;
+    root /var/www/html/public;
+    index index.php index.html index.htm index.nginx-debian.html;
+    server_name _;
+    location / {
+      try_files $uri $uri/ index.php?$query_string;
+    }
+    location ~ \.php$ {
+      include snippets/fastcgi-php.conf;
+      fastcgi_pass unix:/var/run/php/php7.2-fpm.sock;
+      #fastcgi_pass 127.0.0.1:9000;
+    }
+  }
 ```
-
-mariadb
-
-sudo apt-get install software-properties-common
-sudo apt-key adv --recv-keys --keyserver hkp://keyserver.ubuntu.com:80 0xF1656F24C74CD1D8
-
-sudo vim /etc/apt/sources.list.d/mariadb.list
-
-# MariaDB 10.3 Repository
-
-deb [arch=amd64,arm64,ppc64el] http://sfo1.mirrors.digitalocean.com/mariadb/repo/10.3/ubuntu bionic main
-deb-src http://sfo1.mirrors.digitalocean.com/mariadb/repo/10.3/ubuntu bionic main
-
-sudo apt update
-sudo apt install mariadb-server
-
-//check
-sudo systemctl status mariadb
-
-mysql -u root -p
-
-// PHP - Webserver
-// PHP 7.2
-
-sudo apt-get update
-sudo apt-get install php7.2 php7.2-fpm php7.2-mysql php7.2-curl php7.2-gd php7.2-mbstring php7.2-xml php7.2-xmlrpc
-
-mysql -u root -p
-
-CREATE DATABASE laravel DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-
-GRANT ALL ON laravel.\* TO 'laraveluser'@'localhost' IDENTIFIED BY 'matkh@u';
-
-sudo apt-get update && apt-get -y upgrade
-sudo apt-get install curl
 
 curl https://getcaddy.com | bash -s personal
 
