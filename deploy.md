@@ -118,6 +118,8 @@ NONCE_SALT=
 
 Install web server
 
+- Nginx
+
 ```ssh
 sudo apt install nginx
 nano /etc/nginx/sites-available
@@ -138,6 +140,9 @@ server {
   }
 ```
 
+- Caddy
+
+```ssh
 curl https://getcaddy.com | bash -s personal
 
 wget -qO- https://getcaddy.com | bash -s personal
@@ -161,3 +166,13 @@ sudo mkdir /var/www
 sudo chown www-data: /var/www
 
 sudo nano /lib/systemd/system/caddy.service
+```
+
+If use network FPT
+
+```ssh
+sudo nano /etc/ssh/sshd_config
+port 2222
+service sshd reload
+exit
+```
