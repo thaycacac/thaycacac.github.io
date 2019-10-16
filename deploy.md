@@ -27,7 +27,6 @@ nodejs --version
 Install yarn
 
 ```ssh
-sudo apt remove cmdtest
 curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
 echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
 sudo apt-get install --no-install-recommends yarn
@@ -43,7 +42,6 @@ sudo apt-get install php7.2 php7.2-fpm php7.2-mysql php7.2-curl php7.2-gd php7.2
 Install composer
 
 ```ssh
-sudo apt install
 sudo apt install composer
 ```
 
@@ -75,7 +73,7 @@ Create database
 
 ```sql
 CREATE DATABASE thaycacac DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-GRANT ALL ON thaycacac.\* TO 'thaycacacuser'@'localhost' IDENTIFIED BY '123456';
+GRANT ALL ON thaycacac.* TO 'thaycacacuser'@'localhost' IDENTIFIED BY '123456';
 ```
 
 Install project
