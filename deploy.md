@@ -136,6 +136,8 @@ sudo mkdir /var/www
 sudo chown www-data: /var/www
 sudo nano /lib/systemd/system/caddy.service
 
+sudo chmod 775 /var/www/html/public/uploads/2019/10
+
 wget -qO- https://getcaddy.com | bash -s personal
 curl https://getcaddy.com | bash -s realip,expires,upload
 sudo setcap cap_net_bind_service=+ep /usr/local/bin/caddy
@@ -183,4 +185,61 @@ sudo nano /etc/ssh/sshd_config
 port 2222
 service sshd reload
 exit
+```
+
+File config caddy:
+
+```ssh
+* {
+    root /var/www/html/public
+    fastcgi / /var/run/php/php7.2-fpm.sock php
+      rewrite {
+        to {path} {path}/ /index.php?{query}
+    }
+}
+```
+
+File config caddy:
+
+```ssh
+server {
+  listen 8080 default_server;
+  listen [::]:8080 default_server;
+  listen 443 ssl default_server;
+  listen [::]:443 ssl default_server;
+  root /var/www/html/public;
+  index index.php index.html index.htm index.nginx-debian.html;
+  server_name _;
+  location / {
+    try_files $uri $uri/ index.php?$query_string;
+  }
+  location ~ \.php$ {
+    include snippets/fastcgi-php.conf;
+    fastcgi_pass unix:/var/run/php/php7.2-fpm.sock;
+  }
+}
+server{
+  listen 80;
+  server_name vietdesign.com.vn www.vietdesign.com.vn;
+
+  root /usr/share/nginx/html;
+
+  index index.php index.html index.htm;
+  location / {
+    proxy_pass http://localhost:3000;
+    proxy_http_version 1.1;
+    proxy_set_header Upgrade $http_upgrade;
+    proxy_set_header Connection 'upgrade';
+    proxy_set_header Host $host;
+    proxy_cache_bypass $http_upgrade;
+  }
+
+  listen [::]:443 ssl ipv6only=on; # managed by Certbot
+  listen 443 ssl; # managed by Certbot
+  ssl_certificate /etc/letsencrypt/live/vietdesign.com.vn/fullchain.pem; # managed by Certbot
+  ssl_certificate_key /etc/letsencrypt/live/vietdesign.com.vn/privkey.pem; # managed by Certbot
+  include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+  ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+}
+
 ```
