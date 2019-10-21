@@ -123,29 +123,36 @@ server {
 
 ```ssh
 curl https://getcaddy.com | bash -s personal
-
 wget -qO- https://getcaddy.com | bash -s personal
 curl https://getcaddy.com | bash -s realip,expires,upload
 sudo setcap cap_net_bind_service=+ep /usr/local/bin/caddy
-
 sudo mkdir /etc/caddy
-
 sudo chown -R root:www-data /etc/caddy
-
 sudo mkdir /etc/ssl/caddy
-
 sudo chown -R www-data:root /etc/ssl/caddy
-
 sudo chmod 0770 /etc/ssl/caddy
-
 sudo touch /etc/caddy/Caddyfile
-
 sudo mkdir /var/www
-
 sudo chown www-data: /var/www
-
 sudo nano /lib/systemd/system/caddy.service
 ```
+
+#### Deploy nuxt
+
+Install yarn,git,...and build project
+
+````ssh
+yarn build
+yarn start
+``
+
+Install pm2
+
+```ssh
+npm install pm2 -g
+pm2 start npm --name "thaycacac" -- start
+pm2 restart thaycacac
+````
 
 If use network FPT
 
