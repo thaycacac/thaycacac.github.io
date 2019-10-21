@@ -135,6 +135,28 @@ sudo touch /etc/caddy/Caddyfile
 sudo mkdir /var/www
 sudo chown www-data: /var/www
 sudo nano /lib/systemd/system/caddy.service
+
+wget -qO- https://getcaddy.com | bash -s personal
+curl https://getcaddy.com | bash -s realip,expires,upload
+sudo setcap cap_net_bind_service=+ep /usr/local/bin/caddy
+sudo mkdir /etc/caddy
+
+sudo chown -R root:www-data /etc/caddy
+sudo mkdir /etc/ssl/caddy
+sudo chown -R www-data:root /etc/ssl/caddy
+sudo chmod 0770 /etc/ssl/caddy
+sudo touch /etc/caddy/Caddyfile
+sudo mkdir /var/www
+sudo chown www-data: /var/www
+sudo nano /lib/systemd/system/caddy.service
+sudo systemctl enable caddy.service
+wget https://raw.githubusercontent.com/mholt/caddy/master/dist/init/linux-systemd/caddy.service
+sudo cp caddy.service /etc/systemd/system
+sudo chow root:root /etc/systemd/system/caddy.service
+sudo chmod 644 /etc/systemd/system/caddy.service
+sudo systemctl daemon-reload
+sudo systemctl start caddy.service
+sudo systemctl status caddy
 ```
 
 #### Deploy nuxt
