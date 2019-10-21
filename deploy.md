@@ -20,23 +20,23 @@ Install git, nodejs,...
 
 ```ssh
 sudo apt-get install git nodejs npm curl
-git --version
-nodejs --version
+curl -sL https://deb.nodesource.com/setup_10.x -o nodesource_setup.sh
+sudo bash nodesource_setup.sh
+sudo apt install nodejs
 ```
 
-Install yarn
+Check version
 
 ```ssh
-curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
-echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
-sudo apt-get install --no-install-recommends yarn
+git --version
+nodejs --version
 yarn --version
 ```
 
 Install php,...
 
 ```ssh
-sudo apt-get install php7.2 php7.2-fpm php7.2-mysql php7.2-curl php7.2-gd php7.2-mbstring php7.2-xml php7.2-xmlrpc
+sudo apt-get install php7.2 php7.2-fpm php7.2-mysql php7.2-curl php7.2-gd php7.2-mbstring php7.2-xml php7.2-xmlrpc php-zip
 ```
 
 Install composer
@@ -67,6 +67,7 @@ deb [arch=amd64,arm64,ppc64el] http://sfo1.mirrors.digitalocean.com/mariadb/repo
 deb-src http://sfo1.mirrors.digitalocean.com/mariadb/repo/10.3/ubuntu bionic main
 sudo apt install mariadb-server
 sudo systemctl status mariadb
+mariadb -u root -p
 ```
 
 Create database
@@ -88,30 +89,10 @@ yarn
 Setup file `.env`
 
 ```ssh
-WP_DEBUG=true
-WP_THEME=wordplate
-WP_PREFIX=wpl_
-
 DB_HOST=127.0.0.1
 DB_NAME=thaycacacdb
 DB_USER=admin
 DB_PASSWORD=123456
-
-MAIL_HOST=smtp.mailtrap.io
-MAIL_PORT=2525
-MAIL_USERNAME=null
-MAIL_PASSWORD=null
-MAIL_ENCRYPTION=null
-
-# Generate your keys here: https://wordplate.github.io/salt/
-AUTH_KEY=
-SECURE_AUTH_KEY=
-LOGGED_IN_KEY=
-NONCE_KEY=
-AUTH_SALT=
-SECURE_AUTH_SALT=
-LOGGED_IN_SALT=
-NONCE_SALT=
 ```
 
 Install web server
