@@ -81,7 +81,7 @@ GRANT ALL ON thaycacac.* TO 'thaycacacuser'@'localhost' IDENTIFIED BY '123456';
 Install project
 
 ```ssh
-cd /var/www
+sudo mkdir /var/www
 git clone github.com/demo .
 composer install
 yarn
@@ -133,33 +133,35 @@ sudo mkdir /etc/ssl/caddy
 sudo chown -R www-data:root /etc/ssl/caddy
 sudo chmod 0770 /etc/ssl/caddy
 sudo touch /etc/caddy/Caddyfile
-sudo mkdir /var/www
 sudo chown www-data: /var/www
-sudo nano /lib/systemd/system/caddy.service
-
-sudo chmod 775 /var/www/html/public/uploads/2019/10
-
-wget -qO- https://getcaddy.com | bash -s personal
-curl https://getcaddy.com | bash -s realip,expires,upload
-sudo setcap cap_net_bind_service=+ep /usr/local/bin/caddy
-sudo mkdir /etc/caddy
-
-sudo chown -R root:www-data /etc/caddy
-sudo mkdir /etc/ssl/caddy
-sudo chown -R www-data:root /etc/ssl/caddy
-sudo chmod 0770 /etc/ssl/caddy
-sudo touch /etc/caddy/Caddyfile
-sudo mkdir /var/www
-sudo chown www-data: /var/www
-sudo nano /lib/systemd/system/caddy.service
-sudo systemctl enable caddy.service
+cd /lib/systemd/system
 wget https://raw.githubusercontent.com/mholt/caddy/master/dist/init/linux-systemd/caddy.service
 sudo cp caddy.service /etc/systemd/system
-sudo chow root:root /etc/systemd/system/caddy.service
+sudo chown root:root /etc/systemd/system/caddy.service
 sudo chmod 644 /etc/systemd/system/caddy.service
 sudo systemctl daemon-reload
 sudo systemctl start caddy.service
 sudo systemctl status caddy
+
+sudo chmod 775 /var/www/html/.../public/uploads/...
+```
+
+Config caddy:
+
+```ssh
+thaycacac.com:2222 {
+  root /var/www/backend/public
+  fastcgi / /var/run/php/php7.2-fpm.sock php
+    rewrite {
+      to {path} {path}/ /index.php?{query}
+  }
+}
+```
+
+Restart caddy:
+
+```ssh
+sudo systemctl restart caddy.service
 ```
 
 #### Deploy nuxt
@@ -179,6 +181,16 @@ pm2 start npm --name "thaycacac" -- start
 pm2 restart thaycacac
 ````
 
+Config caddy
+
+```ssh
+:80 {
+  tls thaycacac@gmail.com
+  gzip
+  proxy / localhost:3000
+}
+```
+
 If use network FPT
 
 ```ssh
@@ -186,18 +198,6 @@ sudo nano /etc/ssh/sshd_config
 port 2222
 service sshd reload
 exit
-```
-
-File config caddy:
-
-```ssh
-* {
-    root /var/www/html/public
-    fastcgi / /var/run/php/php7.2-fpm.sock php
-      rewrite {
-        to {path} {path}/ /index.php?{query}
-    }
-}
 ```
 
 File config caddy:
