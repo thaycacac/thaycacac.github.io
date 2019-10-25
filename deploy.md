@@ -81,7 +81,7 @@ GRANT ALL ON thaycacac.* TO 'thaycacacuser'@'localhost' IDENTIFIED BY '123456';
 Install project
 
 ```ssh
-cd /var/www/html
+cd /var/www
 git clone github.com/demo .
 composer install
 yarn
@@ -91,8 +91,8 @@ Setup file `.env`
 
 ```ssh
 DB_HOST=127.0.0.1
-DB_NAME=thaycacacdb
-DB_USER=admin
+DB_NAME=thaycacac
+DB_USER=thaycacacuser
 DB_PASSWORD=123456
 ```
 
