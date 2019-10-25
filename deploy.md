@@ -48,24 +48,22 @@ sudo apt install composer
 
 Install database
 
-- MySQL
-
 ```ssh
+// ---------MYSQL----------
 sudo apt install mysql-client-core-5.7
 sudo apt install mysql-server
 sudo systemctl status mysql
 mysql -u root -p
-```
 
-- Mariadb
-
-```ssh
+// --------MARIADB---------
 sudo apt-get install software-properties-common
 sudo apt-key adv --recv-keys --keyserver hkp://keyserver.ubuntu.com:80 0xF1656F24C74CD1D8
 sudo nano /etc/apt/sources.list.d/mariadb.list
+
 # MariaDB 10.3 Repository
 deb [arch=amd64,arm64,ppc64el] http://sfo1.mirrors.digitalocean.com/mariadb/repo/10.3/ubuntu bionic main
 deb-src http://sfo1.mirrors.digitalocean.com/mariadb/repo/10.3/ubuntu bionic main
+
 sudo apt install mariadb-server
 sudo systemctl status mariadb
 mariadb -u root -p
@@ -82,12 +80,13 @@ Install project
 
 ```ssh
 sudo mkdir /var/www
-git clone github.com/demo .
+git clone https://github.com/thaycacac.git
+cd thaycacac
 composer install
 yarn
 ```
 
-Setup file `.env`
+Config file `.env`
 
 ```ssh
 DB_HOST=127.0.0.1
@@ -101,28 +100,10 @@ Install web server
 - Nginx
 
 ```ssh
+// ---------NGINX---------
 sudo apt install nginx
-nano /etc/nginx/sites-available
-server {
-  listen 80 default_server;
-  listen [::]:80 default_server;
-    root /var/www/html/public;
-    index index.php index.html index.htm index.nginx-debian.html;
-    server_name _;
-    location / {
-      try_files $uri $uri/ index.php?$query_string;
-    }
-    location ~ \.php$ {
-      include snippets/fastcgi-php.conf;
-      fastcgi_pass unix:/var/run/php/php7.2-fpm.sock;
-      #fastcgi_pass 127.0.0.1:9000;
-    }
-  }
-```
 
-- Caddy
-
-```ssh
+// ---------CADDY---------
 curl https://getcaddy.com | bash -s personal
 wget -qO- https://getcaddy.com | bash -s personal
 curl https://getcaddy.com | bash -s realip,expires,upload
@@ -146,69 +127,31 @@ sudo systemctl status caddy
 sudo chmod 775 /var/www/html/.../public/uploads/...
 ```
 
-Config caddy:
+- Config web server
 
 ```ssh
-thaycacac.com:2222 {
-  root /var/www/backend/public
-  fastcgi / /var/run/php/php7.2-fpm.sock php
-    rewrite {
-      to {path} {path}/ /index.php?{query}
+// ---------NGINX---------
+nano /etc/nginx/sites-available
+server {
+  listen 80 default_server;
+  listen [::]:80 default_server;
+  root /var/www/html/public;
+  index index.php index.html index.htm index.nginx-debian.html;
+  server_name _;
+  location / {
+    try_files $uri $uri/ index.php?$query_string;
+  }
+  location ~ \.php$ {
+    include snippets/fastcgi-php.conf;
+    fastcgi_pass unix:/var/run/php/php7.2-fpm.sock;
+    #fastcgi_pass 127.0.0.1:9000;
   }
 }
-```
-
-Restart caddy:
-
-```ssh
-sudo systemctl restart caddy.service
-```
-
-#### Deploy nuxt
-
-Install yarn,git,...and build project
-
-````ssh
-yarn build
-yarn start
-``
-
-Install pm2
-
-```ssh
-npm install pm2 -g
-pm2 start npm --name "thaycacac" -- start
-pm2 restart thaycacac
-````
-
-Config caddy
-
-```ssh
-:80 {
-  tls thaycacac@gmail.com
-  gzip
-  proxy / localhost:3000
-}
-```
-
-If use network FPT
-
-```ssh
-sudo nano /etc/ssh/sshd_config
-port 2222
-service sshd reload
-exit
-```
-
-File config caddy:
-
-```ssh
+// ssl
 server {
   listen 8080 default_server;
   listen [::]:8080 default_server;
-  listen 443 ssl default_server;
-  listen [::]:443 ssl default_server;
-  root /var/www/html/public;
+  root /var/www/backend/public;
   index index.php index.html index.htm index.nginx-debian.html;
   server_name _;
   location / {
@@ -221,7 +164,7 @@ server {
 }
 server{
   listen 80;
-  server_name vietdesign.com.vn www.vietdesign.com.vn;
+  server_name thaycacac.com www.thaycacac.com;
 
   root /usr/share/nginx/html;
 
@@ -234,13 +177,55 @@ server{
     proxy_set_header Host $host;
     proxy_cache_bypass $http_upgrade;
   }
-
-  listen [::]:443 ssl ipv6only=on; # managed by Certbot
-  listen 443 ssl; # managed by Certbot
-  ssl_certificate /etc/letsencrypt/live/vietdesign.com.vn/fullchain.pem; # managed by Certbot
-  ssl_certificate_key /etc/letsencrypt/live/vietdesign.com.vn/privkey.pem; # managed by Certbot
-  include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
-  ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
 }
 
+// ---------CADDY---------
+thaycacac.com:2222 {
+  root /var/www/backend/public
+  fastcgi / /var/run/php/php7.2-fpm.sock php
+    rewrite {
+      to {path} {path}/ /index.php?{query}
+  }
+}
+thaycacac.com {
+  tls thaycacac@gmail.com
+  gzip
+  proxy / localhost:3000
+}
+```
+
+Restart web server
+
+```ssh
+// ---------NGINX---------
+sudo service nginx restart
+
+// ---------CADDY---------
+sudo systemctl restart caddy.service
+```
+
+#### Deploy nuxt
+
+Install yarn,git,...and build project
+
+````ssh
+yarn build
+yarn start
+```
+
+Install pm2
+
+```ssh
+npm install pm2 -g
+pm2 start --name "thaycacac" -- start
+pm2 restart thaycacac
+````
+
+If use network FPT
+
+```ssh
+sudo nano /etc/ssh/sshd_config
+port 2222
+service sshd reload
+exit
 ```
