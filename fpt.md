@@ -173,7 +173,7 @@ keyword: [
 
 ### OJT
 
-- [OJT Report](https://drive.google.com/drive/folders/1iR1YqunceGqtnQPyJbrlzw6q0FWAyNbQ?usp=sharing)
+- [OJT Report](https://drive.google.com/drive/folders/1iR1YqunceGqtnQPyJbrlzw6q0FWAyNbQ?usp=sharing): báo cáo sau kỳ thực tập, phải đóng bìa.
 
 ## [Semester 7](#)
 
