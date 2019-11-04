@@ -171,23 +171,31 @@ keyword: [
 - [Project](https://drive.google.com/drive/u/1/folders/1WAdhmGobI5TTfNHJAV8thcO48t4KxVlw): dự án mở quán ăn ở ngoài Hà Nội
 - [Final Exam](https://docs.google.com/document/d/1_p-iODd26RNBTZmm7kfMwkpudM6yKDm9z0GlSJyVKC4/edit#heading=h.gjdgxs)
 
+### OJT
+
+- [OJT Report](https://drive.google.com/drive/folders/1iR1YqunceGqtnQPyJbrlzw6q0FWAyNbQ?usp=sharing)
+
 ## [Semester 7](#)
 
 ### ACC101 - Principles of Accounting
+
 - [Test 1](https://www.youtube.com/watch?v=E_Xpc3sGD5A&feature=youtu.be) cô THAOGTM
 - [Test 2](https://quizlet.com/442649309/acc101-test2-flash-cards/?new) được 10 điểm (bài midterm luôn)
 
 ### HCI201 - Human-Computer Interaction
+
 - [Test 1](https://quizlet.com/432868761/hci201-flash-cards/) trúng 100% (được 9.3)
 - [Test 2](https://quizlet.com/331351536/hci-test-2-flash-cards/) trúng 100%
 
 ### PRM391 - Mobile Programming
 
 ### SWD391 - Software Architecture and Design
+
 - [Test 1](https://quizlet.com/431686082/swd-test1-flash-cards/) trúng 100% (được 9.8)
 - [Test 2](https://quizlet.com/299606923/swd-test2-flash-cards/) trúng 98%
 
 ### ISC301 - e-Commerce
+
 - [Test 1](https://quizlet.com/433386576/isc301-flash-cards/) trúng 100% (được 9.3)
 - [Test 2](https://quizlet.com/441873122/isc301-test2-flash-cards/) trúng 100%
 
