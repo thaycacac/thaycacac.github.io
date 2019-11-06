@@ -186,6 +186,7 @@ keyword: [
 
 - [Test 1](https://quizlet.com/432868761/hci201-flash-cards/) trúng 100% (được 9.3)
 - [Test 2](https://quizlet.com/331351536/hci-test-2-flash-cards/) trúng 100%
+- [Test 3](https://quizlet.com/450530369/hci201-test3-flash-cards/) trúng 100%
 
 ### PRM391 - Mobile Programming
 
@@ -193,12 +194,12 @@ keyword: [
 
 - [Test 1](https://quizlet.com/431686082/swd-test1-flash-cards/) trúng 100% (được 9.8)
 - [Test 2](https://quizlet.com/299606923/swd-test2-flash-cards/) trúng 98%
+- [Test 3](https://quizlet.com/450529591/swd391-test3-flash-cards/) trúng 98%
 
 ### ISC301 - e-Commerce
 
 - [Test 1](https://quizlet.com/433386576/isc301-flash-cards/) trúng 100% (được 9.3)
 - [Test 2](https://quizlet.com/441873122/isc301-test2-flash-cards/) trúng 100%
-
 
 {: .thaycacac-description}
 Note: This is just my experience, maybe not right for you. Contact: _thaycacac@gmail.com_
