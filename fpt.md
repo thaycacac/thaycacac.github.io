@@ -191,6 +191,7 @@ keyword: [
 - [Test 3](https://quizlet.com/450530369/hci201-test3-flash-cards/) trúng 100%
 - [Project](https://www.figma.com/file/I7KrEL0dABOiIgsB2rYrrY/HCI201?node-id=191%3A0): học thầy Sang 3 bài presentation, trung bình team mình được 9
 - [Final Exam](https://github.com/thaycacac/keys/blob/master/hci.txt) học đống này trúng được 25 câu, hoặc có thẻ vào quizlet của mình có [8 part HCI](https://quizlet.com/Thaycacac)
+- [Final Exam](https://drive.google.com/drive/u/1/folders/1hocIhkicBlZCOv-8ear1qGb4_5aRp7vG) key ảnh tổng hợp
 
 ### PRM391 - Mobile Programming
 
