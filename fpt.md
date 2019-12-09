@@ -41,7 +41,7 @@ keyword: [
 ### DBI202 - Introduction to Databases
 
 - [Practice](https://drive.google.com/drive/folders/1FyboAPGD96WV2_JtT22yPuT5coTq1hi1?usp=sharing): để thực hành một số database như northwind, sakila,...
-- [Project](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): database quản lý ký túc xá (mình được 9.5 cô ChiNQ)
+- [Project](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): database quản lý ký túc xá (mình được 9.5 cô ChiNQ) - [Full source code](https://github.com/thaycacac/dorm-fpt-university)
 - [Practical Exam](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): một số ví dụ đề thi pe
 - [Final Exam](https://quizlet.com/283436881/): tầm 9đ, mấy câu 2nf, 3nf.. nên hiểu
 
@@ -104,7 +104,7 @@ keyword: [
 
 ### NWC202 - Computer Networking
 
-- [Final Exam](https://drive.google.com/drive/folders/1V5ax-ej6xR-WHeGyHsdcHEJ40gBt5n2t?usp=sharing): trung 80 - 90%
+- [Final Exam](https://drive.google.com/drive/folders/1V5ax-ej6xR-WHeGyHsdcHEJ40gBt5n2t?usp=sharing): trúng 80 - 90%
 
 ### PRJ321 - Web-Based Java Applications
 
@@ -116,10 +116,11 @@ keyword: [
 
 ### SWE102 - Introduction to Software Engineering
 
-- [Assignment 1](https://docs.google.com/document/d/1Xttf2eAhLCyqICxrMAjNUciInQ_vSIEKLJZLVFv7Le0/edit?usp=sharing): thầy TriTD (nhóm mình được 9.5)
-- [Assignment 2](https://docs.google.com/document/d/1hZsle98luQUTheCw51hVIA3urIaOR7-HI6zHkyLB_M8/edit?usp=sharing): thầy TriTD (được 9.5)
-- [All Slide](https://docs.google.com/presentation/d/1lMnS5AvD_8FNDLVangGg6QFNT3IPGK19aSB8tsU-e_w/edit#slide=id.p1)
-- Final Exam: đợt mình thi đổi key không trúng câu nào
+- [Assignment 1](https://drive.google.com/drive/u/1/folders/1yqCng1FRqCmHjfIuvoPQTjzdzG_PmFKn): thầy TriTD (nhóm mình được 9.5)
+- [Assignment 2](https://drive.google.com/drive/u/1/folders/1yqCng1FRqCmHjfIuvoPQTjzdzG_PmFKn): thầy TriTD (được 9.5)
+- [All source](https://drive.google.com/drive/u/1/folders/1yqCng1FRqCmHjfIuvoPQTjzdzG_PmFKn): thầy TriTD (được 9.5)
+- [Slide](https://docs.google.com/presentation/d/1lMnS5AvD_8FNDLVangGg6QFNT3IPGK19aSB8tsU-e_w/edit#slide=id.p1)
+- Final Exam: đợt mình thi đổi key, học 4 bộ ảnh được 15 câu
 
 ### JPD121 - Elementary Japanese 1.2
 
@@ -147,16 +148,16 @@ keyword: [
 ### SWR302 - Software Requirement
 
 - [Book & Final Exam Image](https://drive.google.com/drive/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1?usp=sharing)
-- [Assgnment 1](https://docs.google.com/document/d/1E6RoDtRTo2sQDG_g5HUvvDA08Qr1OWHheYZje38ceHI/edit?usp=sharing): thầy TrungNT được tầm 8 - 9 đ
-- [Assgnment 2](https://docs.google.com/document/d/1gPspJWdbKeN3CVgYcfjeGRSNST2ZcwVv3rsAleS2v18/edit?usp=sharing): được tầm 8 - 9 đ
+- [Assgnment 1](https://drive.google.com/drive/u/1/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1): thầy TrungNT được tầm 8 - 9 đ
+- [Assgnment 2](https://drive.google.com/drive/u/1/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1): được tầm 8 - 9 đ
 - [Final Exam](https://quizlet.com/387370660/swr302-flash-cards/)
 
 ### SWT301 - Software Testing
 
-- [Lab 1](https://github.com/Sharp-Team/ma-di-tuan) của BanTQ, học thuộc code để chấm :))
-- [Lab 2 - 3 - 4](https://docs.google.com/spreadsheets/d/11vjWQOPRJpISISe-2EqqV9tRlgOP5_EJw6l8woAZVPA/edit#gid=706477799)
+- [Lab 1](https://github.com/Sharp-Team/ma-di-tuan) của BanTQ, học thuộc code để chấm, bài này được 8 cao nhất cmn lớp :))
+- [Lab 2 - 3 - 4](https://drive.google.com/drive/u/1/folders/1ShIp3qW4J3BX2q_3A1u8btPMqD7X2kNv) random trung bình 6
 - [Test](https://quizlet.com/305941469/swt-flash-cards/) tất cả các bài test random trong này
-- [Final Exam](https://drive.google.com/drive/folders/1ShIp3qW4J3BX2q_3A1u8btPMqD7X2kNv?usp=sharing): trúng 100%
+- [Final Exam](https://drive.google.com/drive/folders/1ShIp3qW4J3BX2q_3A1u8btPMqD7X2kNv?usp=sharing): trúng 100%, các kỳ sau là đổi key rồi :v
 
 ### PRN292 - .NET and C
 
