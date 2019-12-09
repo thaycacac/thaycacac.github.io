@@ -185,9 +185,12 @@ keyword: [
 
 ### HCI201 - Human-Computer Interaction
 
+- [Slide](https://drive.google.com/drive/folders/1dFMptpGcLQ8MDoyxq8Opo78cRYUD5iO6?usp=sharing)
 - [Test 1](https://quizlet.com/432868761/hci201-flash-cards/) trúng 100% (được 9.3)
 - [Test 2](https://quizlet.com/331351536/hci-test-2-flash-cards/) trúng 100%
 - [Test 3](https://quizlet.com/450530369/hci201-test3-flash-cards/) trúng 100%
+- [Project](https://www.figma.com/file/I7KrEL0dABOiIgsB2rYrrY/HCI201?node-id=191%3A0): học thầy Sang 3 bài presentation, trung bình team mình được 9
+- [Final Exam](https://github.com/thaycacac/keys/blob/master/hci.txt) học đống này trúng được 25 câu, hoặc có thẻ vào quizlet của mình có [8 part HCI](https://quizlet.com/Thaycacac)
 
 ### PRM391 - Mobile Programming
 
