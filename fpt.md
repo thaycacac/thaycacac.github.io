@@ -182,6 +182,7 @@ keyword: [
 
 - [Test 1](https://www.youtube.com/watch?v=E_Xpc3sGD5A&feature=youtu.be) cô THAOGTM
 - [Test 2](https://quizlet.com/442649309) được 10 điểm (bài midterm luôn)
+- [Final Example](https://quizlet.com/466530368/) [hoặc](https://github.com/thaycacac/keys/blob/master/acc101.txt) trúng 85% không thay sô
 
 ### HCI201 - Human-Computer Interaction
 
@@ -203,9 +204,10 @@ keyword: [
 
 ### SWD391 - Software Architecture and Design
 
-- [Test 1](https://quizlet.com/431686082/swd-test1-flash-cards/) trúng 100% (được 9.8)
-- [Test 2](https://quizlet.com/299606923/swd-test2-flash-cards/) trúng 98%
-- [Test 3](https://quizlet.com/450529591/swd391-test3-flash-cards/) trúng 98%
+- [Test 1](https://quizlet.com/431686082) trúng 100% (được 9.8)
+- [Test 2](https://quizlet.com/299606923) trúng 98%
+- [Test 3](https://quizlet.com/450529591) trúng 98%
+  [Final Exam](https://quizlet.com/466530746/) [hoặc](https://github.com/thaycacac/keys/blob/master/swd391.txt) trúng 60%
 
 ### ISC301 - e-Commerce
 
