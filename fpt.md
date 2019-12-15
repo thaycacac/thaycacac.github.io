@@ -17,12 +17,12 @@ keyword: [
 ### CEA201 - Computer Organization and Architecture
 
 - [Book](https://drive.google.com/drive/folders/1tP1_smvIQ5UiqXaMA5NqfNBRXjGYHlG7?usp=sharing)
-- [Final Exam](https://quizlet.com/245233266/): trúng 100%
+- [Final Exam](https://quizlet.com/245233266): trúng 100%
 
 ### CSI101 - Connecting to Computer Science
 
 - [Book](https://drive.google.com/drive/u/2/folders/1RFNLaxAseNixlvVV9Kcrh2DNZkmd0vd4)
-- [Final Exam](https://quizlet.com/241199609/): trúng 100%
+- [Final Exam](https://quizlet.com/241199609): trúng 100%
 
 ### PRF192 - Programming Fundamentals
 
@@ -73,7 +73,7 @@ keyword: [
 
 - [Practice PE](https://github.com/thaycacac/java/tree/master/%5BPRJ311%5D%20Desktop%20Java%20Applications/PE%20PRACTICE)
 - [Source For PE](https://github.com/thaycacac/java/tree/master/%5BPRJ311%5D%20Desktop%20Java%20Applications/KEY%20PE)
-- [Final Exam](https://quizlet.com/390863863/)
+- [Final Exam](https://quizlet.com/390863863)
 - [Final Exam Image](https://drive.google.com/drive/folders/1yaL5liKg4zPiO8kjNGoodRZC-j7HiHvD?usp=sharing): ngày trước mình trúng tầm 70%
 
 ### LAB211 - OOP with Java Lab
@@ -84,7 +84,7 @@ keyword: [
 ### OSG202 - Operating Systems
 
 - [Book & Test](https://drive.google.com/drive/folders/1k15TU2dnESz8RmXokCFPAtrFsYB6Rhaq?usp=sharing): full test trên lớp của SonNT5
-- [Final Exam](https://quizlet.com/390866176/)
+- [Final Exam](https://quizlet.com/390866176)
 - [Final Exam Image](https://drive.google.com/drive/folders/17QIKSXrUlGZVJt3J-ceQ3rSXeYkCc025?usp=sharing): key ảnh mình trúng tầm 80%
 
 ### JPD111 - Elementary Japanese 1.1
@@ -156,14 +156,14 @@ keyword: [
 
 - [Lab 1](https://github.com/Sharp-Team/ma-di-tuan) của BanTQ, học thuộc code để chấm, bài này được 8 cao nhất cmn lớp :))
 - [Lab 2 - 3 - 4](https://drive.google.com/drive/u/1/folders/1ShIp3qW4J3BX2q_3A1u8btPMqD7X2kNv) random trung bình 6
-- [Test](https://quizlet.com/305941469/swt-flash-cards/) tất cả các bài test random trong này
+- [Test](https://quizlet.com/305941469) tất cả các bài test random trong này
 - [Final Exam](https://drive.google.com/drive/folders/1ShIp3qW4J3BX2q_3A1u8btPMqD7X2kNv?usp=sharing): trúng 100%, các kỳ sau là đổi key rồi :v
 
 ### PRN292 - .NET and C
 
 - [Project](https://github.com/Sharp-Team/quiz-sharp): ứng dụng desktop học quiz như quizlet (nhóm mình được 9.5)
-- [Final Exam 1](https://quizlet.com/386568016/prn292_1-flash-cards/)
-- [Final Exam 2](https://quizlet.com/386754653/prn292_2-flash-cards/): mình ôn 2 bộ này trúng 80%
+- [Final Exam 1](https://quizlet.com/386568016)
+- [Final Exam 2](https://quizlet.com/386754653): mình ôn 2 bộ này trúng 80%
 
 ## [Semester 6](#)
 
@@ -181,19 +181,25 @@ keyword: [
 ### ACC101 - Principles of Accounting
 
 - [Test 1](https://www.youtube.com/watch?v=E_Xpc3sGD5A&feature=youtu.be) cô THAOGTM
-- [Test 2](https://quizlet.com/442649309/acc101-test2-flash-cards/?new) được 10 điểm (bài midterm luôn)
+- [Test 2](https://quizlet.com/442649309) được 10 điểm (bài midterm luôn)
 
 ### HCI201 - Human-Computer Interaction
 
 - [Slide](https://drive.google.com/drive/folders/1dFMptpGcLQ8MDoyxq8Opo78cRYUD5iO6?usp=sharing)
-- [Test 1](https://quizlet.com/432868761/hci201-flash-cards/) trúng 100% (được 9.3)
-- [Test 2](https://quizlet.com/331351536/hci-test-2-flash-cards/) trúng 100%
-- [Test 3](https://quizlet.com/450530369/hci201-test3-flash-cards/) trúng 100%
+- [Test 1](https://quizlet.com/432868761) trúng 100% (được 9.3)
+- [Test 2](https://quizlet.com/331351536) trúng 100%
+- [Test 3](https://quizlet.com/450530369) trúng 100%
 - [Project](https://www.figma.com/file/I7KrEL0dABOiIgsB2rYrrY/HCI201?node-id=191%3A0): học thầy Sang 3 bài presentation, trung bình team mình được 9
 - [Final Exam](https://github.com/thaycacac/keys/blob/master/hci.txt) học đống này trúng được 25 câu, hoặc có thẻ vào quizlet của mình có [8 part HCI](https://quizlet.com/Thaycacac)
 - [Final Exam](https://drive.google.com/drive/u/1/folders/1hocIhkicBlZCOv-8ear1qGb4_5aRp7vG) key ảnh tổng hợp
 
 ### PRM391 - Mobile Programming
+
+- Test 1, test 2 quên không lưu lại :v
+- [Test 3](https://quizlet.com/466520973) - thầy Giang, bài này được 8.67
+- [Project](https://github.com/thaycacac/trumina) - tổng hợp utilities dành cho người đi du lịch, được 8.5
+- [Document project](https://drive.google.com/drive/folders/1kBLpVJpVyUPVA1lBfm7kk6qMehV2r01k?usp=sharing)
+- [Final Exam](https://quizlet.com/466525600) [hoặc](https://github.com/thaycacac/keys/blob/master/prm391.txt) - trúng 65%
 
 ### SWD391 - Software Architecture and Design
 
