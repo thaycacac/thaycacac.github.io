@@ -196,7 +196,7 @@ keyword: [
 ### PRM391 - Mobile Programming
 
 - Test 1, test 2 quên không lưu lại :v
-- [Test 3](https://quizlet.com/466520973) - thầy Giang, bài này được 8.67
+- [Test 3](https://quizlet.com/466520973) - thầy Giang, bài này được 10
 - [Project](https://github.com/thaycacac/trumina) - tổng hợp utilities dành cho người đi du lịch, được 8.5
 - [Document project](https://drive.google.com/drive/folders/1kBLpVJpVyUPVA1lBfm7kk6qMehV2r01k?usp=sharing)
 - [Final Exam](https://quizlet.com/466525600) [hoặc](https://github.com/thaycacac/keys/blob/master/prm391.txt) - trúng 65%
@@ -209,8 +209,11 @@ keyword: [
 
 ### ISC301 - e-Commerce
 
-- [Test 1](https://quizlet.com/433386576/isc301-flash-cards/) trúng 100% (được 9.3)
-- [Test 2](https://quizlet.com/441873122/isc301-test2-flash-cards/) trúng 100%
+- [Test 1](https://quizlet.com/433386576) trúng 100% (được 9.3)
+- [Test 2](https://quizlet.com/441873122) trúng 100% (được 10)
+- [Test3](https://quizlet.com/466528349/) những câu chưa có đáp án là hôm mình làm bị sai (được 8)
+- [Project](https://juiceplus.com.vn/) làm một trang thương mại điện tử sử dụng (wordpress, shopify,...) (được 9)
+- [Final Exam](https://quizlet.com/466529748/) [hoặc](https://github.com/thaycacac/keys/blob/master/isc301.txt) trúng 80%
 
 {: .thaycacac-description}
-Note: This is just my experience, maybe not right for you. Contact: _thaycacac@gmail.com_
+Note: This is just my experience, maybe not right for you. Report to me: _thaycacac@gmail.com_
