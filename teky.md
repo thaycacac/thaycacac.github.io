@@ -199,3 +199,55 @@ Con thấy có hay không?
 ### Mindstorm (Xưởng chế tạo robot)
 
 *Học sinh sẽ khám phá 1 chân trời thú vị về robotics và engineering, các em thỏa sức khám phá, sáng tạo trong thế giới robot và kỹ thuật. Bộ linh kiện gồm hàng trăm mảnh Lego, các cảm biến, động cơ và bộ điều khiển trung tâm cho phép các em kết hợp để tạo ra vô số các robot khác nhau.*
+
+## Phương pháp giảng dạy
+
+### 1. Phương pháp tiếp cận
+
+- Bước 1: Giáo viên mô phỏng trên màn hình với công cụ hỗ trợ giảng dạy
+- Bước 2: Học sinh thực hiện mô phỏng lại yêu cầu thực hiện tại phần mềm, thông qua các hiệu lệnh và trò chơi trong
+- Bước 3: Học sinh thực hiện yêu cầu trên máy tính
+- Bước 4: Game tương tác đối kháng, thi đua
+
+### 2. Bốn cách giảng dạy
+
+- Học thông qua quan sát, chú ý theo dõi phần trình bày, sơ đồ, bảng hiệu, hình ảnh được cung cấp
+- Học thông qua lắng nghe các âm thanh, khẩu lệnh
+- Học thông qua sờ nắm, cảm nhận trực tiếp, ví dụ lắp ráp, cầm xem, sử dụng thiết bị v.v..
+- Học thông qua các hoạt động trải nghiệm, hoạt động lớp học, ví dụ chơi trò chơi mô phỏng
+
+### 3. Chiến lược giảng dạy
+
+- Chia nhỏ các kiến thức, dạy từng phần
+- “Gẩy" ra những khái niệm, vấn đề chính và các nội dung cụ thể cần nhấn mạnh, tập trung
+- Kết hợp nhắc lại kiến thức
+- Kết hợp chơi mô phỏng tăng sự thích thú, say mê
+- Linh động theo đặc điểm học sinh
+
+### 4. Cấu trúc nội dung dạy
+
+- Bước 1: Giáo viên mô phỏng
+Câu hỏi kiểm tra học sinh hiểu
+khái niệm hay chưa (CCQ -
+Concept Checking Questions)
+- Bước 2: Hoạt động lớp học
+Cổ vũ phát huy tập trung, tương
+tác, sự tích cực của học sinh
+- Bước 3: Thực hành trên thiết bị
+Câu hỏi kiểm tra kiến thức
+(Instruction Checking
+Questions)
+
+### 5. Triết lý trong hoạt động quản lý lớp học
+
+- Tôn trọng mọi người xung quanh và tự giác (Respect and Self-Awareness)
+- Hỗ trợ, giúp đỡ và khuyến khích tích cực (Support and Encouragement)
+- Can đảm và sáng tạo - Khuyến khích nghĩ khác, làm khác (Courage and Innovation)
+
+### 6. Kỹ thuật quản lý lớp học
+
+- Các biện pháp tạo sự chú ý tập trung
+- Gọi phát biểu và trả lời
+- Các biện pháp khuyến khích tham gia có kiểm soát
+- Các biện pháp phân nhóm học tập
+- Các biện pháp thưởng khuyến khích
