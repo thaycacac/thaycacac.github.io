@@ -20,6 +20,6 @@ keywords:
 
 Do học trên quizlet khó thuộc quá nên mình code web mô phỏng EOS để học cho cảm giác nó chân thực.
 
-[EOS | Thaycacac](https://eos.thaycacac.now.sh/)
+[EOS Thaycacac](https://eos.thaycacac.now.sh/)
 
 I hope this could help you!!!
