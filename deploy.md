@@ -2,9 +2,7 @@
 layout: page
 title: Deploy
 subtitle: Lavaral - Nuxt
-keyword: [
-  'teky', 'thaycacac'
-]
+keyword: ["teky", "thaycacac"]
 ---
 
 #### Deploy laravel
@@ -124,7 +122,7 @@ sudo systemctl daemon-reload
 sudo systemctl start caddy.service
 sudo systemctl status caddy
 
-sudo chmod 775 /var/www/html/.../public/uploads/...
+sudo chmod 777 /var/www/html/.../public/uploads/...
 ```
 
 - Config web server
@@ -217,8 +215,7 @@ Install pm2
 
 ```ssh
 npm install pm2 -g
-pm2 start --name "thaycacac" -- start
-pm2 restart thaycacac
+pm2 start yarn -- start
 ````
 
 If use network FPT
