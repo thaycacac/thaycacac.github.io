@@ -120,9 +120,10 @@ keyword: [
 
 ### Python (9 - 11)
 
-- **[Toxic Jungle](https://www.tynker.com/nb/project/58225568af9231d0668b465a/?dir=director&chapterid=57f69349af92317e458b458c&s=0)**
+- Cho học sinh trải nghiệm **[Toxic Jungle](https://www.tynker.com/nb/project/58225568af9231d0668b465a/?dir=director&chapterid=57f69349af92317e458b458c&s=0)** để xem tư duy
 - Mô tả cho học sinh yêu cầu: điều khiển nhân vật di chuyển đến đích bằng cách sử dụng các câu lệnh
 - Hướng dẫn học sinh cách tìm hiểu ý nghĩa các câu lệnh, cách lập trình và cách chạy
+- Giới thiệu qua ngôn ngữ python, ứng dụng của python, cho xem sản phẩm,...
 - Học sinh tự làm các bài tiếp theo, giáo viên hướng dẫn, hỗ trợ khi cần.
 - Cho học sinh làm đến bài có vòng lặp (For) => trong lập trình sau này chúng ta dùng ít câu lệnh vẫn giải quyết được những bài toán phức tạp.
 - **Cho học sinh trải nghiệm Python**
