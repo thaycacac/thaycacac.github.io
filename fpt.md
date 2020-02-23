@@ -218,5 +218,20 @@ keyword: [
 - [Project](https://juiceplus.com.vn/) làm một trang thương mại điện tử sử dụng (wordpress, shopify,...) (được 9)
 - [Final Exam](https://quizlet.com/466529748/) [hoặc](https://github.com/thaycacac/keys/blob/master/isc301.txt) trúng 80%
 
+## [Semester 7](#): Đang học
+
+### MAS291 - Statistics and Probability
+- [Test1](https://drive.google.com/drive/folders/1X2qEcbCc9nbwRB_uNT8-rcV42cOfU_Xo?usp=sharing) mỗi người một đề nhưng cùng dạng bài.
+
+### DBW301 -	Data warehouse
+
+### MLN101 - Principles of Marxism - Leninism
+
+### PMG201c - Project management
+
+### PRX301 - Web Development (XML)
+
+Môn này học online, bank các bài quiz: [Initiating and Planning Projects](https://quizlet.com/488337264/pmg201c-initiating-and-planning-projects-flash-cards/), [Budgeting and Scheduling Projects](https://quizlet.com/481589841/pmg201c-budgeting-and-scheduling-projects-flash-cards/), [Managing Project Risks and Changes](https://quizlet.com/481930396/pmg201c-managing-project-risks-and-changes-flash-cards/)
+
 {: .thaycacac-description}
 Note: This is just my experience, maybe not right for you. Report to me: _thaycacac@gmail.com_
