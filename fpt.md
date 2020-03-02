@@ -221,11 +221,14 @@ keyword: [
 ## [Semester 7](#): Đang học
 
 ### MAS291 - Statistics and Probability
+
 - [Test1](https://drive.google.com/drive/folders/1X2qEcbCc9nbwRB_uNT8-rcV42cOfU_Xo?usp=sharing) mỗi người một đề nhưng cùng dạng bài.
 
 ### DBW301 -	Data warehouse
 
 ### MLN101 - Principles of Marxism - Leninism
+
+- [Video thuyết trình](https://www.youtube.com/watch?v=PlFM8P5_NFY&t=642s) và [Slide thuyết trình](https://www.slideshare.net/ThaycacacPhmNgcHa/tn-ti-x-hi-thc-x-hi-mln101) do đợt này bị dịch bệnh nên bọn mình phải thuyết trình online.
 
 ### PMG201c - Project management
 
