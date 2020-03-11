@@ -222,7 +222,7 @@ keyword: [
 
 ### MAS291 - Statistics and Probability
 
-- [Test1](https://drive.google.com/drive/folders/1X2qEcbCc9nbwRB_uNT8-rcV42cOfU_Xo?usp=sharing) trúng 100%
+- [Test 1, Test 2](https://drive.google.com/drive/folders/1RWdYGH-AJxIl4Ed0OeHNfomvGpzSYbLo?usp=sharing) trúng khoảng 95%%
 
 ### DBW301 -	Data warehouse
 
