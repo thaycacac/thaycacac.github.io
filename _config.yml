@@ -25,9 +25,7 @@ navbar-links:
   Code: "code"
   Share: "share"
   UI/UX: "uiux"
-  About Me: "aboutme"
   Sharp Team: "https://sharpteam.netlify.com/"
-  Young Tailors Team: "https://github.com/youngtailors"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
