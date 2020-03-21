@@ -228,6 +228,8 @@ keyword: [
 
 ### DBW301 -	Data warehouse
 
+- [Lab1](https://github.com/thaycacac/data-warehouse/tree/master/lecture%201) - [Lab2](https://github.com/thaycacac/data-warehouse/tree/master/lecture%202) - [Lab3](https://github.com/thaycacac/data-warehouse/tree/master/lecture%203) - [Lab4](https://github.com/thaycacac/data-warehouse/tree/master/lecture%204)
+
 ### MLN101 - Principles of Marxism - Leninism
 
 - [Video thuyết trình](https://www.youtube.com/watch?v=PlFM8P5_NFY&t=642s) và [Slide thuyết trình](https://www.slideshare.net/ThaycacacPhmNgcHa/tn-ti-x-hi-thc-x-hi-mln101) do đợt này bị dịch bệnh nên bọn mình phải thuyết trình online.
