@@ -222,19 +222,27 @@ keyword: [
 
 ### MAS291 - Statistics and Probability
 
-- [Test 1, Test 2](https://drive.google.com/drive/folders/1RWdYGH-AJxIl4Ed0OeHNfomvGpzSYbLo?usp=sharing) trúng khoảng 95%%
+- [Test 1, Test 2](https://drive.google.com/drive/folders/1RWdYGH-AJxIl4Ed0OeHNfomvGpzSYbLo?usp=sharing) file docs/text trúng khoảng 95%
+- [EOS Test 1](https://drive.google.com/drive/folders/1OkfPp2WrFc7UhsvBSa5x-5dxuXWwjC3Z?usp=sharing)
+- [EOS Test 2](https://drive.google.com/drive/folders/1mDyFwGuLwYYkzdlSditM83ppL0_T-QzY?usp=sharing)
 
 ### DBW301 -	Data warehouse
 
 ### MLN101 - Principles of Marxism - Leninism
 
 - [Video thuyết trình](https://www.youtube.com/watch?v=PlFM8P5_NFY&t=642s) và [Slide thuyết trình](https://www.slideshare.net/ThaycacacPhmNgcHa/tn-ti-x-hi-thc-x-hi-mln101) do đợt này bị dịch bệnh nên bọn mình phải thuyết trình online.
+- Test bất ngờ: anh chị hiểu thế nào là biện chứng, sự khác biệt giữa biện chứng và siêu hình. Hãy lấy ví dụ chứng minh mối quan hệ biện chứng giữa cái chung và cái riêng.
 
 ### PMG201c - Project management
 
+- Môn này học online, bank các bài quiz: [Initiating and Planning Projects](https://quizlet.com/488337264/pmg201c-initiating-and-planning-projects-flash-cards/), [Budgeting and Scheduling Projects](https://quizlet.com/481589841/pmg201c-budgeting-and-scheduling-projects-flash-cards/), [Managing Project Risks and Changes](https://quizlet.com/481930396/pmg201c-managing-project-risks-and-changes-flash-cards/)
+
+- [Project final course](https://drive.google.com/drive/folders/1vtBhYIJ9sRgOZQoI9HR2Cu6An9GsPEVg?usp=sharing)
+
 ### PRX301 - Web Development (XML)
 
-Môn này học online, bank các bài quiz: [Initiating and Planning Projects](https://quizlet.com/488337264/pmg201c-initiating-and-planning-projects-flash-cards/), [Budgeting and Scheduling Projects](https://quizlet.com/481589841/pmg201c-budgeting-and-scheduling-projects-flash-cards/), [Managing Project Risks and Changes](https://quizlet.com/481930396/pmg201c-managing-project-risks-and-changes-flash-cards/)
+- [Test1](https://quizlet.com/497633461/prx301-test-1-flash-cards/?new) trúng 95%
+- [Test2](https://quizlet.com/497256883/prx301-test-2-flash-cards/) trúng 98%
 
 {: .thaycacac-description}
 Note: This is just my experience, maybe not right for you. Report to me: _thaycacac@gmail.com_
