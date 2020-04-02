@@ -26,7 +26,7 @@ keyword: [
 
 ### PRF192 - Programming Fundamentals
 
-- [Slide, Assignments, Workshop, Code example, Exercies](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing) - học thầy CauPD.
+- [Assignments, Workshop, Code example, Exercies](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing) - học thầy CauPD.
 - [Test - CauPD](https://www.youtube.com/watch?v=ZkI1jRlT7Pk)
 - [Practical Exam](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing): bao gồm example PE và source để chuẩn bị cho việc coppy khi thi PE (mình thi 10).
 - [Final Exam](https://drive.google.com/drive/folders/1Hsl4dWE1_OOvxJl1PEsAQnUBQCcAVRgR?usp=sharing): chủ yếu là luyện đọc hiểu code.
@@ -119,7 +119,6 @@ keyword: [
 - [Assignment 1](https://drive.google.com/drive/u/1/folders/1yqCng1FRqCmHjfIuvoPQTjzdzG_PmFKn): thầy TriTD (nhóm mình được 9.5)
 - [Assignment 2](https://drive.google.com/drive/u/1/folders/1yqCng1FRqCmHjfIuvoPQTjzdzG_PmFKn): thầy TriTD (được 9.5)
 - [All source](https://drive.google.com/drive/u/1/folders/1yqCng1FRqCmHjfIuvoPQTjzdzG_PmFKn): thầy TriTD (được 9.5)
-- [Slide](https://docs.google.com/presentation/d/1lMnS5AvD_8FNDLVangGg6QFNT3IPGK19aSB8tsU-e_w/edit#slide=id.p1)
 - Final Exam: đợt mình thi đổi key, học 4 bộ ảnh được 15 câu
 
 ### JPD121 - Elementary Japanese 1.2
@@ -186,7 +185,6 @@ keyword: [
 
 ### HCI201 - Human-Computer Interaction
 
-- [Slide](https://drive.google.com/drive/folders/1dFMptpGcLQ8MDoyxq8Opo78cRYUD5iO6?usp=sharing)
 - [Test 1](https://quizlet.com/432868761) trúng 100% (được 9.3)
 - [Test 2](https://quizlet.com/331351536) trúng 100%
 - [Test 3](https://quizlet.com/450530369) trúng 100%
