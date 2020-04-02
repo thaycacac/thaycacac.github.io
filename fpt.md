@@ -245,6 +245,9 @@ keyword: [
 
 - [Test1](https://quizlet.com/497633461/prx301-test-1-flash-cards/?new) trúng 95%
 - [Test2](https://quizlet.com/497256883/prx301-test-2-flash-cards/) trúng 98%
+- [Assignment 1](https://github.com/thaycacac/xml-learning/tree/master/assignment1) viết XSL chuyển từ XML sang HTML
+- [Assignment 2](https://github.com/thaycacac/xml-learning/tree/master/assignment2) ứng dụng winform, với thêm sửa xóa trên file XML với kiểu parser theo yêu cầu
+- [Project](https://github.com/thaycacac/xml-learning) có 3 option, mình chọn làm web bán hàng với frontend và backend tương tác bằng XML 
 
 {: .thaycacac-description}
 Note: This is just my experience, maybe not right for you. Report to me: _thaycacac@gmail.com_
