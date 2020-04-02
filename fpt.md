@@ -229,6 +229,7 @@ keyword: [
 ### DBW301 -	Data warehouse
 
 - [Lab1](https://github.com/thaycacac/data-warehouse/tree/master/lecture%201) - [Lab2](https://github.com/thaycacac/data-warehouse/tree/master/lecture%202) - [Lab3](https://github.com/thaycacac/data-warehouse/tree/master/lecture%203) - [Lab4](https://github.com/thaycacac/data-warehouse/tree/master/lecture%204)
+- [Lab5](https://github.com/thaycacac/data-warehouse/tree/master/lecture%205) cô hỏi làm bảng time như thế nào? bảng customer và bảng fact
 
 ### MLN101 - Principles of Marxism - Leninism
 
