@@ -28,7 +28,7 @@ keyword: [
 
 - [Assignments, Workshop, Code example, Exercies](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing) - học thầy CauPD.
 - [Test - CauPD](https://www.youtube.com/watch?v=ZkI1jRlT7Pk)
-- [Practical Exam](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing): bao gồm example PE và source để chuẩn bị cho việc coppy khi thi PE (mình thi 10).
+- [PE](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing): bao gồm example PE và source để chuẩn bị cho việc coppy khi thi PE (mình thi 10).
 - [Final Exam](https://drive.google.com/drive/folders/1Hsl4dWE1_OOvxJl1PEsAQnUBQCcAVRgR?usp=sharing): chủ yếu là luyện đọc hiểu code.
 
 ### SSG101 - Working in Group Skills
@@ -42,7 +42,7 @@ keyword: [
 
 - [Practice](https://drive.google.com/drive/folders/1FyboAPGD96WV2_JtT22yPuT5coTq1hi1?usp=sharing): để thực hành một số database như northwind, sakila,...
 - [Project](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): database quản lý ký túc xá (mình được 9.5 cô ChiNQ) - [Full source code](https://github.com/thaycacac/dorm-fpt-university)
-- [Practical Exam](https://drive.google.com/drive/folders/1PHRWAWHzmuWXjEBvhpzA62SVe6ZkP_aq?usp=sharing): một số ví dụ đề thi pe
+- [PE](https://drive.google.com/drive/folders/1PHRWAWHzmuWXjEBvhpzA62SVe6ZkP_aq?usp=sharing): một số ví dụ đề thi pe
 - [Final Exam](https://quizlet.com/283436881/): tầm 9đ, mấy câu 2nf, 3nf.. nên hiểu
 
 ### PRO201 - Front-end Web Development
@@ -55,7 +55,7 @@ keyword: [
 
 - [Code In Class](https://github.com/thaycacac/java-core) thầy DuyDT
 - [Assignment](https://drive.google.com/drive/folders/19pnt44hOMcV6EtLou9E7BHsocAc4Nrid?usp=sharing): bài cuối kỳ thầy DuyDT (mình được 10)
-- [Practical Exam](https://drive.google.com/drive/folders/1q1kf_s6S74LcxvkGqrqdM_5-NoAUnzEj?usp=sharing): không biết vứt đâu hết.
+- [PE](https://drive.google.com/drive/folders/1q1kf_s6S74LcxvkGqrqdM_5-NoAUnzEj?usp=sharing): không biết vứt đâu hết.
 - [Final Exam](https://drive.google.com/drive/folders/1sTsOr_QC3gq_Af9wXy_FD3K0SxtmqlrD?usp=sharing)
 - [Key Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt) tìm PRO192
 
@@ -71,10 +71,11 @@ keyword: [
 
 ### PRJ311 - Desktop Java Applications
 
-- [Practice PE](https://github.com/thaycacac/java/tree/master/%5BPRJ311%5D%20Desktop%20Java%20Applications/PE%20PRACTICE)
+- [PE](https://drive.google.com/drive/folders/1g67dJBCV2LhY1vrjsJQ_0y9ZcUW4RQ1g?usp=sharing)
 - [Source For PE](https://github.com/thaycacac/java/tree/master/%5BPRJ311%5D%20Desktop%20Java%20Applications/KEY%20PE)
 - [Final Exam](https://quizlet.com/390863863)
-- [Final Exam Image](https://drive.google.com/drive/folders/1yaL5liKg4zPiO8kjNGoodRZC-j7HiHvD?usp=sharing): ngày trước mình trúng tầm 70%
+- [Final Exam Image](https://drive.google.com/drive/folders/1huAQS8GodG80uB9baq22Gk__k0lgyKkW?usp=sharing): ngày trước mình trúng tầm 70%
+- [Final Exam Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt): tìm PRJ311
 
 ### LAB211 - OOP with Java Lab
 
@@ -97,7 +98,7 @@ keyword: [
 - [Assignment 1](https://github.com/thaycacac/cute-editor-javaswing) code editor sử dụng stack (học SonNT5)
 - [Assignment 2](https://github.com/thaycacac/railway-system-vietnam) hệ thống chỉ đường sắt trên cao
 - [Code In Class](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20Data%20Structures%20and%20Algorithms)
-- [Practical Exam](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20Data%20Structures%20and%20Algorithms/8-KEY%20PE): vào chỉ việc copy paste thôi, khoảng 9 - 10 điểm
+- [PE](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20Data%20Structures%20and%20Algorithms/8-KEY%20PE): vào chỉ việc copy paste thôi, khoảng 9 - 10 điểm
 - [Final Exam](https://drive.google.com/drive/folders/1wyj8L21HAxTTL3Z311qMHtBEK6WLgay9?usp=sharing): trúng 100%
 
 ## [Semester 4](#)
@@ -111,7 +112,7 @@ keyword: [
 - [Work shop 1 & 2](https://github.com/thaycacac/quiz-system-struts): làm một web quiz dành cho cả giáo viên và sinh viên
 - [Project](https://github.com/thaycacac/fap-registration-study): trang đăng ký học dành cho sinh viên (mình được 10), do mình học block 5 nên project có requirement cụ thể không dùng làm project trong kỳ được.
 - [Code In Class](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/INCLASS)
-- [Practical Exam](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/PE)
+- [PE](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/PE)
 - Final Exam: mất key rồi :v
 
 ### SWE102 - Introduction to Software Engineering
@@ -137,7 +138,7 @@ keyword: [
 
 - [Final Exam](https://drive.google.com/drive/folders/1wrLRu8eFg0xRUd9TA7MY7qkMQtf5oWnV?usp=sharing) không nhớ trúng bao nhiêu
 - [Speaking](https://docs.google.com/document/d/1T1M3IJ2Uw1Xyufi2jS42ywI1yhgjZHxry-Y-ed9Bulo/edit)
-- [Practice Write](https://docs.google.com/document/d/1Bu-8UyXgNQfzuxANnjtlOU2yKSkk65fTpYp91NN6uhc/edit)
+- [PE](https://docs.google.com/document/d/1Bu-8UyXgNQfzuxANnjtlOU2yKSkk65fTpYp91NN6uhc/edit)
 
 ### LAB231 - Web Java Lab
 
