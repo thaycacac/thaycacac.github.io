@@ -42,7 +42,7 @@ keyword: [
 
 - [Practice](https://drive.google.com/drive/folders/1FyboAPGD96WV2_JtT22yPuT5coTq1hi1?usp=sharing): để thực hành một số database như northwind, sakila,...
 - [Project](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): database quản lý ký túc xá (mình được 9.5 cô ChiNQ) - [Full source code](https://github.com/thaycacac/dorm-fpt-university)
-- [Practical Exam](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): một số ví dụ đề thi pe
+- [Practical Exam](https://drive.google.com/drive/folders/1PHRWAWHzmuWXjEBvhpzA62SVe6ZkP_aq?usp=sharing): một số ví dụ đề thi pe
 - [Final Exam](https://quizlet.com/283436881/): tầm 9đ, mấy câu 2nf, 3nf.. nên hiểu
 
 ### PRO201 - Front-end Web Development
@@ -57,11 +57,11 @@ keyword: [
 - [Assignment](https://drive.google.com/drive/folders/19pnt44hOMcV6EtLou9E7BHsocAc4Nrid?usp=sharing): bài cuối kỳ thầy DuyDT (mình được 10)
 - [Practical Exam](https://drive.google.com/drive/folders/1q1kf_s6S74LcxvkGqrqdM_5-NoAUnzEj?usp=sharing): không biết vứt đâu hết.
 - [Final Exam](https://drive.google.com/drive/folders/1sTsOr_QC3gq_Af9wXy_FD3K0SxtmqlrD?usp=sharing)
+- [Key Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt) tìm PRO192
 
 ### MAD101 - Discrete mathematics
 
-- [Book](https://drive.google.com/drive/folders/1ezLJrUTDrgh1tjupX4Sfi08yK6DZ6CQy?usp=sharing)
-- Final Exam: nên tìm cao nhân chỉ bảo.
+- [Final Exam](https://drive.google.com/drive/folders/1ezLJrUTDrgh1tjupX4Sfi08yK6DZ6CQy?usp=sharing): nên tìm cao nhân chỉ bảo =))
 
 ### LAB101 - C Lab
 
