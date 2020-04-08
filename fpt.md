@@ -229,6 +229,8 @@ keyword: [
 
 - [Lab1](https://github.com/thaycacac/data-warehouse/tree/master/lecture%201) - [Lab2](https://github.com/thaycacac/data-warehouse/tree/master/lecture%202) - [Lab3](https://github.com/thaycacac/data-warehouse/tree/master/lecture%203) - [Lab4](https://github.com/thaycacac/data-warehouse/tree/master/lecture%204)
 - [Lab5](https://github.com/thaycacac/data-warehouse/tree/master/lecture%205) cô hỏi làm bảng time như thế nào? bảng customer và bảng fact
+- [Lab6 thực thành Analysis](https://github.com/thaycacac/data-warehouse/tree/master/lecture%206) - [và Report](https://github.com/thaycacac/data-warehouse/tree/master/lecture%207) làm trên lớp, chấm điểm trên lớp
+[Final Exam](https://quizlet.com/500803907/dbw301-part7-flash-cards/) bộ này trúng 80%, muốn nhiều điểm hơn thì học thêm các bộ khác
 
 ### MLN101 - Principles of Marxism - Leninism
 
@@ -247,7 +249,9 @@ keyword: [
 - [Test2](https://quizlet.com/497256883/prx301-test-2-flash-cards/) trúng 98%
 - [Assignment 1](https://github.com/thaycacac/xml-learning/tree/master/assignment1) viết XSL chuyển từ XML sang HTML
 - [Assignment 2](https://github.com/thaycacac/xml-learning/tree/master/assignment2) ứng dụng winform, với thêm sửa xóa trên file XML với kiểu parser theo yêu cầu
-- [Project](https://github.com/thaycacac/xml-learning) có 3 option, mình chọn làm web bán hàng với frontend và backend tương tác bằng XML 
+- [Project](https://github.com/thaycacac/xml-learning) có 3 option, mình chọn làm web bán hàng với frontend và backend tương tác bằng XML
+- Final Exam: [Part1](https://quizlet.com/501005882/prx301-part1-flash-cards/) và [Part2](https://quizlet.com/501032835/prx301-part2-flash-cards/) trúng khá ít.
+- [Key Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt/blob/master/PRX301.txt) trúng 90%
 
 {: .thaycacac-description}
 Note: This is just my experience, maybe not right for you. Report to me: _thaycacac@gmail.com_
