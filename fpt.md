@@ -74,7 +74,7 @@ keyword: [
 - [PE](https://drive.google.com/drive/folders/1g67dJBCV2LhY1vrjsJQ_0y9ZcUW4RQ1g?usp=sharing)
 - [Source For PE](https://github.com/thaycacac/java/tree/master/%5BPRJ311%5D%20Desktop%20Java%20Applications/KEY%20PE)
 - [Final Exam](https://quizlet.com/390863863)
-- [Final Exam Image](https://drive.google.com/drive/folders/1huAQS8GodG80uB9baq22Gk__k0lgyKkW?usp=sharing): ngày trước mình trúng tầm 70%
+- [Final Exam Image](https://drive.google.com/drive/folders/1huAQS8GodG80uB9baq22Gk__k0lgyKkW?usp=sharing): trúng tầm 70%
 - [Final Exam Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt): tìm PRJ311
 
 ### LAB211 - OOP with Java Lab
@@ -136,7 +136,7 @@ keyword: [
 
 ### JPD131 - Elementary Japanese 2.1
 
-- [Final Exam](https://drive.google.com/drive/folders/1wrLRu8eFg0xRUd9TA7MY7qkMQtf5oWnV?usp=sharing) không nhớ trúng bao nhiêu
+- [Final Exam](https://drive.google.com/drive/folders/1wrLRu8eFg0xRUd9TA7MY7qkMQtf5oWnV?usp=sharing) trúng khoảng 80%
 - [Speaking](https://docs.google.com/document/d/1T1M3IJ2Uw1Xyufi2jS42ywI1yhgjZHxry-Y-ed9Bulo/edit)
 - [PE](https://docs.google.com/document/d/1Bu-8UyXgNQfzuxANnjtlOU2yKSkk65fTpYp91NN6uhc/edit)
 
@@ -147,17 +147,19 @@ keyword: [
 
 ### SWR302 - Software Requirement
 
-- [Book & Final Exam Image](https://drive.google.com/drive/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1?usp=sharing)
 - [Assgnment 1](https://drive.google.com/drive/u/1/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1): thầy TrungNT được tầm 8 - 9 đ
 - [Assgnment 2](https://drive.google.com/drive/u/1/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1): được tầm 8 - 9 đ
 - [Final Exam](https://quizlet.com/387370660/swr302-flash-cards/)
+- [Final Exam Image](https://drive.google.com/drive/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1?usp=sharing) trúng tầm 70%
+- [Final Exam Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt) tìm mã môn SWR302
 
 ### SWT301 - Software Testing
 
 - [Lab 1](https://github.com/Sharp-Team/ma-di-tuan) của BanTQ, học thuộc code để chấm, bài này được 8 cao nhất cmn lớp :))
 - [Lab 2 - 3 - 4](https://drive.google.com/drive/u/1/folders/1ShIp3qW4J3BX2q_3A1u8btPMqD7X2kNv) random trung bình 6
 - [Test](https://quizlet.com/305941469) tất cả các bài test random trong này
-- [Final Exam](https://drive.google.com/drive/folders/1ShIp3qW4J3BX2q_3A1u8btPMqD7X2kNv?usp=sharing): trúng 100%, các kỳ sau là đổi key rồi :v
+- [Final Exam](https://drive.google.com/drive/folders/1ShIp3qW4J3BX2q_3A1u8btPMqD7X2kNv?usp=sharing): kỳ mình trúng 100%
+- [Final Exam Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt) tìm mã môn SWT301
 
 ### PRN292 - .NET and C
 
@@ -207,7 +209,7 @@ keyword: [
 - [Test 2](https://quizlet.com/299606923) trúng 98%
 - [Test 3](https://quizlet.com/450529591) trúng 98%
 - [Final Exam](https://quizlet.com/466530746/) [hoặc](https://github.com/thaycacac/keys/blob/master/swd391.txt) trúng 60%
-- [FE Image](https://drive.google.com/drive/folders/1Q_vnXz63B2berzuldEF9j4qyqxJ6EJ7k?usp=sharing)
+- [Final Exam Image](https://drive.google.com/drive/folders/1Q_vnXz63B2berzuldEF9j4qyqxJ6EJ7k?usp=sharing)
 
 ### ISC301 - e-Commerce
 
@@ -215,15 +217,19 @@ keyword: [
 - [Test 2](https://quizlet.com/441873122) trúng 100% (được 10)
 - [Test3](https://quizlet.com/466528349/) những câu chưa có đáp án là hôm mình làm bị sai (được 8)
 - [Project](https://juiceplus.com.vn/) làm một trang thương mại điện tử sử dụng (wordpress, shopify,...) (được 9)
-- [Final Exam](https://quizlet.com/466529748/) [hoặc](https://github.com/thaycacac/keys/blob/master/isc301.txt) trúng 80%
+- [Final Exam](https://quizlet.com/466529748/) trúng 80%
+- [Final Exam Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt) tìm mã môn ISC301
 
 ## [Semester 7](#): Đang học
 
 ### MAS291 - Statistics and Probability
 
-- [Test 1, Test 2](https://drive.google.com/drive/folders/1RWdYGH-AJxIl4Ed0OeHNfomvGpzSYbLo?usp=sharing) file docs/text trúng khoảng 95%
-- [EOS Test 1](https://drive.google.com/drive/folders/1OkfPp2WrFc7UhsvBSa5x-5dxuXWwjC3Z?usp=sharing)
-- [EOS Test 2](https://drive.google.com/drive/folders/1mDyFwGuLwYYkzdlSditM83ppL0_T-QzY?usp=sharing)
+- [Test1, Test2, Test3 trên CMS](https://drive.google.com/drive/folders/1RWdYGH-AJxIl4Ed0OeHNfomvGpzSYbLo?usp=sharing) file docs/text trúng khoảng 95%
+- [EOS Test 1](https://drive.google.com/drive/folders/1OkfPp2WrFc7UhsvBSa5x-5dxuXWwjC3Z?usp=sharing) file test trúng 50%
+- [EOS Test 2](https://drive.google.com/drive/folders/1mDyFwGuLwYYkzdlSditM83ppL0_T-QzY?usp=sharing) file text trúng 60%
+- [EOS Test 3](https://drive.google.com/drive/folders/1mDyFwGuLwYYkzdlSditM83ppL0_T-QzY?usp=sharing) hầu như không trúng, ôn luyện key ảnh
+- [Final Exam](https://drive.google.com/drive/folders/15c3D5WO2mVYn-qffE5rcNJ_UQlGG7axz?usp=sharing) luyện key ảnh
+- [Share cách bấm máy tính một số bài do team mình làm training cho nhau](https://www.youtube.com/playlist?list=PLhzwgSOATUj0H5Wy2M0dvitN8ZJyAr5rK)
 
 ### DBW301 -	Data warehouse
 
@@ -236,6 +242,8 @@ keyword: [
 
 - [Video thuyết trình](https://www.youtube.com/watch?v=PlFM8P5_NFY&t=642s) và [Slide thuyết trình](https://www.slideshare.net/ThaycacacPhmNgcHa/tn-ti-x-hi-thc-x-hi-mln101) do đợt này bị dịch bệnh nên bọn mình phải thuyết trình online.
 - Test bất ngờ: anh chị hiểu thế nào là biện chứng, sự khác biệt giữa biện chứng và siêu hình. Hãy lấy ví dụ chứng minh mối quan hệ biện chứng giữa cái chung và cái riêng.
+- [Final Exam Image](https://drive.google.com/drive/folders/1vynmdFztWsmnKpeDVcKSV_9gz3lajzKS?usp=sharing) học trên quizlet hoặc file text
+- [Final Exam Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt) tìm mã môn MLN101 trúng khoảng 55%
 
 ### PMG201c - Project management
 
