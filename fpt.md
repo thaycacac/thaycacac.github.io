@@ -220,7 +220,7 @@ keyword: [
 - [Final Exam](https://quizlet.com/466529748/) trúng 80%
 - [Final Exam Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt) tìm mã môn ISC301
 
-## [Semester 7](#): Đang học
+## [Semester 8](#)
 
 ### MAS291 - Statistics and Probability
 
