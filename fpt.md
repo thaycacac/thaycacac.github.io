@@ -2,9 +2,7 @@
 layout: page
 title: FPT University
 subtitle: Share my experience
-keyword: [
-  'fpt', 'thaycacac'
-]
+keyword: ['fpt', 'thaycacac']
 ---
 
 ### [Semester 1](#)
@@ -57,7 +55,7 @@ keyword: [
 - [Assignment](https://drive.google.com/drive/folders/19pnt44hOMcV6EtLou9E7BHsocAc4Nrid?usp=sharing): bài cuối kỳ thầy DuyDT (mình được 10)
 - [PE](https://drive.google.com/drive/folders/1q1kf_s6S74LcxvkGqrqdM_5-NoAUnzEj?usp=sharing): không biết vứt đâu hết.
 - [Final Exam](https://drive.google.com/drive/folders/1sTsOr_QC3gq_Af9wXy_FD3K0SxtmqlrD?usp=sharing)
-- [Key Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt) tìm PRO192
+- [Key Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt) tìm PRO192
 
 ### MAD101 - Discrete mathematics
 
@@ -75,7 +73,7 @@ keyword: [
 - [Source For PE](https://github.com/thaycacac/java/tree/master/%5BPRJ311%5D%20Desktop%20Java%20Applications/KEY%20PE)
 - [Final Exam](https://quizlet.com/390863863)
 - [Final Exam Image](https://drive.google.com/drive/folders/1huAQS8GodG80uB9baq22Gk__k0lgyKkW?usp=sharing): trúng tầm 70%
-- [Final Exam Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt): tìm PRJ311
+- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt): tìm PRJ311
 
 ### LAB211 - OOP with Java Lab
 
@@ -151,7 +149,7 @@ keyword: [
 - [Assgnment 2](https://drive.google.com/drive/u/1/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1): được tầm 8 - 9 đ
 - [Final Exam](https://quizlet.com/387370660/swr302-flash-cards/)
 - [Final Exam Image](https://drive.google.com/drive/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1?usp=sharing) trúng tầm 70%
-- [Final Exam Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt) tìm mã môn SWR302
+- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt) tìm mã môn SWR302
 
 ### SWT301 - Software Testing
 
@@ -159,7 +157,7 @@ keyword: [
 - [Lab 2 - 3 - 4](https://drive.google.com/drive/u/1/folders/1ShIp3qW4J3BX2q_3A1u8btPMqD7X2kNv) random trung bình 6
 - [Test](https://quizlet.com/305941469) tất cả các bài test random trong này
 - [Final Exam](https://drive.google.com/drive/folders/1ShIp3qW4J3BX2q_3A1u8btPMqD7X2kNv?usp=sharing): kỳ mình trúng 100%
-- [Final Exam Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt) tìm mã môn SWT301
+- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt) tìm mã môn SWT301
 
 ### PRN292 - .NET and C
 
@@ -218,7 +216,7 @@ keyword: [
 - [Test3](https://quizlet.com/466528349/) những câu chưa có đáp án là hôm mình làm bị sai (được 8)
 - [Project](https://juiceplus.com.vn/) làm một trang thương mại điện tử sử dụng (wordpress, shopify,...) (được 9)
 - [Final Exam](https://quizlet.com/466529748/) trúng 80%
-- [Final Exam Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt) tìm mã môn ISC301
+- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt) tìm mã môn ISC301
 
 ## [Semester 8](#)
 
@@ -231,19 +229,19 @@ keyword: [
 - [Final Exam](https://drive.google.com/drive/folders/15c3D5WO2mVYn-qffE5rcNJ_UQlGG7axz?usp=sharing) luyện key ảnh
 - [Share cách bấm máy tính một số bài do team mình làm training cho nhau](https://www.youtube.com/playlist?list=PLhzwgSOATUj0H5Wy2M0dvitN8ZJyAr5rK)
 
-### DBW301 -	Data warehouse
+### DBW301 - Data warehouse
 
 - [Lab1](https://github.com/thaycacac/data-warehouse/tree/master/lecture%201) - [Lab2](https://github.com/thaycacac/data-warehouse/tree/master/lecture%202) - [Lab3](https://github.com/thaycacac/data-warehouse/tree/master/lecture%203) - [Lab4](https://github.com/thaycacac/data-warehouse/tree/master/lecture%204)
 - [Lab5](https://github.com/thaycacac/data-warehouse/tree/master/lecture%205) cô hỏi làm bảng time như thế nào? bảng customer và bảng fact
 - [Lab6 thực thành Analysis](https://github.com/thaycacac/data-warehouse/tree/master/lecture%206) - [và Report](https://github.com/thaycacac/data-warehouse/tree/master/lecture%207) làm trên lớp, chấm điểm trên lớp
-[Final Exam](https://quizlet.com/500803907/dbw301-part7-flash-cards/) bộ này trúng 80%, muốn nhiều điểm hơn thì học thêm các bộ khác
+  [Final Exam](https://quizlet.com/500803907/dbw301-part7-flash-cards/) bộ này trúng 80%, muốn nhiều điểm hơn thì học thêm các bộ khác
 
 ### MLN101 - Principles of Marxism - Leninism
 
 - [Video thuyết trình](https://www.youtube.com/watch?v=PlFM8P5_NFY&t=642s) và [Slide thuyết trình](https://www.slideshare.net/ThaycacacPhmNgcHa/tn-ti-x-hi-thc-x-hi-mln101) do đợt này bị dịch bệnh nên bọn mình phải thuyết trình online.
 - Test bất ngờ: anh chị hiểu thế nào là biện chứng, sự khác biệt giữa biện chứng và siêu hình. Hãy lấy ví dụ chứng minh mối quan hệ biện chứng giữa cái chung và cái riêng.
 - [Final Exam Image](https://drive.google.com/drive/folders/1vynmdFztWsmnKpeDVcKSV_9gz3lajzKS?usp=sharing) học trên quizlet hoặc file text
-- [Final Exam Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt) tìm mã môn MLN101 trúng khoảng 55%
+- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt) tìm mã môn MLN101 trúng khoảng 55%
 
 ### PMG201c - Project management
 
@@ -259,7 +257,7 @@ keyword: [
 - [Assignment 2](https://github.com/thaycacac/xml-learning/tree/master/assignment2) ứng dụng winform, với thêm sửa xóa trên file XML với kiểu parser theo yêu cầu
 - [Project](https://github.com/thaycacac/xml-learning) có 3 option, mình chọn làm web bán hàng với frontend và backend tương tác bằng XML
 - Final Exam: [Part1](https://quizlet.com/501005882/prx301-part1-flash-cards/) và [Part2](https://quizlet.com/501032835/prx301-part2-flash-cards/) trúng khá ít.
-- [Key Text](https://github.com/thaycacac/chia-khoa-thanh-cong-fpt/blob/master/PRX301.txt) trúng 90%
+- [Key Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/PRX301.txt) trúng 90%
 
 {: .thaycacac-description}
 Note: This is just my experience, maybe not right for you. Report to me: _thaycacac@gmail.com_
