@@ -182,7 +182,8 @@ keyword: ['fpt', 'thaycacac']
 
 - [Test 1](https://www.youtube.com/watch?v=E_Xpc3sGD5A&feature=youtu.be) cô THAOGTM
 - [Test 2](https://quizlet.com/442649309) được 10 điểm (bài midterm luôn)
-- [Final Example](https://quizlet.com/466530368/) [hoặc](https://github.com/thaycacac/keys/blob/master/acc101.txt) trúng 85% không thay sô
+- [Final Example](https://quizlet.com/466530368/) trúng 85% không thay sô
+- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/ACC101.txt)
 
 ### HCI201 - Human-Computer Interaction
 
@@ -199,14 +200,16 @@ keyword: ['fpt', 'thaycacac']
 - [Test 3](https://quizlet.com/466520973) - thầy Giang, bài này được 10
 - [Project](https://github.com/thaycacac/trumina) - tổng hợp utilities dành cho người đi du lịch, được 8.5
 - [Document project](https://drive.google.com/drive/folders/1kBLpVJpVyUPVA1lBfm7kk6qMehV2r01k?usp=sharing)
-- [Final Exam](https://quizlet.com/466525600) [hoặc](https://github.com/thaycacac/keys/blob/master/prm391.txt) - trúng 65%
+- [Final Exam](https://quizlet.com/466525600) - trúng 65%
+- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/PRM391.txt)
 
 ### SWD391 - Software Architecture and Design
 
 - [Test 1](https://quizlet.com/431686082) trúng 100% (được 9.8)
 - [Test 2](https://quizlet.com/299606923) trúng 98%
 - [Test 3](https://quizlet.com/450529591) trúng 98%
-- [Final Exam](https://quizlet.com/466530746/) [hoặc](https://github.com/thaycacac/keys/blob/master/swd391.txt) trúng 60%
+- [Final Exam](https://quizlet.com/466530746/) trúng 60%
+- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/SWD391.txt)
 - [Final Exam Image](https://drive.google.com/drive/folders/1Q_vnXz63B2berzuldEF9j4qyqxJ6EJ7k?usp=sharing)
 
 ### ISC301 - e-Commerce
