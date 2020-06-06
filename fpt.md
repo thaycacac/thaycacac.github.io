@@ -2,7 +2,7 @@
 layout: page
 title: FPT University
 subtitle: Share my experience
-keyword: ['fpt', 'thaycacac']
+keyword: ["fpt", "thaycacac"]
 ---
 
 ### [Semester 1](#)
@@ -182,6 +182,7 @@ keyword: ['fpt', 'thaycacac']
 
 - [Test 1](https://www.youtube.com/watch?v=E_Xpc3sGD5A&feature=youtu.be) cô THAOGTM
 - [Test 2](https://quizlet.com/442649309) được 10 điểm (bài midterm luôn)
+- [Assignment group](https://drive.google.com/drive/folders/1s4HH-_fPGw_DLQEHFSdgXBKWVSc4TWdU?usp=sharing) bài tập nhóm
 - [Final Example](https://quizlet.com/466530368/) trúng 85% không thay sô
 - [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/ACC101.txt)
 
