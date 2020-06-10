@@ -4,8 +4,8 @@ title: Lazy loading image với VueJS
 subtitle: Công kỳ vô bị, xuất kỳ bất ý
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
-categories: [ui/ux]
-tags: [share, ui/ux]
+categories: [code]
+tags: [code, vuejs, thaycacac]
 keywords: [lazy loading vuejs, vue lazy load, lazy loading image]
 ---
 

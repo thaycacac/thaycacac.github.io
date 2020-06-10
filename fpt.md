@@ -2,8 +2,10 @@
 layout: page
 title: FPT University
 subtitle: Share my experience
-keyword: ["fpt", "thaycacac"]
+keyword: ['fpt', 'thaycacac']
 ---
+
+### [Nhờ anh em điền vào survey và join group để cùng nhau thành công thật](https://www.facebook.com/groups/914659425663790/)
 
 ### [Semester 1](#)
 
