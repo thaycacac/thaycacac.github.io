@@ -267,3 +267,9 @@ keyword: ['fpt', 'thaycacac']
 
 {: .thaycacac-description}
 Note: This is just my experience, maybe not right for you. Report to me: _[Thaycacac](https://www.facebook.com/thaycacac)_
+
+## [Semester 9](#)
+
+### HCM201 - Ho Chi Minh Ideology
+
+- [Final Exam](https://quizlet.com/509920801/hcm201-flash-cards/) trúng 80%
