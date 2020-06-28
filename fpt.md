@@ -5,6 +5,8 @@ subtitle: Share my experience
 keyword: ['fpt', 'thaycacac']
 ---
 
+### [Nhờ anh em điền vào survey và join group để cùng nhau thành công thật](https://www.facebook.com/groups/914659425663790/)
+
 ### [Semester 1](#)
 
 ### MAE101 - Mathematics for Engineering
@@ -182,6 +184,7 @@ keyword: ['fpt', 'thaycacac']
 
 - [Test 1](https://www.youtube.com/watch?v=E_Xpc3sGD5A&feature=youtu.be) cô THAOGTM
 - [Test 2](https://quizlet.com/442649309) được 10 điểm (bài midterm luôn)
+- [Assignment group](https://drive.google.com/drive/folders/1s4HH-_fPGw_DLQEHFSdgXBKWVSc4TWdU?usp=sharing) bài tập nhóm
 - [Final Example](https://quizlet.com/466530368/) trúng 85% không thay sô
 - [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/ACC101.txt)
 
