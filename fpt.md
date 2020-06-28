@@ -265,11 +265,11 @@ keyword: ['fpt', 'thaycacac']
 - Final Exam: [Part1](https://quizlet.com/501005882/prx301-part1-flash-cards/) và [Part2](https://quizlet.com/501032835/prx301-part2-flash-cards/) trúng khá ít.
 - [Key Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/PRX301.txt) trúng 90%
 
-{: .thaycacac-description}
-Note: This is just my experience, maybe not right for you. Report to me: _[Thaycacac](https://www.facebook.com/thaycacac)_
-
 ## [Semester 9](#)
 
 ### HCM201 - Ho Chi Minh Ideology
 
 - [Final Exam](https://quizlet.com/509920801/hcm201-flash-cards/) trúng 80%
+
+{: .thaycacac-description}
+Note: This is just my experience, maybe not right for you. Report to me: _[Thaycacac](https://www.facebook.com/thaycacac)_
