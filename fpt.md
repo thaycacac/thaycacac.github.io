@@ -5,7 +5,7 @@ subtitle: Share my experience
 keyword: ['fpt', 'thaycacac']
 ---
 
-### [Nhờ anh em điền vào survey và join group để cùng nhau thành công thật](https://www.facebook.com/groups/914659425663790/)
+#### [Group](https://www.facebook.com/groups/914659425663790/)
 
 ### [Semester 1](#)
 
@@ -266,4 +266,4 @@ keyword: ['fpt', 'thaycacac']
 - [Key Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/PRX301.txt) trúng 90%
 
 {: .thaycacac-description}
-Note: This is just my experience, maybe not right for you. Report to me: _thaycacac@gmail.com_
+Note: This is just my experience, maybe not right for you. Report to me: _[Thaycacac](https://www.facebook.com/thaycacac)_
