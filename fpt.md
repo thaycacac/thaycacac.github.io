@@ -252,8 +252,8 @@ keyword: ['fpt', 'thaycacac']
 ### PMG201c - Project management
 
 - Môn này học online, bank các bài quiz: [Initiating and Planning Projects](https://quizlet.com/488337264/pmg201c-initiating-and-planning-projects-flash-cards/), [Budgeting and Scheduling Projects](https://quizlet.com/481589841/pmg201c-budgeting-and-scheduling-projects-flash-cards/), [Managing Project Risks and Changes](https://quizlet.com/481930396/pmg201c-managing-project-risks-and-changes-flash-cards/)
-
 - [Project final course](https://drive.google.com/drive/folders/1vtBhYIJ9sRgOZQoI9HR2Cu6An9GsPEVg?usp=sharing)
+- [Practical exam](https://drive.google.com/drive/folders/1HE-T51YQ5lwIfll1eBITpNfCKnGvW9eB?usp=sharing): đề bài và hướng dẫn giải chi tiết (ví dụ)
 
 ### PRX301 - Web Development (XML)
 
