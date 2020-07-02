@@ -240,7 +240,8 @@ keyword: ['fpt', 'thaycacac']
 - [Lab1](https://github.com/thaycacac/data-warehouse/tree/master/lecture%201) - [Lab2](https://github.com/thaycacac/data-warehouse/tree/master/lecture%202) - [Lab3](https://github.com/thaycacac/data-warehouse/tree/master/lecture%203) - [Lab4](https://github.com/thaycacac/data-warehouse/tree/master/lecture%204)
 - [Lab5](https://github.com/thaycacac/data-warehouse/tree/master/lecture%205) cô hỏi làm bảng time như thế nào? bảng customer và bảng fact
 - [Lab6 thực thành Analysis](https://github.com/thaycacac/data-warehouse/tree/master/lecture%206) - [và Report](https://github.com/thaycacac/data-warehouse/tree/master/lecture%207) làm trên lớp, chấm điểm trên lớp
-  [Final Exam](https://quizlet.com/500803907/dbw301-part7-flash-cards/) bộ này trúng 80%, muốn nhiều điểm hơn thì học thêm các bộ khác
+- [Source in class](https://drive.google.com/drive/folders/1AirAFMRx-8odj8zcUmprr6Pp-7bmP3mz?usp=sharing) 
+- [Final Exam](https://quizlet.com/500803907/dbw301-part7-flash-cards/) bộ này trúng 80%, muốn nhiều điểm hơn thì học thêm các bộ khác
 
 ### MLN101 - Principles of Marxism - Leninism
 
