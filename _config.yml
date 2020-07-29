@@ -22,9 +22,6 @@ description: Phạm Ngọc Hòa
 
 # List of links in the navigation bar
 navbar-links:
-  Code: "code"
-  Share: "share"
-  UI/UX: "uiux"
   FU Share: "https://fushare.netlify.app/fpt/1-hoc-tap/"
   About Me: "https://www.facebook.com/thaycacac"
 
