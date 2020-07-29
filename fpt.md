@@ -24,9 +24,10 @@ Cộng đồng chia sẻ quizlet các môn, các bạn có thể join class và 
 Đây là nơi chia sẻ tài liệu, source code, các bài test,... của các bạn khóa trên để lại cho khóa dưới tham khảo. Hướng dẫn contribute tài liệu:
 
 - B1: upload tài liệu của bạn lên drive. Tên folder phải theo cú pháp: [Mã ngành]/[Kỳ học]/[Mã môn] ví dụ: SE/7/ACC101
-- B2: submit lên form http://fptu.netlify.app/chia-se
+- B2: submit lên form [http://fptu.netlify.app/chia-se](http://fptu.netlify.app/chia-se)
 - B3: khi bài viết của bạn được duyệt, admin sẽ gửi mail cho bạn, cập nhật lên handbook và đăng lên nhóm FU Share
-  Chi tiết: [http://fptu.netlify.app/chia-se-tai-lieu](http://fptu.netlify.app/chia-se-tai-lieu)
+
+Chi tiết: [http://fptu.netlify.app/chia-se-tai-lieu](http://fptu.netlify.app/chia-se-tai-lieu)
 
 ### Thông tin giảng viên
 
