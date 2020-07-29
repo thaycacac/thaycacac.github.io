@@ -5,14 +5,12 @@ subtitle: Share my experience
 keyword: ['fpt', 'thaycacac']
 ---
 
-### Chia sẻ(#)
-
 ### Cộng đồng chia sẻ quizlet
 
 Cộng đồng chia sẻ quizlet các môn, các bạn có thể join class và contribute để cùng nhau học thật, thi thật, thành công thật.
 
-Link: [http://fptu.netlify.app/quizlet](http://fptu.netlify.app/quizlet)
-Link Join: [http://fptu.netlify.app/quizlet-join](http://fptu.netlify.app/quizlet-join)
+- Link: [http://fptu.netlify.app/quizlet](http://fptu.netlify.app/quizlet)
+- Link Join: [http://fptu.netlify.app/quizlet-join](http://fptu.netlify.app/quizlet-join)
 
 ### Tổng hợp các đề LAB
 
