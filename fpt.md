@@ -5,7 +5,38 @@ subtitle: Share my experience
 keyword: ['fpt', 'thaycacac']
 ---
 
-#### [Group](https://www.facebook.com/groups/914659425663790/)
+### Chia sẻ(#)
+
+### Cộng đồng chia sẻ quizlet
+
+Cộng đồng chia sẻ quizlet các môn, các bạn có thể join class và contribute để cùng nhau học thật, thi thật, thành công thật.
+
+Link: [http://fptu.netlify.app/quizlet](http://fptu.netlify.app/quizlet)
+Link Join: [http://fptu.netlify.app/quizlet-join](http://fptu.netlify.app/quizlet-join)
+
+### Tổng hợp các đề LAB
+
+- LAB101: [http://fptu.netlify.app/hoc-tap/lab/lab101](http://fptu.netlify.app/hoc-tap/lab/lab101)
+- LAB211: [http://fptu.netlify.app/hoc-tap/lab/lab211](http://fptu.netlify.app/hoc-tap/lab/lab211)
+- LAB221: [http://fptu.netlify.app/hoc-tap/lab/lab221](http://fptu.netlify.app/hoc-tap/lab/lab221)
+- LAB231: [http://fptu.netlify.app/hoc-tap/lab/lab231](http://fptu.netlify.app/hoc-tap/lab/lab231)
+
+### Cộng đồng chia sẻ tài liệu
+
+Đây là nơi chia sẻ tài liệu, source code, các bài test,... của các bạn khóa trên để lại cho khóa dưới tham khảo. Hướng dẫn contribute tài liệu:
+
+- B1: upload tài liệu của bạn lên drive. Tên folder phải theo cú pháp: [Mã ngành]/[Kỳ học]/[Mã môn] ví dụ: SE/7/ACC101
+- B2: submit lên form http://fptu.netlify.app/chia-se
+- B3: khi bài viết của bạn được duyệt, admin sẽ gửi mail cho bạn, cập nhật lên handbook và đăng lên nhóm FU Share
+  Chi tiết: [http://fptu.netlify.app/chia-se-tai-lieu](http://fptu.netlify.app/chia-se-tai-lieu)
+
+### Thông tin giảng viên
+
+[http://fptu.netlify.app/giang-vien](http://fptu.netlify.app/giang-vien)
+
+### Nhóm hỏi đáp, share key
+
+[http://fptu.netlify.app/group](http://fptu.netlify.app/group)
 
 ### [Semester 1](#)
 
@@ -240,7 +271,7 @@ keyword: ['fpt', 'thaycacac']
 - [Lab1](https://github.com/thaycacac/data-warehouse/tree/master/lecture%201) - [Lab2](https://github.com/thaycacac/data-warehouse/tree/master/lecture%202) - [Lab3](https://github.com/thaycacac/data-warehouse/tree/master/lecture%203) - [Lab4](https://github.com/thaycacac/data-warehouse/tree/master/lecture%204)
 - [Lab5](https://github.com/thaycacac/data-warehouse/tree/master/lecture%205) cô hỏi làm bảng time như thế nào? bảng customer và bảng fact
 - [Lab6 thực thành Analysis](https://github.com/thaycacac/data-warehouse/tree/master/lecture%206) - [và Report](https://github.com/thaycacac/data-warehouse/tree/master/lecture%207) làm trên lớp, chấm điểm trên lớp
-- [Source in class](https://drive.google.com/drive/folders/1AirAFMRx-8odj8zcUmprr6Pp-7bmP3mz?usp=sharing) 
+- [Source in class](https://drive.google.com/drive/folders/1AirAFMRx-8odj8zcUmprr6Pp-7bmP3mz?usp=sharing)
 - [Final Exam](https://quizlet.com/500803907/dbw301-part7-flash-cards/) bộ này trúng 80%, muốn nhiều điểm hơn thì học thêm các bộ khác
 
 ### MLN101 - Principles of Marxism - Leninism
