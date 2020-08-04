@@ -5,7 +5,37 @@ subtitle: Share my experience
 keyword: ['fpt', 'thaycacac']
 ---
 
-### [Nhờ anh em điền vào survey và join group để cùng nhau thành công thật](https://www.facebook.com/groups/914659425663790/)
+### Cộng đồng chia sẻ quizlet
+
+Cộng đồng chia sẻ quizlet các môn, các bạn có thể join class và contribute để cùng nhau học thật, thi thật, thành công thật.
+
+- Link: [http://fptu.netlify.app/quizlet](http://fptu.netlify.app/quizlet)
+- Link Join: [http://fptu.netlify.app/quizlet-join](http://fptu.netlify.app/quizlet-join)
+
+### Tổng hợp các đề LAB
+
+- LAB101: [http://fptu.netlify.app/hoc-tap/lab/lab101](http://fptu.netlify.app/hoc-tap/lab/lab101)
+- LAB211: [http://fptu.netlify.app/hoc-tap/lab/lab211](http://fptu.netlify.app/hoc-tap/lab/lab211)
+- LAB221: [http://fptu.netlify.app/hoc-tap/lab/lab221](http://fptu.netlify.app/hoc-tap/lab/lab221)
+- LAB231: [http://fptu.netlify.app/hoc-tap/lab/lab231](http://fptu.netlify.app/hoc-tap/lab/lab231)
+
+### Cộng đồng chia sẻ tài liệu
+
+Đây là nơi chia sẻ tài liệu, source code, các bài test,... của các bạn khóa trên để lại cho khóa dưới tham khảo. Hướng dẫn contribute tài liệu:
+
+- B1: upload tài liệu của bạn lên drive. Tên folder phải theo cú pháp: [Mã ngành]/[Kỳ học]/[Mã môn] ví dụ: SE/7/ACC101
+- B2: submit lên form [http://fptu.netlify.app/chia-se](http://fptu.netlify.app/chia-se)
+- B3: khi bài viết của bạn được duyệt, admin sẽ gửi mail cho bạn, cập nhật lên handbook và đăng lên nhóm FU Share
+
+Chi tiết: [http://fptu.netlify.app/chia-se-tai-lieu](http://fptu.netlify.app/chia-se-tai-lieu)
+
+### Thông tin giảng viên
+
+[http://fptu.netlify.app/giang-vien](http://fptu.netlify.app/giang-vien)
+
+### Nhóm hỏi đáp, share key
+
+[http://fptu.netlify.app/group](http://fptu.netlify.app/group)
 
 ### [Semester 1](#)
 
@@ -240,7 +270,8 @@ keyword: ['fpt', 'thaycacac']
 - [Lab1](https://github.com/thaycacac/data-warehouse/tree/master/lecture%201) - [Lab2](https://github.com/thaycacac/data-warehouse/tree/master/lecture%202) - [Lab3](https://github.com/thaycacac/data-warehouse/tree/master/lecture%203) - [Lab4](https://github.com/thaycacac/data-warehouse/tree/master/lecture%204)
 - [Lab5](https://github.com/thaycacac/data-warehouse/tree/master/lecture%205) cô hỏi làm bảng time như thế nào? bảng customer và bảng fact
 - [Lab6 thực thành Analysis](https://github.com/thaycacac/data-warehouse/tree/master/lecture%206) - [và Report](https://github.com/thaycacac/data-warehouse/tree/master/lecture%207) làm trên lớp, chấm điểm trên lớp
-  [Final Exam](https://quizlet.com/500803907/dbw301-part7-flash-cards/) bộ này trúng 80%, muốn nhiều điểm hơn thì học thêm các bộ khác
+- [Source in class](https://drive.google.com/drive/folders/1AirAFMRx-8odj8zcUmprr6Pp-7bmP3mz?usp=sharing)
+- [Final Exam](https://quizlet.com/500803907/dbw301-part7-flash-cards/) bộ này trúng 80%, muốn nhiều điểm hơn thì học thêm các bộ khác
 
 ### MLN101 - Principles of Marxism - Leninism
 
@@ -252,8 +283,8 @@ keyword: ['fpt', 'thaycacac']
 ### PMG201c - Project management
 
 - Môn này học online, bank các bài quiz: [Initiating and Planning Projects](https://quizlet.com/488337264/pmg201c-initiating-and-planning-projects-flash-cards/), [Budgeting and Scheduling Projects](https://quizlet.com/481589841/pmg201c-budgeting-and-scheduling-projects-flash-cards/), [Managing Project Risks and Changes](https://quizlet.com/481930396/pmg201c-managing-project-risks-and-changes-flash-cards/)
-
 - [Project final course](https://drive.google.com/drive/folders/1vtBhYIJ9sRgOZQoI9HR2Cu6An9GsPEVg?usp=sharing)
+- [Practical exam](https://drive.google.com/drive/folders/1HE-T51YQ5lwIfll1eBITpNfCKnGvW9eB?usp=sharing): đề bài và hướng dẫn giải chi tiết (ví dụ)
 
 ### PRX301 - Web Development (XML)
 
@@ -265,5 +296,11 @@ keyword: ['fpt', 'thaycacac']
 - Final Exam: [Part1](https://quizlet.com/501005882/prx301-part1-flash-cards/) và [Part2](https://quizlet.com/501032835/prx301-part2-flash-cards/) trúng khá ít.
 - [Key Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/PRX301.txt) trúng 90%
 
+## [Semester 9](#)
+
+### HCM201 - Ho Chi Minh Ideology
+
+- [Final Exam](https://quizlet.com/509920801/hcm201-flash-cards/) trúng 80%
+
 {: .thaycacac-description}
-Note: This is just my experience, maybe not right for you. Report to me: _thaycacac@gmail.com_
+Note: This is just my experience, maybe not right for you. Report to me: _[Thaycacac](https://www.facebook.com/thaycacac)_
