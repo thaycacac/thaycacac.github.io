@@ -11,8 +11,9 @@ keyword: ['fpt', 'thaycacac']
 
 Một trang web giúp cộng đồng sinh viên FU mua bán hàng hóa, ...
 
-- Frontend: HTML, CSS, Thymeleaf,
+- Frontend: HTML, CSS, Thymeleaf,...
 - Backend: Java
+- Position: Frontend developer
 - Source: [https://github.com/harrytran998/ShipperHola](https://github.com/harrytran998/ShipperHola)
 - Demo: [https://www.youtube.com/watch?v=hk7Qh6Y251I](https://www.youtube.com/watch?v=hk7Qh6Y251I)
 
@@ -30,6 +31,7 @@ Trang web giúp mọi người học gõ 10 ngón, có các bài học được 
 
 - Frontend: VueJS, NuxtJS
 - Backend: NodeJS, SQL Server
+- Position: Fullstack developer
 - Skill: pug, preprocessor css, i18n,...
 - Demo: [https://fingersfast.herokuapp.com/](https://fingersfast.herokuapp.com/)
 
