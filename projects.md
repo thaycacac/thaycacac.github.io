@@ -17,6 +17,15 @@ keyword: ['fpt', 'thaycacac']
 - Skill: Adobe XD, Photoshop, Github, Slack
 - Demo: [https://www.youtube.com/watch?v=Mi33qK8TsCk](https://www.youtube.com/watch?v=Mi33qK8TsCk)
 
+### Eforea
+
+Trang web dành cho chuỗi cửa hàng spa bao gồm giới thiệu, thử móng, quản lý ví,...
+
+- Frontend: VueJS, NuxtJS
+- Backend: NodeJS
+- Position: Frontend developer
+- Website: [https://eforealifestyle.com/en](https://eforealifestyle.com/en)
+
 # 2018
 
 ### 10FingersFast
