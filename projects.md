@@ -7,6 +7,8 @@ keyword: ['fpt', 'thaycacac']
 
 ## 2017
 
+### FU Market
+
 Một trang web giúp cộng đồng sinh viên FU mua bán hàng hóa, ...
 
 - Frontend: HTML, CSS, Thymeleaf,
@@ -22,13 +24,14 @@ Một trang web giúp cộng đồng sinh viên FU mua bán hàng hóa, ...
 
 ## 2018
 
+### 10FingersFast
+
 Trang web giúp mọi người học gõ 10 ngón, có các bài học được sắp xếp theo trật tự nhất định
 
 - Frontend: VueJS, NuxtJS
 - Backend: NodeJS, SQL Server
 - Skill: pug, preprocessor css, i18n,...
-
-### [1. 10FingersFast](https://fingersfast.herokuapp.com/)
+- Demo: [https://fingersfast.herokuapp.com/](https://fingersfast.herokuapp.com/)
 
 ![10 Fingers Fast](/assets/img/projects/0.JPG)
 
