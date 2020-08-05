@@ -5,6 +5,55 @@ subtitle: Thaycacac's Projects
 keyword: ['fpt', 'thaycacac']
 ---
 
+# [2020](#)
+
+### Fremote
+
+Phần mềm hỗ trợ doanh nghiệp quản lý công việc thời gian, khi làm việc từ xa. Đặc biệt là trong và sau mùa dịch Covid19
+
+- Frontend: VueJS
+- Backend: Java
+- Teamsize: 10
+- Position: Frontend developer.
+- Achievement: Top 4 cuộc thì FBiz Tablent 2020 do tổ chức giáo dục FPT tổ chức
+
+### Cloud Book
+
+Trang sách điện tử đầu tiên tại Việt Nam, giúp học sinh học, làm bài tập trực tiếp trên website
+
+- Frontend: ReactJS, unstated
+- Backend: Java, JavaSpring
+- Teamsize: 10
+- Position: Frontend developer
+- Website: [https://cloudbook.vn/](https://cloudbook.vn/)
+
+### RedShip
+
+Trang web quản lý các đơn hàng, của hàng shipper
+
+- Frontend: VueJS
+- Backend: NodeJS
+- Teamsize: 4
+- Position: Frontend developer
+
+### Web Portal Training
+
+Trang web viết document, xem document dành cho nhân viên dưới store và nhân viên các phòng ban ở CircleK
+
+- Frontend: VueJS
+- Backend: C#
+- Teamsize: 4
+- Position: Fullstack developer
+
+### Tool for CircleK
+
+Tool, web quản lý dành cho nội bộ IT team bao gồm tool kéo chương trình khuyến mãi cho store, notification xuống store,...
+
+- Frontend: VueJS
+- Backend: C#
+- Teamsize: 4
+- Position: Fullstack developer
+
 # [2019](#)
 
 ### QuizSharp
