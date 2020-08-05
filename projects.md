@@ -15,16 +15,50 @@ keyword: ['fpt', 'thaycacac']
 - Backend: .Net Framework, SQL Server, CefSharp, Newtonsoft.JSON
 - Position: Leader, Fullstack developer
 - Skill: Adobe XD, Photoshop, Github, Slack
+- Teamsize: 5
 - Demo: [https://www.youtube.com/watch?v=Mi33qK8TsCk](https://www.youtube.com/watch?v=Mi33qK8TsCk)
+
+### WeOk
+
+Ứng dụng cảnh báo lũ lụt trên toàn cầu
+
+- Frontend: React Native
+- Backend: Nodejs
+- Position: Desinger, Frontend Developer
+- Teamsize: 5
+- Achievement: thắng cuộc track IBM của Anglehack Hackathon 2019
+
+### Go Green
+
+Web app tìm việc nhanh, kết nối người cần và người làm cho những công việc nhanh chóng, cấp thiết.
+
+- Frontend: VueJS
+- Backend: NodeJS, Socket
+- Position: Leader, Designer, Fullstack Developer
+- Teamsize: 8
+- Demo: [https://www.youtube.com/watch?v=yVxPxS3Nc5c](https://www.youtube.com/watch?v=yVxPxS3Nc5c)
+- Website: [https://wcdi18.herokuapp.com/](https://wcdi18.herokuapp.com/)
+- Source: [https://github.com/Sharp-Team/WCDI18](https://github.com/Sharp-Team/WCDI18)
 
 ### Eforea
 
 Trang web dành cho chuỗi cửa hàng spa bao gồm giới thiệu, thử móng, quản lý ví,...
 
 - Frontend: VueJS, NuxtJS
-- Backend: NodeJS
+- Backend: NodeJS, Wordpress, PHP
 - Position: Frontend developer
+- Teamsize: 7
 - Website: [https://eforealifestyle.com/en](https://eforealifestyle.com/en)
+
+### Juice Plus
+
+Trang web mua bán hoa quả, máy sinh tố,..., giới thiệu, blog
+
+- Frontend: VueJS, NuxtJS
+- Backdend: Wordpress, PHP
+- Position: Leader, Fullstack
+- Teamsize: 4
+- Website: [https://juiceplus.vn/](https://juiceplus.vn/)
 
 # 2018
 
