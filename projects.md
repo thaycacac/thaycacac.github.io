@@ -66,6 +66,7 @@ Tool, web quản lý dành cho nội bộ IT team bao gồm tool kéo chương t
 - Skill: Adobe XD, Photoshop, Github, Slack
 - Teamsize: 5
 - Demo: [https://www.youtube.com/watch?v=Mi33qK8TsCk](https://www.youtube.com/watch?v=Mi33qK8TsCk)
+- Source: [https://github.com/Sharp-Team/quiz-sharp](https://github.com/Sharp-Team/quiz-sharp)
 
 ### WeOk
 
@@ -76,6 +77,7 @@ Tool, web quản lý dành cho nội bộ IT team bao gồm tool kéo chương t
 - Position: Desinger, Frontend Developer
 - Teamsize: 5
 - Achievement: thắng cuộc track IBM của Anglehack Hackathon 2019
+- Source: [https://github.com/thailh12/WeOk](https://github.com/thailh12/WeOk)
 
 ### Pubnow
 
@@ -86,6 +88,7 @@ Một trang chia sẻ kiến thức thuộc nhiều lĩnh vực, tương tự nh
 - Teamsize: 10
 - Position: Frontend developer.
 - Website: [https://staging.pubnow.co/](https://staging.pubnow.co/)
+- Source: [https://github.com/pubnow](https://github.com/pubnow)
 
 ### Go Green
 
@@ -129,7 +132,8 @@ Trang web giúp mọi người học gõ 10 ngón, có các bài học được 
 - Backend: NodeJS, SQL Server
 - Position: Fullstack developer
 - Skill: pug, preprocessor css, i18n,...
-- Demo: [https://fingersfast.herokuapp.com/](https://fingersfast.herokuapp.com/)
+- Demo: [https://fingersfast.herokuapp.com/](https://fingersfast.herokuapp.com/)\
+- Source: [https://github.com/thaycacac/10-fingers-fast](https://github.com/thaycacac/10-fingers-fast)
 
 # [2017](#)
 
