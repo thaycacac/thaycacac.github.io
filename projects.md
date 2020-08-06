@@ -77,6 +77,16 @@ Tool, web quản lý dành cho nội bộ IT team bao gồm tool kéo chương t
 - Teamsize: 5
 - Achievement: thắng cuộc track IBM của Anglehack Hackathon 2019
 
+### Pubnow
+
+Một trang chia sẻ kiến thức thuộc nhiều lĩnh vực, tương tự như viblo, medium
+
+- Frontend: VueJS
+- Backend: PHP, Laravel
+- Teamsize: 10
+- Position: Frontend developer.
+- Website: [https://staging.pubnow.co/](https://staging.pubnow.co/)
+
 ### Go Green
 
 Web app tìm việc nhanh, kết nối người cần và người làm cho những công việc nhanh chóng, cấp thiết.
