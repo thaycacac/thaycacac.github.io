@@ -297,7 +297,16 @@ Chi tiết: [http://fptu.netlify.app/chia-se-tai-lieu](http://fptu.netlify.app/c
 ### ITE302b - Ethics in IT
 
 - [Assignment](https://drive.google.com/drive/folders/1FUOKQ61695r2M8evo-lEPUVfbk9BxHPV?usp=sharing) mình được full 10, về cơ bản thì sẽ quan trọng lúc review
-- [Final Exam](https://quizlet.com/517650714/se_-ky-9-_ite302-flash-cards/) trúng 95%, nhưng một số đáp án sai chỉ được khoảng 8đ
+- [Final Exam](https://quizlet.com/517650714/se_-ky-9-_ite302-flash-cards/) trúng 95%, nhưng một số đáp án sai chỉ được khoảng 8đ\
+
+### SSC102 - Business Communication
+
+- [Project](https://drive.google.com/drive/folders/1-VqdveudcIXH3u-dQumI_jx7t221m_f3?usp=sharing) source dự án FU-Share
+- [Final Exam](https://quizlet.com/517652202/se_-ky-9-_ssc102-flash-cards/) trúng 95%
+
+### VNR201 - Revolutionary line of CPV
+
+- [Final Exam](https://quizlet.com/517650954/se_-ky-9-_vnr201-flash-cards/) trúng 90%
 
 {: .thaycacac-description}
 Note: This is just my experience, maybe not right for you. Report to me: _[Thaycacac](https://www.facebook.com/thaycacac)_
