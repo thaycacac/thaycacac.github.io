@@ -29,14 +29,6 @@ Cộng đồng chia sẻ quizlet các môn, các bạn có thể join class và 
 
 Chi tiết: [http://fptu.netlify.app/chia-se-tai-lieu](http://fptu.netlify.app/chia-se-tai-lieu)
 
-### Thông tin giảng viên
-
-[http://fptu.netlify.app/giang-vien](http://fptu.netlify.app/giang-vien)
-
-### Nhóm hỏi đáp, share key
-
-[http://fptu.netlify.app/group](http://fptu.netlify.app/group)
-
 ### [Semester 1](#)
 
 ### MAE101 - Mathematics for Engineering
@@ -301,6 +293,11 @@ Chi tiết: [http://fptu.netlify.app/chia-se-tai-lieu](http://fptu.netlify.app/c
 ### HCM201 - Ho Chi Minh Ideology
 
 - [Final Exam](https://quizlet.com/509920801/hcm201-flash-cards/) trúng 80%
+
+### ITE302b - Ethics in IT
+
+- [Assignment](https://drive.google.com/drive/folders/1FUOKQ61695r2M8evo-lEPUVfbk9BxHPV?usp=sharing) mình được full 10, về cơ bản thì sẽ quan trọng lúc review
+- [Final Exam](https://quizlet.com/517650714/se_-ky-9-_ite302-flash-cards/) trúng 95%, nhưng một số đáp án sai chỉ được khoảng 8đ
 
 {: .thaycacac-description}
 Note: This is just my experience, maybe not right for you. Report to me: _[Thaycacac](https://www.facebook.com/thaycacac)_
