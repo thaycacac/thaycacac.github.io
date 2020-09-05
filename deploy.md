@@ -72,6 +72,7 @@ Create database
 ```sql
 CREATE DATABASE thaycacac DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 GRANT ALL ON thaycacac.* TO 'thaycacacuser'@'localhost' IDENTIFIED BY '123456';
+
 ```
 
 Install project
@@ -102,23 +103,11 @@ Install web server
 sudo apt install nginx
 
 // ---------CADDY---------
-curl https://getcaddy.com | bash -s personal
-wget -qO- https://getcaddy.com | bash -s personal
-curl https://getcaddy.com | bash -s realip,expires,upload
-sudo setcap cap_net_bind_service=+ep /usr/local/bin/caddy
-sudo mkdir /etc/caddy
-sudo chown -R root:www-data /etc/caddy
-sudo mkdir /etc/ssl/caddy
-sudo chown -R www-data:root /etc/ssl/caddy
-sudo chmod 0770 /etc/ssl/caddy
-sudo touch /etc/caddy/Caddyfile
-sudo chown www-data: /var/www
-cd /lib/systemd/system
-wget https://raw.githubusercontent.com/mholt/caddy/master/dist/init/linux-systemd/caddy.service
-sudo cp caddy.service /etc/systemd/system
-sudo chown root:root /etc/systemd/system/caddy.service
-sudo chmod 644 /etc/systemd/system/caddy.service
-sudo systemctl daemon-reload
+echo "deb [trusted=yes] https://apt.fury.io/caddy/ /" \
+    | sudo tee -a /etc/apt/sources.list.d/caddy-fury.list
+sudo apt update
+sudo apt install caddy
+
 sudo systemctl start caddy.service
 sudo systemctl status caddy
 
@@ -178,17 +167,17 @@ server{
 }
 
 // ---------CADDY---------
-thaycacac.com:2222 {
-  root /var/www/backend/public
-  fastcgi / /var/run/php/php7.2-fpm.sock php
-    rewrite {
-      to {path} {path}/ /index.php?{query}
-  }
+thay.edu.vn:8080 {
+  root * /var/www/thay.edu.vn.back/public
+  php_fastcgi unix//run/php/php7.2-fpm.sock
+  encode gzip
+  file_server
 }
-thaycacac.com {
+
+thay.edu.vn {
   tls thaycacac@gmail.com
-  gzip
-  proxy / localhost:3000
+  encode gzip
+  reverse_proxy localhost:7985
 }
 ```
 
