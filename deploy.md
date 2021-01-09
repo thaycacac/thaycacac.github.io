@@ -119,7 +119,7 @@ thay.edu.vn {
 Restart web server
 
 ```ssh
-sudo systemctl restart caddy.service
+sudo systemctl restart caddy
 ```
 
 #### Deploy nuxt
