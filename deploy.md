@@ -5,7 +5,7 @@ subtitle: Lavaral - Nuxt
 keyword: ["teky", "thaycacac"]
 ---
 
-#### Deploy laravel
+#### Deploy backend
 
 Update
 
@@ -52,27 +52,6 @@ sudo apt install mysql-client-core-5.7
 sudo apt install mysql-server
 sudo systemctl status mysql
 mysql -u root -p
-
-// --------MARIADB---------
-sudo apt-get install software-properties-common
-sudo apt-key adv --recv-keys --keyserver hkp://keyserver.ubuntu.com:80 0xF1656F24C74CD1D8
-sudo nano /etc/apt/sources.list.d/mariadb.list
-
-# MariaDB 10.3 Repository
-deb [arch=amd64,arm64,ppc64el] http://sfo1.mirrors.digitalocean.com/mariadb/repo/10.3/ubuntu bionic main
-deb-src http://sfo1.mirrors.digitalocean.com/mariadb/repo/10.3/ubuntu bionic main
-
-sudo apt install mariadb-server
-sudo systemctl status mariadb
-mariadb -u root -p
-```
-
-Create database
-
-```sql
-CREATE DATABASE thaycacac DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-GRANT ALL ON thaycacac.* TO 'thaycacacuser'@'localhost' IDENTIFIED BY '123456';
-
 ```
 
 Install project
@@ -83,6 +62,14 @@ git clone https://github.com/thaycacac.git
 cd thaycacac
 composer install
 yarn
+```
+
+Create database
+
+```sql
+CREATE DATABASE thaycacac DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+GRANT ALL ON thaycacac.* TO 'thaycacacuser'@'localhost' IDENTIFIED BY '123456';
+
 ```
 
 Config file `.env`
