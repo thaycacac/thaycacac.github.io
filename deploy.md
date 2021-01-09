@@ -51,7 +51,6 @@ Install database
 sudo apt install mysql-client-core-5.7
 sudo apt install mysql-server
 sudo systemctl status mysql
-mysql -u root -p
 ```
 
 Install project
@@ -67,12 +66,19 @@ yarn
 Create database
 
 ```sql
+mysql -u root -p
 CREATE DATABASE thaycacac DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 GRANT ALL ON thaycacac.* TO 'thaycacacuser'@'localhost' IDENTIFIED BY '123456';
-
+use thaycacac;
+source data.sql;
 ```
 
 Config file `.env`
+
+```ssh
+touch .env
+nano .env
+```
 
 ```ssh
 DB_HOST=127.0.0.1
@@ -81,22 +87,14 @@ DB_USER=thaycacacuser
 DB_PASSWORD=123456
 ```
 
-Install web server
-
-- Nginx
+Install web server (Caddy)
 
 ```ssh
-// ---------NGINX---------
-sudo apt install nginx
-
-// ---------CADDY---------
-echo "deb [trusted=yes] https://apt.fury.io/caddy/ /" \
-    | sudo tee -a /etc/apt/sources.list.d/caddy-fury.list
+sudo apt install -y debian-keyring debian-archive-keyring apt-transport-https
+curl -1sLf 'https://dl.cloudsmith.io/public/caddy/stable/cfg/gpg/gpg.155B6D79CA56EA34.key' | sudo apt-key add -
+curl -1sLf 'https://dl.cloudsmith.io/public/caddy/stable/cfg/setup/config.deb.txt?distro=debian&version=any-version' | sudo tee -a /etc/apt/sources.list.d/caddy-stable.list
 sudo apt update
 sudo apt install caddy
-
-sudo systemctl start caddy.service
-sudo systemctl status caddy
 
 sudo chmod 777 /var/www/html/.../public/uploads/...
 ```
@@ -104,56 +102,6 @@ sudo chmod 777 /var/www/html/.../public/uploads/...
 - Config web server
 
 ```ssh
-// ---------NGINX---------
-nano /etc/nginx/sites-available
-server {
-  listen 80 default_server;
-  listen [::]:80 default_server;
-  root /var/www/html/public;
-  index index.php index.html index.htm index.nginx-debian.html;
-  server_name _;
-  location / {
-    try_files $uri $uri/ index.php?$query_string;
-  }
-  location ~ \.php$ {
-    include snippets/fastcgi-php.conf;
-    fastcgi_pass unix:/var/run/php/php7.2-fpm.sock;
-    #fastcgi_pass 127.0.0.1:9000;
-  }
-}
-// ssl
-server {
-  listen 8080 default_server;
-  listen [::]:8080 default_server;
-  root /var/www/backend/public;
-  index index.php index.html index.htm index.nginx-debian.html;
-  server_name _;
-  location / {
-    try_files $uri $uri/ index.php?$query_string;
-  }
-  location ~ \.php$ {
-    include snippets/fastcgi-php.conf;
-    fastcgi_pass unix:/var/run/php/php7.2-fpm.sock;
-  }
-}
-server{
-  listen 80;
-  server_name thaycacac.com www.thaycacac.com;
-
-  root /usr/share/nginx/html;
-
-  index index.php index.html index.htm;
-  location / {
-    proxy_pass http://localhost:3000;
-    proxy_http_version 1.1;
-    proxy_set_header Upgrade $http_upgrade;
-    proxy_set_header Connection 'upgrade';
-    proxy_set_header Host $host;
-    proxy_cache_bypass $http_upgrade;
-  }
-}
-
-// ---------CADDY---------
 thay.edu.vn:8080 {
   root * /var/www/thay.edu.vn.back/public
   php_fastcgi unix//run/php/php7.2-fpm.sock
@@ -171,10 +119,6 @@ thay.edu.vn {
 Restart web server
 
 ```ssh
-// ---------NGINX---------
-sudo service nginx restart
-
-// ---------CADDY---------
 sudo systemctl restart caddy.service
 ```
 
