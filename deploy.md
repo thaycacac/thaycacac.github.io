@@ -2,7 +2,7 @@
 layout: page
 title: Deploy
 subtitle: Lavaral - Nuxt
-keyword: ["teky", "thaycacac"]
+keyword: ["deploy", "deploy nuxtjs", "deploy laravel", "deploy wordpress", "thaycacac"]
 ---
 
 #### Deploy backend
@@ -138,11 +138,11 @@ npm install pm2 -g
 pm2 start yarn -- start
 ````
 
-If use network FPT
+Export sql
 
-```ssh
-sudo nano /etc/ssh/sshd_config
-port 2222
-service sshd reload
-exit
+```sql
+mysql -u root
+FLUSH PRIVILEGES;
+ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
+mysqldump -u root -p thaycacac > data.sql
 ```
