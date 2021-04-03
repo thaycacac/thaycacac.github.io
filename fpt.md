@@ -5,7 +5,7 @@ subtitle: Share my experience
 keyword: ['fpt', 'thaycacac']
 ---
 
-# PHIÊN BẢN MỚI, CẬP NHẬT LIÊN TỤC: https://stech.edu.vn/fpt
+## Phiên bản mới, cập nhật liên tục: https://stech.edu.vn/fpt
 
 ### [Semester 1](#)
 
