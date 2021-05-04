@@ -382,3 +382,4 @@ str.charAt(0); // n
 str[0]; // n
 ```
  
+[Source](https://javascript.plainenglish.io/20-javascript-shorthand-techniques-that-will-save-your-time-f1671aab405f)
