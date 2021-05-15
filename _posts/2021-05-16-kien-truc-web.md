@@ -22,7 +22,7 @@ keywords:
 
 *Những khái niệm cơ bản về kiến trúc mà tôi ước rằng mình biết khi bắt đầu công việc của một **Web developer***
 
-<div style="display: flex; justify-content: center"><img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/1600/1*K6M-x-6e39jMq_c-2xqZIQ.png" src="https://cdn-images-1.medium.com/max/1600/1*K6M-x-6e39jMq_c-2xqZIQ.png"></div>
+![image](https://user-images.githubusercontent.com/29374426/118373355-97433d00-b5e0-11eb-9a57-29e29bf1f0ae.png)
 
 Sơ đồ trên là một đại diện khá tốt về kiến trúc của chúng tôi tại Storyblocks. Nếu bạn không phải là một **web developer** có kinh nghiệm, bạn có thể thấy nó phức tạp. Việc dạo qua bên dưới sẽ làm cho mọi thứ dễ tiếp cận hơn trước khi chúng ta đi sâu vào chi tiết của từng thành phần.
 
@@ -66,7 +66,8 @@ Trong khi tôi tránh đi sâu vào các công nghệ cụ thể cho từng thà
 
 SQL là viết tắt của “Structured Query Language” và được phát minh vào những năm 1970 để cung cấp một cách truy vấn tiêu chuẩn cho các bộ dữ liệu quan hệ có thể truy cập được đối tượng rộng. Cơ sở dữ liệu SQL lưu trữ dữ liệu trong các bảng được liên kết với nhau thông qua các ID chung, điển hình là số nguyên. Hãy xem qua một ví dụ đơn giản về lưu trữ thông tin địa chỉ lịch sử cho người dùng. Bạn có thể có hai bảng, user và user_addresses, được liên kết với nhau bởi id người dùng. Xem hình ảnh dưới đây cho một phiên bản đơn giản. Các bảng được liên kết vì cột user_id trong user_addresses là một khóa ngoại khóa với cột id trong bảng người dùng.
 
-<div style="display: flex; justify-content: center"><img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/1600/1*Ln39QPggpJVMAScUBsrcCQ.png" src="https://cdn-images-1.medium.com/max/1600/1*Ln39QPggpJVMAScUBsrcCQ.png"></div>
+![image](https://user-images.githubusercontent.com/29374426/118373373-ac1fd080-b5e0-11eb-9cb4-18506f139c08.png)
+
 
 Nếu bạn không biết nhiều về SQL, tôi khuyên bạn nên tìm hiểu hướng dẫn như bạn có thể tìm thấy ở Khan Academy tại [đây](https://www.khanacademy.org/computing/computer-programming/sql). Nó có mặt khắp nơi trong phát triển web, do đó, bạn ít nhất muốn biết những điều cơ bản để thiết kế đúng một ứng dụng.
 
@@ -108,7 +109,8 @@ Ví dụ, Storyblocks tận dụng hàng đợi công việc để cung cấp n�
 
 Rất nhiều nếu không phải hầu hết các ứng dụng web đều hỗ trợ một số tính năng tìm kiếm trong đó người dùng cung cấp kiểu nhập văn bản (thường được gọi là "query") Công nghệ cung cấp năng lượng cho chức năng này thường được gọi là "[Tìm kiếm toàn văn bản](https://en.wikipedia.org/wiki/Full-text_search)", có thể sử dụng một [chỉ mục đảo ngược](https://en.wikipedia.org/wiki/Inverted_index) để tìm kiếm nhanh các tài liệu có chứa các từ khóa truy vấn.
 
-<div style="display: flex; justify-content: center"><img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/1600/1*gun_BpdDH9KrNna1NnaocA.png" src="https://cdn-images-1.medium.com/max/1600/1*gun_BpdDH9KrNna1NnaocA.png"></div>
+![image](https://user-images.githubusercontent.com/29374426/118373386-b80b9280-b5e0-11eb-8c9a-f77aaf0802cc.png)
+
 
 *Example showing how three document titles are converted into an inverted index to facilitate fast lookup from a specific keyword to the documents with that keyword in the title. Note, common words such as “in”, “the”, “with”, etc. (called stop words), are typically not included in an inverted index.*
 
@@ -148,7 +150,8 @@ AWS lưu trữ là một cách đơn giản và có thể mở rộng để lưu
 
 CDN là viết tắt của “Content Delivery Network” và công nghệ cung cấp cách thức phục vụ các tài sản tĩnh như HTML tĩnh, CSS, Javascript và hình ảnh trên web nhanh hơn nhiều so với phục vụ chúng từ một máy chủ gốc. Nó hoạt động bằng cách phân phối nội dung trên nhiều máy chủ của **edge** trên toàn thế giới để người dùng cuối cùng tải xuống các **assets** từ các máy chủ của Edge edge thay vì máy chủ gốc. Ví dụ trong hình ảnh bên dưới, một người dùng ở Tây Ban Nha yêu cầu một trang web từ một trang web có máy chủ gốc ở NYC, nhưng các tài sản tĩnh cho trang được tải từ máy chủ cạnh CDN, ở Anh, ngăn chặn nhiều HTTP chậm Đại Tây Dương yêu cầu.
 
-<div style="display: flex; justify-content: center"><img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/1600/1*ZkC_5865Hx-Cgph3iPJghw.png" src="https://cdn-images-1.medium.com/max/1600/1*ZkC_5865Hx-Cgph3iPJghw.png"></div>
+![image](https://user-images.githubusercontent.com/29374426/118373390-c063cd80-b5e0-11eb-9eec-c79729dca420.png)
+
 
 *[Source](https://www.creative-artworks.eu/why-use-a-content-delivery-network-cdn/)*
 
