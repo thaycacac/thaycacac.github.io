@@ -64,3 +64,51 @@ Tập hợp các kênh YouTube hữu ích và các nguồn video khác dành cho
 ## [12. wtfjs](https://github.com/denysdovhan/wtfjs)
 
 Danh sách các ví dụ JavaScript vui nhộn và khó hiểu.
+
+## [13. You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
+
+Chúng ta không phải học jQuery từ đầu để thao tác DOM hoặc xử lý sự kiện. Trong khi đó, nhờ vào sự phổ biến của các thư viện frontend như React, Angular và Vue, thao tác trực tiếp với DOM trở thành phản mẫu, do đó việc sử dụng jQuery chưa bao giờ ít quan trọng hơn. Dự án này tóm tắt hầu hết các lựa chọn thay thế trong việc triển khai Javascript gốc cho các phương thức jQuery, với sự hỗ trợ của IE 10+.
+
+## [14. 33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+
+33 concepts mọi nhà phát triển JavaScript nên biết Kho lưu trữ này được tạo ra với mục đích giúp các nhà phát triển nắm vững các khái niệm của họ trong JavaScript.
+
+## [15. modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+
+Cheatsheet cho kiến ​​thức JavaScript mà bạn sẽ thường xuyên gặp phải trong các dự án hiện đại.
+
+## [16. es6](https://github.com/bevacqua/es6)
+
+Tổng quan về ES6 trong 350 điểm Bullet Bài viết này nhằm mục đích tóm tắt tất cả những điều đó, cung cấp cho bạn cái nhìn sâu sắc thực tế về hầu hết ES6, để bạn có thể nhanh chóng bắt đầu.
+
+## [17. es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+ES2015 [ES6] cheatsheet chứa các mẹo, thủ thuật, phương pháp hay nhất và đoạn mã
+
+## [18. ES6-for-humans](https://github.com/metagrover/ES6-for-humans)
+
+Hướng dẫn kickstarter để viết ES6
+
+## [19. ECMAScript proposals](https://github.com/tc39/proposals)
+
+Theo dõi Đề xuất ECMAScript
+
+## [20. javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+Các thuật toán và cấu trúc dữ liệu được triển khai trong JavaScript với các giải thích và liên kết đến các bài đọc thêm
+
+## [21. javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)
+
+Bộ sưu tập các cấu trúc dữ liệu JavaScript và TypeScript và các thuật toán cho mục đích giáo dục. Gói mã nguồn gồm các thuật toán JavaScript và sách cấu trúc dữ liệu
+
+## [22. problem-solving-javascript](https://github.com/knaxus/problem-solving-javascript)
+
+Tuyển tập các câu hỏi Phỏng vấn JS phổ biến nhất với Bài kiểm tra.
+
+## [23. computer-science-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript)
+
+Khoa học máy tính được thực hiện lại bằng JavaScript
+
+## [24. The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
+
+Kho lưu trữ cho Tất cả các thuật toán được triển khai trong Javascript
