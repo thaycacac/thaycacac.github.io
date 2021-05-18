@@ -2,10 +2,10 @@
 layout: page
 title: FPT University
 subtitle: Share my experience
-keyword: ['fpt', 'thaycacac']
+keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 ---
 
-## Phiên bản mới, cập nhật liên tục: [https://stech.edu.vn/fpt](https://stech.edu.vn/fpt)
+#### New Version: [https://stech.edu.vn/fpt](https://stech.edu.vn/fpt)
 
 ### [Semester 1](#)
 
@@ -13,6 +13,8 @@ keyword: ['fpt', 'thaycacac']
 
 - [Book](https://drive.google.com/drive/u/2/folders/1jtHVY8GgenAGH4rL1ZqIuu7yuaoQ67l2)
 - Final Exam: nên tìm cao nhân chỉ bảo.
+- [Final Exam](https://drive.google.com/drive/folders/138cdzGSV3kUzfGMyCrq_x9yJeh5dU1RH?usp=sharing): chưa có đáp án
+- [Contribute](https://drive.google.com/drive/folders/1jtHVY8GgenAGH4rL1ZqIuu7yuaoQ67l2?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 
 ### CEA201 - Computer Organization and Architecture
 
@@ -287,4 +289,3 @@ keyword: ['fpt', 'thaycacac']
 - [Final Exam](https://quizlet.com/517650954/se_-ky-9-_vnr201-flash-cards/) trúng 90%
 
 {: .thaycacac-description}
-Note: This is just my experience, maybe not right for you. Report to me: _[Thaycacac](https://www.facebook.com/thaycacac)_
