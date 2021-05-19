@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 101 Repo hữu ích trên github
-subtitle: Gấp 10 lần thì bao vây, 5 lần thì tấn công, gấp 2 thì chia ra mà đánh, bằng địch thì phải đánh khéo,...
+title: 101 repository hữu ích trên github
+subtitle: Thiện chiến giả, cầu chi vu thế, bất trách vu nhân
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [share]

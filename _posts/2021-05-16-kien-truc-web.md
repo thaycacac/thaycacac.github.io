@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kiến trúc Web
-subtitle: Cố thiện chiến giả, cầu chi ư thế, bất trách ư nhân, cố năng trạch nhân nhi nhậm thế
+subtitle: Đầu chi vong địa nhiên hậu tồn, hãm chi tử địa nhiên hậu sinh
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [code]
