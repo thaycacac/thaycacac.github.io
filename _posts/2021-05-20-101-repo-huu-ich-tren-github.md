@@ -421,7 +421,7 @@ Apache PredictionIO là một framework máy hocj mã nguồn mở dành cho cá
 
 Đi sâu vào máy học với sổ ghi chép Python Jupyter và scikit-learning!
 
-## [100. pattern]
+## [100. pattern](https://github.com/clips/pattern)
 
 Module khai thác web cho Python, với các công cụ để cắt, xử lý ngôn ngữ tự nhiên, máy học, phân tích và trực quan.
 

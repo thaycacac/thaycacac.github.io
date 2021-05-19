@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tổng hợp 20 tips giúp bạn rút gọn code trong javascript
-subtitle: Cố thiện chiến giả, cầu chi ư thế, bất trách ư nhân, cố năng trạch nhân nhi nhậm thế
+title: 20 tips rút gọn code trong Javascript
+subtitle: Bất kỉ tri bỉ, bách chiến bất đãi
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [code]
