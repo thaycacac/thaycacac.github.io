@@ -214,6 +214,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Test 2](https://quizlet.com/299606923) trúng 98%
 - [Test 3](https://quizlet.com/450529591) trúng 98%
 - [Final Exam](https://quizlet.com/466530746/) trúng 60%
+- [Final Project](https://drive.google.com/drive/folders/1HhkgydTMRicPBrtlf5Cr6xSz96b1vHlL?usp=sharing) học thầy Sang, được 8.5
 - [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/SWD391.txt)
 - [Final Exam Image](https://drive.google.com/drive/folders/1Q_vnXz63B2berzuldEF9j4qyqxJ6EJ7k?usp=sharing)
 
