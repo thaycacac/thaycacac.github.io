@@ -4,7 +4,7 @@ title: 20 tips rút gọn code trong Javascript
 subtitle: Bất kỉ tri bỉ, bách chiến bất đãi
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
-categories: [code]
+categories: [frontend, backend]
 tags: [backend, frontend, javascript]
 keywords:
   [

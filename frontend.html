@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Share
-subtitle: Art speaks where words are unable to explain
+title: Frontend
+subtitle: Make everything okay
 ---
 <div class="posts-list">
   {% for category in site.categories %}
-  {%- if category[0]=='share' -%}
+  {%- if category[0]=='frontend' -%}
   {% for post in category[1] %}
     <article class="post-preview">
       <a href="{{ post.url | prepend: site.baseurl }}">

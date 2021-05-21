@@ -4,7 +4,7 @@ title: Tôi design
 subtitle: Gấp 10 lần thì bao vây, 5 lần thì tấn công, gấp 2 thì chia ra mà đánh, bằng địch thì phải đánh khéo,...
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
-categories: [share]
+categories: [ui/ux]
 tags: [ui/ux]
 keywords: [
   mockup app,

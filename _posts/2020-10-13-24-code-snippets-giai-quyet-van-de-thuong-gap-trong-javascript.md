@@ -4,7 +4,7 @@ title: 24 tips giải quyết vấn đề thường gặp trong Javascript
 subtitle: Cố thiện chiến giả, cầu chi ư thế, bất trách ư nhân, cố năng trạch nhân nhi nhậm thế
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
-categories: [code]
+categories: [frontend, backend]
 tags: [backend, frontend, javascript]
 keywords:
   [
