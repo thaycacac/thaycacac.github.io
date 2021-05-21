@@ -22,8 +22,8 @@ description: Phạm Ngọc Hòa
 
 # List of links in the navigation bar
 navbar-links:
-  Code: "code"
-  Share: "share"
+  Front End: "frontend"
+  Back End: "backend"
   UI/UX: "uiux"
   STech: "http://stech.edu.vn/"
   About Me: "https://www.facebook.com/thaycacac"

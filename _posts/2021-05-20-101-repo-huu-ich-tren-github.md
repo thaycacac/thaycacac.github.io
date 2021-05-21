@@ -5,7 +5,7 @@ subtitle: Thiện chiến giả, cầu chi vu thế, bất trách vu nhân
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [share]
-tags: [share, thaycacac]
+tags: [backend, frontend, git]
 keywords:
   [
     các repo hay trên github,

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 24 code snippets giải quyết vấn đề thường gặp trong Javascript
+title: 24 tips giải quyết vấn đề thường gặp trong Javascript
 subtitle: Cố thiện chiến giả, cầu chi ư thế, bất trách ư nhân, cố năng trạch nhân nhi nhậm thế
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [code]
-tags: [code, js, javascript, es6, code snippets, thaycacac]
+tags: [backend, frontend, javascript]
 keywords:
   [
     code,
@@ -20,7 +20,7 @@ keywords:
   ]
 ---
 
-Tôi đã chọn ra số đoạn mã hữu ích nhất từ [30 seconds of code](https://www.30secondsofcode.org/). Tôi đã cố gắng sắp xếp chúng dựa trên việc sử dụng thực tế, giải quyết được những vấn đề phổ biến mà bạn có thể gặp phải trong dự án của mình.
+Mình đã chọn ra số đoạn code hay nhất từ [30 seconds of code](https://www.30secondsofcode.org/) và cố gắng sắp xếp chúng dựa trên việc sử dụng thực tế, giải quyết được những vấn đề phổ biến mà bạn có thể gặp phải trong dự án.
 
 ## 1. Ẩn tất cả các phần tử nào đó
 
