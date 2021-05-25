@@ -289,4 +289,8 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 - [Final Exam](https://quizlet.com/517650954/se_-ky-9-_vnr201-flash-cards/) trúng 90%
 
+### Capstone Project
+
+- [Review docs với thầy lần 1](https://www.youtube.com/watch?v=fQfERTt7H04&feature=youtu.be&ab_channel=Thaycacac)
+
 {: .thaycacac-description}
