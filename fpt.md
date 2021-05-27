@@ -208,21 +208,26 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### HCI201 - Human-Computer Interaction
 
-- [Test 1](https://quizlet.com/432868761) trúng 100% (được 9.3)
-- [Test 2](https://quizlet.com/331351536) trúng 100%
-- [Test 3](https://quizlet.com/450530369) trúng 100%
-- [Project](https://www.figma.com/file/I7KrEL0dABOiIgsB2rYrrY/HCI201?node-id=191%3A0): học thầy Sang 3 bài presentation, trung bình team mình được 9
-- [Final Exam](https://github.com/thaycacac/keys/blob/master/hci.txt) học đống này trúng được 25 câu, hoặc có thẻ vào quizlet của mình có [8 part HCI](https://quizlet.com/Thaycacac)
-- [Final Exam](https://drive.google.com/drive/u/1/folders/1hocIhkicBlZCOv-8ear1qGb4_5aRp7vG) key ảnh tổng hợp
+- [Click để đóng góp](https://drive.google.com/drive/folders/1Y44jhTCGZYLQGWmDPxum-_CcKpQ9aSou?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Progress Test](https://quizlet.com/432868761): Bài test 1 trúng 100%
+- [Progress Test](https://quizlet.com/331351536): Bài test 2 trúng 100%
+- [Progress Test](https://quizlet.com/450530369): Bài test 3 trúng 100%
+- [Final Project](https://www.figma.com/file/I7KrEL0dABOiIgsB2rYrrY/HCI201?node-id=191%3A0): Bài presentation trang thương mại điện tử học thầy SangND, trung bình team mình được 9
+- [Final Exam](https://drive.google.com/drive/folders/1d97osels38OfWHgZte9yBgAXJ4qok4Gi?usp=sharing): Đề tham khảo số 1
+- [Final Exam](https://drive.google.com/drive/folders/1TEZbqjPCM4rZ0l1Vt1uWi_TLZo3bLxcd?usp=sharing): Key text, trúng khoảng 25 câu
+- [Final Exam](https://quizlet.com/432868761/hci201-flash-cards/): Key quizlet
 
 ### PRM391 - Mobile Programming
 
-- Test 1, test 2 quên không lưu lại :v
-- [Test 3](https://quizlet.com/466520973) - thầy Giang, bài này được 10
-- [Project](https://github.com/thaycacac/trumina) - tổng hợp utilities dành cho người đi du lịch, được 8.5
-- [Document project](https://drive.google.com/drive/folders/1kBLpVJpVyUPVA1lBfm7kk6qMehV2r01k?usp=sharing)
-- [Final Exam](https://quizlet.com/466525600) - trúng 65%
-- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/PRM391.txt)
+- [Click để đóng góp](https://drive.google.com/drive/folders/1DK3C5QJoR9iLICg0ZC2Oe8QrMT2K4lok?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Progress Test](https://quizlet.com/598214342/prm391-test-1-flash-cards): Bài test 1
+- [Progress Test](https://quizlet.com/598214595/prm391-test-2-flash-cards/): Bài test 2
+- [Progress Test](https://quizlet.com/598214801/prm391-test-3-flash-cards/): Bài test 3
+- [Final Project](https://github.com/thaycacac/trumina): Một ứng dụng android tổng hợp các tool cần thiết cho người đi du lịch, team mình được 8.5
+- [Document](https://drive.google.com/file/d/1_1-mBHtDmriwDyoUDu1tr4Au-9nh9bsu/view?usp=sharing): SRS cho final project
+- [Final Exam](https://drive.google.com/drive/folders/16iouh8hX6zj6phAAe4ioJ-a6FhzOvuoO?usp=sharing): Đề tham khảo số 1
+- [Final Exam](https://quizlet.com/466525600/prm391-flash-cards/): Key quizlet trúng 65%
+- [Final Exam](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/PRM391.txt): Key text
 
 ### SWD391 - Software Architecture and Design
 
