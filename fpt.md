@@ -121,9 +121,8 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### SWE102 - Introduction to Software Engineering
 
-- [Assignment 1](https://drive.google.com/drive/u/1/folders/1yqCng1FRqCmHjfIuvoPQTjzdzG_PmFKn): thầy TriTD (nhóm mình được 9.5)
-- [Assignment 2](https://drive.google.com/drive/u/1/folders/1yqCng1FRqCmHjfIuvoPQTjzdzG_PmFKn): thầy TriTD (được 9.5)
-- [All source](https://drive.google.com/drive/u/1/folders/1yqCng1FRqCmHjfIuvoPQTjzdzG_PmFKn): thầy TriTD (được 9.5)
+- [Click để đóng góp](https://drive.google.com/drive/folders/1N8jg2OklvZ-8wAjwK7KqvWLEr5OmeqqN?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Source](https://drive.google.com/drive/u/1/folders/1yqCng1FRqCmHjfIuvoPQTjzdzG_PmFKn): dự án hệ thống quản lý sách thầy TriTD (team mình được 9.5)
 - Final Exam: đợt mình thi đổi key, học 4 bộ ảnh được 15 câu
 
 ### JPD121 - Elementary Japanese 1.2
