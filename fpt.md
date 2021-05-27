@@ -156,11 +156,14 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### SWR302 - Software Requirement
 
-- [Assgnment 1](https://drive.google.com/drive/u/1/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1): thầy TrungNT được tầm 8 - 9 đ
-- [Assgnment 2](https://drive.google.com/drive/u/1/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1): được tầm 8 - 9 đ
-- [Final Exam](https://quizlet.com/387370660/swr302-flash-cards/)
-- [Final Exam Image](https://drive.google.com/drive/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1?usp=sharing) trúng tầm 70%
-- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt) tìm mã môn SWR302
+- [Click để đóng góp](https://drive.google.com/drive/folders/1U6dFwHyfj8lPQGffJq2JxL9cUFQPm5wI?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Assgnment 1 & 2](https://drive.google.com/drive/u/1/folders/1jsWIfp-JATXT8NDARK5R8MHeBej9RWU1): Học thầy TrungNT được 8đ - 9đ
+- [Final Exam](https://quizlet.com/387370660/swr302-flash-cards/): Quizlet
+- [Final Exam](https://drive.google.com/drive/folders/1eBKqWCMSxb4uoPzM76mraUJFrhWB2zYb?usp=sharing): Đề tham khảo số 1
+- [Final Exam](https://drive.google.com/drive/folders/1R9dNIUi3K2aGMnvk-_GFfAfcP94qcxfk?usp=sharing): Đề tham khảo số 2
+- [Final Exam](https://drive.google.com/drive/folders/1YAROm8uKnOU0COJAJYIk4lTE59bicbqR?usp=sharing): Đề tham khảo số 3
+- [Final Exam](https://drive.google.com/drive/folders/1b20CQ-gAzKWCOO8JvHjCyU9EvzPLbRAJ?usp=sharing): Đề tham khảo số 4
+- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/SWR302.txt): Key text
 
 ### SWT301 - Software Testing
 
