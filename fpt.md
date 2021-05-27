@@ -133,9 +133,10 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### LAB221 - Desktop Java Lab
 
-- [Lab](https://drive.google.com/drive/folders/15EtpOufSJA78d-tsDMvU48PYTHyPQfor?usp=sharing)
-- [Calculator](https://github.com/Sharp-Team/calculator-javadesk): pass TuanVM
-- [Text Editor](https://github.com/Sharp-Team/text-editor-javadesk): pass TuanVM, còn một bài mình code trên lớp
+- [Click để đóng góp](https://drive.google.com/drive/folders/1mz8xB9b5Ebb-Bp3cTctD08tuNpPav-_v?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Source](https://drive.google.com/drive/folders/15EtpOufSJA78d-tsDMvU48PYTHyPQfor?usp=sharing): Tổng hợp các đề Lab
+- [Souce Code](https://github.com/Sharp-Team/calculator-javadesk): Bài calculator pass thầy TuanVM
+- [Souce Code](https://github.com/Sharp-Team/text-editor-javadesk): Bài text editor pass thầy TuanVM
 
 ## [Semester 5]
 
