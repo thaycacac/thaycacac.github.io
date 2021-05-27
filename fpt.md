@@ -140,16 +140,17 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ## [Semester 5]
 
+### LAB231 - Web Java Lab
+
+- [Click để đóng góp](https://drive.google.com/drive/folders/1wLAYmHN0-kCOjkIlbKzgFuzJaICWrWrK?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Source](https://drive.google.com/drive/folders/1wF_D3vA0eOlauP9-mR0dYG28pNSVwftK?usp=sharing): Tổng hợp các đề Lab
+- [Source Code](https://github.com/Sharp-Team/web-java-lab): Bài digital và maria pass thầy TuanVM, một số câu hỏi của thầy mình để trong README. Còn một bài mình code trên lớp
+
 ### JPD131 - Elementary Japanese 2.1
 
 - [Final Exam](https://drive.google.com/drive/folders/1wrLRu8eFg0xRUd9TA7MY7qkMQtf5oWnV?usp=sharing) trúng khoảng 80%
 - [Speaking](https://docs.google.com/document/d/1T1M3IJ2Uw1Xyufi2jS42ywI1yhgjZHxry-Y-ed9Bulo/edit)
 - [PE](https://docs.google.com/document/d/1Bu-8UyXgNQfzuxANnjtlOU2yKSkk65fTpYp91NN6uhc/edit)
-
-### LAB231 - Web Java Lab
-
-- [Lab](https://drive.google.com/drive/folders/1wF_D3vA0eOlauP9-mR0dYG28pNSVwftK?usp=sharing)
-- [Pass TuanVM](https://github.com/Sharp-Team/web-java-lab): bài digital và maria, một số câu hỏi của thầy mình để trong README của bài digital news. còn một bài mình code trên lớp
 
 ### SWR302 - Software Requirement
 
