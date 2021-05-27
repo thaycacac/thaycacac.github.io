@@ -231,22 +231,25 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### SWD391 - Software Architecture and Design
 
-- [Test 1](https://quizlet.com/431686082) trúng 100% (được 9.8)
-- [Test 2](https://quizlet.com/299606923) trúng 98%
-- [Test 3](https://quizlet.com/450529591) trúng 98%
-- [Final Exam](https://quizlet.com/466530746/) trúng 60%
-- [Final Project](https://drive.google.com/drive/folders/1HhkgydTMRicPBrtlf5Cr6xSz96b1vHlL?usp=sharing) học thầy Sang, được 8.5
-- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/SWD391.txt)
-- [Final Exam Image](https://drive.google.com/drive/folders/1Q_vnXz63B2berzuldEF9j4qyqxJ6EJ7k?usp=sharing)
+- [Click để đóng góp](https://drive.google.com/drive/folders/1DK3C5QJoR9iLICg0ZC2Oe8QrMT2K4lok?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Progress Test](https://quizlet.com/431686082): Bài test 1
+- [Progress Test](https://quizlet.com/299606923): Bài test 2
+- [Progress Test](https://quizlet.com/450529591): Bài test 3
+- [Final Project](https://drive.google.com/drive/folders/1vZ4bLE2de4DUXx7178bfgT1JxPDDi_lQ?usp=sharing): Dự án business card system, chuyển đổi sô card, team mình được 8.5
+- [Final Exam](https://drive.google.com/drive/folders/1tl5qVjiZBqNvxO1LPjXseazlEgAYS432?usp=sharing): Đề tham khảo số 1
+- [Final Exam](https://drive.google.com/drive/folders/1jaauxXtEKYVn2Fx2WloAEfnZng1G6KC0?usp=sharing): Đề tham khảo số 2
+- [Final Exam](https://drive.google.com/drive/folders/1IDTImmSaHFvVeI5ZotCXTuXg8v62Jo8X?usp=sharing): Đề tham khảo số 3
+- [Final Exam](https://quizlet.com/466525600/prm391-flash-cards/): Key quizlet trúng 60%
+- [Final Exam](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/SWD391.txt): Key text
 
 ### ISC301 - e-Commerce
 
-- [Test 1](https://quizlet.com/433386576) trúng 100% (được 9.3)
-- [Test 2](https://quizlet.com/441873122) trúng 100% (được 10)
-- [Test3](https://quizlet.com/466528349/) những câu chưa có đáp án là hôm mình làm bị sai (được 8)
-- [Project](https://juiceplus.com.vn/) làm một trang thương mại điện tử sử dụng (wordpress, shopify,...) (được 9)
-- [Final Exam](https://quizlet.com/466529748/) trúng 80%
-- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt) tìm mã môn ISC301
+- [Click để đóng góp](https://drive.google.com/drive/folders/1gWm8RTva9R4UmO53ZdNCMWxJeMONubj7?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Progress Test](https://quizlet.com/433386576): Bài test 1 trúng 100%
+- [Progress Test](https://quizlet.com/441873122): Bài test 2 trúng 100%
+- [Progress Test](https://quizlet.com/466528349/): Bài test 3 trúng 90%
+- [Final Exam](https://quizlet.com/466529748/): Key quizlet trúng 80%
+- [Final Exam](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/ISC301.txt): Key text
 
 ## [Semester 8](#)
 
