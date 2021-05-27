@@ -199,11 +199,12 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### ACC101 - Principles of Accounting
 
-- [Test 1](https://www.youtube.com/watch?v=E_Xpc3sGD5A&feature=youtu.be) cô THAOGTM
-- [Test 2](https://quizlet.com/442649309) được 10 điểm (bài midterm luôn)
-- [Assignment group](https://drive.google.com/drive/folders/1s4HH-_fPGw_DLQEHFSdgXBKWVSc4TWdU?usp=sharing) bài tập nhóm
-- [Final Example](https://quizlet.com/466530368/) trúng 85% không thay sô
-- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/ACC101.txt)
+- [Click để đóng góp](https://drive.google.com/drive/folders/1ivuNWWN-a9FaZBB0hCYNyzdB_V12gVbq?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Progress Test](https://www.youtube.com/watch?v=E_Xpc3sGD5A&feature=youtu.be): Bài test 1 cô ThaoGTM
+- [Progress Test](https://quizlet.com/442649309) Bài test 2 cô ThaoGTM
+- [Group Assignment](https://drive.google.com/drive/folders/1s4HH-_fPGw_DLQEHFSdgXBKWVSc4TWdU?usp=sharing): Bài tập nhóm
+- [Final Exam](https://quizlet.com/466530368/acc101-flash-cards/): Quizlet trúng trúng 85%
+- [Final Exam](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/ACC101.txt): Key text
 
 ### HCI201 - Human-Computer Interaction
 
