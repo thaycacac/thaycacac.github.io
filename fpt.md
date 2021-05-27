@@ -112,10 +112,11 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### PRJ321 - Web-Based Java Applications
 
-- [Work shop 1 & 2](https://github.com/thaycacac/quiz-system-struts): làm một web quiz dành cho cả giáo viên và sinh viên
-- [Project](https://github.com/thaycacac/fap-registration-study): trang đăng ký học dành cho sinh viên (mình được 10), do mình học block 5 nên project có requirement cụ thể không dùng làm project trong kỳ được.
-- [Code In Class](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/INCLASS)
-- [PE](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/PE)
+- [Click để đóng góp](https://drive.google.com/drive/folders/1InEjh7FiwlWIrQDhxyE02IfANSqKr72-?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Work shop 1 & 2](https://github.com/thaycacac/quiz-system-struts): Làm một trang quiz dành cho giáo viên và sinh viên thấy DuongTB, mình được 9 & 10đ
+- [Project](https://github.com/thaycacac/fap-registration-study): Tạo một trang web đăng ký học dành cho sinh viên (mình được 10), học block 5 nên yêu cầu sẽ đơn giản hơn trong kỳ
+- [Code](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/INCLASS): Code trên lớp
+- [PE](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/PE): Đê thực hành tham khảo (Block 5)
 - Final Exam: mất key rồi :v
 
 ### SWE102 - Introduction to Software Engineering
