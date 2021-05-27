@@ -116,7 +116,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Work shop 1 & 2](https://github.com/thaycacac/quiz-system-struts): Làm một trang quiz dành cho giáo viên và sinh viên thấy DuongTB, mình được 9 & 10đ
 - [Project](https://github.com/thaycacac/fap-registration-study): Tạo một trang web đăng ký học dành cho sinh viên (mình được 10), học block 5 nên yêu cầu sẽ đơn giản hơn trong kỳ
 - [Code](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/INCLASS): Code trên lớp
-- [PE](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/PE): Đê thực hành tham khảo (Block 5)
+- [Practical Exam](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/PE): Đê thực hành tham khảo (Block 5)
 - Final Exam: mất key rồi :v
 
 ### SWE102 - Introduction to Software Engineering
@@ -127,7 +127,9 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### JPD121 - Elementary Japanese 1.2
 
-- [Final Exam](https://drive.google.com/drive/folders/1W_tXrm3kSgLnap_Q4hXrL4nvLsLfsol-?usp=sharing): trúng 80 - 90%, thi nói ngày trước cô cho giấy ôn
+- [Click để đóng góp](https://drive.google.com/drive/folders/1lUPrMYZXrzD-qKDuGu7Vj9Miw32_WnnA?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Exam](https://drive.google.com/drive/folders/1vTBh--vrBCoT65lGD3ojEN8F3D1qenIl?usp=sharing): Đề tham khảo số 1 trúng khoảng 80-90%
+- [Final Exam](https://drive.google.com/drive/folders/1OkXwesqLB1bsFeLw1_U__wP-zoJ5cIBn?usp=sharing): Đề tham khảo số 2 trúng khoảng 80-90%
 
 ### LAB221 - Desktop Java Lab
 
@@ -135,7 +137,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Calculator](https://github.com/Sharp-Team/calculator-javadesk): pass TuanVM
 - [Text Editor](https://github.com/Sharp-Team/text-editor-javadesk): pass TuanVM, còn một bài mình code trên lớp
 
-## [Semester 5](#)
+## [Semester 5]
 
 ### JPD131 - Elementary Japanese 2.1
 
