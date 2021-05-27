@@ -255,20 +255,28 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### MAS291 - Statistics and Probability
 
-- [Test1, Test2, Test3 trên CMS](https://drive.google.com/drive/folders/1RWdYGH-AJxIl4Ed0OeHNfomvGpzSYbLo?usp=sharing) file docs/text trúng khoảng 95%
-- [EOS Test 1](https://drive.google.com/drive/folders/1OkfPp2WrFc7UhsvBSa5x-5dxuXWwjC3Z?usp=sharing) file test trúng 50%
-- [EOS Test 2](https://drive.google.com/drive/folders/1mDyFwGuLwYYkzdlSditM83ppL0_T-QzY?usp=sharing) file text trúng 60%
-- [EOS Test 3](https://drive.google.com/drive/folders/1mDyFwGuLwYYkzdlSditM83ppL0_T-QzY?usp=sharing) hầu như không trúng, ôn luyện key ảnh
-- [Final Exam](https://drive.google.com/drive/folders/15c3D5WO2mVYn-qffE5rcNJ_UQlGG7axz?usp=sharing) luyện key ảnh
-- [Share cách bấm máy tính một số bài do team mình làm training cho nhau](https://www.youtube.com/playlist?list=PLhzwgSOATUj0H5Wy2M0dvitN8ZJyAr5rK)
+- [Click để đóng góp](https://drive.google.com/drive/folders/1dB6f9oqccvzzLh4mo-F36NsUiq-hdTNd?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Key text](https://drive.google.com/file/d/1Olqu01pp60W4c3HfuRugoBakZcKUC0N8/view?usp=sharing): Dùng cho test trên CMS (trúng khoảng 95%) và các bài Progress Test
+- [Progress Test](https://drive.google.com/drive/folders/1OkfPp2WrFc7UhsvBSa5x-5dxuXWwjC3Z?usp=sharing): Bài test 1, ôn key text trúng khoảng 95%
+- [Progress Test](https://drive.google.com/drive/folders/1mDyFwGuLwYYkzdlSditM83ppL0_T-QzY?usp=sharing): Bài test 2, ôn key text trúng khoảng 50%
+- [Progress Test](https://drive.google.com/drive/folders/1Qx5WT2fqzy_hFXZY7JfGBZ1geXlzAtQg?usp=sharing): Bài test 3, key text hầu như không trúng nên ôn luyện ảnh
+- [Final Exam](https://drive.google.com/drive/folders/18tueIT2Aubd64qYnoDg9R7Tz4SEfUAv6?usp=sharing): Đề tham khảo số 1
+- [Final Exam](https://drive.google.com/drive/folders/1jH-6Ot0vODigK_BnxwoHsu40QIIuWNSV?usp=sharing): Đề tham khảo số 2
+- [Youtube](https://www.youtube.com/playlist?list=PLhzwgSOATUj0H5Wy2M0dvitN8ZJyAr5rK): Share cách bấm máy tính một số bài do team mình làm training cho nhau
 
 ### DBW301 - Data warehouse
 
-- [Lab1](https://github.com/thaycacac/data-warehouse/tree/master/lecture%201) - [Lab2](https://github.com/thaycacac/data-warehouse/tree/master/lecture%202) - [Lab3](https://github.com/thaycacac/data-warehouse/tree/master/lecture%203) - [Lab4](https://github.com/thaycacac/data-warehouse/tree/master/lecture%204)
-- [Lab5](https://github.com/thaycacac/data-warehouse/tree/master/lecture%205) cô hỏi làm bảng time như thế nào? bảng customer và bảng fact
-- [Lab6 thực thành Analysis](https://github.com/thaycacac/data-warehouse/tree/master/lecture%206) - [và Report](https://github.com/thaycacac/data-warehouse/tree/master/lecture%207) làm trên lớp, chấm điểm trên lớp
-- [Source in class](https://drive.google.com/drive/folders/1AirAFMRx-8odj8zcUmprr6Pp-7bmP3mz?usp=sharing)
-- [Final Exam](https://quizlet.com/500803907/dbw301-part7-flash-cards/) bộ này trúng 80%, muốn nhiều điểm hơn thì học thêm các bộ khác
+- [Click để đóng góp](https://drive.google.com/drive/folders/1AGtOgNIt0Tz3j1Cn33yn-JIyDqqyiEqR?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Lab](https://github.com/thaycacac/data-warehouse/tree/master/lecture%201): Lab 1 cô Phương
+- [Lab](https://github.com/thaycacac/data-warehouse/tree/master/lecture%202): Lab 2 cô Phương
+- [Lab](https://github.com/thaycacac/data-warehouse/tree/master/lecture%203): Lab 3 cô Phương
+- [Lab](https://github.com/thaycacac/data-warehouse/tree/master/lecture%204): Lab 4 cô Phương
+- [Lab](https://github.com/thaycacac/data-warehouse/tree/master/lecture%205): Lab 5 cô Phương
+- [Lab](https://github.com/thaycacac/data-warehouse/tree/master/lecture%206): Lab 6 cô Phương về Analysis
+- [Lab](https://github.com/thaycacac/data-warehouse/tree/master/lecture%207): Lab 6 cô Phương về Report
+
+- [Progress Test](https://drive.google.com/drive/folders/1AirAFMRx-8odj8zcUmprr6Pp-7bmP3mz?usp=sharing): Tổng hợp các bài test
+- [Final Exam](https://quizlet.com/500803907/dbw301-part7-flash-cards/): Key quizlet, bộ này trúng 80%, muốn cao điểm hơn thì học thêm các bộ khác
 
 ### MLN101 - Principles of Marxism - Leninism
 
