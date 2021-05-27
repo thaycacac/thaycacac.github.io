@@ -138,7 +138,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Souce Code](https://github.com/Sharp-Team/calculator-javadesk): Bài calculator pass thầy TuanVM
 - [Souce Code](https://github.com/Sharp-Team/text-editor-javadesk): Bài text editor pass thầy TuanVM
 
-## [Semester 5]
+## [Semester 5](#)
 
 ### LAB231 - Web Java Lab
 
@@ -167,17 +167,20 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### SWT301 - Software Testing
 
-- [Lab 1](https://github.com/Sharp-Team/ma-di-tuan) của BanTQ, học thuộc code để chấm, bài này được 8 cao nhất cmn lớp :))
-- [Lab 2 - 3 - 4](https://drive.google.com/drive/u/1/folders/1ShIp3qW4J3BX2q_3A1u8btPMqD7X2kNv) random trung bình 6
-- [Test](https://quizlet.com/305941469) tất cả các bài test random trong này
-- [Final Exam](https://drive.google.com/drive/folders/1ShIp3qW4J3BX2q_3A1u8btPMqD7X2kNv?usp=sharing): kỳ mình trúng 100%
-- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt) tìm mã môn SWT301
+- [Click để đóng góp](https://drive.google.com/drive/folders/1crtcJPsV8w3dNckWskJnYqKHmTWoSntT?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Lab](https://github.com/Sharp-Team/ma-di-tuan): Code bài mã đi tuần của BanTQ, mình được 8đ (cao nhất lớp)
+- [Final Exam](https://drive.google.com/drive/folders/1Ur5EGSp3Sp6Qm9TkyW7-fA50F3J9mlik?usp=sharing): Đề tham khảo số 1 trúng 100%
+- [Final Exam](https://drive.google.com/drive/folders/15BpddpoxE_awVjVLAkRHIjGEXidGS3oB?usp=sharing): Đề tham khảo số 2 trúng 100%
+- [Final Exam](https://drive.google.com/drive/folders/102YCo0iNhqsNteoJGAKi7M279cJ9A9Rh?usp=sharing): Đề tham khảo số 3 trúng 100%
+- [Final Exam](https://drive.google.com/drive/folders/1X-NmTF5bHN-FjN6IrirloetTZ2cFTCZ1?usp=sharing): Đề tham khảo số 4 trúng 100%
+- [Progress test](https://quizlet.com/598143144/swt301-flash-cards): Các bài test random trong này
+- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/SWT301.txt): Key text
 
 ### PRN292 - .NET and C
 
-- [Project](https://github.com/Sharp-Team/quiz-sharp): ứng dụng desktop học quiz như quizlet (nhóm mình được 9.5)
-- [Final Exam 1](https://quizlet.com/386568016)
-- [Final Exam 2](https://quizlet.com/386754653): mình ôn 2 bộ này trúng 80%
+- [Click để đóng góp](https://drive.google.com/drive/folders/1r7ZqeqAVMNNBExKyuiWzHFWiFPDtL4V6?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Project](https://www.youtube.com/watch?v=Mi33qK8TsCk&ab_channel=Thaycacac): Ứng dụng desktop học quiz như quizlet, souce code mình để ở mô tả (team mình được 9.5)
+- [Final Exam](https://quizlet.com/598144662/prn292-flash-cards): Quizlet trúng 80%
 
 ## [Semester 6](#)
 
