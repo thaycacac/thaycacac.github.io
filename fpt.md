@@ -186,12 +186,14 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### SYB301 - Start Your Business
 
-- [Project](https://drive.google.com/drive/u/1/folders/1WAdhmGobI5TTfNHJAV8thcO48t4KxVlw): dự án mở quán ăn ở ngoài Hà Nội
-- [Final Exam](https://docs.google.com/document/d/1_p-iODd26RNBTZmm7kfMwkpudM6yKDm9z0GlSJyVKC4/edit#heading=h.gjdgxs)
+- [Click để đóng góp](https://drive.google.com/drive/folders/1hZcN_4a0MHA4MFiELNm9uBLXJ0PRLz_y?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Project](https://drive.google.com/drive/u/1/folders/1WAdhmGobI5TTfNHJAV8thcO48t4KxVlw): Dự án mở quán ăn ở ngoài Hà Nội
+- [Final Exam](https://drive.google.com/drive/folders/1dIfunF0m26Ax9LO3n5ndQgDjQQ6SAA8C?usp=sharing): Thi sẽ tương tự được 9 - 10đ
 
 ### OJT
 
-- [OJT Report](https://drive.google.com/drive/folders/1iR1YqunceGqtnQPyJbrlzw6q0FWAyNbQ?usp=sharing): báo cáo sau kỳ thực tập, phải đóng bìa.
+- [Click để đóng góp](https://drive.google.com/drive/folders/14MIx7de8Qo5KpZl5DnIk0s-GYi-oK987?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [OJT Report](https://drive.google.com/file/d/1UK6rfALZCNQMdy9W5bJN09LMOn3-Y3oA/view?usp=sharing): Báo cáo sau kỳ thực tập
 
 ## [Semester 7](#)
 
