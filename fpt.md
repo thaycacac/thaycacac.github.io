@@ -148,9 +148,11 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### JPD131 - Elementary Japanese 2.1
 
-- [Final Exam](https://drive.google.com/drive/folders/1wrLRu8eFg0xRUd9TA7MY7qkMQtf5oWnV?usp=sharing) trúng khoảng 80%
-- [Speaking](https://docs.google.com/document/d/1T1M3IJ2Uw1Xyufi2jS42ywI1yhgjZHxry-Y-ed9Bulo/edit)
-- [PE](https://docs.google.com/document/d/1Bu-8UyXgNQfzuxANnjtlOU2yKSkk65fTpYp91NN6uhc/edit)
+- [Click để đóng góp](https://drive.google.com/drive/folders/18YFB4oKuFtuM71aAkySLvSMl8JED4Bc_?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Exam](https://drive.google.com/drive/folders/1cnGVg0IJWD7lbMQtjEw95jc3IBVarEhx?usp=sharing): Đề tham khảo số 1 (trúng khoảng 80%)
+- [Final Exam](https://drive.google.com/drive/folders/1sjPgVGbM-pefP6FrjZngf9VEEt7Y9c2a?usp=sharing): Đề tham khảo số 2 (trúng khoảng 80%)
+- [Final Exam](https://drive.google.com/drive/folders/1iX4gVAK4aAiRGkCDyqGJEe1SqyF-G0es?usp=sharing): Đề tham khảo số 3 (trúng khoảng 80%)
+- [Speaking](https://drive.google.com/drive/folders/1wrLRu8eFg0xRUd9TA7MY7qkMQtf5oWnV?usp=sharing): Đề nói
 
 ### SWR302 - Software Requirement
 
