@@ -11,20 +11,23 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### MAE101 - Mathematics for Engineering
 
-- [Book](https://drive.google.com/drive/u/2/folders/1jtHVY8GgenAGH4rL1ZqIuu7yuaoQ67l2)
-- Final Exam: nên tìm cao nhân chỉ bảo.
-- [Final Exam](https://drive.google.com/drive/folders/138cdzGSV3kUzfGMyCrq_x9yJeh5dU1RH?usp=sharing): chưa có đáp án
-- [Contribute](https://drive.google.com/drive/folders/1jtHVY8GgenAGH4rL1ZqIuu7yuaoQ67l2?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Click để đóng góp](https://drive.google.com/drive/folders/1jtHVY8GgenAGH4rL1ZqIuu7yuaoQ67l2?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Book](https://drive.google.com/file/d/1c-5MvCeBcviJqb-S5DwrAZzVaOwN8QqE/view): Sách Linear Algebra with Applications 7th
+- [Final Exam](https://drive.google.com/drive/folders/138cdzGSV3kUzfGMyCrq_x9yJeh5dU1RH?usp=sharing): Đề thi MAE101, chưa có đáp án
 
 ### CEA201 - Computer Organization and Architecture
 
-- [Book](https://drive.google.com/drive/folders/1tP1_smvIQ5UiqXaMA5NqfNBRXjGYHlG7?usp=sharing)
-- [Final Exam](https://quizlet.com/245233266): trúng 100%
+- [Click để đóng góp](https://drive.google.com/drive/folders/12ny5ZQMojfvlnAW-qRwHUuF76YU8JhZW?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Book](https://drive.google.com/file/d/1Txye9eD_UoC1Po6OpJriLj6Zx5y_j4qv/view?usp=sharing): Sách Computer Organization and Architecture
+- [CEA Full Chapter](https://drive.google.com/file/d/13I7d9fMfzBFTIEFleu5nxV1Pl35httTH/view?usp=sharing): Quiz
+- [Lab Assembly](https://drive.google.com/file/d/14GFZ5r0IDJkYbe1MyBJgcKj1TtKlHi_e/view?usp=sharing): Bài tập lập trình assembly, thầy HieuDV2
+- [Final Exam](https://quizlet.com/245233266/cea201-flash-cards/): Key quizlet trúng 100%
 
 ### CSI101 - Connecting to Computer Science
 
-- [Book](https://drive.google.com/drive/u/2/folders/1RFNLaxAseNixlvVV9Kcrh2DNZkmd0vd4)
-- [Final Exam](https://quizlet.com/241199609): trúng 100%
+- [Click để đóng góp](https://drive.google.com/drive/folders/1knEd6ylnl2RkDCs3NNxqwLMIe586XYTa?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Book](https://drive.google.com/file/d/1BblCxGDlzgwuTNtosO-R-GMoEmv2PG3y/view?usp=sharing): Sách Foundations of Computer Science by Behrouz Forouzan
+- [Final Exam](https://quizlet.com/vn/593391543/se_ky-1_csi104-flash-cards/): Key quizlet trúng 100%
 
 ### PRF192 - Programming Fundamentals
 
