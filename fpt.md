@@ -283,44 +283,52 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Click để đóng góp](https://drive.google.com/drive/folders/1L_CLv9UZ9AB6G8vHJrMhRMQWN8zmvV-0?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 - [Youtube](https://www.youtube.com/watch?v=PlFM8P5_NFY&t=642s): Thuyết trình Tồn Tại Xã Hội & Ý Thức Xã Hội
 - Test bất ngờ: anh chị hiểu thế nào là biện chứng, sự khác biệt giữa biện chứng và siêu hình. Hãy lấy ví dụ chứng minh mối quan hệ biện chứng giữa cái chung và cái riêng.
-- [Final Exam Image](https://drive.google.com/drive/folders/1vynmdFztWsmnKpeDVcKSV_9gz3lajzKS?usp=sharing) học trên quizlet hoặc file text
-- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt) tìm mã môn MLN101 trúng khoảng 55%
+- [Slide](https://www.slideshare.net/ThaycacacPhmNgcHa/tn-ti-x-hi-thc-x-hi-mln101): Slide thuyết trình do bị ảnh hưởng vởi Covid19 nên team mình phải thuyết trình online
+- [Final Exam](https://quizlet.com/598322304/mln101-flash-cards/): Key quizlet trúng khoảng 80%
+- [Final Exam](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/MLN101.txt): Key text
 
 ### PMG201c - Project management
 
-- Môn này học online, bank các bài quiz: [Initiating and Planning Projects](https://quizlet.com/488337264/pmg201c-initiating-and-planning-projects-flash-cards/), [Budgeting and Scheduling Projects](https://quizlet.com/481589841/pmg201c-budgeting-and-scheduling-projects-flash-cards/), [Managing Project Risks and Changes](https://quizlet.com/481930396/pmg201c-managing-project-risks-and-changes-flash-cards/)
-- [Project final course](https://drive.google.com/drive/folders/1vtBhYIJ9sRgOZQoI9HR2Cu6An9GsPEVg?usp=sharing)
-- [Practical exam](https://drive.google.com/drive/folders/1HE-T51YQ5lwIfll1eBITpNfCKnGvW9eB?usp=sharing): đề bài và hướng dẫn giải chi tiết (ví dụ)
+- [Click để đóng góp](https://drive.google.com/drive/folders/14RCaxst9BRZirgMzxPzdFFy3ifk2wYnO?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Progress Test](https://quizlet.com/481589841/pmg201c-budgeting-and-scheduling-projects-flash-cards/): Bài test Budgeting and Scheduling Projects
+- [Progress Test](https://quizlet.com/481930396/pmg201c-managing-project-risks-and-changes-flash-cards/): Bài test Budgeting and Scheduling Projects
+- [Progress Test](https://drive.google.com/drive/folders/1vtBhYIJ9sRgOZQoI9HR2Cu6An9GsPEVg?usp=sharing): Bài test Managing Project Risks and Changes
+- [Final Project](https://drive.google.com/drive/folders/1vtBhYIJ9sRgOZQoI9HR2Cu6An9GsPEVg?usp=sharing): Project cần 3 người review chéo
+- [Practical Exam](https://drive.google.com/file/d/11gjegCZ-jzPxl9VbV0sPepGKUsXM0ARd/view?usp=sharing): Đề tham khảo và hướng dẫn làm bài chi tiết
 
 ### PRX301 - Web Development (XML)
 
-- [Test1](https://quizlet.com/497633461/prx301-test-1-flash-cards/?new) trúng 95%
-- [Test2](https://quizlet.com/497256883/prx301-test-2-flash-cards/) trúng 98%
-- [Assignment 1](https://github.com/thaycacac/xml-learning/tree/master/assignment1) viết XSL chuyển từ XML sang HTML
-- [Assignment 2](https://github.com/thaycacac/xml-learning/tree/master/assignment2) ứng dụng winform, với thêm sửa xóa trên file XML với kiểu parser theo yêu cầu
-- [Project](https://github.com/thaycacac/xml-learning) có 3 option, mình chọn làm web bán hàng với frontend và backend tương tác bằng XML
-- Final Exam: [Part1](https://quizlet.com/501005882/prx301-part1-flash-cards/) và [Part2](https://quizlet.com/501032835/prx301-part2-flash-cards/) trúng khá ít.
-- [Key Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/PRX301.txt) trúng 90%
+- [Click để đóng góp](https://drive.google.com/drive/folders/1EK_8FrBDASh72t3efWZ-i4h1XHvxPCUV?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Progress Test](https://quizlet.com/497633461/prx301-test-1-flash-cards/): Bài test 1 trúng 95%
+- [Progress Test](https://quizlet.com/497256883/prx301-test-2-flash-cards/): Bài test 2 trúng 98%
+- [Assignment](https://github.com/thaycacac/xml-learning/tree/master/assignment1): Assignment 1 viết XSL chuyển từ XML sang HTML
+- [Assignment](https://github.com/thaycacac/xml-learning/tree/master/assignment2): Assignment 2 ứng dụng winform, với thêm sửa xóa trên file XML với kiểu parser theo yêu cầu
+- [Final Project](https://github.com/thaycacac/xml-learning): Làm web bán hàng với frontend và backend tương tác qua XML
+- [Final Exam](https://quizlet.com/598325893/prx301-flash-cards/): Key quizlet trúng không nhiều lắm
+- [Final Exam](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/PRX301.txt): Key text trúng 90%
 
 ## [Semester 9](#)
 
 ### HCM201 - Ho Chi Minh Ideology
 
-- [Final Exam](https://quizlet.com/509920801/hcm201-flash-cards/) trúng 80%
+- [Click để đóng góp](https://drive.google.com/drive/folders/1qBnq7LXZrbQWuvVN7vqYwzdD9mz4Ccx_?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Exam](https://quizlet.com/509920801/hcm201-flash-cards/): Key quizlet trúng 80%
 
 ### ITE302b - Ethics in IT
 
-- [Assignment](https://drive.google.com/drive/folders/1FUOKQ61695r2M8evo-lEPUVfbk9BxHPV?usp=sharing) mình được full 10, về cơ bản thì sẽ quan trọng lúc review
-- [Final Exam](https://quizlet.com/517650714/se_-ky-9-_ite302-flash-cards/) trúng 95%, nhưng một số đáp án sai chỉ được khoảng 8đ\
+- [Click để đóng góp](https://drive.google.com/drive/folders/1clgBWGtbgsz2aZGpqBiaapabNMSFBoTJ?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Exam](https://quizlet.com/517650714/se_-ky-9-_ite302-flash-cards/): Key quizlet, trúng 95%, có một số câu bị sai đáp án
 
 ### SSC102 - Business Communication
 
-- [Project](https://drive.google.com/drive/folders/1-VqdveudcIXH3u-dQumI_jx7t221m_f3?usp=sharing) source dự án FU-Share
-- [Final Exam](https://quizlet.com/517652202/se_-ky-9-_ssc102-flash-cards/) trúng 95%
+- [Click để đóng góp](https://drive.google.com/drive/folders/1-VqdveudcIXH3u-dQumI_jx7t221m_f3?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Project](https://drive.google.com/drive/folders/1-VqdveudcIXH3u-dQumI_jx7t221m_f3?usp=sharing): Dự án FU-Share, cách để sinh tồn tại FU
+- [Final Project](https://quizlet.com/517652202/se_-ky-9-_ssc102-flash-cards/): Key quizlet, trúng 95%
 
 ### VNR201 - Revolutionary line of CPV
 
-- [Final Exam](https://quizlet.com/517650954/se_-ky-9-_vnr201-flash-cards/) trúng 90%
+- [Click để đóng góp](https://drive.google.com/drive/folders/1TxU8__eZIj1D69LYwm7f3w5XDOYL1kMv?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Exam](https://quizlet.com/517650954/se_-ky-9-_vnr201-flash-cards/): Key quizlet, trúng 90%
 
 ### Capstone Project
 
