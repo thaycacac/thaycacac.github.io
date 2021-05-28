@@ -31,6 +31,8 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### PRF192 - Programming Fundamentals
 
+- [Click để đóng góp](https://drive.google.com/drive/folders/1yFH0QtsqsLT1C2WE9xNJqA4707zXVzsg?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Slide](https://drive.google.com/drive/folders/1N8WtY6WiFQEmJXgLaUJUf3W2XU6LyT21?usp=sharing): Slide môn PRF192 thầy KhuongPD
 - [Assignments, Workshop, Code example, Exercies](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing) - học thầy CauPD.
 - [Test - CauPD](https://www.youtube.com/watch?v=ZkI1jRlT7Pk)
 - [PE](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing): bao gồm example PE và source để chuẩn bị cho việc coppy khi thi PE (mình thi 10).
