@@ -280,7 +280,8 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### MLN101 - Principles of Marxism - Leninism
 
-- [Video thuyết trình](https://www.youtube.com/watch?v=PlFM8P5_NFY&t=642s) và [Slide thuyết trình](https://www.slideshare.net/ThaycacacPhmNgcHa/tn-ti-x-hi-thc-x-hi-mln101) do đợt này bị dịch bệnh nên bọn mình phải thuyết trình online.
+- [Click để đóng góp](https://drive.google.com/drive/folders/1L_CLv9UZ9AB6G8vHJrMhRMQWN8zmvV-0?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Youtube](https://www.youtube.com/watch?v=PlFM8P5_NFY&t=642s): Thuyết trình Tồn Tại Xã Hội & Ý Thức Xã Hội
 - Test bất ngờ: anh chị hiểu thế nào là biện chứng, sự khác biệt giữa biện chứng và siêu hình. Hãy lấy ví dụ chứng minh mối quan hệ biện chứng giữa cái chung và cái riêng.
 - [Final Exam Image](https://drive.google.com/drive/folders/1vynmdFztWsmnKpeDVcKSV_9gz3lajzKS?usp=sharing) học trên quizlet hoặc file text
 - [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt) tìm mã môn MLN101 trúng khoảng 55%
