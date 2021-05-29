@@ -33,15 +33,26 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 - [Click để đóng góp](https://drive.google.com/drive/folders/1yFH0QtsqsLT1C2WE9xNJqA4707zXVzsg?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 - [Slide](https://drive.google.com/drive/folders/1N8WtY6WiFQEmJXgLaUJUf3W2XU6LyT21?usp=sharing): Slide môn PRF192 thầy KhuongPD
-- [Assignments, Workshop, Code example, Exercies](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing) - học thầy CauPD.
-- [Test - CauPD](https://www.youtube.com/watch?v=ZkI1jRlT7Pk)
-- [PE](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing): bao gồm example PE và source để chuẩn bị cho việc coppy khi thi PE (mình thi 10).
-- [Final Exam](https://drive.google.com/drive/folders/1Hsl4dWE1_OOvxJl1PEsAQnUBQCcAVRgR?usp=sharing): chủ yếu là luyện đọc hiểu code.
+- [Assignments, Workshop, Code example](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing): Lớp thầy CauPD, các bài workshop, ass mình full 10
+- [Progress Test](https://www.youtube.com/watch?v=ZkI1jRlT7Pk): Bài test thầy CauPD
+- [Practical Exam](https://drive.google.com/drive/folders/1CTXIuOrTbIVxENy6OxIe0y71RzAO6GWO?usp=sharing): Example Kỳ Fall 2019
+- [Final Exam](https://drive.google.com/drive/folders/1koU3jVQ_eqC9AgCWYY4z1-dAr75GNJNa?usp=sharing): Đề tham khảo số 1, các bạn đã contribute đáp án
+- [Final Exam](https://drive.google.com/drive/folders/1bjwwd2IwygvgNFu6eJ6p5eWwxmimgbbJ?usp=sharing): Đề tham khảo số 2, các bạn đã contribute đáp án
+- [Final Exam](https://drive.google.com/drive/folders/15OrbKdOcuLHonWLFErNLrcm86sy0a2qG?usp=sharing): Đề tham khảo số 3, các bạn đã contribute đáp án
+- [Final Exam](https://drive.google.com/drive/folders/1XUjJWQ5g4G2Wiw9sTKbFXwitkOv3Z-md?usp=sharing): Đề tham khảo số 4, các bạn đã contribute đáp án
+- [Final Exam](https://drive.google.com/drive/folders/1XUjJWQ5g4G2Wiw9sTKbFXwitkOv3Z-md?usp=sharing): Đề tham khảo số 5, các bạn đã contribute đáp án
+- [Final Exam](https://quizlet.com/517450235/se_-ky-1-_prf192-flash-cards/): Key quizlet, đọc hiểu code là chính để đi thi
+
+### SSL101c - Studying skill
+
+- [Click để đóng góp](https://drive.google.com/drive/folders/1yFH0QtsqsLT1C2WE9xNJqA4707zXVzsg?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Coursera](https://www.coursera.org/learn/academic-skills-project): Khóa học trên coursera
+- [Final Exam](https://quizlet.com/583845418/): Key quizlet - đọc hiểu
 
 ### SSG101 - Working in Group Skills
 
-- [Source Project](https://drive.google.com/drive/folders/0B7iEYGblY5QwN2E0c3Fkd2lXUDg?usp=sharing) toàn bộ source quá trình làm dự án của team mình - [Fast & Furious](https://www.facebook.com/fast.furious.fpt/)
-- [Final Exam](https://quizlet.com/243222059/) trúng 100%
+- [Final Project](https://drive.google.com/drive/folders/0B7iEYGblY5QwN2E0c3Fkd2lXUDg?usp=sharing): Toàn bộ source quá trình làm dự án của team mình - [Fast & Furious](https://www.facebook.com/fast.furious.fpt/)
+- [Final Exam](https://quizlet.com/243222059/): Trúng 100%
 
 ## [Semester 2](#)
 
