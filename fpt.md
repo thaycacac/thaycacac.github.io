@@ -58,32 +58,59 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### DBI202 - Introduction to Databases
 
-- [Practice](https://drive.google.com/drive/folders/1FyboAPGD96WV2_JtT22yPuT5coTq1hi1?usp=sharing): để thực hành một số database như northwind, sakila,...
-- [Project](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): database quản lý ký túc xá (mình được 9.5 cô ChiNQ) - [Full source code](https://github.com/thaycacac/dorm-fpt-university)
-- [PE](https://drive.google.com/drive/folders/1PHRWAWHzmuWXjEBvhpzA62SVe6ZkP_aq?usp=sharing): một số ví dụ đề thi pe
-- [Final Exam](https://quizlet.com/283436881/): tầm 9đ, mấy câu 2nf, 3nf.. nên hiểu
+- [Click để đóng góp](https://drive.google.com/drive/folders/1pAKLmPhDww2SPgM05gBLAjQomOj1KzTA?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Practice](https://drive.google.com/drive/folders/1FyboAPGD96WV2_JtT22yPuT5coTq1hi1?usp=sharing): Thực hành một số database như northwind, sakila,...
+- [Final Project](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): Project cuối kỳ quản lý ký túc xá (được 9.5 cô ChiNQ) - [Source code](https://github.com/thaycacac/dorm-fpt-university)
+- [Practical Exam](https://drive.google.com/drive/folders/1PHRWAWHzmuWXjEBvhpzA62SVe6ZkP_aq?usp=sharing): Các đề tham khảo, thường xuyên cập nhật
+- [Final Exam](https://quizlet.com/283436881/): Key quizlet, trúng 90%, mấy câu 2nf, 3nf... nên đọc hiểu
 
 ### PRO201 - Front-end Web Development
 
-- [Lab](https://drive.google.com/drive/folders/1R0dOhVNsh4grSCKmInMovTqwzm-3E8em?usp=sharing): thầy CauPD
-- [Project](https://github.com/thaycacac/blog-sharp-front-end): một trang blog team (mình được 10)
-- [Final Exam](https://www.javatpoint.com/javascript-quiz?fbclid=IwAR2tv7HDHRV11WtIqpGd4VHWZiKsO3mbe4X1-bYKV0o48hX-wW_tJH_J3Kk): học trên này > 8
+- [Click để đóng góp](https://drive.google.com/drive/folders/1R0dOhVNsh4grSCKmInMovTqwzm-3E8em?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Lab](https://drive.google.com/drive/folders/1R0dOhVNsh4grSCKmInMovTqwzm-3E8em?usp=sharing): Tổng hợp các bài Lab thầy CauPD
+- [Final Project](https://github.com/thaycacac/blog-sharp-front-end): Code HTML, CSS một trang blog cho SharpTeam (mình được 10)
+- [Final Exam](https://www.javatpoint.com/javascript-quiz?fbclid=IwAR2tv7HDHRV11WtIqpGd4VHWZiKsO3mbe4X1-bYKV0o48hX-wW_tJH_J3Kk): Học trên này > 8
+- [Final Exam](https://quizlet.com/583845684): Key quizlet
 
 ### PRO192 - Object-Oriented Programming
 
-- [Code In Class](https://github.com/thaycacac/java-core) thầy DuyDT
+- [Click để đóng góp](https://drive.google.com/drive/folders/1hnb7QYflw5Gr2Lb3NuXH8GNBZbwLHHjs?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Slide](https://drive.google.com/drive/folders/1IGLmaOCREQgKDwJ8BnlUo0GEMvkhyibO?usp=sharin): Slide môn PRO192
+- [Code](https://github.com/thaycacac/java-core): Code trên lớp thầy DuyDT
 - [Assignment](https://drive.google.com/drive/folders/19pnt44hOMcV6EtLou9E7BHsocAc4Nrid?usp=sharing): bài cuối kỳ thầy DuyDT (mình được 10)
-- [PE](https://drive.google.com/drive/folders/1q1kf_s6S74LcxvkGqrqdM_5-NoAUnzEj?usp=sharing): không biết vứt đâu hết.
-- [Final Exam](https://drive.google.com/drive/folders/1sTsOr_QC3gq_Af9wXy_FD3K0SxtmqlrD?usp=sharing)
-- [Key Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt) tìm PRO192
+- [Practical Exam](https://drive.google.com/drive/folders/1q1kf_s6S74LcxvkGqrqdM_5-NoAUnzEj?usp=sharing): Đề tham khảo số 1
+- [Final Exam](https://drive.google.com/drive/folders/1HZINAs4k-rKv3eLFuNxc7kZIvSQuLC6u?usp=sharing): Đề tham khảo số 1
+- [Final Exam](https://drive.google.com/drive/folders/1dAug0zByT3KHCcI03s_XW52RyGY5O6pW?usp=sharing): Đề tham khảo số 2
+- [Final Exam](https://drive.google.com/drive/folders/1trp07pR5EV7eFtmRBGAApOOKBqaN4OTK?usp=sharing): Đề tham khảo số 3
+- [Final Exam](https://drive.google.com/drive/folders/1sm6ObwthGSFKZnqAHOkwlbtZUjhd1JmF?usp=sharing): Đề tham khảo số 4
+- [Final Exam](https://drive.google.com/drive/folders/1EWtqUDyZbOQwZ8DaZ5xAC7WJgrO5BaAH?usp=sharin): Đề tham khảo số 5
+- [Final Exam](https://drive.google.com/drive/folders/1t-9C8htsAlHFAKk3qDVEOAa8KwEm3H2R?usp=sharing): Đề tham khảo số 6
+- [Final Exam](https://drive.google.com/file/d/1eypL7eeiDoyqcCaJcK6Ne_Dd7TMk211J/view?usp=sharing): Key docs có đáp án
+- [Final Exam](https://quizlet.com/vn/593393151/se_ky-2_pro192-flash-cards/): Key quizlet
+- [Final Exam](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/PRO192.txt): Key text
 
 ### MAD101 - Discrete mathematics
 
-- [Final Exam](https://drive.google.com/drive/folders/1ezLJrUTDrgh1tjupX4Sfi08yK6DZ6CQy?usp=sharing): nên tìm cao nhân chỉ bảo =))
+- [Click để đóng góp](https://drive.google.com/drive/folders/17CsyQ8jDCT5zlOUhZ9VnvdlpQlzhNmMF?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Exam](https://drive.google.com/drive/folders/1GZn4IXjkptp_XyhHqxpaxnl5x8MxycUh?usp=sharing): Đề tham khảo số 1
+- [Final Exam](https://drive.google.com/drive/folders/1XaGCadfcPlC7zdqXl0dZ2XmMtv5mW_IJ?usp=sharing): Đề tham khảo số 2
 
 ### LAB101 - C Lab
 
-- [Lab](https://drive.google.com/drive/folders/1VXCUqOPP2JZUtEptxHp6OgUPfDGqh-2q?usp=sharing)
+- [Click để đóng góp](https://drive.google.com/drive/folders/1xC45y_HsnnlnaTuQD7B4gWseWkTc7ZVa?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Lab](https://drive.google.com/drive/folders/1VXCUqOPP2JZUtEptxHp6OgUPfDGqh-2q?usp=sharing): Tổng hợp đề lab
+
+### SSG103 - Communication and In-Group Working Skills
+
+- [Click để đóng góp](https://drive.google.com/drive/folders/1o1k0fl-Dtb2adRh9nmJHjlFLoqocjjoS?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Exam](https://quizlet.com/vn/593393851/ky-2-_-ssg103-flash-cards/): Key quizlet
+
+### NWC203c - Computer Networking
+
+- [Click để đóng góp](https://drive.google.com/drive/folders/16eeqGfig67HTdRY9g-yLKSp_LYrdcSzX?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Coursera](https://www.coursera.org/specializations/computer-communications): Khóa học trên coursera
+- [Final Exam](https://quizlet.com/vn/593393698/se-_-ki-2-_-nwc203c-flash-cards/): Key quizlet
+- [Final Exam](https://drive.google.com/file/d/1SkTcDFkzrm-fvdSljykPfYb1toS6BLM5/view?usp=sharing): Đề tham khảo số 1
 
 ## [Semester 3](#)
 
