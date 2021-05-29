@@ -419,3 +419,4 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Youtube](https://youtu.be/jjSv8LAbgMs): Report 5 với thầy
 - [Youtube](https://youtu.be/hvyUtjl_VBw): Report 7 với thầy
 - [Youtube](https://youtu.be/6qkL-tZJcOo): Review trước hôm bảo vệ
+- [Capstone Project](https://drive.google.com/drive/folders/12ZyV7P6kN68jltP2_4qXTlyKzRTm3M1C?usp=sharing): Một số đồ án tham khảo
