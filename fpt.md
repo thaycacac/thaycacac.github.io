@@ -116,35 +116,59 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### PRJ311 - Desktop Java Applications
 
-- [PE](https://drive.google.com/drive/folders/1g67dJBCV2LhY1vrjsJQ_0y9ZcUW4RQ1g?usp=sharing)
-- [Source For PE](https://github.com/thaycacac/java/tree/master/%5BPRJ311%5D%20Desktop%20Java%20Applications/KEY%20PE)
-- [Final Exam](https://quizlet.com/390863863)
-- [Final Exam Image](https://drive.google.com/drive/folders/1huAQS8GodG80uB9baq22Gk__k0lgyKkW?usp=sharing): trúng tầm 70%
-- [Final Exam Text](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt): tìm PRJ311
+- [Click để đóng góp](https://drive.google.com/drive/folders/1-xS6H9KTGyeXav_ZBFWxtGjXy2MqYFnd?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Practical Exam](https://drive.google.com/drive/folders/1g67dJBCV2LhY1vrjsJQ_0y9ZcUW4RQ1g?usp=sharing): Một số đề tham tham khảo
+- [Code](https://github.com/thaycacac/java/tree/master/%5BPRJ311%5D%20Desktop%20Java%20Applications/KEY%20PE): Souce code cho thi PE
+- [Final Exam](https://drive.google.com/drive/folders/1RTZe9B1-PfR81QfM-gYpQddckAK68KtS?usp=sharing): Đề tham khảo số 1
+- [Final Exam](https://drive.google.com/drive/folders/1UNFB8MCxss5urqLVA7U_oL7bdH1Gu2e2?usp=sharing): Đề tham khảo số 2
+- [Final Exam](https://drive.google.com/drive/folders/1tm7Ro9HJnzCNeE39Mvm81OcYJbtZWc_U?usp=sharing): Đề tham khảo số 3 (học cả các đề tham khảo trúng khoảng 70%)
+- [Final Exam](https://quizlet.com/390863863): Key quizlet
+- [Final Exam](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/PRJ311.txt): Key text
 
 ### LAB211 - OOP with Java Lab
 
-- [Lab](https://github.com/thaycacac/java/tree/master/%5BLAB211%5D%20OOP%20with%20Java%20Lab): full đề bài và full code
-- [Pass TuanVM](https://github.com/Sharp-Team/oop-javalab-master): đây là 3 bài mình pass TuanVM
+- [Click để đóng góp](https://drive.google.com/drive/folders/1vop1cYLEI6Ri44XhP-q-dkL3PQfTtpLP?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Lab](https://github.com/thaycacac/java/tree/master/%5BLAB211%5D%20OOP%20with%20Java%20Lab): Tổng hợp các bài Lab
+- [Lab passed](https://github.com/Sharp-Team/oop-javalab-master): đây là 3 bài mình pass TuanVM
 
 ### OSG202 - Operating Systems
 
-- [Book & Test](https://drive.google.com/drive/folders/1k15TU2dnESz8RmXokCFPAtrFsYB6Rhaq?usp=sharing): full test trên lớp của SonNT5
-- [Final Exam](https://quizlet.com/390866176)
-- [Final Exam Image](https://drive.google.com/drive/folders/17QIKSXrUlGZVJt3J-ceQ3rSXeYkCc025?usp=sharing): key ảnh mình trúng tầm 80%
+- [Click để đóng góp](https://drive.google.com/drive/folders/1vIvjvIV-VCYNtv7I0G1G0Q8vz9OCOqi7?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Book](https://drive.google.com/drive/folders/1WZtmLd-Tb20BZ_N2lBG22hbL1B18G1fi?usp=sharing): Sách môn OSG202
+- [Progress test](https://drive.google.com/drive/folders/1k15TU2dnESz8RmXokCFPAtrFsYB6Rhaq?usp=sharing): Các bài test trên lớp thầy SonNT5
+- [Lab](https://drive.google.com/drive/folders/1aZSpLKAKDUrEPjQLKAkT0DXuYcL90tin?usp=sharing): Lab của Thầy VuNH
+- [Final Exam](https://drive.google.com/drive/folders/1w0nF6ApfrDJCmaPrypSbAxKBw8KjqaT_?usp=sharing): Đề tham khảo số 1
+- [Final Exam](https://drive.google.com/drive/folders/19nJ1aCmd77yN5yqwyh8mP98Ibt_bITGG?usp=sharing): Đề tham khảo số 2
+- [Final Exam](https://drive.google.com/drive/folders/1qSjTXWP_U8zuwq54khdI7eA9trkZDL5S?usp=sharing): Đề tham khảo số 3
+- [Final Exam](https://drive.google.com/drive/folders/1NV6ytkiRFeRGZFpElGpiLKEQSgREQL4b?usp=sharing): Đề tham khảo số 4
+- [Final Exam](https://drive.google.com/drive/folders/10R8fcxWrvUmBBn5uyUYoMm3ub8bkMt21?usp=sharing): Đề tham khảo số 5 (học hết các đề tham khảo trúng khoảng 80%): Key quizlet
+- [Final Exam](https://quizlet.com/390866176/osg202-full-flash-cards/): Key quizlet
 
 ### JPD111 - Elementary Japanese 1.1
 
-- [Final Exam](https://drive.google.com/drive/folders/1vZ2D_eIPeK2JOXc1GgtXak2tPg6Hicq6?usp=sharing): để tham khảo, ngày trước mình học block5 trúng 100%
-- [Speaking](https://www.youtube.com/watch?v=K16oJkxnYt8&feature=youtu.be)
+- [Click để đóng góp](https://drive.google.com/drive/folders/1U9OQ0S6pYuOVDQoh_9_rh99FHEwSaGpr?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Exam](https://drive.google.com/drive/folders/1vZ2D_eIPeK2JOXc1GgtXak2tPg6Hicq6?usp=sharing): Đề tham khảo, ngày trước mình học block5 trúng 100%
+- [Youtube](https://www.youtube.com/watch?v=K16oJkxnYt8&feature=youtu.be): Cô hướng dẫn đi thi nói
+
+### WED201c - Web Design
+
+- [Click để đóng góp](https://drive.google.com/drive/folders/1hDbBCLPuBGswiMknHOS0pYhlXNJyO1O7?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Exam](https://quizlet.com/597995218/web201c-flash-cards/): Key quizlet
+
+### IAO201c - Introduction to Information Assurance
+
+- [Click để đóng góp](https://drive.google.com/drive/folders/1Uz4dv_CGI2Ft_X6J-yVolf-wbv7dRIlK?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Exam](https://quizlet.com/vn/593395242/ia-_-ky-3-_-iao201c-flash-cards/): Key quizlet
 
 ### CSD201 - Data Structures and Algorithms
 
-- [Assignment 1](https://github.com/thaycacac/cute-editor-javaswing) code editor sử dụng stack (học SonNT5)
-- [Assignment 2](https://github.com/thaycacac/railway-system-vietnam) hệ thống chỉ đường sắt trên cao
-- [Code In Class](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20Data%20Structures%20and%20Algorithms)
-- [PE](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20Data%20Structures%20and%20Algorithms/8-KEY%20PE): vào chỉ việc copy paste thôi, khoảng 9 - 10 điểm
-- [Final Exam](https://drive.google.com/drive/folders/1wyj8L21HAxTTL3Z311qMHtBEK6WLgay9?usp=sharing): trúng 100%
+- [Click để đóng góp](https://drive.google.com/drive/folders/1GWof1oKpv025kWJiWEVf5cad3dRYPCz8?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Assignment](https://github.com/thaycacac/railway-system-vietnam): Bài assignment 1, code editor sử dụng stack
+- [Assignment](https://github.com/thaycacac/railway-system-vietnam): Bài assignment 2, thuật toán tìm đường nhanh nhất hệ thống chỉ đường sắt trên cao
+- [Code](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20Data%20Structures%20and%20Algorithms): Code học trên lớp
+- [Practical Exam](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20Data%20Structures%20and%20Algorithms/8-KEY%20PE): Đọc hiểu, vào copy paste khoảng 9 - 10đ
+- [Final Exam](https://drive.google.com/drive/folders/1RTZe9B1-PfR81QfM-gYpQddckAK68KtS?usp=sharing): Đề tham khảo số 1
+- [Final Exam](https://quizlet.com/vn/584135959/se-_-ky-3-_-csd201-flash-cards/): Key quizlet trúng 100%
 
 ## [Semester 4](#)
 
