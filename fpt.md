@@ -390,7 +390,13 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 - [Click để đóng góp](https://drive.google.com/drive/folders/1-VqdveudcIXH3u-dQumI_jx7t221m_f3?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 - [Final Project](https://drive.google.com/drive/folders/1-VqdveudcIXH3u-dQumI_jx7t221m_f3?usp=sharing): Dự án FU-Share, cách để sinh tồn tại FU
-- [Final Project](https://quizlet.com/517652202/se_-ky-9-_ssc102-flash-cards/): Key quizlet, trúng 95%
+- [Final Exam](https://quizlet.com/517652202/se_-ky-9-_ssc102-flash-cards/): Key quizlet, trúng 95%
+
+### PRC391 - Cloud Computing
+
+- [Click để đóng góp](https://drive.google.com/drive/folders/1FwNqM3vttYzoacNyF6ix4C8MJcKWJPsS?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Exam](https://drive.google.com/file/d/1EDqntrRXyN_7_nox3An4u2kzS2yNZXJr/view?usp=sharing): Key docs
+- [Final Exam](https://quizlet.com/598460495/prc391-flash-cards/): Key quizlet
 
 ### VNR201 - Revolutionary line of CPV
 
