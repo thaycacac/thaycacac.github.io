@@ -168,6 +168,8 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Code](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20Data%20Structures%20and%20Algorithms): Code học trên lớp
 - [Practical Exam](https://github.com/thaycacac/java/tree/master/%5BCSD201%5D%20Data%20Structures%20and%20Algorithms/8-KEY%20PE): Đọc hiểu, vào copy paste khoảng 9 - 10đ
 - [Final Exam](https://drive.google.com/drive/folders/1RTZe9B1-PfR81QfM-gYpQddckAK68KtS?usp=sharing): Đề tham khảo số 1
+- [Final Exam](https://drive.google.com/drive/folders/1UNFB8MCxss5urqLVA7U_oL7bdH1Gu2e2?usp=sharing): Đề tham khảo số 2
+- [Final Exam](https://drive.google.com/drive/folders/1tm7Ro9HJnzCNeE39Mvm81OcYJbtZWc_U?usp=sharing): Đề tham khảo số 3
 - [Final Exam](https://quizlet.com/vn/584135959/se-_-ky-3-_-csd201-flash-cards/): Key quizlet trúng 100%
 
 ## [Semester 4](#)
