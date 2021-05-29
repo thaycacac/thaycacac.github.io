@@ -406,8 +406,16 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Click để đóng góp](https://drive.google.com/drive/folders/1TxU8__eZIj1D69LYwm7f3w5XDOYL1kMv?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 - [Final Exam](https://quizlet.com/517650954/se_-ky-9-_vnr201-flash-cards/): Key quizlet, trúng 90%
 
-### Capstone Project
+### SWP490 - Capstone project
 
-- [Review docs với thầy lần 1](https://www.youtube.com/watch?v=fQfERTt7H04&feature=youtu.be&ab_channel=Thaycacac)
-
-{: .thaycacac-description}
+- [Click để đóng góp](https://drive.google.com/drive/folders/1IZJr-cLAdxQdhXObWz8CWTlTqkTg9g0J?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [OKRS V1](https://drive.google.com/drive/folders/1Oo4hiIzD1XJJ20zGZbfctdlSFvIYb4Yg?usp=sharing): Đồ án OKRs V1
+- [Code](https://github.com/Olympus-Team): Source code OKRs V1
+- [OKRS V2](https://drive.google.com/drive/folders/1PG6im6KAbsN5WGmg2fu4nrrMDZJrGwMK?usp=sharing): Đồ án OKRs V2
+- [Code](https://github.com/lidi-team): Source code OKRs V2
+- [Design](https://www.figma.com/file/BPS5PHc4VlBzz1kYxxICxK/Lidi-OKRs?node-id=4%3A2): Design dự án
+- [Youtube](https://youtu.be/fQfERTt7H04): Report 1 với thầy
+- [Youtube](https://youtu.be/52jgt0Iy_h8): Report 3 với thầy
+- [Youtube](https://youtu.be/jjSv8LAbgMs): Report 5 với thầy
+- [Youtube](https://youtu.be/hvyUtjl_VBw): Report 7 với thầy
+- [Youtube](https://youtu.be/6qkL-tZJcOo): Review trước hôm bảo vệ
