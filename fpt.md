@@ -89,6 +89,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Final Exam](https://drive.google.com/file/d/1eypL7eeiDoyqcCaJcK6Ne_Dd7TMk211J/view?usp=sharing): Key docs có đáp án
 - [Final Exam](https://quizlet.com/vn/593393151/se_ky-2_pro192-flash-cards/): Key quizlet
 - [Final Exam](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/PRO192.txt): Key text
+- [Curriculum](https://stech.edu.vn/share/tai-lieu/bai-viet/java/tong-tong-tai-lieu-hoc-java-tieng-viet): Tài liệu học Java tiếng việt
 
 ### MAD101 - Discrete mathematics
 
