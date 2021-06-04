@@ -29,7 +29,7 @@ Dưới đây là danh sách các câu hỏi có thể giúp ích cho bạn tron
 
 Hiển nhiên là bạn không thể hỏi tất cả câu hỏi ở đây được. (Hãy trân trọng thời gian của người phỏng vấn, và thể hiện sự chủ động của mình bằng cách tự tìm kiếm thông tin về công ty trước)
 
-# Về Vai Trò
+## Về Vai Trò
 
 - Các việc mà tôi sẽ làm mỗi ngày là gì?
 - Tỷ lệ nhân viên junior và senior trong team thế nào? (có kế hoạch để thay đổi tỷ lệ này không)
@@ -39,7 +39,7 @@ Hiển nhiên là bạn không thể hỏi tất cả câu hỏi ở đây đư�
 - Thế nào được cho là thành công trong vị trí mà tôi đang ứng tuyển
 - Các bạn/công ty có thắc mắc gì về hồ sơ của tôi không?
 
-# Về Công Nghệ
+## Về Công Nghệ
 
 - Các công nghệ nào được dùng trong công ty?
 - Nhóm/công ty đang dùng source control (git/svn..) thế nào?
@@ -55,7 +55,7 @@ Hiển nhiên là bạn không thể hỏi tất cả câu hỏi ở đây đư�
 - Tất cả các lập trình viên có được cấp quyền quản trị cho máy tình cá nhân không?
 - Vui lòng chia sẻ cho tôi những triết lý/nguyên tắc công nghệ và tầm nhìn của bạn
 
-# Về Nhóm
+## Về Nhóm
 
 - Công việc được tổ chức thế nào?
 - Giao tiếp trong nhóm hạ tầng và giữa các nhốm thế nào?
@@ -70,14 +70,14 @@ Hiển nhiên là bạn không thể hỏi tất cả câu hỏi ở đây đư�
 - Những thách thức gì mà nhóm đang đối diện nhưng chưa giải quyết xong
 - Các bạn cân bằng giữa mục tiêu công nghệ và mục tiêu kinh doanh thế nào?
 
-# Về Đồng Nghiệp Tương Lai
+## Về Đồng Nghiệp Tương Lai
 
 - Bạn thích điều gì nhất khi làm việc ở đây?
 - Điều gì không thích nhất?
 - Nếu bạn có thể thì bạn muốn thay đổi điều gì ở đây?
 - Thành viên nào làm việc ở đây lâu nhất, bao lâu?
 
-# Về công ty
+## Về công ty
 
 - Có chính sách hỗ trợ đi lại tham gia các hội thảo chuyên đề không. Nếu có thì quy định thế nào?
 - Quy trình thăng cấp bậc thế nào? Các yêu cầu / mong đợi được trao đổi thế nào?
@@ -93,7 +93,7 @@ Hiển nhiên là bạn không thể hỏi tất cả câu hỏi ở đây đư�
 - Bạn thấy hiện tại có những vấn đề gì trong văn hoá công ty?
 - Bạn có thể kể tôi nghe một câu chuyện về tình huồng độc hại và cách mà công ty đã ứng phó với nó không?
 
-# Tình hình kinh doanh
+## Tình hình kinh doanh
 
 - Các bạn có đang có lãi không?
 - Nếu chưa thì bao lâu nữa thì có thể có lãi?
@@ -104,7 +104,7 @@ Hiển nhiên là bạn không thể hỏi tất cả câu hỏi ở đây đư�
 - Các thách thức bạn thấy công ty đang/sẽ gặp phải là gì?
 - Những gì mà bạn xác định là lợi thế cạnh tranh của công ty?
 
-# Làm việc từ xa
+## Làm việc từ xa
 
 - Tỷ lệ nhân viên làm việc từ xa và làm việc văn phòng là gì?
 - Công ty có cung cấp các thiết bị không và bao lâu có thể thay thế?
@@ -114,18 +114,18 @@ Hiển nhiên là bạn không thể hỏi tất cả câu hỏi ở đây đư�
 - Các chuyến thăm văn phòng thường xuyên thế nào?
 - Các phòng họp trong công ty luôn sẵn sàng cho các cuộc gọi hội nghị chứ?
 
-# Làm việc tại văn phòng
+## Làm việc tại văn phòng
 
 - Công ty bố trí văn phòng thế nào? (không gian mở / các tủ đồ / các phòng nhỏ)
 - Có đội nào chuyên gọi điện như là đội tiếp thị / đội hỗ trợ cạnh phòng của đội tôi không?
 
-# Khoản đền bù
+## Khoản đền bù
 
 - Nếu bạn có chế độ thưởng, thì tiền thưởng được xác định như thế nào?
 - Nếu bạn có chế độ thưởng, thì tỷ lệ phần thưởng điển hình trong vài năm qua là bao nhiêu?
 - Bạn có kế hoạch nghỉ hưu 401k hoặc tương tự không? Nếu có, công ty có góp phần tương ứng với những khoản tham gia của nhân viên không?
 
-# Chế độ nghỉ hưởng lương (PTO)
+## Chế độ nghỉ hưởng lương (PTO)
 
 - Có bao nhiêu buổi PTO được cho phép?
 - Trong đó thì buổi nghỉ ốm và buổi nghỉ ngơi du lịch có được tính rời không hay tính chung?
@@ -134,11 +134,11 @@ Hiển nhiên là bạn không thể hỏi tất cả câu hỏi ở đây đư�
 - Chính sách nghỉ phép của cha mẹ thế nào?
 - Chính sách nghỉ phép không lương thế nào?
 
-# Tài liệu tham khảo
+## Tài liệu tham khảo
 
 - Find more inspiration for questions in the [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
-# License
+## License
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
