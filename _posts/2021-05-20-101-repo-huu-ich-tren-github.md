@@ -17,6 +17,8 @@ keywords:
   ]
 ---
 
+Tổng hợp danh sách 101 repository hữu ích trên github...
+
 ## [1. github1s](https://github.com/conwnet/github1s)
 
 Một giây để đọc mã GitHub với VS Code.
@@ -69,7 +71,7 @@ Danh sách các ví dụ JavaScript vui nhộn và khó hiểu.
 
 ## [13. You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
 
-Chúng ta không phải học jQuery từ đầu để thao tác DOM hoặc xử lý sự kiện. Trong khi đó, nhờ vào sự phổ biến của các thư viện frontend như React, Angular và Vue, thao tác trực tiếp với DOM trở thành phản mẫu, do đó việc sử dụng jQuery chưa bao giờ ít quan trọng hơn. Dự án này tóm tắt hầu hết các lựa chọn thay thế trong việc triển khai Javascript gốc cho các phương thức jQuery, với sự hỗ trợ của IE 10+.
+Chúng ta không phải học jQuery từ đầu để thao tác DOM hoặc xử lý sự kiện. Repository này tóm tắt hầu hết các lựa chọn thay thế trong việc triển khai Javascript gốc cho các phương thức jQuery, với sự hỗ trợ của IE 10+.
 
 ## [14. 33-js-concepts](https://github.com/leonardomso/33-js-concepts)
 
