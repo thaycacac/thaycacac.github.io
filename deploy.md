@@ -5,7 +5,7 @@ subtitle: Lavaral - Nuxt
 keyword: ["deploy", "deploy nuxtjs", "deploy laravel", "deploy wordpress", "thaycacac"]
 ---
 
-#### Deploy backend
+## Deploy backend
 
 Update
 
@@ -122,7 +122,7 @@ Restart web server
 sudo systemctl restart caddy
 ```
 
-#### Deploy nuxt
+## Deploy nuxt
 
 Install yarn,git,...and build project
 
@@ -145,4 +145,15 @@ mysql -u root
 FLUSH PRIVILEGES;
 ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
 mysqldump -u root -p thaycacac > data.sql
+```
+
+## CI/CD
+
+Gen SSH Key
+
+```ssh
+mkdir -p $HOME/.ssh
+chmod 0700 $HOME/.ssh
+ssh-keygen
+vim /root/.ssh/id_rsa.pub
 ```
