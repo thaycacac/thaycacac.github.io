@@ -158,6 +158,14 @@ ssh-keygen
 vim /root/.ssh/id_rsa.pub
 ```
 
+[Add SSH Key](https://github.com/settings/keys)
+
+Set repo: 
+
+```ssh
+git remote set-url origin git@github.com:
+```
+
 CD Frontend
 
 ```ssh
@@ -166,6 +174,8 @@ on:
   push:
     branches:
       - production
+      - master
+      - main
   schedule:
     - cron: '* 6 * * *'
 
@@ -182,7 +192,7 @@ jobs:
       uses: appleboy/ssh-action@master
       with:
         host: ${{ secrets.HOST }}
-        password: ${{ secrets.SERVER_KEY }}
+        password: ${{ secrets.PASSWORD }}
         username: root
         script: cd /var/www/stech.edu.vn
           && git pull
@@ -190,3 +200,5 @@ jobs:
           && yarn build
           && pm2 restart yarn
 ```
+
+
