@@ -157,3 +157,36 @@ chmod 0700 $HOME/.ssh
 ssh-keygen
 vim /root/.ssh/id_rsa.pub
 ```
+
+CD Frontend
+
+```ssh
+name: CD
+on:
+  push:
+    branches:
+      - production
+  schedule:
+    - cron: '* 6 * * *'
+
+jobs:
+  ci-test:
+    runs-on: ubuntu-18.04
+    strategy:
+      matrix:
+        node-version: [14.x]
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Deploy
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        password: ${{ secrets.SERVER_KEY }}
+        username: root
+        script: cd /var/www/stech.edu.vn
+          && git pull
+          && yarn
+          && yarn build
+          && pm2 restart yarn
+```
