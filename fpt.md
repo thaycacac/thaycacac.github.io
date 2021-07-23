@@ -5,7 +5,7 @@ subtitle: Share my experience
 keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 ---
 
-#### New Version: [https://stech.edu.vn/fpt](https://stech.edu.vn/fpt)
+#### New Version: [https://kungfutech.edu.vn/fpt](https://kungfutech.edu.vn/fpt)
 
 ### [Semester 1](#)
 
