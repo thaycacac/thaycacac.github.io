@@ -173,7 +173,13 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Final Exam](https://drive.google.com/drive/folders/1RTZe9B1-PfR81QfM-gYpQddckAK68KtS?usp=sharing): Đề tham khảo số 1
 - [Final Exam](https://drive.google.com/drive/folders/1UNFB8MCxss5urqLVA7U_oL7bdH1Gu2e2?usp=sharing): Đề tham khảo số 2
 - [Final Exam](https://drive.google.com/drive/folders/1tm7Ro9HJnzCNeE39Mvm81OcYJbtZWc_U?usp=sharing): Đề tham khảo số 3
-- [Final Exam](https://quizlet.com/vn/584135959/se-_-ky-3-_-csd201-flash-cards/): Key quizlet trúng 100%
+- [Final Exam](https://quizlet.com/vn/584135959/se-_-ky-3-_-csd201-flash-cards/): Key quizlet trúng 100%+
+
+### PRP201c - Python programming
+
+- [Click để đóng góp](https://drive.google.com/drive/u/3/folders/1WO_H-ympcI2yV14m5QchFUYbn1Oe3oL2): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Exam](https://quizlet.com/vn/587380034/ai-_-ky-3-_-prp201c-flash-cards/): Quizlet
+- [Practical Exam](https://drive.google.com/drive/u/3/folders/1pGj1WNKyQw3zbnpmLM6MD-WzV6G4Ji8w): Đề tham khảo số 1
 
 ## [Semester 4](#)
 
