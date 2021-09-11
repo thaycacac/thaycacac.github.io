@@ -188,20 +188,20 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Click để đóng góp](https://drive.google.com/drive/folders/17W36P0DuuSb6zFDQPozuU2VoPoGafyO8?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 - [Final Exam](https://drive.google.com/drive/folders/1V5ax-ej6xR-WHeGyHsdcHEJ40gBt5n2t?usp=sharing): trúng 80 - 90%
 
-### PRJ321 - Web-Based Java Applications
+### PRJ321, PRJ301 - Web-Based Java Applications
 
 - [Click để đóng góp](https://drive.google.com/drive/folders/1InEjh7FiwlWIrQDhxyE02IfANSqKr72-?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 - [Work shop 1 & 2](https://github.com/thaycacac/quiz-system-struts): Làm một trang quiz dành cho giáo viên và sinh viên thấy DuongTB, mình được 9 & 10đ
 - [Project](https://github.com/thaycacac/fap-registration-study): Tạo một trang web đăng ký học dành cho sinh viên (mình được 10), học block 5 nên yêu cầu sẽ đơn giản hơn trong kỳ
 - [Code](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/INCLASS): Code trên lớp
 - [Practical Exam](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/PE): Đê thực hành tham khảo (Block 5)
-- Final Exam: mất key rồi :v
+- [Final Exam](https://quizlet.com/615193722/se_ky-4_prj321-java-web-flash-cards/): Quizlet
 
 ### SWE102 - Introduction to Software Engineering
 
 - [Click để đóng góp](https://drive.google.com/drive/folders/1N8jg2OklvZ-8wAjwK7KqvWLEr5OmeqqN?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 - [Source](https://drive.google.com/drive/u/1/folders/1yqCng1FRqCmHjfIuvoPQTjzdzG_PmFKn): dự án hệ thống quản lý sách thầy TriTD (team mình được 9.5)
-- Final Exam: đợt mình thi đổi key, học 4 bộ ảnh được 15 câu
+- [Final Exam](https://quizlet.com/615193456/se_ky-4_swe201c-flash-cards/): Quizlet
 
 ### JPD121 - Elementary Japanese 1.2
 
@@ -340,6 +340,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Progress Test](https://drive.google.com/drive/folders/1Qx5WT2fqzy_hFXZY7JfGBZ1geXlzAtQg?usp=sharing): Bài test 3, key text hầu như không trúng nên ôn luyện ảnh
 - [Final Exam](https://drive.google.com/drive/folders/18tueIT2Aubd64qYnoDg9R7Tz4SEfUAv6?usp=sharing): Đề tham khảo số 1
 - [Final Exam](https://drive.google.com/drive/folders/1jH-6Ot0vODigK_BnxwoHsu40QIIuWNSV?usp=sharing): Đề tham khảo số 2
+- [Final Exam](https://quizlet.com/615194172/se_ky-4_mas291-flash-cards/): Quizlet
 - [Youtube](https://www.youtube.com/playlist?list=PLhzwgSOATUj0H5Wy2M0dvitN8ZJyAr5rK): Share cách bấm máy tính một số bài do team mình làm training cho nhau
 
 ### DBW301 - Data warehouse
