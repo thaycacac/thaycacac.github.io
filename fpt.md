@@ -228,6 +228,13 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Click để đóng góp](https://drive.google.com/drive/folders/1UsoIUR6gbpFbUHCFBo6hxXK4EtlLosil?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 - [Final Exam](https://quizlet.com/ChauBNMHE153019/folders/jpd123-fu-hola/sets): Quizlet (contributor: frostpixel)
 
+### IOT102 - Internet of Things
+
+- [Click để đóng góp](https://drive.google.com/drive/folders/1K1XUPu6XhIk6maWWljHwRhMAOM_3GfD6?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Source](https://drive.google.com/drive/folders/1k1t2XQN0opJChdVXFjR7WxISrBEGv2oO?usp=sharing): Slide & Tutorial
+- [Final Project](https://github.com/gone2808/IOT) (contributor: gone2808)
+- [Final Exam](https://quizlet.com/615203752/se-_-ky-4-_-iot102-flash-cards): Quizlet, trúng 70 - 80%
+
 ## [Semester 5](#)
 
 ### LAB231 - Web Java Lab
