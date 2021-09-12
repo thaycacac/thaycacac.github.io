@@ -284,6 +284,12 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Final Project](https://www.youtube.com/watch?v=Mi33qK8TsCk&ab_channel=Thaycacac): Ứng dụng desktop học quiz như quizlet, souce code mình để ở mô tả (team mình được 9.5)
 - [Final Exam](https://quizlet.com/598144662/prn292-flash-cards): Quizlet trúng 80%
 
+### CSD301 - Advanced Algorithms
+
+- [Click để đóng góp](https://drive.google.com/drive/folders/1y3XDM3E10QCYLnDqrxdRoyKrqraVK3mz?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Source](https://drive.google.com/drive/folders/12HMgDQp7VyvLs_clz7XkGUJ7AJ1bgjF1?usp=sharing): Code examples, Slides, ...
+- [Final exam](https://drive.google.com/drive/folders/1BMKQSBbSVNN6djLmy2ciIN2Y40lJBDhq?usp=sharing): Đề tham khảo
+
 ## [Semester 6](#)
 
 ### SYB301 - Start Your Business
