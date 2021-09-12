@@ -216,6 +216,13 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Souce Code](https://github.com/Sharp-Team/calculator-javadesk): Bài calculator pass thầy TuanVM
 - [Souce Code](https://github.com/Sharp-Team/text-editor-javadesk): Bài text editor pass thầy TuanVM
 
+### MAI391 - Advanced mathematics
+
+- [Click để đóng góp](https://drive.google.com/drive/folders/1Ttyip7-1sML5rZhlnYXpDm0e4wFggwtR?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Assignment](https://drive.google.com/drive/folders/1VOePMPRkDi7f8puNEpTuGz9OPkd3UBhF?usp=sharing): Các bài assignment trên lớp
+- [Progress Test](https://drive.google.com/drive/folders/1vTBh--vrBCoT65lGD3ojEN8F3D1qenIl?usp=sharing): Trên lớp, và luyện FE
+- [Slide](https://drive.google.com/drive/folders/1MHxfRc21CFe3WeySoKewqcbTX6eVexBT?usp=sharing)
+
 ## [Semester 5](#)
 
 ### LAB231 - Web Java Lab
