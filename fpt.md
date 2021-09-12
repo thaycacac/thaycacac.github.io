@@ -63,6 +63,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Practice](https://drive.google.com/drive/folders/1FyboAPGD96WV2_JtT22yPuT5coTq1hi1?usp=sharing): Thực hành một số database như northwind, sakila,...
 - [Final Project](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): Project cuối kỳ quản lý ký túc xá (được 9.5 cô ChiNQ) - [Source code](https://github.com/thaycacac/dorm-fpt-university)
 - [Practical Exam](https://drive.google.com/drive/folders/1PHRWAWHzmuWXjEBvhpzA62SVe6ZkP_aq?usp=sharing): Các đề tham khảo, thường xuyên cập nhật
+- [Practical Exam](https://drive.google.com/drive/folders/1zDj9kPSj4RU4R4DBWXo-eB6lX79zd_oI?usp=sharing): HieuPX contribute
 - [Final Exam](https://quizlet.com/283436881/): Key quizlet, trúng 90%, mấy câu 2nf, 3nf... nên đọc hiểu
 
 ### PRO201 - Front-end Web Development
