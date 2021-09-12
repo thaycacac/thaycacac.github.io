@@ -235,6 +235,11 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Final Project](https://github.com/gone2808/IOT) (contributor: gone2808)
 - [Final Exam](https://quizlet.com/615203752/se-_-ky-4-_-iot102-flash-cards): Quizlet, trúng 70 - 80%
 
+### AIG201c - Artificial Intelligence
+
+- [Click để đóng góp](https://drive.google.com/drive/folders/1XdT-A8M6VMDY6G3OkV0iXI9ZIc3ySWLP?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Exam](https://quizlet.com/615204896/ai-_-ky-4-_-aig201c-flash-cards/): Quizlet
+
 ## [Semester 5](#)
 
 ### LAB231 - Web Java Lab
