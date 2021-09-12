@@ -301,6 +301,11 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Click để đóng góp](https://drive.google.com/drive/folders/1RBzhkSfGGHerXo-pxhSz5J5npIiXFQ8A?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 - [Source](https://www.coursera.org/learn/machine-learning): Coursera
 
+### ITE302c - Ethics in IT
+
+- [Click để đóng góp](https://drive.google.com/drive/folders/1ppyCeyrLoAbmyiCJlv_pDskH5KIVxBX9?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Final Exam](https://quizlet.com/615208314/se_ky-5_ite302c-flash-cards/): Quizlet
+
 ## [Semester 6](#)
 
 ### SYB301 - Start Your Business
