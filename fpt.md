@@ -296,6 +296,11 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Source](https://drive.google.com/drive/folders/1xf-eKsyY294BEB7qhYnoKB-b63fcDK9i?usp=sharing): Book
 - [Final Exam](https://quizlet.com/615207108/ai_ky-5_dgt301-flash-cards/): Quizlet
 
+### AIL302m - Machine Learning
+
+- [Click để đóng góp](https://drive.google.com/drive/folders/1RBzhkSfGGHerXo-pxhSz5J5npIiXFQ8A?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Source](https://www.coursera.org/learn/machine-learning): Coursera
+
 ## [Semester 6](#)
 
 ### SYB301 - Start Your Business
