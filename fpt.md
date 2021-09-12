@@ -99,6 +99,8 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Click để đóng góp](https://drive.google.com/drive/folders/17CsyQ8jDCT5zlOUhZ9VnvdlpQlzhNmMF?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 - [Final Exam](https://drive.google.com/drive/folders/1GZn4IXjkptp_XyhHqxpaxnl5x8MxycUh?usp=sharing): Đề tham khảo số 1
 - [Final Exam](https://drive.google.com/drive/folders/1XaGCadfcPlC7zdqXl0dZ2XmMtv5mW_IJ?usp=sharing): Đề tham khảo số 2
+- [Final Exam](https://drive.google.com/drive/folders/1ewFnvNXu1FsJAsBMlllb2225dPhY76Cu?usp=sharing): Đề tham khảo số 3 (DuongTT contribute)
+- [Final Exam](https://drive.google.com/drive/folders/1eeAU29WJ0J3qjxaUC4n6_pXu4zHSH8jX?usp=sharing): Đề tham khảo số 4 (LongDQ contribute)
 
 ### LAB101 - C Lab
 
