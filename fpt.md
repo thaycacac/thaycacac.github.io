@@ -118,6 +118,8 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Coursera](https://www.coursera.org/specializations/computer-communications): Khóa học trên coursera
 - [Final Exam](https://quizlet.com/vn/593393698/se-_-ki-2-_-nwc203c-flash-cards/): Key quizlet
 - [Final Exam](https://drive.google.com/file/d/1SkTcDFkzrm-fvdSljykPfYb1toS6BLM5/view?usp=sharing): Đề tham khảo số 1
+- [Final Exam](https://drive.google.com/drive/folders/1eMpKndZJ0scC0yaUW-f1m73DHZxz4E8g): Đề tham khảo số 2
+- [Final Exam](https://docs.google.com/document/d/1IZeeDGYHoZ7Y2clbKUszslIXMIW10WgT/edit?usp=sharing&ouid=101979653006098781811&rtpof=true&sd=true): Đề tham khảo số 3 (TrungNT contribute)
 
 ## [Semester 3](#)
 
@@ -161,6 +163,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 - [Click để đóng góp](https://drive.google.com/drive/folders/1hDbBCLPuBGswiMknHOS0pYhlXNJyO1O7?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 - [Final Exam](https://quizlet.com/597995218/web201c-flash-cards/): Key quizlet
+- [Practical Exam](https://drive.google.com/drive/folders/11LOrV1GX5MCObIZ_M_AKVsgHaoRewbYs?usp=sharing): Đề tham khảo (HiepPQ contribute)
 
 ### IAO201c - Introduction to Information Assurance
 
@@ -184,6 +187,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Click để đóng góp](https://drive.google.com/drive/u/3/folders/1WO_H-ympcI2yV14m5QchFUYbn1Oe3oL2): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 - [Final Exam](https://quizlet.com/vn/587380034/ai-_-ky-3-_-prp201c-flash-cards/): Quizlet
 - [Practical Exam](https://drive.google.com/drive/u/3/folders/1pGj1WNKyQw3zbnpmLM6MD-WzV6G4Ji8w): Đề tham khảo số 1
+- [Practical Exam](https://drive.google.com/drive/folders/1WPV0ivYT8tdxesFMoiimztfL0xn6rJVV?usp=sharing): Đề tham khảo số 2
 
 ## [Semester 4](#)
 
