@@ -419,6 +419,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Slide](https://www.slideshare.net/ThaycacacPhmNgcHa/tn-ti-x-hi-thc-x-hi-mln101): Slide thuyết trình do bị ảnh hưởng vởi Covid19 nên team mình phải thuyết trình online
 - [Final Exam](https://quizlet.com/598322304/mln101-flash-cards/): Key quizlet trúng khoảng 80%
 - [Final Exam](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/MLN101.txt): Key text
+- [Final Exam](https://drive.google.com/drive/folders/1V3USpT3YSVHrsj1W3N2nwjIJijjQyVSr?usp=sharing): Đề tham khảo số 1
 
 ### PMG201c - Project management
 
