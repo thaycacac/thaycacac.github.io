@@ -290,6 +290,12 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Source](https://drive.google.com/drive/folders/12HMgDQp7VyvLs_clz7XkGUJ7AJ1bgjF1?usp=sharing): Code examples, Slides, ...
 - [Final exam](https://drive.google.com/drive/folders/1BMKQSBbSVNN6djLmy2ciIN2Y40lJBDhq?usp=sharing): Đề tham khảo
 
+### DGT301 - Digital Signal Processing
+
+- [Click để đóng góp](https://drive.google.com/drive/folders/1Wey1fsZcDERyFgq3pK8O6_wrKwcPQh8K?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
+- [Source](https://drive.google.com/drive/folders/1xf-eKsyY294BEB7qhYnoKB-b63fcDK9i?usp=sharing): Book
+- [Final Exam](https://quizlet.com/615207108/ai_ky-5_dgt301-flash-cards/): Quizlet
+
 ## [Semester 6](#)
 
 ### SYB301 - Start Your Business
