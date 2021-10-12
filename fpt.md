@@ -77,7 +77,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 ### PRO192 - Object-Oriented Programming
 
 - [Click để đóng góp](https://drive.google.com/drive/folders/1hnb7QYflw5Gr2Lb3NuXH8GNBZbwLHHjs?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
-- [Youtube](https://www.youtube.com/watch?v=_Y-OAIyGp9Q&list=PLwJIrGynFq9DSZ83DCPbs_n_dzlY13_W_&ab_channel=KUNGFUTECH): Khóa học java cơ bản
+- [Youtube](https://www.youtube.com/watch?v=939EzDx-h5c&list=PLwJIrGynFq9DSZ83DCPbs_n_dzlY13_W_&index=1&ab_channel=TechMely): Khóa học java cơ bản
 - [Giải đề thi PE](https://youtu.be/DgT0gh80818): https://youtu.be/DgT0gh80818
 - [Book](https://kungfutech.edu.vn/tang-kinh-cac/java): Java kiến thức nền tảng
 - [Slide](https://drive.google.com/drive/folders/1IGLmaOCREQgKDwJ8BnlUo0GEMvkhyibO?usp=sharin): Slide môn PRO192
