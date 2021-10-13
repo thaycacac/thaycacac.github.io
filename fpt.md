@@ -84,12 +84,12 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Code](https://github.com/thaycacac/java-core): Code trên lớp thầy DuyDT
 - [Assignment](https://drive.google.com/drive/folders/19pnt44hOMcV6EtLou9E7BHsocAc4Nrid?usp=sharing): bài cuối kỳ thầy DuyDT (mình được 10)
 - [Practical Exam](https://drive.google.com/drive/folders/1q1kf_s6S74LcxvkGqrqdM_5-NoAUnzEj?usp=sharing): Đề tham khảo số 1
-- [Final Exam](https://drive.google.com/drive/folders/1HZINAs4k-rKv3eLFuNxc7kZIvSQuLC6u?usp=sharing): Đề tham khảo số 1
-- [Final Exam](https://drive.google.com/drive/folders/1dAug0zByT3KHCcI03s_XW52RyGY5O6pW?usp=sharing): Đề tham khảo số 2
-- [Final Exam](https://drive.google.com/drive/folders/1trp07pR5EV7eFtmRBGAApOOKBqaN4OTK?usp=sharing): Đề tham khảo số 3
-- [Final Exam](https://drive.google.com/drive/folders/1sm6ObwthGSFKZnqAHOkwlbtZUjhd1JmF?usp=sharing): Đề tham khảo số 4
-- [Final Exam](https://drive.google.com/drive/folders/1EWtqUDyZbOQwZ8DaZ5xAC7WJgrO5BaAH?usp=sharin): Đề tham khảo số 5
-- [Final Exam](https://drive.google.com/drive/folders/1t-9C8htsAlHFAKk3qDVEOAa8KwEm3H2R?usp=sharing): Đề tham khảo số 6
+- [Final Exam](https://drive.google.com/drive/folders/1IE1rBq4t691d9B5ZZz_1ekD70zp1wWnp?usp=sharing): Đề tham khảo số 1
+- [Final Exam](https://drive.google.com/drive/folders/1yg4gkVMoEH0UKWQ1RgD7gHnBiwsZajKX?usp=sharing): Đề tham khảo số 2
+- [Final Exam](https://drive.google.com/drive/folders/1nV-TsKO2MfAsXGiI3fuT6t_AFT8v6IBD?usp=sharing): Đề tham khảo số 3
+- [Final Exam](https://drive.google.com/drive/folders/1hTd4YRPjYfdDQQ0AuiixmFjSMpIHx_21?usp=sharing): Đề tham khảo số 4
+- [Final Exam](https://drive.google.com/drive/folders/1wq_4imqoeFKT5Y33dTxPjXWrNA7RANOL?usp=sharing): Đề tham khảo số 5
+- [Final Exam](https://docs.google.com/document/d/1eypL7eeiDoyqcCaJcK6Ne_Dd7TMk211J/edit?usp=sharing&ouid=101979653006098781811&rtpof=true&sd=true): Đề tham khảo số 6
 - [Final Exam](https://drive.google.com/file/d/1eypL7eeiDoyqcCaJcK6Ne_Dd7TMk211J/view?usp=sharing): Key docs có đáp án
 - [Final Exam](https://quizlet.com/vn/593393151/se_ky-2_pro192-flash-cards/): Key quizlet
 - [Final Exam](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/PRO192.txt): Key text
