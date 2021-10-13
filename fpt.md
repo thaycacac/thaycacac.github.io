@@ -49,7 +49,6 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### SSG101 - Working in Group Skills
 
-- [Final Project](https://drive.google.com/drive/folders/0B7iEYGblY5QwN2E0c3Fkd2lXUDg?usp=sharing): Toàn bộ source quá trình làm dự án của team mình - [Fast & Furious](https://www.facebook.com/fast.furious.fpt/)
 - [Final Exam](https://quizlet.com/243222059/): Trúng 100%
 
 ## [Semester 2](#)
