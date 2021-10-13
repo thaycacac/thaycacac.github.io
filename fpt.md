@@ -36,13 +36,10 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Assignments, Workshop, Code example](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing): Lớp thầy CauPD, các bài workshop, ass mình full 10
 - [Progress Test](https://www.youtube.com/watch?v=ZkI1jRlT7Pk): Bài test thầy CauPD
 - [Practical Exam](https://drive.google.com/drive/folders/1CTXIuOrTbIVxENy6OxIe0y71RzAO6GWO?usp=sharing): Example Kỳ Fall 2019
-- [Final Exam](https://drive.google.com/drive/folders/1koU3jVQ_eqC9AgCWYY4z1-dAr75GNJNa?usp=sharing): Đề tham khảo số 1, các bạn đã contribute đáp án
-- [Final Exam](https://drive.google.com/drive/folders/1bjwwd2IwygvgNFu6eJ6p5eWwxmimgbbJ?usp=sharing): Đề tham khảo số 2, các bạn đã contribute đáp án
-- [Final Exam](https://drive.google.com/drive/folders/15OrbKdOcuLHonWLFErNLrcm86sy0a2qG?usp=sharing): Đề tham khảo số 3, các bạn đã contribute đáp án
-- [Final Exam](https://drive.google.com/drive/folders/1XUjJWQ5g4G2Wiw9sTKbFXwitkOv3Z-md?usp=sharing): Đề tham khảo số 4, các bạn đã contribute đáp án
-- [Final Exam](https://drive.google.com/drive/folders/1XUjJWQ5g4G2Wiw9sTKbFXwitkOv3Z-md?usp=sharing): Đề tham khảo số 5, các bạn đã contribute đáp án
+- [Final Exam](https://drive.google.com/drive/folders/1a3ZSR7IAhpaLCAtRb6CNpCT_8-CjbSed?usp=sharing): Đề tham khảo số 1, các bạn đã contribute đáp án
+- [Final Exam](https://drive.google.com/drive/folders/1Jq4HQHcbA7tSIXTVAm5FSjkUSquBbfgX?usp=sharing): Đề tham khảo số 2, các bạn đã contribute đáp án
+- [Final Exam](https://drive.google.com/drive/folders/1ySElEauefanXbBXvT2cSvhpjN_P1LEej?usp=sharing): Đề tham khảo số 3, các bạn đã contribute đáp án
 - [Final Exam](https://quizlet.com/517450235/se_-ky-1-_prf192-flash-cards/): Key quizlet, đọc hiểu code là chính để đi thi
-- [Final Exam](https://drive.google.com/drive/folders/1s8gL7_8lMCC0AsaIid5KYA4vg6u3Zwt6?usp=sharing) HieuTT contribute
 
 ### SSL101c - Studying skill
 
