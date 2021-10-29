@@ -102,17 +102,23 @@ sudo chmod 777 /var/www/html/.../public/uploads/...
 - Config web server
 
 ```ssh
-thay.edu.vn:8080 {
+kungfutech.edu.vn, kungfutech.edu.vn:80 {
+  tls thaycacac@gmail.com
+  encode gzip
+  reverse_proxy localhost:7985
+}
+
+
+kungfutech.edu.vn:2222 {
+  header Cache-Control max-age=31536000
+  header Strict-Transport-Security max-age=31536000
+  header Referrer-Policy no-referrer-when-downgrade
+  header X-Frame-Options DENY
+  header X-Content-Type-Options nosniff
   root * /var/www/thay.edu.vn.back/public
   php_fastcgi unix//run/php/php7.2-fpm.sock
   encode gzip
   file_server
-}
-
-thay.edu.vn {
-  tls thaycacac@gmail.com
-  encode gzip
-  reverse_proxy localhost:7985
 }
 ```
 
