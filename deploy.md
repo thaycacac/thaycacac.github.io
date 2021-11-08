@@ -108,17 +108,24 @@ kungfutech.edu.vn, kungfutech.edu.vn:80 {
   reverse_proxy localhost:7985
 }
 
-
-kungfutech.edu.vn:2222 {
+api.kungfutech.edu.vn {
   header Cache-Control max-age=31536000
   header Strict-Transport-Security max-age=31536000
   header Referrer-Policy no-referrer-when-downgrade
   header X-Frame-Options DENY
   header X-Content-Type-Options nosniff
-  root * /var/www/thay.edu.vn.back/public
+  root * /var/www/stech.edu.vn.back/public
   php_fastcgi unix//run/php/php7.2-fpm.sock
   encode gzip
   file_server
+}
+
+www.kungfutech.edu.vn {
+   redir https://kungfutech.edu.vn {uri}
+}
+
+http://kungfutech.edu.vn {
+  redir https://{host}{uri}
 }
 ```
 
