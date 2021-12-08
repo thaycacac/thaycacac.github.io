@@ -36,10 +36,12 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Assignments, Workshop, Code example](https://drive.google.com/drive/folders/1oVwGcWEpV3-YwWK5b1BzXtuFF7QQPUkj?usp=sharing): Lớp thầy CauPD, các bài workshop, ass mình full 10
 - [Progress Test](https://www.youtube.com/watch?v=ZkI1jRlT7Pk): Bài test thầy CauPD
 - [Practical Exam](https://drive.google.com/drive/folders/1CTXIuOrTbIVxENy6OxIe0y71RzAO6GWO?usp=sharing): Example Kỳ Fall 2019
+- [Practical Exam](https://docs.google.com/document/d/1Ue0OgX7pr1BlA2QTZym0M9joUmySKlNV/edit?usp=sharing&ouid=101979653006098781811&rtpof=true&sd=true): Tổng hợp code example (PhiLe contribute)
 - [Final Exam](https://drive.google.com/drive/folders/1a3ZSR7IAhpaLCAtRb6CNpCT_8-CjbSed?usp=sharing): Đề tham khảo số 1, các bạn đã contribute đáp án
 - [Final Exam](https://drive.google.com/drive/folders/1Jq4HQHcbA7tSIXTVAm5FSjkUSquBbfgX?usp=sharing): Đề tham khảo số 2, các bạn đã contribute đáp án
 - [Final Exam](https://drive.google.com/drive/folders/1ySElEauefanXbBXvT2cSvhpjN_P1LEej?usp=sharing): Đề tham khảo số 3, các bạn đã contribute đáp án
 - [Final Exam](https://quizlet.com/517450235/se_-ky-1-_prf192-flash-cards/): Key quizlet, đọc hiểu code là chính để đi thi
+- [Workshop](https://drive.google.com/drive/folders/1_VXDumY06XFc9YA1kzTKFOMm-gz8yTqz?usp=sharing): Chia sẻ tài nguyên (NguyenTD contribute)
 
 ### SSL101c - Studying skill
 
@@ -58,8 +60,10 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Click để đóng góp](https://drive.google.com/drive/folders/1pAKLmPhDww2SPgM05gBLAjQomOj1KzTA?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 - [Practice](https://drive.google.com/drive/folders/1FyboAPGD96WV2_JtT22yPuT5coTq1hi1?usp=sharing): Thực hành một số database như northwind, sakila,...
 - [Final Project](https://drive.google.com/drive/folders/1yoyA2U9LbMQHwDXGVxBYf2KJN43VUACi?usp=sharing): Project cuối kỳ quản lý ký túc xá (được 9.5 cô ChiNQ) - [Source code](https://github.com/thaycacac/dorm-fpt-university)
-- [Practical Exam](https://drive.google.com/drive/folders/1PHRWAWHzmuWXjEBvhpzA62SVe6ZkP_aq?usp=sharing): Các đề tham khảo, thường xuyên cập nhật
-- [Practical Exam](https://drive.google.com/drive/folders/1zDj9kPSj4RU4R4DBWXo-eB6lX79zd_oI?usp=sharing): HieuPX contribute
+- [Practical Exam](https://drive.google.com/drive/folders/1PHRWAWHzmuWXjEBvhpzA62SVe6ZkP_aq?usp=sharing): Đề tham khảo số 1
+- [Practical Exam](https://drive.google.com/drive/folders/1zDj9kPSj4RU4R4DBWXo-eB6lX79zd_oI?usp=sharing): Đề tham khảo số 2 (HieuPX contribute)
+- [Practical Exam](https://drive.google.com/drive/folders/1ImYDVdkM8fIft7Tk8wkdri5WBvSlHFwN?usp=sharing): Đề tham khảo số 3 (KhoiNT contribute)
+- [Resource](https://drive.google.com/drive/folders/1VoCdSOrVvADJsXlG0o8w1_wmdlxWGuvO?usp=sharing): Tài nguyên học tập cô HuongNT7 (AnhNHT contribute)
 - [Final Exam](https://quizlet.com/283436881/): Key quizlet, trúng 90%, mấy câu 2nf, 3nf... nên đọc hiểu
 
 ### PRO201 - Front-end Web Development
@@ -97,6 +101,8 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Final Exam](https://drive.google.com/drive/folders/1XaGCadfcPlC7zdqXl0dZ2XmMtv5mW_IJ?usp=sharing): Đề tham khảo số 2
 - [Final Exam](https://drive.google.com/drive/folders/1ewFnvNXu1FsJAsBMlllb2225dPhY76Cu?usp=sharing): Đề tham khảo số 3 (DuongTT contribute)
 - [Final Exam](https://drive.google.com/drive/folders/1eeAU29WJ0J3qjxaUC4n6_pXu4zHSH8jX?usp=sharing): Đề tham khảo số 4 (LongDQ contribute)
+- [Final Exam](https://docs.google.com/document/d/18938Rcm5xEcatTzMwfH3W4Kb9PgsE_Hy/edit?usp=sharing&ouid=101979653006098781811&rtpof=true&sd=true): Đề tham khảo số 5 (VyTT contribute)
+- [Final Exam](https://docs.google.com/document/d/1Ej_g1-sw52GwMDMaxt_4CbQsmvCtdE1S/edit?usp=sharing&ouid=101979653006098781811&rtpof=true&sd=true): Đề tham khảo số 6 (NhiNT contribute)
 
 ### LAB101 - C Lab
 
@@ -135,6 +141,8 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Click để đóng góp](https://drive.google.com/drive/folders/1vop1cYLEI6Ri44XhP-q-dkL3PQfTtpLP?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 - [Lab](https://github.com/thaycacac/java/tree/master/%5BLAB211%5D%20OOP%20with%20Java%20Lab): Tổng hợp các bài Lab
 - [Lab passed](https://github.com/Sharp-Team/oop-javalab-master): đây là 3 bài mình pass TuanVM
+- [Lab passed](https://github.com/thaycacac/java/tree/master/%5BLAB211%5D%20OOP%20with%20Java%20Lab/PASSED-TUANVM-FALL21): Passed TuanVM Fall21
+- [Lab passed](https://github.com/thaycacac/java/tree/master/%5BLAB211%5D%20OOP%20with%20Java%20Lab/PASSED-TRITD-FALL21): Passed TriTD Fall21
 
 ### OSG202 - Operating Systems
 
@@ -148,6 +156,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Final Exam](https://drive.google.com/drive/folders/1NV6ytkiRFeRGZFpElGpiLKEQSgREQL4b?usp=sharing): Đề tham khảo số 4
 - [Final Exam](https://drive.google.com/drive/folders/10R8fcxWrvUmBBn5uyUYoMm3ub8bkMt21?usp=sharing): Đề tham khảo số 5 (học hết các đề tham khảo trúng khoảng 80%): Key quizlet
 - [Final Exam](https://quizlet.com/390866176/osg202-full-flash-cards/): Key quizlet
+- [Resource](https://drive.google.com/drive/folders/10xUl4NgF3oUjzGqNNRdr6X9qxoL7Dcxz?usp=sharing): Chia sẻ tài nguyên (HiePX contribute)
 
 ### JPD111 - Elementary Japanese 1.1
 
@@ -165,6 +174,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 - [Click để đóng góp](https://drive.google.com/drive/folders/1Uz4dv_CGI2Ft_X6J-yVolf-wbv7dRIlK?usp=sharing): Đóng góp, chia sẻ học liệu, kinh nghiệm, source code,...
 - [Final Exam](https://quizlet.com/vn/593395242/ia-_-ky-3-_-iao201c-flash-cards/): Key quizlet
+- [Final Exam](https://docs.google.com/document/d/11KGc-ZX1pGWhfdOIv5akDy6IQIj3mpY2/edit?usp=sharing&ouid=101979653006098781811&rtpof=true&sd=true): Đề tham khảo
 
 ### CSD201 - Data Structures and Algorithms
 
@@ -184,6 +194,8 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Final Exam](https://quizlet.com/vn/587380034/ai-_-ky-3-_-prp201c-flash-cards/): Quizlet
 - [Practical Exam](https://drive.google.com/drive/u/3/folders/1pGj1WNKyQw3zbnpmLM6MD-WzV6G4Ji8w): Đề tham khảo số 1
 - [Practical Exam](https://drive.google.com/drive/folders/1WPV0ivYT8tdxesFMoiimztfL0xn6rJVV?usp=sharing): Đề tham khảo số 2
+- [Practical Exam](https://drive.google.com/drive/folders/1gyK77VmRKqKilVNlKG32Wzqen1Uulngu?usp=sharing): Đề tham khảo số 3 (Nx Fjr contribute)
+- [Practical Exam](https://drive.google.com/drive/folders/1Ut2GvJOn4xEoovwXFzJHqvo2jFlUA0nC?usp=sharing): Đề tham khảo số 4 (Nx Fjr contribute)
 
 ## [Semester 4](#)
 
@@ -198,8 +210,11 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Work shop 1 & 2](https://github.com/thaycacac/quiz-system-struts): Làm một trang quiz dành cho giáo viên và sinh viên thấy DuongTB, mình được 9 & 10đ
 - [Project](https://github.com/thaycacac/fap-registration-study): Tạo một trang web đăng ký học dành cho sinh viên (mình được 10), học block 5 nên yêu cầu sẽ đơn giản hơn trong kỳ
 - [Code](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/INCLASS): Code trên lớp
-- [Practical Exam](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/PE): Đê thực hành tham khảo (Block 5)
+- [Practical Exam](https://github.com/thaycacac/java/tree/master/%5BPRJ321%5D%20Web-based%20Java%20Applications/PE): Đê thực hành tham khảo số 1
+- [Practical Exam](https://drive.google.com/drive/folders/1QWhiOy38dNPswDyD9-mcmXRd5FLEU09_?usp=sharing): Đê thực hành tham khảo số 2 (HuyNK contribute)
+- [Practical Exam](https://drive.google.com/drive/folders/1jF6IsF4cR-zIioriBkoow1VnmZ6aCnGW?usp=sharing): Đê thực hành tham khảo số 3 (HuyNK contribute)
 - [Final Exam](https://quizlet.com/615193722/se_ky-4_prj321-java-web-flash-cards/): Quizlet
+- 
 
 ### SWE102 - Introduction to Software Engineering
 
