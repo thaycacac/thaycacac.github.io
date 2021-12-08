@@ -89,6 +89,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 - [Final Exam](https://drive.google.com/drive/folders/1nV-TsKO2MfAsXGiI3fuT6t_AFT8v6IBD?usp=sharing): Đề tham khảo số 3
 - [Final Exam](https://drive.google.com/drive/folders/1hTd4YRPjYfdDQQ0AuiixmFjSMpIHx_21?usp=sharing): Đề tham khảo số 4
 - [Final Exam](https://drive.google.com/drive/folders/1wq_4imqoeFKT5Y33dTxPjXWrNA7RANOL?usp=sharing): Đề tham khảo số 5
+- [Final Exam](https://drive.google.com/drive/folders/1TNXWZ9ZIzPYGquLT0pv-XKCIkEqnJjbp?usp=sharing): Đề tham khảo số JS
 - [Final Exam](https://drive.google.com/file/d/1eypL7eeiDoyqcCaJcK6Ne_Dd7TMk211J/view?usp=sharing): Key docs có đáp án
 - [Final Exam](https://quizlet.com/vn/593393151/se_ky-2_pro192-flash-cards/): Key quizlet
 - [Final Exam](https://github.com/Sharp-Team/chia-khoa-thanh-cong-fpt/blob/master/PRO192.txt): Key text
