@@ -12,7 +12,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
    target="_blank"
    rel="noopener"
 >
-  <img src="/assets/banner.png" />
+  <img src="/assets/img/banner.png" />
 </a>
 
 ### [Semester 1](#)
