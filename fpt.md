@@ -7,6 +7,14 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 #### New Version: [https://kungfutech.edu.vn/fpt](https://kungfutech.edu.vn/fpt)
 
+<a
+   href="https://www.youtube.com/c/TechMely?sub_confirmation=1"
+   target="_blank"
+   rel="noopener"
+>
+  <img src="/assets/banner.png" />
+</a>
+
 ### [Semester 1](#)
 
 ### MAE101 - Mathematics for Engineering
