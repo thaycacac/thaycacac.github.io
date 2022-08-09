@@ -5,6 +5,22 @@ subtitle: Share my experience
 keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 ---
 
+<iframe
+ src="https://ghbtns.com/github-btn.html?user=techmely&repo=hoc-lap-trinh&type=star&count=true"
+ frameborder="0"
+ scrolling="0"
+ width="100"
+ height="20"
+ title="GitHub"
+ ></iframe>
+<iframe
+ src="https://ghbtns.com/github-btn.html?user=techmely&repo=hoc-lap-trinh&type=fork&count=true"
+ frameborder="0"
+ scrolling="0"
+ width="100"
+ height="20"
+ title="GitHub"
+></iframe>
 #### New Version: [https://kungfutech.edu.vn/fpt](https://kungfutech.edu.vn/fpt)
 
 <a href="https://www.youtube.com/c/TechMely?sub_confirmation=1"
