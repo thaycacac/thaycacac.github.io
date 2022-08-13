@@ -29,5 +29,26 @@ Currying là kỹ thuật mà cho phép chuyển đổi một function với nhi
 
 [![Currying trong JavaScript](https://i9.ytimg.com/vi_webp/d6s3BXUjOy0/mqdefault.webp?v=622866a6&sqp=CNSx3ZcG&rs=AOn4CLAnXP4JCXNnT_h6n7lurhfT0HMkIw)](https://www.youtube.com/watch?v=d6s3BXUjOy0&ab_channel=TechMely)
 
+## Higher Order Functions trong Javascript
+
+Function chấp nhận đầu vào và/hoặc đầu ra là một function được gọi là higher order function.
+
+Thay vì `string`, `number`, `boolean`, nó sử dụng function khác để làm in/out, nên vì thế ở cấp độ cao hơn như việc vận hành function.
+
+Với function trong Javascript, bạn có thể:
+
+- Lưu chúng như biến
+- Sử dụng như array
+- Assign các thuộc tính như một object
+- Cho vào các giá trị argument
+- Return từ một function khác
+
+Để hiểu sâu hơn về Higher Order Functions trong Javascript hãy xem video này nhé!
+
+[![Higher Order Functions trong Javascript](https://i9.ytimg.com/vi_webp/d8X241FCJNs/mqdefault.webp?v=6230a6e0&sqp=CIC03ZcG&rs=AOn4CLDwpOiYXWHXEhSohP3l2BqAyFRvXQ)](https://www.youtube.com/watch?v=d8X241FCJNs&ab_channel=TechMely)
+
+
+
+
 
 
