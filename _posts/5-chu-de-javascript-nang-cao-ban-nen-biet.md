@@ -49,7 +49,11 @@ Với function trong Javascript, bạn có thể:
 
 ## Shallow copy và Deep copy trong Javascript 
 
-Trong lập trình, chúng ta lưu trữ data dưới dạng các biến. Tạo một copy tức là khởi tạo một biến mới có cùng giá trị. Tuy nhiên luôn có cạm bẫy luôn rình rập, đó là `deep copy` và `shallow copy`. `Deep copy` (sao chép sâu) tức là tạo mới một biến có cùng giá trị và được cắt đứt quan hệ hoàn toàn với biến được copy. `Shallow copy` có ý nghĩa rằng sau khi copy, biến mới hoặc các thành phần của biến mới vẫn còn quan hệ dây mơ rễ má với biến ban đầu, nguy hiểm quá nhỉ. Để hiểu thêm về copy, chúng ta cùng tìm hiểu video dưới đây
+Trong lập trình, chúng ta lưu trữ data dưới dạng các biến. Tạo một copy tức là khởi tạo một biến mới có cùng giá trị. Tuy nhiên luôn có cạm bẫy luôn rình rập, đó là `deep copy` và `shallow copy`.
+
+`Deep copy` (sao chép sâu) tức là tạo mới một biến có cùng giá trị và được cắt đứt quan hệ hoàn toàn với biến được copy.
+
+`Shallow copy` có ý nghĩa rằng sau khi copy, biến mới hoặc các thành phần của biến mới vẫn còn quan hệ dây mơ rễ má với biến ban đầu, nguy hiểm quá nhỉ. Để hiểu thêm về copy, chúng ta cùng tìm hiểu video dưới đây
 
 [![Higher Order Functions trong Javascript](https://i9.ytimg.com/vi_webp/VCsiG54IdSw/mqdefault.webp?v=623ff212&sqp=CKy23ZcG&rs=AOn4CLBAhsoT1ugMFuIBK2BlMce5U0xLgg)](https://www.youtube.com/watch?v=VCsiG54IdSw&ab_channel=TechMely)
 
