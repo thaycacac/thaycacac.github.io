@@ -4,8 +4,8 @@ title: 5 chủ đề javascript nâng cao bạn nên nắm chắc
 subtitle: Binh vô thường thế, thủy vô thường hình, năng nhân địch biến hóa nhi thủ thắng giả, vị chi thần...
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
-categories: [ui/ux]
-tags: [ui/ux]
+categories: [frontend, backend]
+tags: [backend, frontend]
 keywords: [
    javascript nâng cao,
    các chủ đề javascript nâng cao,
