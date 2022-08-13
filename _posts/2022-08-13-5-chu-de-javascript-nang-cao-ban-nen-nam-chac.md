@@ -1,3 +1,23 @@
+---
+layout: post
+title: 5 chủ đề javascript nâng cao bạn nên nắm chắc
+subtitle: Binh vô thường thế, thủy vô thường hình, năng nhân địch biến hóa nhi thủ thắng giả, vị chi thần...
+gh-repo: thaycacac/thaycacac.github.io
+gh-badge: [follow]
+categories: [ui/ux]
+tags: [ui/ux]
+keywords: [
+   javascript nâng cao,
+   các chủ đề javascript nâng cao,
+   5 chủ đề javascript nâng cao,
+   This trong Javascript,
+   Prototype trong Javascript,
+   Currying trong JavaScript,
+   Higher Order Functions trong Javascript,
+   Shallow copy và Deep copy trong Javascript 
+]
+---
+
 Javascript đang trở thành ngôn ngữ lập trình phổ biến nhất thế giới. Là công cụ để xây dựng hầu hết những ứng dụng hiện đại từ web tới mobile. Đi kèm với đó là số lượng người học javascript cũng tăng lên chóng mặt. Nhưng việc học javascript online chưa bao giờ là dễ cả.
 
 Bài này chúng ta sẽ cùng nhau tìm hiểu về một số chủ đề nâng cao trong Javascript sẽ giúp bạn cải thiện nó nhé:
