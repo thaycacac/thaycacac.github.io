@@ -10,3 +10,13 @@ Chỉ có 2 loại context đối với `this` là object chứa method được
 Chúng ta sẽ cùng tìm hiểu kỹ hơn trong video này nhé:
 
 [![This trong Javascript](https://i9.ytimg.com/vi_webp/NlvKvQWB2EI/mqdefault.webp?v=62218142&sqp=CPys3ZcG&rs=AOn4CLD2QfargutHCndbCNINs84kaGfDGw)](https://www.youtube.com/watch?v=UmX4kyB2wfg)
+
+## Prototype trong Javascript
+
+Khi lập trình, mọi người thường mong muốn có thể tái sử dụng code và mở rộng thêm các tính năng.
+
+Ví dụ, bạn có một đối tượng `user` với các thuộc tính và phương thức. Sau đó, bạn muốn tạo đối tượng mới là `admin` và `guest` dựa trên đối tượng `user`, nhưng không phải copy-paste lại code mà chỉ sử dụng lại những thứ mà `user` có, rồi tạo thêm thuộc tính hoặc phương thức mới.
+
+Để làm được điều đó, bạn có thể sử dụng `prototype` trong JavaScript để kế thừa lại object `user`. Vậy prototype là gì và cách sử dụng prototype như thế nào hay coi video dưới đây nhé!
+
+[![Prototype trong Javascript](https://i9.ytimg.com/vi_webp/ETMBVu7xWlc/mqdefault.webp?v=621de152&sqp=CKiv3ZcG&rs=AOn4CLCgXrVMjc606G98E6wtOnCpApfOMQ)](https://www.youtube.com/watch?v=ETMBVu7xWlc&ab_channel=TechMely)
