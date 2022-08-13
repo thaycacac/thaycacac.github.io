@@ -20,3 +20,14 @@ Ví dụ, bạn có một đối tượng `user` với các thuộc tính và ph
 Để làm được điều đó, bạn có thể sử dụng `prototype` trong JavaScript để kế thừa lại object `user`. Vậy prototype là gì và cách sử dụng prototype như thế nào hay coi video dưới đây nhé!
 
 [![Prototype trong Javascript](https://i9.ytimg.com/vi_webp/ETMBVu7xWlc/mqdefault.webp?v=621de152&sqp=CKiv3ZcG&rs=AOn4CLCgXrVMjc606G98E6wtOnCpApfOMQ)](https://www.youtube.com/watch?v=ETMBVu7xWlc&ab_channel=TechMely)
+
+## Currying trong JavaScript
+
+Cũng như `Prototype`, chúng ta luôn hướng đến viết một đoạn code mà có thể sử dụng nó lại nhiều lần và ít tốn kém thời gian hơn. `Curying` giúp chúng ta tốt trong việc sử dụng lại các chức năng. Nói một cách khác mà trong các framework hay xây dựng các hàm helper để định nghĩa một hàm nào đó mà được sử dụng lại nhiều lần.
+
+Currying là kỹ thuật mà cho phép chuyển đổi một function với nhiều tham số thành những functions liên tiếp có một tham số. Nói cách khác, khi một function, thay vì lấy tất cả arguments cùng một lúc, lấy hàm thứ nhất và trả về hàm mới lấy hàm thứ hai và trả về hàm mới lấy hàm thứ ba, và tiếp tục cho đến khi tất cả các đối số đã được hoàn thành. Cùng tìm hiểu thêm trong video dưới đây nhé!
+
+[![Currying trong JavaScript](https://i9.ytimg.com/vi_webp/d6s3BXUjOy0/mqdefault.webp?v=622866a6&sqp=CNSx3ZcG&rs=AOn4CLAnXP4JCXNnT_h6n7lurhfT0HMkIw)](https://www.youtube.com/watch?v=d6s3BXUjOy0&ab_channel=TechMely)
+
+
+
