@@ -29,7 +29,7 @@ Bài này chúng ta sẽ cùng nhau tìm hiểu về một số chủ đề nân
 Chỉ có 2 loại context đối với `this` là object chứa method được gọi hoặc global , ngoài ra không có loại khác. Khi gặp từ `this` , chỉ quan tâm tới cái nơi gọi hàm chứa nó chứ không được dịch `this` là nội hàm hiện tại.
 Chúng ta sẽ cùng tìm hiểu kỹ hơn trong video này nhé:
 
-[![This trong Javascript](https://i9.ytimg.com/vi_webp/NlvKvQWB2EI/mqdefault.webp?v=62218142&sqp=CPys3ZcG&rs=AOn4CLD2QfargutHCndbCNINs84kaGfDGw)](https://youtu.be/NlvKvQWB2EI)
+[![This trong Javascript](https://user-images.githubusercontent.com/29374426/187132884-4c8c2108-643d-4fd3-87c6-d0d27b4e1f28.png)](https://youtu.be/NlvKvQWB2EI)
 
 ## Prototype trong Javascript
 
@@ -39,7 +39,7 @@ Ví dụ, bạn có một đối tượng `user` với các thuộc tính và ph
 
 Để làm được điều đó, bạn có thể sử dụng `prototype` trong JavaScript để kế thừa lại object `user`. Vậy prototype là gì và cách sử dụng prototype như thế nào hay coi video dưới đây nhé!
 
-[![Prototype trong Javascript](https://i9.ytimg.com/vi_webp/ETMBVu7xWlc/mqdefault.webp?v=621de152&sqp=CKiv3ZcG&rs=AOn4CLCgXrVMjc606G98E6wtOnCpApfOMQ)](https://www.youtube.com/watch?v=ETMBVu7xWlc&ab_channel=TechMely)
+[![Prototype trong Javascript](https://user-images.githubusercontent.com/29374426/187132755-fc7c9ecd-1c89-45d5-b7c9-ed3dbb8d18c2.png)](https://www.youtube.com/watch?v=ETMBVu7xWlc&ab_channel=TechMely)
 
 ## Currying trong JavaScript
 
@@ -47,7 +47,7 @@ Cũng như `Prototype`, chúng ta luôn hướng đến viết một đoạn cod
 
 Currying là kỹ thuật mà cho phép chuyển đổi một function với nhiều tham số thành những functions liên tiếp có một tham số. Nói cách khác, khi một function, thay vì lấy tất cả arguments cùng một lúc, lấy hàm thứ nhất và trả về hàm mới lấy hàm thứ hai và trả về hàm mới lấy hàm thứ ba, và tiếp tục cho đến khi tất cả các đối số đã được hoàn thành. Cùng tìm hiểu thêm trong video dưới đây nhé!
 
-[![Currying trong JavaScript](https://i9.ytimg.com/vi_webp/d6s3BXUjOy0/mqdefault.webp?v=622866a6&sqp=CNSx3ZcG&rs=AOn4CLAnXP4JCXNnT_h6n7lurhfT0HMkIw)](https://www.youtube.com/watch?v=d6s3BXUjOy0&ab_channel=TechMely)
+[![Currying trong JavaScript](https://user-images.githubusercontent.com/29374426/187133027-71feded2-0856-4268-8331-b7c9d74e966f.png)](https://www.youtube.com/watch?v=d6s3BXUjOy0&ab_channel=TechMely)
 
 ## Higher Order Functions trong Javascript
 
@@ -65,7 +65,7 @@ Với function trong Javascript, bạn có thể:
 
 Để hiểu sâu hơn về Higher Order Functions trong Javascript hãy xem video này nhé!
 
-[![Higher Order Functions trong Javascript](https://i9.ytimg.com/vi_webp/d8X241FCJNs/mqdefault.webp?v=6230a6e0&sqp=CIC03ZcG&rs=AOn4CLDwpOiYXWHXEhSohP3l2BqAyFRvXQ)](https://www.youtube.com/watch?v=d8X241FCJNs&ab_channel=TechMely)
+[![Higher Order Functions trong Javascript](https://user-images.githubusercontent.com/29374426/187133138-3fa72d7c-e1af-48c1-a6e0-ec3da98f26a1.png)](https://www.youtube.com/watch?v=d8X241FCJNs&ab_channel=TechMely)
 
 ## Shallow copy và Deep copy trong Javascript 
 
@@ -75,5 +75,5 @@ Trong lập trình, chúng ta lưu trữ data dưới dạng các biến. Tạo 
 
 `Shallow copy` có ý nghĩa rằng sau khi copy, biến mới hoặc các thành phần của biến mới vẫn còn quan hệ dây mơ rễ má với biến ban đầu, nguy hiểm quá nhỉ. Để hiểu thêm về copy, chúng ta cùng tìm hiểu video dưới đây
 
-[![Higher Order Functions trong Javascript](https://i9.ytimg.com/vi_webp/VCsiG54IdSw/mqdefault.webp?v=623ff212&sqp=CKy23ZcG&rs=AOn4CLBAhsoT1ugMFuIBK2BlMce5U0xLgg)](https://www.youtube.com/watch?v=VCsiG54IdSw&ab_channel=TechMely)
+[![Higher Order Functions trong Javascript](https://user-images.githubusercontent.com/29374426/187133234-1a03e078-b66d-4bdf-88fe-1140e2d022c8.png)](https://www.youtube.com/watch?v=VCsiG54IdSw&ab_channel=TechMely)
 
