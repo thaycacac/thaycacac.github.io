@@ -29,7 +29,7 @@ Vide hướng dẫn xây dựng blog dành cho dev
     <th>Nội dung</th>
   </tr>
   <tr>
-    <td>Hướng dẫn xây dựng blog cho Dev</td>
+    <td><a href="https://youtu.be/b8L2J5OiJrs" target="_blank">Hướng dẫn xây dựng blog cho Dev</a></td>
     <td>
        <a href="https://youtu.be/b8L2J5OiJrs" target="_blank">
          <img alt="Hướng dẫn xây dựng blog cho Dev" src="https://user-images.githubusercontent.com/29374426/187137610-939c535e-2ccf-4c3f-b968-258f0fef1fc9.png"/>
@@ -46,7 +46,7 @@ Vide hướng dẫn xây dựng blog dành cho dev
     </td>
   </tr>
   <tr>
-    <td>Hướng dẫn deploy blog</td>
+    <td><a href="https://youtu.be/0QwX4D7zVkg" target="_blank">Hướng dẫn deploy blog</a></td>
     <td>
        <a href="https://youtu.be/0QwX4D7zVkg" target="_blank">
          <img alt="Hướng dẫn deploy blog" src="https://user-images.githubusercontent.com/29374426/187137524-08102415-eca2-48f1-b30b-cf01dde1de58.png"/>
