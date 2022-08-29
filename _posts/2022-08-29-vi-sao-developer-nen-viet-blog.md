@@ -30,21 +30,20 @@ Vide hướng dẫn xây dựng blog dành cho dev
   </tr>
   <tr>
     <td>Hướng dẫn xây dựng blog cho Dev</td>
-    <td>[https://youtu.be/b8L2J5OiJrs](https://youtu.be/b8L2J5OiJrs)</td>
+    <td>[![Hướng dẫn xây dựng blog cho Dev](https://user-images.githubusercontent.com/29374426/187137610-939c535e-2ccf-4c3f-b968-258f0fef1fc9.png)](https://youtu.be/b8L2J5OiJrs)</td>
     <td>
       <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Tại sao chúng ta nên bạo blog cá nhân</li>
+        <li>Hướng dẫn tạo cms trên contentful</li>
+        <li>Giới thiệu tính năng blog</li>
+        <li>Ví dụ tạo một post trong blog</li>
+        <li>Giới thiệu về source code</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>Hướng dẫn deploy blog</td>
-    <td>[https://youtu.be/0QwX4D7zVkg](https://youtu.be/0QwX4D7zVkg)</td>
+    <td>[![Hướng dẫn deploy blog](https://user-images.githubusercontent.com/29374426/187137524-08102415-eca2-48f1-b30b-cf01dde1de58.png)](https://youtu.be/0QwX4D7zVkg)</td>
     <td>
     <ul>
         <li>Deploy Nextis trên Netlify</li>
@@ -53,6 +52,7 @@ Vide hướng dẫn xây dựng blog dành cho dev
     </td>
   </tr>
 </table>
+
 
 ## Chia sẻ bài học kinh nghiệm với người khác
 
