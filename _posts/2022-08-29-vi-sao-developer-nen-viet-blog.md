@@ -30,7 +30,11 @@ Vide hướng dẫn xây dựng blog dành cho dev
   </tr>
   <tr>
     <td>Hướng dẫn xây dựng blog cho Dev</td>
-    <td>[![Hướng dẫn xây dựng blog cho Dev](https://user-images.githubusercontent.com/29374426/187137610-939c535e-2ccf-4c3f-b968-258f0fef1fc9.png)](https://youtu.be/b8L2J5OiJrs)</td>
+    <td>
+       <a href="https://youtu.be/b8L2J5OiJrs" target="_blank">
+         <img alt="Hướng dẫn xây dựng blog cho Dev" src="https://user-images.githubusercontent.com/29374426/187137610-939c535e-2ccf-4c3f-b968-258f0fef1fc9.png"/>
+       </a>
+    </td>
     <td>
       <ul>
         <li>Tại sao chúng ta nên bạo blog cá nhân</li>
@@ -43,7 +47,11 @@ Vide hướng dẫn xây dựng blog dành cho dev
   </tr>
   <tr>
     <td>Hướng dẫn deploy blog</td>
-    <td>[![Hướng dẫn deploy blog](https://user-images.githubusercontent.com/29374426/187137524-08102415-eca2-48f1-b30b-cf01dde1de58.png)](https://youtu.be/0QwX4D7zVkg)</td>
+    <td>
+       <a href="https://youtu.be/0QwX4D7zVkg" target="_blank">
+         <img alt="Hướng dẫn deploy blog" src="https://user-images.githubusercontent.com/29374426/187137524-08102415-eca2-48f1-b30b-cf01dde1de58.png"/>
+       </a>
+    </td>
     <td>
     <ul>
         <li>Deploy Nextis trên Netlify</li>
