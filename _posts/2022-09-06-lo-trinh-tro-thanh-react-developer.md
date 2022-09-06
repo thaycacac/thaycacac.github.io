@@ -7,19 +7,25 @@ gh-badge: [follow]
 categories: [frontend]
 tags: [frontend]
 keywords: [
-   javascript nâng cao,
-   các chủ đề javascript nâng cao,
-   5 chủ đề javascript nâng cao,
-   This trong Javascript,
-   Prototype trong Javascript,
-   Currying trong JavaScript,
-   Higher Order Functions trong Javascript,
-   Shallow copy và Deep copy trong Javascript 
+   lộ trình trở thành react developer,
+   học reactjs nên bắt đầu từ đâu,
+   học reactjs ở đâu,
+   học reactjs dành cho người mới bắt đầu,
+   học react nên bắt đầu từ đâu,
+   học react ở đâu,
+   học react dành cho người mới bắt đầu,
 ]
 ---
 Lộ trình trở thành React developer
 
 ![Lộ trình trở thành React developer](https://user-images.githubusercontent.com/29374426/188606269-140c6c5c-2e71-4bc6-9d2b-2677072e96cf.png)
+
+
+## Video chi tiết lộ tr trở thành React developer
+
+<a href="https://youtu.be/0tIW7TK7p8w" target="_blank">
+   <img alt="Lộ trình trở thành React developer" src="https://user-images.githubusercontent.com/29374426/188609448-237b4aa1-747e-4e6b-a0e0-5a359d3945ea.png" />
+</a>
 
 ## Những thứ cơ bản
 
