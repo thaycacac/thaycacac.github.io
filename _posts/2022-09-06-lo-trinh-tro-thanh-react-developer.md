@@ -16,7 +16,9 @@ keywords: [
    học react dành cho người mới bắt đầu,
 ]
 ---
-Lộ trình trở thành React developer
+
+React JS hay React là một thư viện Javascript mã nguồn mở rất phổ biến hiện nay. Nó được maintained và phát triển thường xuyên bởi Facebook và một cộng đồng cực kỳ hùng hậu. React được coi như là một trong những thư viện tốt nhất trong những năm gần đây để phát triển GUI dựa trên component. Dưới đây là tổng quan về lộ trình trở thành React developer
+
 
 ![Lộ trình trở thành React developer](https://user-images.githubusercontent.com/29374426/188606269-140c6c5c-2e71-4bc6-9d2b-2677072e96cf.png)
 
