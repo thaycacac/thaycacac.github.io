@@ -11,6 +11,29 @@ keywords: []
 
 Tổng hợp các công cụ hữu ích dành cho developer
 
+<table>
+  <tr>
+    <th>Tiêu đề</th>
+    <th>Video</th>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/w1FYAhgxAz4" target="_blank">Làm việc hiểu quả hơn cùng các công cụ hữu ích</a></td>
+    <td>
+       <a href="https://youtu.be/w1FYAhgxAz4" target="_blank">
+         <img alt="Làm việc hiểu quả hơn cùng các công cụ hữu ích" src="https://user-images.githubusercontent.com/29374426/188784397-071ec1ba-c4e9-42f7-abb4-b24d835bdbf5.png"/>
+       </a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/w1FYAhgxAz4" target="_blank">Làm việc hiểu quả hơn cùng các công cụ hữu ích</a></td>
+    <td>
+       <a href="https://youtu.be/0QwX4D7zVkg" target="_blank">
+         <img alt="Làm việc hiểu quả hơn cùng các công cụ hữu ích" src="https://user-images.githubusercontent.com/29374426/188784421-7195999f-7e78-4c28-922e-4c431d1c6da9.png"/>
+       </a>
+    </td>
+  </tr>
+</table>
+
 
 ## responsively.app
 
