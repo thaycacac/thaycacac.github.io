@@ -6,7 +6,14 @@ gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [frontend, backend]
 tags: [backend, frontend]
-keywords: []
+keywords: [
+  các công cụ hữu ích dành cho developer,
+  các công cụ hữu ích dành cho lập trình viên,
+  các công cụ hữu ích dành cho dev,
+  các tool hữu ích dành cho developer,
+  các tool hữu ích dành cho lập trình viên,
+  các tool hữu ích dành cho dev
+]
 ---
 
 Tổng hợp các công cụ hữu ích dành cho developer
