@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Các công cụ hữu ích dành cho developer
-subtitle: Công kỳ vô bị, xuất kỳ bất ý...
+subtitle: Lợi nhi dụ chi, loạn nhi thủ chi, thực nhi bị chi, cường nhi tị chi...
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [frontend, backend]
