@@ -107,14 +107,34 @@ f != 42 #=> "checking for INequality with 42"
 ### Case equality operator (===)
 
 ```ruby
-(1..5) === 3 (1..5) === 6
-Integer === 42
-Integer === 'fourtytwo'
-/ell/ === 'Hello' /ell/ === 'Foobar'
-# => true
-# => false
-# => true
-# => false
-# => true
-# => false
+(1..5) === 3 # => true
+(1..5) === 6 # => false
+Integer === 42 # => true
+Integer === 'fourtytwo'# => false
+/ell/ === 'Hello' # => true
+/ell/ === 'Foobar'# => false
 ```
+
+### Safe Navigation Operator
+
+```ruby
+# Bad
+if house && house.address && house.address.street_name
+  house.address.street_name
+end
+
+# Good
+if house&.address&.street_name
+  house.address.street_name
+end
+```
+
+### Assignment Operators
+
+```ruby
+x, y = 3, 9
+x, y = y, x
+puts "x is #{x}, y is #{y}" # => x is 9, y is 3
+```
+
+### Comparison Operators
