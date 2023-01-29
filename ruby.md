@@ -196,3 +196,124 @@ some_method
 method_scope_var
 # NameError: undefined local variable or method `method_scope_var'
 ```
+
+## Arrays
+
+### Create Array of Strings
+
+```ruby
+array = %w(one two three four)
+array = ['one', 'two', 'three', 'four']
+```
+
+### Create Array with Array::new
+
+```ruby
+Array.new 3 #=> [nil, nil, nil]
+Array.new 3, :x #=> [:x, :x, :x]
+Array.new(3) { |i| i.to_s } #=> ["0", "1", "2"]
+b = Array.new(3) { "X" }
+b[1].replace "C"
+```
+
+### Create Array of Symbols
+
+```ruby
+array = %i(one two three four)
+```
+
+### Manipulating Array Elements
+
+```ruby
+[1, 2, 3] << 4
+# => [1, 2, 3, 4]
+
+[1, 2, 3].push(4) # => [1, 2, 3, 4]
+
+[1, 2, 3].unshift(4) # => [4, 1, 2, 3]
+
+[1, 2, 3] << [4, 5]
+# => [1, 2, 3, [4, 5]]
+
+array = [1, 2, 3, 4] array.pop
+# => 4
+
+array
+# => [1, 2, 3]
+
+array = [1, 2, 3, 4] array.shift
+# => 1
+array
+# => [2, 3, 4]
+
+array = [1, 2, 3, 4] array.delete(1)
+# => 1
+array
+# => [2, 3, 4]
+
+array = [1,2,3,4,5,6]
+array.delete_at(2) // delete from index 2 # => 3
+array
+# => [1,2,4,5,6]
+
+array = [1, 2, 2, 2, 3]
+array - [2]
+# => [1, 3] # removed all the 2s array - [2, 3, 4]
+# => [1] # the 4 did nothing
+
+[1, 2, 3] + [4, 5, 6]
+# => [1, 2, 3, 4, 5, 6]
+[1, 2, 3].concat([4, 5, 6]) # => [1, 2, 3, 4, 5, 6]
+[1, 2, 3, 4, 5, 6] - [2, 3] # => [1, 4, 5, 6]
+[1, 2, 3] | [2, 3, 4] # => [1, 2, 3, 4]
+[1, 2, 3] & [3, 4] # => [3]
+
+[1, 2, 3] * 2
+# => [1, 2, 3, 1, 2, 3]
+```
+
+### Accessing elements
+
+```ruby
+%w(a b c)[0] # => 'a'
+%w(a b c)[1] # => 'b'
+
+%w(a b c d)[1..2] # => ['b', 'c'] (indices from 1 to 2, including the 2) 
+%w(a b c d)[1...2] # => ['b'] (indices from 1 to 2, excluding the 2)
+
+%w(a b c)[-1] # => 'c'
+%w(a b c)[-2] # => 'b'
+%w(a b c d e)[1...-1] # => ['b', 'c', 'd']
+[1, 2, 3, 4].first # => 1
+[1, 2, 3, 4].first(2) # => [1, 2]
+[1, 2, 3, 4].last # => 4
+[1, 2, 3, 4].last(2) # => [3, 4]
+[1, 2, 3, 4].sample # => 3
+[1, 2, 3, 4].sample # => 1
+[1, 2, 3, 4].sample(2) # => [2, 1]
+[1, 2, 3, 4].sample(2) # => [3, 4]
+```
+
+### Creating an Array with the literal constructor [ ]
+
+```ruby
+array = [1, 2, 3, 4]
+array = [1, 'b', nil, [3, 4]]
+```
+
+### Decomposition
+
+```ruby
+arr = [1, 2, 3] # ---
+a = arr[0]
+b = arr[1]
+c = arr[2]
+# --- or, the same 
+a, b, c = arr
+
+a, *b = arr # a = 1; b = [2, 3]
+a, *b, c = arr # a = 1; b = [2]; c = 3
+a, b, c, *d = arr # a = 1; b = 2; c = 3; d = []
+a, *b, *c = arr # SyntaxError: unexpected *
+```
+
