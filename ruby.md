@@ -106,3 +106,15 @@ f != 42 #=> "checking for INequality with 42"
 
 ### Case equality operator (===)
 
+```ruby
+(1..5) === 3 (1..5) === 6
+Integer === 42
+Integer === 'fourtytwo'
+/ell/ === 'Hello' /ell/ === 'Foobar'
+# => true
+# => false
+# => true
+# => false
+# => true
+# => false
+```
