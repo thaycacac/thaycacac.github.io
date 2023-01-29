@@ -138,3 +138,61 @@ puts "x is #{x}, y is #{y}" # => x is 9, y is 3
 ```
 
 ### Comparison Operators
+
+## Variable Scope and Visibility
+
+### Class Variables
+
+```ruby
+class Dinosaur
+  @@classification = "Like a Reptile, but like a bird"
+  def self.classification
+    @@classification
+  end
+  def classification
+    @@classification
+  end
+end
+dino = Dinosaur.new
+dino.classification
+# => "Like a Reptile, but like a bird"
+Dinosaur.classification
+# => "Like a Reptile, but like a bird"
+```
+
+```ruby
+class TRex < Dinosaur
+  @@classification = "Big teeth bird!"
+end
+TRex.classification
+# => "Big teeth bird!"
+
+Dinosaur.classification
+# => "Big teeth bird!"
+```
+
+```ruby
+module SomethingStrange
+  @@classification = "Something Strange"
+end
+class DuckDinosaur < Dinosaur
+  include SomethingStrange
+end
+DuckDinosaur.class_variables # => [:@@classification]
+SomethingStrange.class_variables # => [:@@classification]
+DuckDinosaur.classification # => "Big teeth bird!"
+```
+
+### Local Variables
+
+```ruby
+def some_method
+  method_scope_var = "hi there"
+  p method_scope_var
+end
+some_method
+# hi there
+# => hi there
+method_scope_var
+# NameError: undefined local variable or method `method_scope_var'
+```
