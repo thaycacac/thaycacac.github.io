@@ -462,3 +462,111 @@ join_as_string('something') join_as_string([2, 1, 5]) join_as_string(1) join_as_
 #=> ""
 #=> ""
 ```
+
+## String
+
+### Difference between single-quoted and double-quoted String literals
+
+```ruby
+# Single-quoted strings don't support interpolation
+puts 'Now is #{Time.now}' # Now is #{Time.now}
+# Double-quoted strings support interpolation
+puts "Now is #{Time.now}"
+# Now is 2016-07-21 12:43:04 +0200
+```
+
+```ruby
+puts 'Hello\nWorld' # Hello\nWorld
+puts "Hello\nWorld" # Hello
+# World
+```
+
+### Creating a String
+
+```ruby
+s1 = 'Hello'
+s2 = "Hello"
+%(A string) %{A string} %<A string> %|A string| %!A string!
+```
+
+### Case manipulation
+
+```ruby
+"string".upcase
+"STRING".downcase "String".swapcase "string".capitalize # => "String"
+```
+
+### String concatenation
+
+```ruby
+s1 = "Hello"
+s2 = " "
+s3 = "World"
+puts s1 + s2 + s3
+# => Hello World
+s = s1 + s2 + s3 puts s
+# => Hello World
+```
+
+### Positioning strings
+
+```ruby
+str ="abcd"
+str.ljust(4) => "abcd" str.ljust(10) => "abcd 
+str = "abcd"
+str.rjust(4) => "abcd" str.rjust(10) => " abcd"
+str = "abcd"
+str.center(4) => "abcd" str.center(10) => " abcd "
+```
+
+### Splitting a String
+
+```ruby
+"alpha,beta".split(",")
+# => ["alpha", "beta"]
+```
+
+### String starts with
+
+```ruby
+str = "zebras are cool"
+str.start_with?("zebras") => true
+```
+
+```ruby
+str = "zebras are cool"
+str.index("zebras").zero? => true
+```
+
+### Joining Strings
+
+```ruby
+["alpha", "beta"].join(",") # => "alpha,beta"
+["alpha", "beta"].join # => "alphabeta"
+```
+
+### String ends with
+
+```ruby
+str = "I like pineapples" str.end_with?("pineaaples") => false
+```
+
+### String Substitution
+
+```ruby
+p "This is %s" % "foo" # => "This is foo"
+p "%s %s %s" % ["foo", "bar", "baz"] # => "foo bar baz"
+p "%{foo} == %{foo}" % {:foo => "foo" } # => "foo == foo"
+```
+
+### String character replacements
+
+```ruby
+"string".tr('r', 'l') # => "stling"
+"string ring".sub('r', 'l') # => "stling ring"
+"string ring".gsub('r','l') # => "stling ling"
+```
+
+### Understanding the data in a string
+
+
