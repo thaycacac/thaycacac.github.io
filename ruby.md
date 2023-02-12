@@ -317,3 +317,148 @@ a, b, c, *d = arr # a = 1; b = 2; c = 3; d = []
 a, *b, *c = arr # SyntaxError: unexpected *
 ```
 
+```ruby
+arr = [1, [2, 3, 4], 5, 6]
+a, (b, *c), *d = arr # a = 1; b = 2; c = [3, 4]; d = [5, 6]
+```
+
+### Arrays union, intersection and difference
+
+```ruby
+x = [5, 5, 1, 3] y = [5, 2, 4, 3]
+x|y
+=> [5, 1, 3, 2, 4]
+x&y
+=> [5, 3]
+x-y => [1]
+```
+
+### Remove all nil elements from an array with #compact
+
+```ruby
+array = [ 1, nil, 'hello', nil, '5', 33] array.compact # => [ 1, 'hello', '5', 33]
+#notice that the method returns a new copy of the array with nil removed,
+#without affecting the original
+array = [ 1, nil, 'hello', nil, '5', 33]
+#If you need the original array modified, you can either reassign it array = array.compact # => [ 1, 'hello', '5', 33]
+array = [ 1, 'hello', '5', 33]
+#Or you can use the much more elegant 'bang' version of the method array = [ 1, nil, 'hello', nil, '5', 33]
+array.compact # => [ 1, 'hello', '5', 33]
+array = [ 1, 'hello', '5', 33]
+```
+
+### Get all combinations / permutations of an array
+
+```ruby
+[1,2,3].permutation
+[1,2,3].permutation.to_a
+[1,2,3].permutation(2).to_a [[1,2],[1,3],[2,1],[2,3],[3,1],[3,2]] [1,2,3].permutation(4).to_a [] -> No permutations of length 4
+```
+
+```ruby
+[1,2,3].combination(1) #<Enumerator: [1,2,3]:combination [1,2,3].combination(1).to_a [[1],[2],[3]] [1,2,3].combination(3).to_a [[1,2,3]] [1,2,3].combination(4).to_a [] -> No combinations of length 4
+```
+
+### Inject, reduce
+
+```ruby
+[1,2,3].reduce(0) {|a,b| a + b} # => 6
+[1,2,3].reduce {|a,b| a + b} # => 6
+[1,2,3].reduce(0, :+) # => 6
+[1,2,3].reduce(:+) # => 6
+```
+
+### Filtering arrays
+
+#### Select
+
+```ruby
+array = [1, 2, 3, 4, 5, 6]
+array.select { |number| number > 3 } # => [4, 5, 6]
+```
+
+#### Reject
+
+```ruby
+array = [1, 2, 3, 4, 5, 6]
+array.reject { |number| number > 3 } # => [1, 2, 3]
+```
+
+### #map
+
+```ruby
+[1, 2, 3].map { |i| i * 3 } # => [3, 6, 9]
+['1', '2', '3', '4', '5'].map { |i| i.to_i } # => [1, 2, 3, 4, 5]
+```
+
+```ruby
+# call to_i method on all elements
+%w(1 2 3 4 5 6 7 8 9 10).map(&:to_i) # => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+# using proc (lambda) on all elements
+%w(1 2 3 4 5 6 7 8 9 10).map(&->(i){ i.to_i * 2}) # => [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+```
+
+### Arrays and the splat (*) operator
+
+```ruby
+def wrap_in_array(value) [*value]
+end
+wrap_in_array(1) #> [1]
+wrap_in_array([1, 2, 3]) #> [1, 2, 3]
+wrap_in_array(nil) #> []
+```
+
+### Two-dimensional array
+
+```ruby
+array = Array.new(3) { Array.new(4) { 0 } }
+```
+
+### Turn multi-dimensional array into a one- dimensional (flattened) array
+
+```ruby
+[1, 2, [[3, 4], [5]], 6].flatten # => [1, 2, 3, 4, 5, 6]
+```
+
+### Get unique array elements
+
+```ruby
+a = [1, 1, 2, 3, 4, 4, 5]
+a.uniq
+#=> [1, 2, 3, 4, 5]
+```
+
+### Create Array of numbers
+
+```ruby
+numbers = Array(1..10) # => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+numbers = (1..10).to_a # => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+```
+
+### Create an Array of consecutive numbers or letters
+
+```ruby
+(1..10).to_a #=> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+a_range = 1...5
+a_range.to_a #=> [1, 2, 3, 4]
+
+```
+
+### Cast to Array from any object
+
+```ruby
+def join_as_string(arg)
+if arg.instance_of?(Array)
+arg.join(',')
+elsif arg.instance_of?(Range)
+arg.to_a.join(',') else
+arg.to_s end
+end
+join_as_string('something') join_as_string([2, 1, 5]) join_as_string(1) join_as_string(2..4) join_as_string([]) join_as_string(nil)
+#=> "something"
+#=> "2,1,5"
+#=> "1"
+#=> "2,3,4"
+#=> ""
+#=> ""
+```
