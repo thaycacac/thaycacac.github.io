@@ -569,4 +569,178 @@ p "%{foo} == %{foo}" % {:foo => "foo" } # => "foo == foo"
 
 ### Understanding the data in a string
 
+```ruby
+"abc".bytes # => [97, 98, 99] "abc".encoding.name # => "UTF-8"
+```
 
+## DateTime
+
+### DateTime from string
+
+```ruby
+DateTime.parse('Jun, 8 2016')
+# => #<DateTime: 2016-06-08T00:00:00+00:00 ((2457548j,0s,0n),+0s,2299161j)> DateTime.parse('201603082330')
+# => #<DateTime: 2016-03-08T23:30:00+00:00 ((2457456j,84600s,0n),+0s,2299161j)> DateTime.parse('04-11-2016 03:50')
+# => #<DateTime: 2016-11-04T03:50:00+00:00 ((2457697j,13800s,0n),+0s,2299161j)> DateTime.parse('04-11-2016 03:50 -0300')
+# => #<DateTime: 2016-11-04T03:50:00-03:00 ((2457697j,24600s,0n),-10800s,2299161j)
+```
+### New
+
+```ruby
+DateTime.new(2014,10,14)
+# => #<DateTime: 2014-10-14T00:00:00+00:00 ((2456945j,0s,0n),+0s,2299161j)>
+DateTime.now
+# => #<DateTime: 2016-08-04T00:43:58-03:00 ((2457605j,13438s,667386397n),-10800s,2299161j)>
+```
+
+### Add/subtract days to DateTime
+
+```ruby
+DateTime.new(2015,12,30,23,0) + 1
+# => #<DateTime: 2015-12-31T23:00:00+00:00 ((2457388j,82800s,0n),+0s,2299161j)>
+DateTime.new(2015,12,30,23,0) + 2.5
+# => #<DateTime: 2016-01-02T11:00:00+00:00 ((2457390j,39600s,0n),+0s,2299161j)>
+DateTime.new(2015,12,30,23,0) + Rational(1,2)
+# => #<DateTime: 2015-12-31T11:00:00+00:00 ((2457388j,39600s,0n),+0s,2299161j)>
+DateTime.new(2015,12,30,23,0) - 1
+# => #<DateTime: 2015-12-29T23:00:00+00:00 ((2457388j,82800s,0n),+0s,2299161j)>
+DateTime.new(2015,12,30,23,0) - 2.5
+DateTime.new(2015,12,30,23,0) - Rational(1,2)
+# => #<DateTime: 2015-12-30T11:00:00+00:00 ((2457387j,39600s,0n),+0s,2299161j)>
+```
+
+## Time
+
+### How to use the strftime method
+
+```ruby
+Time.now.strftime("%Y-%m-d %H:%M:S") #=> "2016-07-27 08:45:42"
+
+Time.now.strftime("%F %X") #=> "2016-07-27 08:45:42"
+```
+
+### Creating time objects
+
+```ruby
+Time.new(2010, 3, 10) #10 March 2010 (Midnight)
+Time.new(2015, 5, 3, 10, 14) #10:14 AM on 3 May 2015
+Time.new(2050, "May", 3, 21, 8, 16, "+10:00") #09:08:16 PM on 3 May 2050
+
+Time.now.to_i # => 1478633386
+Time.at(1478633386) # => 2016-11-08 17:29:46 -0200
+```
+
+## Numbers
+
+### Converting a String to Integer
+
+```ruby
+Integer("123") Integer("0xFF") Integer("0b100") Integer("0555")
+# => 123
+# => 255
+# => 4
+# => 365
+"23".to_i
+"23-hello".to_i
+"hello".to_i
+# => 23
+# => 23
+# => 0
+```
+
+### Creating an Integer
+
+```ruby
+0 # creates the Fixnum 0
+123 # creates the Fixnum 123
+1_000 # creates the Fixnum 1000. You can use _ as separator for readability
+```
+
+### Rounding Numbers
+
+```ruby
+4.89.round 4.25.round 3.141526.round(1) 3.141526.round(2) 3.141526.round(4)
+# => 5
+# => 4
+# => 3.1
+# => 3.14
+# => 3.1415
+
+4.9999999999999.floor # => 4
+
+4.0000000000001.ceil # => 5
+```
+
+### Even and Odd Numbers
+
+```ruby
+4.even? # => true 5.even? # => false
+4.odd? # => false 5.odd? # => true
+```
+
+### Rational Numbers
+
+```ruby
+r1 = Rational(2, 3)
+r2 = 2.5.to_r
+r3 = r1 + r2
+r3.numerator # => 19 r3.denominator # => 6 Rational(2, 4) # => (1/2)
+Rational('2/3') Rational(3) Rational(3, -5) Rational(0.2) Rational('0.2') 0.2.to_r 0.2.rationalize '1/4'.to_r
+# => (2/3)
+# => (3/1)
+# => (-3/5)
+# => (3602879701896397/18014398509481984)
+# => (1/5)
+# => (3602879701896397/18014398509481984)
+# => (1/5)
+# => (1/4)
+```
+
+### Complex Numbers
+
+```ruby
+1i # => (0+1i)
+1.to_c # => (1+0i)
+rectangular = Complex(2, 3) # => (2+3i)
+polar = Complex('1@2') # => (-0.4161468365471424+0.9092974268256817i)
+```
+
+### Converting a number to a string
+
+```ruby
+2.to_s(2)
+3.to_s(2)
+3.to_s(3) 10.to_s(16) # => "a"
+```
+
+### Dividing two numbers
+
+```ruby
+3 / 2 # => 1
+3 / 3.0 # => 1.0
+```
+
+## Symbols
+
+### Creating a Symbol
+
+```ruby
+:a_symbol # => :a_symbol :a_symbol.class # => Symbol
+```
+
+### Converting a String to Symbol
+
+```ruby
+s.to_sym
+# => :something
+:"#{s}"
+# => :something
+```
+
+### Converting a Symbol to String
+
+```ruby
+s = :something
+s.to_s
+# => "something"
+```
