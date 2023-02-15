@@ -744,3 +744,180 @@ s = :something
 s.to_s
 # => "something"
 ```
+
+## Comparable
+
+### Rectangle comparable by area
+
+```ruby
+class Rectangle include Comparable
+def initialize(a, b) @a = a
+@b = b end
+def area @a * @b
+end
+def <=>(other)
+area <=> other.area
+end end
+r1 = Rectangle.new(1, 1) r2 = Rectangle.new(2, 2) r3 = Rectangle.new(3, 3)
+r2 >= r1 # => true r2.between? r1, r3 # => true r3.between? r1, r2 # => false
+```
+
+## Control Flow
+
+### if, elsif, else and end
+
+```ruby
+status = if age < 18 :minor
+else
+:adult
+end
+```
+
+### Case statement
+
+```ruby
+case x when 1,2,3
+puts "1, 2, or 3" when 10
+puts "10" else
+puts "Some other number" end
+
+case x
+when 1,2,3 then puts "1, 2, or 3" when 10 then puts "10"
+else puts "Some other number"
+end
+```
+
+### Truthy and Falsy values
+
+ two values which are considered "falsy"
+ 
+ - nil
+ - false
+
+### Inline if/unless
+
+```ruby
+puts "x is less than 5" if x < 5
+```
+
+### while, until
+
+```ruby
+i= 0
+while i < 5
+puts "Iteration ##{i}"
+i +=1 end
+
+i= 0
+until i == 5
+puts "Iteration ##{i}"
+i +=1 end
+```
+
+### Flip-Flop operator
+
+```ruby
+(1..5).select do |e|
+e if (e == 2) .. (e == 4)
+end
+# => [2, 3, 4]
+``
+
+### Or-Equals/Conditional assignment operator (||=)
+
+### unless 
+
+```ruby
+# Prints not inclusive
+unless 'hellow'.include?('all') puts 'not inclusive'
+end
+```
+
+### throw, catch
+
+```ruby
+catch(:out) do
+  catch(:nested) do
+puts "nested" end
+puts "before"
+throw :out
+puts "will not be executed"
+end
+puts "after"
+# prints "nested", "before", "after"
+```
+
+### Ternary operator
+
+```ruby
+value = true
+value ? "true" : "false" #=> "true"
+value = false
+value ? "true" : "false" #=> "false"
+```
+
+### Loop control with break, next, and redo
+
+```ruby
+actions = %w(run jump swim exit macarena) index = 0
+while index < actions.length action = actions[index]
+break if action == "exit"
+index += 1
+puts "Currently doing this action: #{action}" end
+# Currently doing this action: run
+# Currently doing this action: jump
+# Currently doing this action: swim
+```
+
+```ruby
+actions = %w(run jump swim sleep macarena) index = 0
+repeat_count = 0
+while index < actions.length
+action = actions[index]
+puts "Currently doing this action: #{action}"
+if action == "sleep" repeat_count += 1
+redo if repeat_count < 3
+end
+index += 1 end
+# Currently doing this action: run
+# Currently doing this action: jump
+# Currently doing this action: swim
+# Currently doing this action: sleep
+# Currently doing this action: sleep
+# Currently doing this action: sleep
+# Currently doing this action: macarena
+```
+
+```ruby
+even_value = for value in [1, 2, 3] break value if value.even?
+end
+puts "The first even value is: #{even_value}"
+```
+
+### return vs. next: non-local return in a block
+
+```ruby
+def foo
+bar = [1, 2, 3, 4].map do |x|
+return 0 if x.even?
+x
+end
+puts 'baz'
+bar
+end
+foo # => 0
+```
+
+### begin, end
+
+```ruby
+begin
+a= 7 b= 6 a*b
+end
+```
+
+### Control flow with logic statements
+
+```ruby
+File.exist?(filename) or STDERR.puts "#{filename} does not exist!"
+```
