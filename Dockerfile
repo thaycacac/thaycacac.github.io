@@ -1,5 +1,5 @@
-FROM jekyll/jekyll
 FROM ruby:2.7.3
+FROM jekyll/jekyll
 
 COPY Gemfile .
 COPY Gemfile.lock .
