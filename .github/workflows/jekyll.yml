@@ -12,7 +12,8 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.7.3
-      - run: bundle install
+      - name: Install dependencies
+        run: bundle install
       - name: Build the site in the jekyll/builder container
         run: |
           docker run \
