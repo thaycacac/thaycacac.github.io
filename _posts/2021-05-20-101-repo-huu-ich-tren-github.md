@@ -6,15 +6,6 @@ gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [frontend, backend]
 tags: [backend, frontend, git]
-keywords:
-  [
-    các repo hay trên github,
-    cac repo hay tren github,
-    tổng hợp các repo trên github,
-    tong hop cac repo tren github,
-    các repo hữu ích trên github,
-    cac repo huu ich tren github,
-  ]
 ---
 
 Tổng hợp danh sách 101 repository hữu ích trên github...

@@ -6,17 +6,6 @@ gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [ui/ux]
 tags: [ui/ux]
-keywords: [
-  mockup app,
-  mockup generator,
-  mockups figma,
-  apps mockup,
-  tools mockup,
-  tạo mockups đơn giản,
-  tao mockup don gian,
-  hướng dẫn tạo mockups,
-  huong dan tao mockups
-]
 ---
 
 Do mình học môn HCI201(Human Computer Interaction) và thầy yêu cầu vẽ mockups, nhưng team mình thì lại thích design trên **figma**, ngại dùng tools khác để vẽ nên mình đã tự tạo ra bộ components mockups đơn giản, có lẽ là đủ để tạo apps/web làm bài tập trên lớp mà lại dễ dùng.

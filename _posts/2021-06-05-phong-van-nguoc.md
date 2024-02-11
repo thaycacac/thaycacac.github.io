@@ -6,17 +6,6 @@ gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [frontend, backend]
 tags: [backend, frontend]
-keywords:
-  [
-    phỏng vấn ngược,
-    phong van nguoc,
-    hỏi lại nhà tuyển dụng,
-    phong van lai nha tuyen dung,
-    hoi lai nha tuyen dung,
-    các câu hỏi để hỏi lại nhà tuyển dụng,
-    đặt câu hỏi cho nhà tuyển dụng,
-    đặt câu hỏi cho người tuyển dụng
-  ]
 ---
 
 Dưới đây là danh sách các câu hỏi có thể giúp ích cho bạn trong việc ứng tuyển ngành công nghệ thông tin, thật uổng phí nếu bạn bỏ qua. Một số mục có thể không ứng dụng cho 1 số loại công việc và vị trí nhất định.

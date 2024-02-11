@@ -6,16 +6,6 @@ gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [frontend, backend]
 tags: [backend, frontend]
-keywords: [
-   javascript nâng cao,
-   các chủ đề javascript nâng cao,
-   5 chủ đề javascript nâng cao,
-   This trong Javascript,
-   Prototype trong Javascript,
-   Currying trong JavaScript,
-   Higher Order Functions trong Javascript,
-   Shallow copy và Deep copy trong Javascript 
-]
 ---
 
 Viết blog là một việc mang rất nhiều lợi ích đối với lập trình viên. Khi internet phát triển, chúng ta ngày càng kết nối với nhau nhiều hơn với mọi người trên khắp mọi nơi. Chúng ta có thể nói chuyện với mọi người, làm việc cùng nhau trên mạng, viết code và chia sẻ…

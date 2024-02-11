@@ -6,18 +6,6 @@ gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [frontend, backend]
 tags: [backend, frontend]
-keywords:
-  [
-    thaycacac,
-    hoapn,
-    học java,
-    khóa học java,
-    hoc java,
-    học lập trình,
-    hoc lap trinh,
-    hoc c,
-    học c
-  ]
 ---
 
 Tổng hợp các khóa học lập trình miễn phí.

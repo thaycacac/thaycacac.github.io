@@ -6,17 +6,6 @@ gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [share]
 tags: [share]
-keywords: [
-  thaycacac,
-  buông bỏ,
-  buong bo,
-  buông xả,
-  buong xa,
-  học cách từ bỏ,
-  hoc cach tu bo,
-  buông xả để hạnh phúc,
-  buong xa de hanh phuc
-]
 ---
 
 Buông bỏ một thứ gì đó mình yêu mến chưa bao giờ là dễ dàng, dù là buông tay người chúng ta yêu hay buông bỏ một ước mơ đang theo đuổi trong cuộc sống. Tuy vậy, có những thứ khi níu giữ chỉ càng khiến cho chúng ta đau khổ và mệt mỏi, và buông tay không phải là một sự chọn lựa, mà nó là điều duy nhất chúng ta có thể làm. Dưới đây là kỹ năng, cũng như bài luyện tập giúp chúng ta có thể buông bỏ, để có một cuộc sống hoan hỷ hơn.

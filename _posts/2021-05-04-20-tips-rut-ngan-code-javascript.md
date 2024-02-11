@@ -6,15 +6,6 @@ gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [frontend, backend]
 tags: [backend, frontend, javascript]
-keywords:
-  [
-    tips javascript,
-    rút gọn code trong javascript,
-    thủ thuật javascript,
-    thaycacac,
-    hoapn,
-    phạm ngọc hòa,
-  ]
 ---
 
 Các kỹ thuật viết tắt của bất kỳ ngôn ngữ lập trình nào giúp bạn viết code sạch và tối ưu hơn. JavaScript cũng vậy.

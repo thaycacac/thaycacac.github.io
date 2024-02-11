@@ -6,18 +6,6 @@ gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [frontend, backend]
 tags: [backend, frontend, javascript]
-keywords:
-  [
-    code,
-    js,
-    javascript,
-    es6,
-    code snippets,
-    snippets,
-    thaycacac,
-    hoapn,
-    phạm ngọc hòa,
-  ]
 ---
 
 Mình đã chọn ra số đoạn code hay nhất từ [30 seconds of code](https://www.30secondsofcode.org/) và cố gắng sắp xếp chúng dựa trên việc sử dụng thực tế, giải quyết được những vấn đề phổ biến mà bạn có thể gặp phải trong dự án.

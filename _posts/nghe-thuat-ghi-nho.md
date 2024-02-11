@@ -6,11 +6,6 @@ gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [code]
 tags: [share]
-keywords:
-  [
-    luyện ghi nhớ,
-    luyen ghi nho
-  ]
 ---
 
 Trí nhớ có thể hiểu đơn giản là khả năng lưu giữ thông tin, không chỉ l đặc quyền của con người mà tồn tại ở cả động vật. Tùy theo độ phức tạp của bộ não mà mỗi loài vật có những cấp độ nhớ khác nhau. 

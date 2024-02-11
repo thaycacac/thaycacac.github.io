@@ -6,15 +6,6 @@ gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
 categories: [frontend]
 tags: [frontend]
-keywords: [
-   lộ trình trở thành react developer,
-   học reactjs nên bắt đầu từ đâu,
-   học reactjs ở đâu,
-   học reactjs dành cho người mới bắt đầu,
-   học react nên bắt đầu từ đâu,
-   học react ở đâu,
-   học react dành cho người mới bắt đầu,
-]
 ---
 
 React JS hay React là một thư viện Javascript mã nguồn mở rất phổ biến hiện nay. Nó được maintained và phát triển thường xuyên bởi Facebook và một cộng đồng cực kỳ hùng hậu. React được coi như là một trong những thư viện tốt nhất trong những năm gần đây để phát triển GUI dựa trên component. Dưới đây là tổng quan về lộ trình trở thành React developer
