@@ -1,0 +1,1049 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+  <title>
+    Kiến thức UI Design
+  </title>
+  <meta name="author" content="Thaycacac" />
+  
+  
+  <meta name="keywords" content="thaycacac, phạm ngọc hòa, pham ngoc hoa" />
+   
+  <meta name="p:domain_verify" content="a2be4006f87e62fc1cb690ce12700c90"/>
+  <link rel="alternate" type="application/rss+xml" title="Thaycacac | Phạm Ngọc Hòa"
+    href="/feed.xml" />
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137167305-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+
+  gtag('config', 'UA-137167305-1');
+</script>
+
+  
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-K9C9P7Z');
+</script>
+
+  
+  
+  
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/bootstrap.min.css" />
+  
+  <link rel="stylesheet" href="/css/bootstrap-social.css" />
+  
+  <link rel="stylesheet" href="/css/main.css" />
+  
+  <link rel="stylesheet" href="/css/jquery-sakura.min.css" />
+  
+  
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  
+  
+  
+  
+
+  
+
+  
+  <meta property="fb:app_id" content="2190189127692080" />
+  
+
+  
+  <meta property="og:title" content="Kiến thức UI Design" />
+  
+
+  
+  <meta property="og:description" content="Bài viết này là những ghi chú của mình trong khi nghiên cứu về UI/UX. Khởi động Hãy bắt đầu từ feature, không phải layout Khi bắt đầu thiết kế một ứng dụng nào đó thường thì chúng ta sẽ nghĩ ngay đến việc thiết kế bố cục như thế...">
+  
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://thaycacac.github.io/2019-08-15-ui-design/" />
+  <link rel="canonical" href="http://thaycacac.github.io/2019-08-15-ui-design/" />
+  
+
+  
+  <meta property="og:image" content="http://thaycacac.github.io/img/avatar-icon.png" />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:creator" content="@" />
+
+  
+  <meta name="twitter:title" content="Kiến thức UI Design" />
+  
+
+  
+  <meta name="twitter:description" content="Bài viết này là những ghi chú của mình trong khi nghiên cứu về UI/UX. Khởi động Hãy bắt đầu từ feature, không phải layout Khi bắt đầu thiết kế một ứng dụng nào đó thường thì chúng ta sẽ nghĩ ngay đến việc thiết kế bố cục như thế...">
+  
+
+  
+  <meta name="twitter:image" content="http://thaycacac.github.io/img/avatar-icon.png" />
+  
+
+  
+  
+</head>
+
+
+<body>
+
+  
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9C9P7Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+  <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="http://thaycacac.github.io">Thaycacac</a>
+      
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+        
+        <li>
+          
+
+
+
+
+
+
+<a href="/frontend">Front End</a>
+        </li>
+        
+        
+        
+        <li>
+          
+
+
+
+
+
+
+<a href="/backend">Back End</a>
+        </li>
+        
+        
+        
+        <li>
+          
+
+
+
+
+
+
+<a href="/uiux">UI/UX</a>
+        </li>
+        
+        
+        
+        <li>
+          
+
+
+
+
+
+
+<a href="/donate">Donate</a>
+        </li>
+        
+        
+        
+        <li>
+          
+
+
+
+
+
+
+<a href="https://kungfutech.edu.vn/">Kungfutech</a>
+        </li>
+        
+        
+      </ul>
+    </div>
+
+    
+
+  </div>
+</nav>
+
+  
+
+
+
+<header class="header-section ">
+  
+  <div class="intro-header no-img">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <div class="post-heading">
+            <h1>Kiến thức UI Design</h1>
+            
+            
+            <h2 class="post-subheading">Tri khả dĩ chiến dữ bất khả chiến giả thắng</h2>
+            
+            
+
+            
+            <span class="post-meta">Posted on August 15, 2019</span>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      
+      
+      
+      
+
+      <div id="header-gh-btns">
+        
+        
+        
+        <iframe src="https://ghbtns.com/github-btn.html?user=thaycacac&type=follow&count=true" frameborder="0"
+          scrolling="0" width="220px" height="20px"></iframe>
+        
+        
+        
+      </div>
+      
+
+      <article role="main" class="blog-post">
+        <p>Bài viết này là những ghi chú của mình trong khi nghiên cứu về UI/UX.</p>
+
+<h3 id="khởi-động">Khởi động</h3>
+
+<h4 id="hãy-bắt-đầu-từ-feature-không-phải-layout">Hãy bắt đầu từ feature, không phải layout</h4>
+
+<p>Khi bắt đầu thiết kế một ứng dụng nào đó thường thì chúng ta sẽ nghĩ ngay đến việc thiết kế bố cục như thế nào. <strong>Stop!!!</strong> Hãy bắt đầu với tính năng của nó, hãy trả lời xem tính năng đó cần những trường gì, cần nút gì!</p>
+
+<h4 id="không-nên-design-quá-nhiều">Không nên design quá nhiều</h4>
+
+<p>Bạn không cần thiết phải design tất cả rồi chuyển sang bước tiếp theo mà hãy thử làm việc theo vòng tròn, liên tục cải thiện và phát triển chúng.</p>
+
+<p><img src="/assets/img/ui/1.png" alt="Không nên design quá nhiều" /></p>
+
+<h4 id="hãy-chọn-một-phong-cách">Hãy chọn một phong cách</h4>
+
+<p>Mọi đi design đều có một phong cách, ngân hàng cần tạo sự an toàn chuyên nghiệp, start-up thì có thể thiết kế làm cho vui vẻ và vui tươi.</p>
+
+<h4 id="font-chữ">Font chữ</h4>
+
+<p>Nếu bạn muốn có một vẻ ngoài thanh lịch hoặc cổ điển, bạn có thể muốn kết hợp một kiểu chữ serif trong thiết kế của bạn:</p>
+
+<p><img src="/assets/img/ui/2.png" alt="Lựa chọn font chữ" /></p>
+
+<p><img src="/assets/img/ui/3.png" alt="Lựa chọn font chữ" /></p>
+
+<p>Nếu bạn đang tìm kiếm một cái nhìn đơn giản hơn, hoặc muốn dựa vào các yếu tố khác tạo phong cách, thì neutral sans sẽ rất tuyệt vời:</p>
+
+<p><img src="/assets/img/ui/4.png" alt="Lựa chọn font chữ" /></p>
+
+<p>Mặt chữ tiếng việt</p>
+
+<p><img src="/assets/img/ui/127.png" alt="Lựa chọn font chữ" /></p>
+
+<h4 id="border-radius">Border radius</h4>
+
+<p>Border radius nhỏ thường không thực sự truyền đạt nhiều về ý nghĩa phong cách</p>
+
+<p><img src="/assets/img/ui/5.png" alt="Border radius" /></p>
+
+<p>Border radius lớn sẽ mang lại cảm giác vui tươi hơn</p>
+
+<p><img src="/assets/img/ui/6.png" alt="Border radius" /></p>
+
+<p>Không có border radius sẽ mang lại cảm giác trang trọng</p>
+
+<p><img src="/assets/img/ui/7.png" alt="Border radius" /></p>
+
+<p>Dù bạn chọn cái nào thì nhất định phải đồng bộ nó trong toàn ứng dụng, không nên pha trộn.</p>
+
+<h4 id="giới-lại-lựa-chọn">Giới lại lựa chọn</h4>
+
+<p>Có hàng triệu màu sắc và hàng ngàn font chữ để lựa chọn chính vì thế nó sẽ làm bạn tê liệt trong những quyết định. Vì vậy hãy giới hạn những lựa chọn của bạn lại.</p>
+
+<p><img src="/assets/img/ui/8.png" alt="Giới hạn lựa chọn" /></p>
+
+<p>Hãy giới hạn dần dần những lựa chọn trong vố số những lựa chọn.</p>
+
+<p><img src="/assets/img/ui/9.png" alt="Giới hạn lựa chọn" /></p>
+
+<h3 id="mọi-thứ-đều-có-cấp-độ">Mọi thứ đều có cấp độ</h3>
+
+<p>Hệ thống phân cấp đề cập đến mức độ quan trọng của các yếu tố trong giao diện xuất hiện trong mối quan hệ với nhau và nó là công cụ hiệu quả nhất mà bạn có để tạo ra thứ gì đó cảm thấy được.</p>
+
+<h4 id="font-size-không-phải-là-tất-cả">Font size không phải là tất cả</h4>
+
+<p>Sử dụng quá nhiều kích thước để phân cấp là một hành động sai lầm</p>
+
+<p><img src="/assets/img/ui/10.png" alt="Font size không phải là tất cả" /></p>
+
+<p>Thay vào đó chúng ta có thể sự dụng màu sắc và độ đậm nhạt của chữ cũng là một cách rất tối ưu</p>
+
+<p><img src="/assets/img/ui/11.png" alt="Font size không phải là tất cả" /></p>
+
+<p>Hãy cố gắng sử dụng 2 đến 3 màu với ý nghĩa như sau:</p>
+
+<ul>
+  <li>Màu tối cho nội dung chính (như tiêu đề của bài viết)</li>
+  <li>Màu xám cho nội dung thứ cấp (như ngày bài báo được xuất bản)</li>
+  <li>Màu xám nhạt hơn cho nội dung cấp ba (có thể là thông báo bản quyền ở chân trang)</li>
+</ul>
+
+<p>Tương tự có thể sử dụng 2 font-weight là đủ cho một UI tốt:</p>
+
+<ul>
+  <li>Bình thường (400 hoặc 500 tùy thuộc vào phông chữ) cho hầu hết văn bản</li>
+  <li>Đậm hơn (600 hoặc 700) cho văn bản bạn muốn nhấn mạnh</li>
+</ul>
+
+<h4 id="không-sử-dụng-màu-xám-cho-khi-có-màu-nền">Không sử dụng màu xám cho khi có màu nền</h4>
+
+<p><img src="/assets/img/ui/12.png" alt="Không sử dụng màu xám cho khi có màu nền" /></p>
+
+<p>Cách tối ưu cho trường hợp này là chọn màu the same hue, sau đó thay đổi saturation và lightness cho tới khi bạn cảm thấy ổn</p>
+
+<p><img src="/assets/img/ui/13.png" alt="Không sử dụng màu xám cho khi có màu nền" /></p>
+
+<h4 id="học-cách-nhấn-mạnh">Học cách nhấn mạnh</h4>
+
+<p>Thay vì nhấn mạnh chúng, có thể làm giảm độ quan trọng những phần tử xung quanh chúng</p>
+
+<p><img src="/assets/img/ui/14.png" alt="Học cách nhấn mạnh" />
+<img src="/assets/img/ui/15.png" alt="Học cách nhấn mạnh" /></p>
+
+<p>Trường hơn này thanh bên không quan trọng có thể để chúng lẫn vào background</p>
+
+<p><img src="/assets/img/ui/16.png" alt="Học cách nhấn mạnh" /></p>
+
+<h4 id="hạn-chế-dùng-label">Hạn chế dùng label</h4>
+
+<p>Vì nó sẽ gây khó khăn cho việc phân cấp dữ liệu, và nhấn mạnh phần quan trọng</p>
+
+<p>Và không nhất thiết phải dùng lab vì một số định dạng đã nói lên ý nghĩa của chúng tỷ dụ như email, hay số điện thoại,..</p>
+
+<p><img src="/assets/img/ui/17.png" alt="Hạn chế dùng label" />
+<img src="/assets/img/ui/18.png" alt="Hạn chế dùng label" /></p>
+
+<p>Hoặc có thể kết hợp label với value</p>
+
+<p><img src="/assets/img/ui/19.png" alt="Hạn chế dùng label" />
+<img src="/assets/img/ui/20.png" alt="Hạn chế dùng label" /></p>
+
+<p>Đôi khi phải dùng thì hãy nên dùng chúng như một đối tượng thứ cấp</p>
+
+<p><img src="/assets/img/ui/21.png" alt="Hạn chế dùng label" /></p>
+
+<p>Nhưng cũng có lúc phải nhấn label để thực hiện được mục đích</p>
+
+<p><img src="/assets/img/ui/22.png" alt="Hạn chế dùng label" /></p>
+
+<h4 id="linh-động-phân-cấp">Linh động phân cấp</h4>
+
+<p>Tỷ dụ trong trường hợp này sử dụng H1 là hợp lý về mặt ngữ nghĩa và SEO nhưng về mật phân cấp cho người dùng thì không được ổn.</p>
+
+<p><img src="/assets/img/ui/23.png" alt="Linh động phân cấp" /></p>
+
+<p>Trường hợp này chúng ta có thể giảm kích thước của chữ để phù hợp hơn</p>
+
+<p><img src="/assets/img/ui/24.png" alt="Linh động phân cấp" /></p>
+
+<h4 id="cân-bằng-độ-đậm-nhạt-và-độ-tương-phản">Cân bằng độ đậm nhạt và độ tương phản</h4>
+
+<p>Để tăng độ nhấn mạnh ta có thể chữ in đậm, nhưng quá nhiều thì sẽ làm gây khó chịu, có một cách thay thế để nhấn mạnh đó là chúng ta thêm icon vào.</p>
+
+<p><img src="/assets/img/ui/25.png" alt="Cân bằng độ đậm nhạt và độ tương phản" /></p>
+
+<p>Nhưng làm như trên thì sẽ làm mất cân bằng, và làm ngừoi dùng quá chú ý vào icon, vì thế chúng ta có thể giám độ tương phản của icon để giải quyết trường hợp trên.</p>
+
+<p><img src="/assets/img/ui/26.png" alt="Cân bằng độ đậm nhạt và độ tương phản" /></p>
+
+<p>Đây là một trường hợp khác chúng ta nên cân đối độ đậm nhạt và tương phản</p>
+
+<p><img src="/assets/img/ui/27.png" alt="Cân bằng độ đậm nhạt và độ tương phản" /></p>
+
+<p><img src="/assets/img/ui/28.png" alt="Cân bằng độ đậm nhạt và độ tương phản" /></p>
+
+<h4 id="ngữ-nghĩa">Ngữ nghĩa</h4>
+
+<p>Mặc dù ngữ nghĩa là quan trọng nhưng đừng bao giờ quên sự phân cấp.</p>
+
+<p><img src="/assets/img/ui/29.png" alt="Ngữ nghĩa" /></p>
+
+<p>Đây là cách giải quyết cho trường hợp này.</p>
+
+<p><img src="/assets/img/ui/30.png" alt="Ngữ nghĩa" /></p>
+
+<p>Tham khảo thêm:</p>
+
+<p><img src="/assets/img/ui/31.png" alt="Ngữ nghĩa" /></p>
+
+<p><img src="/assets/img/ui/32.png" alt="Ngữ nghĩa" /></p>
+
+<h3 id="layout-và-spacing">Layout và Spacing</h3>
+
+<h4 id="hãy-thêm-những-khoảng-cách">Hãy thêm những khoảng cách</h4>
+
+<p>Cách giải quyết vấn đề khi thiết kế mang cảm giác ngột ngạt, chật chội là thêm vào giữa chúng những khoảng câch</p>
+
+<p><img src="/assets/img/ui/33.png" alt="Hãy thêm những khoảng cách" /></p>
+
+<p><img src="/assets/img/ui/34.png" alt="Hãy thêm những khoảng cách" /></p>
+
+<h4 id="thiết-lập-một-hệ-thống-khoảng-cách-và-kích-thước">Thiết lập một hệ thống khoảng cách và kích thước</h4>
+
+<p>Đừng để bản thân phải rơi vào tình trạng 120px hay 123px, hãy thiết lập giới hạn hệ thống khoảng cách và kích thước để follow theo</p>
+
+<p><img src="/assets/img/ui/35.png" alt="Thiết lập một hệ thống khoảng cách và kích thước" /></p>
+
+<p>Việc tạo ra hệ thống này rất đơn giản, bạn cần thiết lập một đơn vị, và sử dụng tất cả với bộ số của đơn vị đó. ví dụ 4px, thì bộ số của nó là 8px, 16px,…</p>
+
+<p><img src="/assets/img/ui/36.png" alt="Thiết lập một hệ thống khoảng cách và kích thước" /></p>
+
+<p>16 là con số tuyệt vời để bạn bắt đầu</p>
+
+<p><img src="/assets/img/ui/37.png" alt="Thiết lập một hệ thống khoảng cách và kích thước" /></p>
+
+<p>Và mọi thứ sẽ trở nên hoàn hảo hơn</p>
+
+<p><img src="/assets/img/ui/38.png" alt="Thiết lập một hệ thống khoảng cách và kích thước" /></p>
+
+<h4 id="không-cần-phải-lấp-đấy-màn-hình">Không cần phải lấp đấy màn hình</h4>
+
+<p>Đây là minh chứng</p>
+
+<p><img src="/assets/img/ui/39.png" alt="Không cần phải lấp đấy màn hình" /></p>
+
+<p><img src="/assets/img/ui/40.png" alt="Không cần phải lấp đấy màn hình" /></p>
+
+<p><img src="/assets/img/ui/41.png" alt="Không cần phải lấp đấy màn hình" /></p>
+
+<h4 id="hãy-nghĩ-tới-việc-dùng-cột">Hãy nghĩ tới việc dùng cột</h4>
+
+<p>Đôi khi bạn gặp phải trường hợp trông không cân bằng và rườm rà thì hãy nghĩ đến việc chia cột</p>
+
+<p><img src="/assets/img/ui/42.png" alt="Hãy nghĩ tới việc dùng cột" /></p>
+
+<p><img src="/assets/img/ui/43.png" alt="Hãy nghĩ tới việc dùng cột" /></p>
+
+<h4 id="nên-dùng-grids-nhưng-phải-cẩn-thận">Nên dùng grids nhưng phải cẩn thận</h4>
+
+<p>Ví dụ trong trường hợp này thì ta nên fix phần sidebar ở bên tay trái</p>
+
+<p><img src="/assets/img/ui/44.png" alt="Nên dùng grids nhưng phải cẩn thận" /></p>
+
+<p>Hay là hình ảnh nên fix kích thước</p>
+
+<p><img src="/assets/img/ui/45.png" alt="Nên dùng grids nhưng phải cẩn thận" /></p>
+
+<p>Trưởng hợp này thì lại nên dùng max-width để không bị to card khi chuyển từ màn hình desktop sang tablet</p>
+
+<p><img src="/assets/img/ui/46.png" alt="Nên dùng grids nhưng phải cẩn thận" /></p>
+
+<p><img src="/assets/img/ui/47.png" alt="Nên dùng grids nhưng phải cẩn thận" /></p>
+
+<h4 id="đơn-vị-relative-không-tự-scale">Đơn vị relative không tự scale</h4>
+
+<p>Bạn nên cẩn thận khi sử dụng các đơn vị relative như rem hay em, bởi vì chúng đôi khi không tự động scale như mong muốn khi responsive</p>
+
+<p><img src="/assets/img/ui/48.png" alt="Đơn vị relative không tự scale" /></p>
+
+<p><img src="/assets/img/ui/49.png" alt="Đơn vị relative không tự scale" /></p>
+
+<h4 id="để-ý-tới-khoảng-cách">Để ý tới khoảng cách</h4>
+
+<p>Bạn nên để ý tới khoảng cách giữa các phần để tránh gây nhầm lẫn cho user.</p>
+
+<p><img src="/assets/img/ui/50.png" alt="Để ý tới khoảng cách" /></p>
+
+<p><img src="/assets/img/ui/51.png" alt="Để ý tới khoảng cách" /></p>
+
+<p><img src="/assets/img/ui/52.png" alt="Để ý tới khoảng cách" /></p>
+
+<p><img src="/assets/img/ui/53.png" alt="Để ý tới khoảng cách" /></p>
+
+<p><img src="/assets/img/ui/54.png" alt="Để ý tới khoảng cách" /></p>
+
+<h3 id="design-text">Design text</h3>
+
+<h4 id="thiết-lập-thang-đo">Thiết lập thang đo</h4>
+
+<p>Có nhiều cách thiết lập thang đo size text tỷ dụ như tỷ lệ 2:3, tỷ lệ vàng nhưng cách tốt nhất vẫn nên lấy thang đo này phù hợp cho tất cả mọi dự án</p>
+
+<p><img src="/assets/img/ui/55.png" alt="Thiết lập thang đo" /></p>
+
+<h4 id="tránh-sử-dụng-đơn-vị-em">Tránh sử dụng đơn vị em</h4>
+
+<p>Lý do là vì đơn vị em nó không thực sự scale mà nó còn bị ảnh hưởng bơi sự lồng nhau của các thẻ.</p>
+
+<h4 id="chọn-một-font-chữ-tốt">Chọn một font chữ tốt</h4>
+
+<ul>
+  <li>Sự lựa chọn an toàn: <code class="highlighter-rouge">-apple-system, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue;</code></li>
+  <li>Bỏ qua những font chữ có weight ít hơn 5</li>
+  <li>Hãy tin vào số đông</li>
+  <li>Kiểm tra font chữ các trang khác nếu như bạn thích chúng</li>
+</ul>
+
+<h4 id="kiểm-soát-độ-dài-text">Kiểm soát độ dài text</h4>
+
+<p>Để có trải nghiệm đọc tốt nhất không gây sự khó chịu, hãy làm cho đoạn văn của bạn đủ rộng để phù hợp với từ 45 đến 75 ký tự trên mỗi dòng.</p>
+
+<p><img src="/assets/img/ui/56.png" alt="Kiểm soát độ dài text" /></p>
+
+<p><img src="/assets/img/ui/57.png" alt="Kiểm soát độ dài text" /></p>
+
+<p><img src="/assets/img/ui/58.png" alt="Kiểm soát độ dài text" /></p>
+
+<p><img src="/assets/img/ui/59.png" alt="Kiểm soát độ dài text" /></p>
+
+<h4 id="dùng-baseline-không-nên-center">Dùng baseline, không nên center</h4>
+
+<p>Khi có nhiều font-size khác nhau cùng trên một dòng, nếu như chúng xa nhau thì hầu như k có vẫn đề nhưng nếu chúng gần nhau thì nhìn rất tệ. Vì thế cách giải quyết là sử dụng baseline</p>
+
+<p><img src="/assets/img/ui/60.png" alt="Dùng baseline, không nên center" /></p>
+
+<p><img src="/assets/img/ui/61.png" alt="Dùng baseline, không nên center" /></p>
+
+<h4 id="khoảng-cách-các-dòng">Khoảng cách các dòng</h4>
+
+<p>Chiều cao dòng và chiều rộng đoạn của bạn phải tỷ lệ thuận - nội dung hẹp có thể sử dụng chiều cao dòng ngắn hơn như 1,5, nhưng nội dung rộng có thể cần chiều cao dòng cao tới 2.</p>
+
+<p><img src="/assets/img/ui/62.png" alt="Khoảng cách các dòng" /></p>
+
+<p><img src="/assets/img/ui/63.png" alt="Khoảng cách các dòng" /></p>
+
+<p>Ngoài ra còn phải dựa vào font-size khi chữ nhỏ chúng ta nên để xa một chút cho ngừoi dùng dễ đọc, không xảy ra trường hợp đọc 2 lần một dòng. Nhưng khi font-size lớn thì nên để hight-line gần hơn tránh cảm giác trống trải.</p>
+
+<p><img src="/assets/img/ui/64.png" alt="Khoảng cách các dòng" /></p>
+
+<p><img src="/assets/img/ui/65.png" alt="Khoảng cách các dòng" /></p>
+
+<h4 id="không-phải-lúc-nào-link-cũng-cần-màu-sắc">Không phải lúc nào link cũng cần màu sắc</h4>
+
+<p><img src="/assets/img/ui/66.png" alt="Không phải lúc nào link cũng cần màu sắc" /></p>
+
+<p><img src="/assets/img/ui/67.png" alt="Không phải lúc nào link cũng cần màu sắc" /></p>
+
+<h4 id="căn-giữa-những-không-nên-để-text-căn-giữa-quá-dài">Căn giữa những không nên để text căn giữa quá dài</h4>
+
+<p><img src="/assets/img/ui/68.png" alt="Căn giữa những không nên để text căn giữa quá dài" /></p>
+
+<p><img src="/assets/img/ui/69.png" alt="Căn giữa những không nên để text căn giữa quá dài" /></p>
+
+<h4 id="số-thì-nên-căn-phải">Số thì nên căn phải</h4>
+
+<p><img src="/assets/img/ui/70.png" alt="Số thì nên căn phải" /></p>
+
+<h4 id="sử-dụng-letter-spacing">Sử dụng letter-spacing</h4>
+
+<p>Bạn hãy tin tưởng vào người thiết kế font chữ nhưng đôi khi bạn muốn thay đổi khoảng cách các chữ để có một thiết kế ổn hơn.</p>
+
+<p>Title có thể sát hơn một chút</p>
+
+<p><img src="/assets/img/ui/71.png" alt="Sử dụng letter-spacing" /></p>
+
+<p>Khi chữ in hoa thì nên để xa một chút</p>
+
+<p><img src="/assets/img/ui/72.png" alt="Sử dụng letter-spacing" /></p>
+
+<h3 id="làm-việc-với-màu-sắc">Làm việc với màu sắc</h3>
+
+<h4 id="sử-dụng-màu-hsl">Sử dụng màu HSL</h4>
+
+<p>HSL thể hiện màu sắc bằng cách sử dụng các thuộc tính mà mắt người nhận thấy bằng trực giác: màu sắc, độ bão hòa và độ sáng.</p>
+
+<p>Hue là một vị trí màu trên bánh xe màu được đo bằng độ, trong đó 0 ° là màu đỏ, 120 ° là màu xanh lá cây và 240 ° là màu xanh lam.</p>
+
+<p><img src="/assets/img/ui/73.png" alt="Sử dụng màu HSL" /></p>
+
+<p>Saturation: là màu sắc sặc sỡ hoặc sống động như thế nào. Độ bão hòa 0% là màu xám (không màu) và độ bão hòa 100% rực rỡ và mãnh liệt.</p>
+
+<p><img src="/assets/img/ui/74.png" alt="Sử dụng màu HSL" /></p>
+
+<p>Lightness: độ sáng 0% là màu đen thuần khiết, độ sáng 100% là màu trắng tinh khiết và độ sáng 50% là màu thuần khiết ở màu sắc nhất định.</p>
+
+<p><img src="/assets/img/ui/75.png" alt="Sử dụng màu HSL" /></p>
+
+<h4 id="bạn-thật-sự-cần-nhiều-màu-hơn-bạn-nghĩ">Bạn thật sự cần nhiều màu hơn bạn nghĩ</h4>
+
+<p>Nếu bạn nghĩ là chỉ chọn ra một số màu và follow theo chúng để thiết kế thì kế quả nó sẽ ra như thế này</p>
+
+<p><img src="/assets/img/ui/76.png" alt="Bạn thật sự cần nhiều màu hơn bạn nghĩ" /></p>
+
+<p>Thực tế là bạn cần hơn thế rất nhiều</p>
+
+<p><img src="/assets/img/ui/77.png" alt="Bạn thật sự cần nhiều màu hơn bạn nghĩ" /></p>
+
+<p>Một bảng màu tốt bạn cần chia râ ba thể loại</p>
+
+<p><strong>Gray</strong>: Text, backgrounds, panels, form controls - hầu hết giao diện đều là màu gray</p>
+
+<p><img src="/assets/img/ui/78.png" alt="Bạn thật sự cần nhiều màu hơn bạn nghĩ" /></p>
+
+<p><img src="/assets/img/ui/79.png" alt="Bạn thật sự cần nhiều màu hơn bạn nghĩ" /></p>
+
+<p><strong>Primary</strong>: Là màu chủ đạo của sản phẩm</p>
+
+<p><img src="/assets/img/ui/80.png" alt="Bạn thật sự cần nhiều màu hơn bạn nghĩ" /></p>
+
+<p><strong>Accent</strong>: Trên các màu cơ bản, mỗi trang web cần một vài màu nhấn để truyền đạt những điều khác nhau đến người dùng.</p>
+
+<p><img src="/assets/img/ui/81.png" alt="Bạn thật sự cần nhiều màu hơn bạn nghĩ" /></p>
+
+<p><img src="/assets/img/ui/82.png" alt="Bạn thật sự cần nhiều màu hơn bạn nghĩ" /></p>
+
+<h4 id="các-bước-chọn-màu-sắc-phù-hợp">Các bước chọn màu sắc phù hợp</h4>
+
+<p>Chọn màu cơ sở đầu tiên</p>
+
+<p><img src="/assets/img/ui/83.png" alt="Các bước chọn màu sắc phù hợp" /></p>
+
+<p>Tiếp theo chọn màu tối nhất và màu sáng nhất (màu tối nhất thường sẽ là text, màu sáng nhất sẽ là màu background cho element)</p>
+
+<p><img src="/assets/img/ui/84.png" alt="Các bước chọn màu sắc phù hợp" /></p>
+
+<p>Cuối cùng là thêm một số màu vào trung gian, và con số <em>9</em> là một con số đẹp cho việc tạo một danh sách màu</p>
+
+<p><img src="/assets/img/ui/85.png" alt="Các bước chọn màu sắc phù hợp" /></p>
+
+<h4 id="làm-nổi-bật">Làm nổi bật</h4>
+
+<p>Thường thì chúng ta sẽ phải để chữ sáng trên nền tối</p>
+
+<p><img src="/assets/img/ui/86.png" alt="Làm nổi bật" /></p>
+
+<p>Nhưng có một cách hay hơn đó là để chữ tối trên nền sáng cũng sẽ mang hiệu quả tương tự</p>
+
+<p><img src="/assets/img/ui/87.png" alt="Làm nổi bật" /></p>
+
+<h4 id="đừng-quá-dựa-vào-màu-sắc">Đừng quá dựa vào màu sắc</h4>
+
+<p>Màu sắc có thể là một cách tuyệt vời để tăng cường thông tin và làm cho nó dễ hiểu hơn, nhưng hãy cẩn thận đừng dựa vào nó tỷ dụ người mù mày sẽ không hiểu chúng</p>
+
+<p><img src="/assets/img/ui/88.png" alt="Đừng quá dựa vào màu sắc" /></p>
+
+<p>Để fix những tình huống này bạn nên thay vào những icon hoặc text để mô tả chúng</p>
+
+<p><img src="/assets/img/ui/89.png" alt="Đừng quá dựa vào màu sắc" /></p>
+
+<h3 id="tạo-độ-sâu">Tạo độ sâu</h3>
+
+<p>Dưới đây là một vài ví dụ</p>
+
+<p><img src="/assets/img/ui/90.png" alt="Sử dụng bóng đổ để tạo độ sâu" /></p>
+
+<p><img src="/assets/img/ui/91.png" alt="Sử dụng bóng đổ để tạo độ sâu" /></p>
+
+<p><img src="/assets/img/ui/92.png" alt="Sử dụng bóng đổ để tạo độ sâu" /></p>
+
+<p>Bóng lớn thường phù hợp với dialog</p>
+
+<p><img src="/assets/img/ui/93.png" alt="Sử dụng bóng đổ để tạo độ sâu" /></p>
+
+<p>Kết hợp hai bóng đổ</p>
+
+<p><img src="/assets/img/ui/94.png" alt="Sử dụng bóng đổ để tạo độ sâu" /></p>
+
+<h3 id="làm-việc-với-hình-ảnh">Làm việc với hình ảnh</h3>
+
+<h4 id="sử-dụng-một-hình-ảnh-đẹp">Sử dụng một hình ảnh đẹp</h4>
+
+<p>Những bức ảnh xấu sẽ làm hỏng một thiết kế, ngay cả khi mọi thứ khác về nó trông tuyệt vời.</p>
+
+<p><img src="/assets/img/ui/95.png" alt="Sử dụng một hình ảnh đẹp" /></p>
+
+<h4 id="văn-bản-cần-có-độ-tương-phản-nhất-quán">Văn bản cần có độ tương phản nhất quán</h4>
+
+<p><img src="/assets/img/ui/96.png" alt="Văn bản cần có độ tương phản nhất quán" /></p>
+
+<p><img src="/assets/img/ui/97.png" alt="Văn bản cần có độ tương phản nhất quán" /></p>
+
+<p>Giải quyết bài toán này bằng cách, cho hình ảnh tói và chữ màu sáng hoặc ngược lại</p>
+
+<p><img src="/assets/img/ui/98.png" alt="Văn bản cần có độ tương phản nhất quán" /></p>
+
+<p><img src="/assets/img/ui/99.png" alt="Văn bản cần có độ tương phản nhất quán" /></p>
+
+<p>Hoặc có thể đổi màu cho hình ảnh</p>
+
+<p><img src="/assets/img/ui/100.png" alt="Văn bản cần có độ tương phản nhất quán" /></p>
+
+<p>Hay tạo bóng đổ cho text</p>
+
+<p><img src="/assets/img/ui/101.png" alt="Văn bản cần có độ tương phản nhất quán" /></p>
+
+<h4 id="đứng-scale-up-scale-down-icons">Đứng scale up/ scale down icons</h4>
+
+<p>Bạn không nên scale up icon lên 3, 4 lần mặc dù nó có là file vector</p>
+
+<p><img src="/assets/img/ui/102.png" alt="Đứng scale up icons" /></p>
+
+<p>Nếu bạn muốn to bạn có thể giải quyết bằng cách như sau</p>
+
+<p><img src="/assets/img/ui/103.png" alt="Đứng scale up icons" /></p>
+
+<h4 id="đừng-scale-down-screenshots">Đừng scale down screenshots</h4>
+
+<p><img src="/assets/img/ui/104.png" alt="Đừng scale down screenshots" /></p>
+
+<p>Dưới đây là những cách giải quyết trong trường hợp này</p>
+
+<p><img src="/assets/img/ui/105.png" alt="Đừng scale down screenshots" /></p>
+
+<p><img src="/assets/img/ui/106.png" alt="Đừng scale down screenshots" /></p>
+
+<p><img src="/assets/img/ui/107.png" alt="Đừng scale down screenshots" /></p>
+
+<h4 id="cẩn-thận-với-hình-ảnh-người-dùng-tải-lên">Cẩn thận với hình ảnh người dùng tải lên</h4>
+
+<p><img src="/assets/img/ui/108.png" alt="Cẩn thận với hình ảnh người dùng tải lên" /></p>
+
+<p>Bản hãy căn giữa hình ảnh và cắn xén những phần không cần thiết</p>
+
+<p><img src="/assets/img/ui/109.png" alt="Cẩn thận với hình ảnh người dùng tải lên" /></p>
+
+<p>Trường hợp này tỷ dụ người dùng đăng ảnh cùng với màu nền trông sẽ rất tệ</p>
+
+<p><img src="/assets/img/ui/110.png" alt="Cẩn thận với hình ảnh người dùng tải lên" /></p>
+
+<p>Giải quyết bằng cách thêm vào inner box shadow</p>
+
+<p><img src="/assets/img/ui/111.png" alt="Cẩn thận với hình ảnh người dùng tải lên" /></p>
+
+<h3 id="một-số-gợi-ý-khác">Một số gợi ý khác</h3>
+
+<h4 id="thay-đổi-mặc-định">Thay đổi mặc định</h4>
+
+<p><img src="/assets/img/ui/112.png" alt="Thay đổi mặc định" /></p>
+
+<p><img src="/assets/img/ui/113.png" alt="Thay đổi mặc định" /></p>
+
+<p><img src="/assets/img/ui/114.png" alt="Thay đổi mặc định" /></p>
+
+<p><img src="/assets/img/ui/115.png" alt="Thay đổi mặc định" /></p>
+
+<p><img src="/assets/img/ui/116.png" alt="Thay đổi mặc định" /></p>
+
+<h4 id="thêm-đường-viền">Thêm đường viền</h4>
+
+<p>Thêm đường viền lớn vào các thiết kế của bạn cho mọi thứ đỡ nhạt nhẽo</p>
+
+<p><img src="/assets/img/ui/117.png" alt="Thêm đường viền" /></p>
+
+<p><img src="/assets/img/ui/118.png" alt="Thêm đường viền" /></p>
+
+<p><img src="/assets/img/ui/119.png" alt="Thêm đường viền" /></p>
+
+<p><img src="/assets/img/ui/120.png" alt="Thêm đường viền" /></p>
+
+<p><img src="/assets/img/ui/121.png" alt="Thêm đường viền" /></p>
+
+<h4 id="trang-trí-background">Trang trí background</h4>
+
+<p><img src="/assets/img/ui/122.png" alt="Trang trí background" /></p>
+
+<p><img src="/assets/img/ui/123.png" alt="Trang trí background" /></p>
+
+<h4 id="đừng-để-trạng-thái-trống">Đừng để trạng thái trống</h4>
+
+<p><img src="/assets/img/ui/124.png" alt="Đừng để trạng thái trống" /></p>
+
+<p><img src="/assets/img/ui/125.png" alt="Đừng để trạng thái trống" /></p>
+
+<p><img src="/assets/img/ui/126.png" alt="Đừng để trạng thái trống" /></p>
+
+<p>I hope this could help you!!!</p>
+
+      </article>
+
+      
+      <div class="blog-tags">
+        Tags:
+        
+        
+        <a href="/tags#ui/ux">ui/ux</a>
+        
+        
+      </div>
+      
+
+      
+      
+
+
+
+<section id="social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+  <a rel="canonical" href="https://twitter.com/intent/tweet?text=Ki%E1%BA%BFn+th%E1%BB%A9c+UI+Design+http://thaycacac.github.io/2019-08-15-ui-design/"
+    class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+    <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
+    <span class="sr-only">Twitter</span>
+  </a>
+  
+
+  
+  <a rel="canonical" href="https://www.facebook.com/sharer/sharer.php?u=http://thaycacac.github.io/2019-08-15-ui-design/" class="btn btn-social-icon btn-facebook"
+    title="Share on Facebook">
+    <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
+    <span class="sr-only">Facebook</span>
+  </a>
+  
+
+  
+  <a rel="canonical" href="https://plus.google.com/share?url=http://thaycacac.github.io/2019-08-15-ui-design/" class="btn btn-social-icon btn-google"
+    title="Share on Google+">
+    <span class="fa fa-fw fa-google-plus" aria-hidden="true"></span>
+    <span class="sr-only">Google+</span>
+  </a>
+  
+
+  
+  <a rel="canonical" href="https://www.linkedin.com/shareArticle?mini=true&url=http://thaycacac.github.io/2019-08-15-ui-design/" class="btn btn-social-icon btn-linkedin"
+    title="Share on LinkedIn">
+    <span class="fa fa-fw fa-linkedin" aria-hidden="true"></span>
+    <span class="sr-only">LinkedIn</span>
+  </a>
+  
+
+</section>
+
+
+      
+
+      <ul class="pager blog-pager">
+        
+        
+        <li class="next">
+          <a href="/2019-09-28-share-components-mockups/" data-toggle="tooltip"
+            data-placement="top" title="Tôi design">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+
+      
+      <div class="disqus-comments">
+        
+      </div>
+      <div class="comments">
+    <div id="fb-root"></div>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src =
+                'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12&appId=2190189127692080&autoLogAppEvents=1';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <div class="fb-comments" data-href="http://thaycacac.github.io/2019-08-15-ui-design/" data-width="100%" data-numposts="5"></div>
+    <noscript>Please enable JavaScript to view the comments powered by Facebook.</noscript>
+</div>
+      
+    </div>
+  </div>
+</div>
+
+  <footer class="is-footer">
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links"><li><a href="/feed.xml" title="RSS"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">RSS</span>
+                </a>
+          </li><li><a href="mailto:thaycacac@gmail.com" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">Email me</span>
+                </a>
+          </li><li><a href="https://www.facebook.com/thaycacac" title="Facebook"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">Facebook</span>
+                </a>
+          </li><li><a href="https://twitter.com/thaycacac" title="Twitter"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">Twitter</span>
+                </a>
+          </li><li><a href="tel:84968038714" title="Phone"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">Phone</span>
+                </a>
+          </li><li><a href="https://linkedin.com/in/thaycacac" title="LinkedIn"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">LinkedIn</span>
+                </a>
+          </li><li><a href="https://www.instagram.com/thaycacac" title="Instagram"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">Instagram</span>
+                </a>
+          </li><li><a href="https://www.youtube.com/channel/UCSfVU0_rcB5Kn1SkYrcTbRw" title="YouTube"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">YouTube</span>
+                </a>
+          </li></ul>
+        <p class="copyright text-muted">
+          Thaycacac
+          &nbsp;&bull;&nbsp;
+          2024
+
+          
+          &nbsp;&bull;&nbsp;
+          <a href="http://thaycacac.github.io">thaycacac.github.io</a>
+          
+
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+
+
+
+
+
+
+
+<!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+
+<script src="/js/jquery-1.11.2.min.js"></script>
+<script src="/js/jquery-sakura.min.js"></script>
+
+<script>
+  if (typeof jQuery == 'undefined') {
+    document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+  }
+</script>
+
+
+<!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+
+<script src="/js/main.js"></script>
+
+
+
+
+
+<script>
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r;
+		i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date();
+		a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-137167305-1', 'auto');
+	ga('send', 'pageview');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137167305-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-137167305-1');
+</script>
+<!-- End Google Analytics -->
+
+
+</body>
+<script>
+$(window).load(function () {
+  $('body').sakura();
+});
+</script>
+
+</html>

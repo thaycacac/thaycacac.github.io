@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+  <title>
+    20 tips rút gọn code trong Javascript
+  </title>
+  <meta name="author" content="Thaycacac" />
+  
+  
+  <meta name="keywords" content="thaycacac, phạm ngọc hòa, pham ngoc hoa" />
+   
+  <meta name="p:domain_verify" content="a2be4006f87e62fc1cb690ce12700c90"/>
+  <link rel="alternate" type="application/rss+xml" title="Thaycacac | Phạm Ngọc Hòa"
+    href="/feed.xml" />
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137167305-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+
+  gtag('config', 'UA-137167305-1');
+</script>
+
+  
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-K9C9P7Z');
+</script>
+
+  
+  
+  
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/bootstrap.min.css" />
+  
+  <link rel="stylesheet" href="/css/bootstrap-social.css" />
+  
+  <link rel="stylesheet" href="/css/main.css" />
+  
+  <link rel="stylesheet" href="/css/jquery-sakura.min.css" />
+  
+  
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  
+  
+  
+  
+
+  
+
+  
+  <meta property="fb:app_id" content="2190189127692080" />
+  
+
+  
+  <meta property="og:title" content="20 tips rút gọn code trong Javascript" />
+  
+
+  
+  <meta property="og:description" content="Các kỹ thuật viết tắt của bất kỳ ngôn ngữ lập trình nào giúp bạn viết code sạch và tối ưu hơn. JavaScript cũng vậy. 1. Khai báo biến trong JS Đây là 2 cách khai báo biến. Bạn sẽ thấy rõ sự khác biệt giữa cách viết bình thường...">
+  
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://thaycacac.github.io/2021-05-04-20-tips-rut-ngan-code-javascript/" />
+  <link rel="canonical" href="http://thaycacac.github.io/2021-05-04-20-tips-rut-ngan-code-javascript/" />
+  
+
+  
+  <meta property="og:image" content="http://thaycacac.github.io/img/avatar-icon.png" />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:creator" content="@" />
+
+  
+  <meta name="twitter:title" content="20 tips rút gọn code trong Javascript" />
+  
+
+  
+  <meta name="twitter:description" content="Các kỹ thuật viết tắt của bất kỳ ngôn ngữ lập trình nào giúp bạn viết code sạch và tối ưu hơn. JavaScript cũng vậy. 1. Khai báo biến trong JS Đây là 2 cách khai báo biến. Bạn sẽ thấy rõ sự khác biệt giữa cách viết bình thường...">
+  
+
+  
+  <meta name="twitter:image" content="http://thaycacac.github.io/img/avatar-icon.png" />
+  
+
+  
+  
+</head>
+
+
+<body>
+
+  
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9C9P7Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+  <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="http://thaycacac.github.io">Thaycacac</a>
+      
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+        
+        <li>
+          
+
+
+
+
+
+
+<a href="/frontend">Front End</a>
+        </li>
+        
+        
+        
+        <li>
+          
+
+
+
+
+
+
+<a href="/backend">Back End</a>
+        </li>
+        
+        
+        
+        <li>
+          
+
+
+
+
+
+
+<a href="/uiux">UI/UX</a>
+        </li>
+        
+        
+        
+        <li>
+          
+
+
+
+
+
+
+<a href="/donate">Donate</a>
+        </li>
+        
+        
+        
+        <li>
+          
+
+
+
+
+
+
+<a href="https://kungfutech.edu.vn/">Kungfutech</a>
+        </li>
+        
+        
+      </ul>
+    </div>
+
+    
+
+  </div>
+</nav>
+
+  
+
+
+
+<header class="header-section ">
+  
+  <div class="intro-header no-img">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <div class="post-heading">
+            <h1>20 tips rút gọn code trong Javascript</h1>
+            
+            
+            <h2 class="post-subheading">Bất kỉ tri bỉ, bách chiến bất đãi</h2>
+            
+            
+
+            
+            <span class="post-meta">Posted on May 4, 2021</span>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      
+      
+      
+      
+
+      <div id="header-gh-btns">
+        
+        
+        
+        <iframe src="https://ghbtns.com/github-btn.html?user=thaycacac&type=follow&count=true" frameborder="0"
+          scrolling="0" width="220px" height="20px"></iframe>
+        
+        
+        
+      </div>
+      
+
+      <article role="main" class="blog-post">
+        <p>Các kỹ thuật viết tắt của bất kỳ ngôn ngữ lập trình nào giúp bạn viết code sạch và tối ưu hơn. JavaScript cũng vậy.</p>
+
+<h2 id="1-khai-báo-biến-trong-js">1. Khai báo biến trong JS</h2>
+
+<p>Đây là 2 cách khai báo biến. Bạn sẽ thấy rõ sự khác biệt giữa cách viết bình thường và khi áp dụng kỹ thuật viết tắt:</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="c1">// Bình thường</span>
+<span class="kd">let</span> <span class="nx">x</span><span class="p">;</span>
+<span class="kd">let</span> <span class="nx">y</span> <span class="o">=</span> <span class="mi">20</span><span class="p">;</span>
+
+<span class="c1">// Viết tắt </span>
+<span class="kd">let</span> <span class="nx">x</span><span class="p">,</span> <span class="nx">y</span> <span class="o">=</span> <span class="mi">20</span><span class="p">;</span>
+</code></pre>
+</div>
+
+<ul>
+  <li>Ghi chú: Kỹ thuật viết tắt trong JS không có gì cao siêu cả. Chỉ là vận dụng các tính chất cơ bản của JavaScript một cách lô hỏa thuần thanh mà thôi.</li>
+</ul>
+
+<h2 id="2-gán-giá-trị-cho-nhiều-biến">2. Gán giá trị cho nhiều biến</h2>
+
+<p>Chúng ta có thể gán giá trị cho nhiều biến trong một dòng với cấu trúc mảng.</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="c1">// Bình thường </span>
+<span class="kd">let</span> <span class="nx">a</span><span class="p">,</span> <span class="nx">b</span><span class="p">,</span> <span class="nx">c</span><span class="p">;</span>
+<span class="nx">a</span> <span class="o">=</span> <span class="mi">5</span><span class="p">;</span>
+<span class="nx">b</span> <span class="o">=</span> <span class="mi">8</span><span class="p">;</span>
+<span class="nx">c</span> <span class="o">=</span> <span class="mi">12</span><span class="p">;</span>
+
+<span class="c1">// Viết tắt </span>
+<span class="kd">let</span> <span class="p">[</span><span class="nx">a</span><span class="p">,</span> <span class="nx">b</span><span class="p">,</span> <span class="nx">c</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="mi">5</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="mi">12</span><span class="p">];</span>
+</code></pre>
+</div>
+
+<h2 id="3-toán-tử-ternary">3. Toán tử Ternary</h2>
+
+<p>Chúng ta có thể tiết kiệm 5 dòng code ở đây với toán tử ternary (có điều kiện).</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="c1">// Bình thường </span>
+<span class="kd">let</span> <span class="nx">number</span> <span class="o">=</span> <span class="mi">26</span><span class="p">;</span>
+<span class="kd">let</span> <span class="nx">isEven</span><span class="p">;</span>
+<span class="k">if</span> <span class="p">(</span><span class="nx">number</span> <span class="o">%</span> <span class="mi">2</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">isEven</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
+<span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+    <span class="nx">isEven</span> <span class="o">=</span> <span class="kc">false</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c1">// Viết tắt </span>
+<span class="kd">let</span> <span class="nx">isEven</span> <span class="o">=</span> <span class="nx">number</span> <span class="o">%</span> <span class="mi">2</span> <span class="p">?</span> <span class="kc">true</span> <span class="p">:</span> <span class="kc">false</span><span class="p">;</span>
+</code></pre>
+</div>
+
+<h2 id="4-gán-giá-trị-mặc-định">4. Gán giá trị mặc định</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Chúng ta có thể sử dụng toán tử OR (</td>
+      <td> </td>
+      <td>) để gán giá trị mặc định cho một biến trong trường hợp giá trị đó có thể rỗng.</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="c1">// Bình thường </span>
+<span class="kd">let</span> <span class="nx">imagePath</span><span class="p">;</span>
+<span class="kd">let</span> <span class="nx">path</span> <span class="o">=</span> <span class="nx">getImagePath</span><span class="p">();</span>
+<span class="k">if</span> <span class="p">(</span><span class="nx">path</span> <span class="o">!==</span> <span class="kc">null</span> <span class="o">&amp;&amp;</span> <span class="nx">path</span> <span class="o">!==</span> <span class="kc">undefined</span> <span class="o">&amp;&amp;</span> <span class="nx">path</span> <span class="o">!==</span> <span class="s1">''</span><span class="p">)</span>
+    <span class="nx">imagePath</span> <span class="o">=</span> <span class="nx">path</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="k">else</span> <span class="p">{</span>
+    <span class="nx">imagePath</span> <span class="o">=</span> <span class="s1">'default.jpg'</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c1">// Viết tắt </span>
+<span class="kd">let</span> <span class="nx">imagePath</span> <span class="o">=</span> <span class="nx">getImagePath</span><span class="p">()</span> <span class="o">||</span> <span class="s1">'default.jpg'</span><span class="p">;</span>
+</code></pre>
+</div>
+
+<h2 id="5-toán-tử-and-">5. Toán tử AND (&amp;&amp;)</h2>
+
+<p>Nếu bạn chỉ gọi một hàm khi một biến được đánh giá là true, thì với việc sử dụng toán tử AND (&amp;&amp;) bạn có thể thực hiện nó trong một dòng duy nhất.</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="c1">// Bình thường</span>
+<span class="k">if</span> <span class="p">(</span><span class="nx">isLoggedin</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">goToHomepage</span><span class="p">();</span>
+<span class="p">}</span>
+
+<span class="c1">// Viết tắt </span>
+<span class="nx">isLoggedin</span> <span class="o">&amp;&amp;</span> <span class="nx">goToHomepage</span><span class="p">();</span>
+</code></pre>
+</div>
+
+<p>Ở đây, trong kỹ thuật viết tắt, nếu isLoggedin trả về true, thì goToHomepage() sẽ thực thi.</p>
+
+<h2 id="6-hoán-đổi-giá-trị-giữa-2-biến">6. Hoán đổi giá trị giữa 2 biến</h2>
+
+<p>Để hoán đổi giá trị giữa hai biến, chúng ta thường sử dụng một biến thứ ba. Nhưng trong JS, chúng ta có thể hoán đổi hai biến một cách dễ dàng với phép gán cấu trúc mảng.</p>
+
+<p>let x = ‘Hello’, y = 55;</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="c1">// Bình thường </span>
+<span class="kr">const</span> <span class="nx">temp</span> <span class="o">=</span> <span class="nx">x</span><span class="p">;</span>
+<span class="nx">x</span> <span class="o">=</span> <span class="nx">y</span><span class="p">;</span>
+<span class="nx">y</span> <span class="o">=</span> <span class="nx">temp</span><span class="p">;</span>
+
+<span class="c1">// Viết tắt</span>
+<span class="p">[</span><span class="nx">x</span><span class="p">,</span> <span class="nx">y</span><span class="p">]</span> <span class="o">=</span> <span class="p">[</span><span class="nx">y</span><span class="p">,</span> <span class="nx">x</span><span class="p">];</span>
+</code></pre>
+</div>
+
+<h2 id="7-arrow-function">7. Arrow Function</h2>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="c1">// Bình chường</span>
+<span class="kd">function</span> <span class="nx">add</span><span class="p">(</span><span class="nx">num1</span><span class="p">,</span> <span class="nx">num2</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="nx">num1</span> <span class="o">+</span> <span class="nx">num2</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="c1">// Viết tắt</span>
+<span class="kr">const</span> <span class="nx">add</span> <span class="o">=</span> <span class="p">(</span><span class="nx">num1</span><span class="p">,</span> <span class="nx">num2</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">num1</span> <span class="o">+</span> <span class="nx">num2</span><span class="p">;</span>
+</code></pre>
+</div>
+
+<h3 id="8-template-literals">8. Template Literals</h3>
+
+<p>Trong JavaScript, chúng ta thường sử dụng toán tử + để nối các giá trị chuỗi với các biến. Nhưng với phiên bản ES6, với Template Literals, chúng ta có thể làm điều đó theo cách đơn giản hơn.</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="c1">// Bình thường </span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">'Bạn có cuộc gọi nhỡ từ '</span> <span class="o">+</span> <span class="nx">number</span> <span class="o">+</span> <span class="s1">' vào '</span> <span class="o">+</span> <span class="nx">time</span><span class="p">);</span>
+
+<span class="c1">// Viết tắt </span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="err">`</span><span class="nx">B</span><span class="err">ạ</span><span class="nx">n</span> <span class="nx">c</span><span class="err">ó</span> <span class="nx">cu</span><span class="err">ộ</span><span class="nx">c</span> <span class="nx">g</span><span class="err">ọ</span><span class="nx">i</span> <span class="nx">nh</span><span class="err">ỡ</span> <span class="nx">t</span><span class="err">ừ</span> <span class="nx">$</span><span class="p">{</span><span class="nx">number</span><span class="p">}</span> <span class="nx">v</span><span class="err">à</span><span class="nx">o</span> <span class="nx">$</span><span class="p">{</span><span class="nx">time</span><span class="p">}</span><span class="err">`</span><span class="p">);</span>
+</code></pre>
+</div>
+
+<h2 id="9-chuỗi-trên-nhiều-dòng">9. Chuỗi trên nhiều dòng</h2>
+
+<p>Đối với chuỗi nhiều dòng, chúng ta thường sử dụng toán tử + với \n.
+Nhưng chúng ta có thể làm điều đó theo cách dễ dàng hơn, đẹp hơn bằng cách sử dụng dấu gạch ngược (`).</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="c1">// Bình thường</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">'JavaScript là ngôn ngữ lập trình kịch bản.\n'</span> <span class="o">+</span>
+    <span class="s1">'Code JavaScript được thông dịch, đa mô hình. \n'</span><span class="p">);</span>
+    
+<span class="c1">// Viết tắt </span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="err">`</span><span class="nx">JavaScript</span> <span class="nx">l</span><span class="err">à</span> <span class="nx">ng</span><span class="err">ô</span><span class="nx">n</span> <span class="nx">ng</span><span class="err">ữ</span> <span class="nx">l</span><span class="err">ậ</span><span class="nx">p</span> <span class="nx">tr</span><span class="err">ì</span><span class="nx">nh</span> <span class="nx">k</span><span class="err">ị</span><span class="nx">ch</span> <span class="nx">b</span><span class="err">ả</span><span class="nx">n</span><span class="p">.</span>
+    <span class="nx">Code</span> <span class="nx">JavaScript</span> <span class="err">đượ</span><span class="nx">c</span> <span class="nx">th</span><span class="err">ô</span><span class="nx">ng</span> <span class="nx">d</span><span class="err">ị</span><span class="nx">ch</span><span class="p">,</span> <span class="err">đ</span><span class="nx">a</span> <span class="nx">m</span><span class="err">ô</span> <span class="nx">h</span><span class="err">ì</span><span class="nx">nh</span><span class="p">.</span><span class="err">`</span><span class="p">);</span>
+</code></pre>
+</div>
+
+<h2 id="10-kiểm-tra-nhiều-điều-kiện">10. Kiểm tra nhiều điều kiện</h2>
+
+<p>Để kiểm tra nhiều giá trị, chúng ta có thể đặt tất cả các giá trị trong mảng và sử dụng phương thức indexOf().</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>// Bình thường 
+if (value === 1 || value === 'Một' || value === 2 || value === 'Hai') {
+    // Code làm gì đó
+}
+
+// Viết tắt 
+if ([1, 'Một', 2, 'Hai'].indexOf(value) &gt;= 0) {
+    // Code làm gì đó
+}
+</code></pre>
+</div>
+
+<p>Hàm indexOf() là hàm tìm xem giá trị cần tìm nằm ở vị trí nào trong một chuỗi. Nó trả về -1 nếu không tìm thấy.</p>
+
+<h2 id="11-gán-thuộc-tính-cho-đối-tượng">11. Gán thuộc tính cho đối tượng</h2>
+
+<p>Nếu tên biến và tên key của đối tượng giống nhau thì chúng ta chỉ có thể đề cập đến tên biến trong các object literals thay vì cả key và value. JavaScript sẽ tự động đặt key giống như tên biến và gán giá trị dưới dạng giá trị biến.</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">firstname</span> <span class="o">=</span> <span class="s1">'Amitav'</span><span class="p">;</span> 
+<span class="kd">let</span> <span class="nx">lastname</span> <span class="o">=</span> <span class="s1">'Mishra'</span><span class="p">;</span> 
+<span class="c1">// Bình thường</span>
+<span class="kd">let</span> <span class="nx">obj</span> <span class="o">=</span> <span class="p">{</span><span class="na">firstname</span><span class="p">:</span> <span class="nx">firstname</span><span class="p">,</span> <span class="na">lastname</span><span class="p">:</span> <span class="nx">lastname</span><span class="p">};</span> 
+
+<span class="c1">//Viết tắt</span>
+<span class="kd">let</span> <span class="nx">obj</span> <span class="o">=</span> <span class="p">{</span><span class="nx">firstname</span><span class="p">,</span> <span class="nx">lastname</span><span class="p">};</span>
+</code></pre>
+</div>
+
+<h2 id="12-chuyển-đổi-chuỗi-thành-số">12. Chuyển đổi chuỗi thành số</h2>
+
+<p>Có sẵn các phương thức có sẵn như parseInt và parseFloat để giúp chúng ta chuyển một chuỗi thành số. Nhưng cách đó khá là dài, chúng ta cũng có thể làm điều này nhanh hơn bằng cách sử dụng toán tử +</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="c1">// Bình thường </span>
+<span class="kd">let</span> <span class="nx">total</span> <span class="o">=</span> <span class="nb">parseInt</span><span class="p">(</span><span class="s1">'453'</span><span class="p">);</span>
+<span class="kd">let</span> <span class="nx">average</span> <span class="o">=</span> <span class="nb">parseFloat</span><span class="p">(</span><span class="s1">'42.6'</span><span class="p">);</span>
+
+<span class="c1">// Viết tắt </span>
+<span class="kd">let</span> <span class="nx">total</span> <span class="o">=</span> <span class="o">+</span><span class="s1">'453'</span><span class="p">;</span>
+<span class="kd">let</span> <span class="nx">average</span> <span class="o">=</span> <span class="o">+</span><span class="s1">'42.6'</span><span class="p">;</span>
+</code></pre>
+</div>
+
+<h2 id="13-lặp-lại-chuỗi-nhiều-lần">13. Lặp lại chuỗi nhiều lần</h2>
+
+<p>Để lặp lại một chuỗi trong một khoảng thời gian nhất định, bạn có thể sử dụng vòng lặp for. Nhưng bạn cũng có thể sử dụng phương thức repeat() để thực hiện nó trên một dòng duy nhất.</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="c1">// Bình thường </span>
+<span class="kd">let</span> <span class="nx">str</span> <span class="o">=</span> <span class="s1">''</span><span class="p">;</span>
+<span class="k">for</span> <span class="p">(</span><span class="kd">let</span> <span class="nx">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="mi">5</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">str</span> <span class="o">+=</span> <span class="s1">'Hello '</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">str</span><span class="p">);</span> <span class="c1">// Hello Hello Hello Hello Hello </span>
+
+<span class="c1">// Viết tắt </span>
+<span class="s1">'Hello '</span><span class="p">.</span><span class="nx">repeat</span><span class="p">(</span><span class="mi">5</span><span class="p">);</span>
+</code></pre>
+</div>
+
+<p>Và nếu, bạn muốn xin lỗi người yêu bằng cách gửi 100 lần “Anh xin lỗi”? Hãy thử nó với phương thức repeat(). Nếu bạn muốn lặp lại từng chuỗi trong một dòng mới, hãy thêm \n vào cuỗi chuỗi.</p>
+
+<p>‘Anh xin lỗi\n’.repeat(100);</p>
+
+<h2 id="11-tính-lũy-thừa">11. Tính lũy thừa</h2>
+
+<p>Chúng ta có thể sử dụng phương thức Math.pow() để tìm lũy thừa của một số. Nhưng nếu chỉ đơn giản như thế thì có một cách khác ngắn hơn với hai dấu sao **.</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="c1">// Bình thường </span>
+<span class="kr">const</span> <span class="nx">power</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">pow</span><span class="p">(</span><span class="mi">5</span><span class="p">,</span> <span class="mi">3</span><span class="p">);</span> <span class="c1">// 125</span>
+
+<span class="c1">// Viết tắt </span>
+<span class="kr">const</span> <span class="nx">power</span> <span class="o">=</span> <span class="mi">5</span> <span class="o">**</span> <span class="mi">3</span><span class="p">;</span> <span class="c1">// 125</span>
+</code></pre>
+</div>
+
+<h2 id="15-làm-tròn-số">15. Làm tròn số</h2>
+
+<p>Toán tử kép NOT bitwise ~~ là một thay thế cho phương thức làm tròn xuống số thập phân gần nhất Math.floor().</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="c1">// Bình thường </span>
+<span class="kr">const</span> <span class="nx">floor</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">(</span><span class="mf">6.9</span><span class="p">);</span> <span class="c1">// 6 </span>
+
+<span class="c1">// Viết tắt </span>
+<span class="kr">const</span> <span class="nx">floor</span> <span class="o">=</span> <span class="o">~~</span><span class="mf">6.9</span><span class="p">;</span> <span class="c1">// 6</span>
+</code></pre>
+</div>
+
+<h2 id="16-tìm-min-max-trong-một-mảng-số">16. Tìm min, max trong một mảng số</h2>
+
+<p>Chúng ta có thể sử dụng vòng lặp for để lặp qua từng giá trị của mảng và tìm giá trị max hoặc min. Hoặc, chúng ta cũng có thể sử dụng phương thức Array.reduce() để tìm số max và min trong mảng. Nhưng với một mảng nhỏ, chúng ta có thể làm đơn giản như sau:</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="c1">// Viết tắt </span>
+<span class="kr">const</span> <span class="nx">arr</span> <span class="o">=</span> <span class="p">[</span><span class="mi">2</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="mi">15</span><span class="p">,</span> <span class="mi">4</span><span class="p">];</span>
+
+<span class="nb">Math</span><span class="p">.</span><span class="nx">max</span><span class="p">(...</span><span class="nx">arr</span><span class="p">);</span> <span class="c1">// 15 </span>
+<span class="nb">Math</span><span class="p">.</span><span class="nx">min</span><span class="p">(...</span><span class="nx">arr</span><span class="p">);</span> <span class="c1">// 2</span>
+</code></pre>
+</div>
+
+<h2 id="17-sử-dụng-vòng-lặp-for">17. Sử dụng vòng lặp for</h2>
+
+<p>Để lặp qua một mảng, chúng ta thường sử dụng vòng lặp for truyền thống. Nhưng cách làm đó không dễ. Thế nên, JavaScript sinh ra thêm 2 vòng lặp for như for … of và for … in. Chúng ta có thể sử dụng vòng lặp for … of để lặp qua các mảng.
+Để truy cập chỉ số index của mỗi giá trị, chúng ta có thể sử dụng vòng lặp for … in.</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="c1">// Bình thường </span>
+<span class="k">for</span> <span class="p">(</span><span class="kd">let</span> <span class="nx">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="nx">arr</span><span class="p">.</span><span class="nx">length</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">arr</span><span class="p">[</span><span class="nx">i</span><span class="p">]);</span>
+<span class="p">}</span>
+
+<span class="c1">// Viết tắt </span>
+<span class="c1">// với vòng lặp for of</span>
+<span class="k">for</span> <span class="p">(</span><span class="kr">const</span> <span class="nx">val</span> <span class="nx">of</span> <span class="nx">arr</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">val</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="c1">// với vòng lặp for in</span>
+<span class="k">for</span> <span class="p">(</span><span class="kr">const</span> <span class="nx">index</span> <span class="k">in</span> <span class="nx">arr</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">arr</span><span class="p">[</span><span class="nx">index</span><span class="p">]);</span>
+<span class="p">}</span>
+</code></pre>
+</div>
+
+<p>Chúng ta cũng có thể lặp qua các thuộc tính của đối tượng bằng cách sử dụng vòng lặp for … in.</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">obj</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="na">x</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
+    <span class="na">y</span><span class="p">:</span> <span class="mi">50</span>
+<span class="p">};</span>
+
+<span class="c1">// Lặp qua các thuộc tính của đối tượng</span>
+<span class="k">for</span> <span class="p">(</span><span class="kr">const</span> <span class="nx">key</span> <span class="k">in</span> <span class="nx">obj</span><span class="p">)</span> <span class="p">{</span>
+
+    <span class="c1">// In ra giá trị của thuộc tính tương ứng</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">obj</span><span class="p">[</span><span class="nx">key</span><span class="p">]);</span>
+<span class="p">}</span>
+</code></pre>
+</div>
+
+<h2 id="18-hợp-nhất-mảng">18. Hợp nhất mảng</h2>
+
+<p>Để hợp nhất mảng ta có thể sử dụng toán tử Spread để hợp nhất mảng.</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">arr1</span> <span class="o">=</span> <span class="p">[</span><span class="mi">20</span><span class="p">,</span> <span class="mi">30</span><span class="p">];</span>
+<span class="kd">let</span> <span class="nx">arr2</span> <span class="o">=</span> <span class="p">[</span><span class="mi">40</span><span class="p">,</span> <span class="mi">50</span><span class="p">];</span>
+
+<span class="c1">// Bình thường </span>
+<span class="kd">let</span> <span class="nx">arr3</span> <span class="o">=</span> <span class="nx">arr1</span><span class="p">.</span><span class="nx">concat</span><span class="p">([</span><span class="mi">60</span><span class="p">,</span> <span class="mi">80</span><span class="p">]);</span>
+<span class="c1">// [20, 30, 60, 80] </span>
+
+<span class="c1">// Viết tắt </span>
+<span class="kd">let</span> <span class="nx">arr4</span> <span class="o">=</span> <span class="p">[...</span><span class="nx">arr1</span><span class="p">,</span> <span class="mi">60</span><span class="p">,</span> <span class="mi">80</span><span class="p">];</span>
+<span class="c1">// [20, 30, 60, 80]</span>
+
+<span class="kd">let</span> <span class="nx">arr5</span> <span class="o">=</span> <span class="p">[...</span><span class="nx">arr1</span><span class="p">,</span> <span class="p">...</span><span class="nx">arr2</span><span class="p">]</span>
+
+<span class="c1">// [20, 30, 40, 50]</span>
+</code></pre>
+</div>
+
+<h2 id="19-sao-chép-sâu">19. Sao chép sâu</h2>
+
+<p>Để sao chép sâu một đối tượng nhiều cấp, chúng ta có thể lặp qua từng thuộc tính và kiểm tra xem thuộc tính hiện tại có chứa một đối tượng hay không. Nếu có, sau đó thực hiện một cuộc gọi đệ quy đến cùng một hàm bằng cách truyền giá trị thuộc tính hiện tại như sau:</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">obj</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="na">x</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
+    <span class="na">y</span><span class="p">:</span> <span class="p">{</span>
+        <span class="na">z</span><span class="p">:</span> <span class="mi">30</span>
+    <span class="p">}</span>
+<span class="p">};</span>
+
+<span class="c1">// Bình thường </span>
+<span class="kr">const</span> <span class="nx">makeDeepClone</span> <span class="o">=</span> <span class="p">(</span><span class="nx">obj</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+    <span class="kd">let</span> <span class="nx">newObject</span> <span class="o">=</span> <span class="p">{};</span>
+    <span class="nb">Object</span><span class="p">.</span><span class="nx">keys</span><span class="p">(</span><span class="nx">obj</span><span class="p">).</span><span class="nx">map</span><span class="p">(</span><span class="nx">key</span> <span class="o">=&gt;</span> <span class="p">{</span>
+        <span class="k">if</span> <span class="p">(</span><span class="k">typeof</span> <span class="nx">obj</span><span class="p">[</span><span class="nx">key</span><span class="p">]</span> <span class="o">===</span> <span class="s1">'object'</span><span class="p">)</span> <span class="p">{</span>
+            <span class="nx">newObject</span><span class="p">[</span><span class="nx">key</span><span class="p">]</span> <span class="o">=</span> <span class="nx">makeDeepClone</span><span class="p">(</span><span class="nx">obj</span><span class="p">[</span><span class="nx">key</span><span class="p">]);</span>
+        <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+            <span class="nx">newObject</span><span class="p">[</span><span class="nx">key</span><span class="p">]</span> <span class="o">=</span> <span class="nx">obj</span><span class="p">[</span><span class="nx">key</span><span class="p">];</span>
+        <span class="p">}</span>
+    <span class="p">});</span>
+    <span class="k">return</span> <span class="nx">newObject</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="kr">const</span> <span class="nx">cloneObj</span> <span class="o">=</span> <span class="nx">makeDeepClone</span><span class="p">(</span><span class="nx">obj</span><span class="p">);</span>
+</code></pre>
+</div>
+
+<p>Nhưng như thế rất khó hiểu.</p>
+
+<p>Chúng ta có thể tận dụng tính chất của JSON để sao chép sâu trên một dòng duy nhất.</p>
+
+<p>Sử dụng <code class="highlighter-rouge">JSON.stringify()</code> và <code class="highlighter-rouge">JSON.parse()</code></p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">obj</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="na">x</span><span class="p">:</span> <span class="mi">20</span><span class="p">,</span>
+    <span class="na">y</span><span class="p">:</span> <span class="p">{</span>
+        <span class="na">z</span><span class="p">:</span> <span class="mi">30</span>
+    <span class="p">}</span>
+<span class="p">};</span>
+
+<span class="c1">// Viết tắt</span>
+<span class="kr">const</span> <span class="nx">cloneObj</span> <span class="o">=</span> <span class="nx">JSON</span><span class="p">.</span><span class="nx">parse</span><span class="p">(</span><span class="nx">JSON</span><span class="p">.</span><span class="nx">stringify</span><span class="p">(</span><span class="nx">obj</span><span class="p">));</span>
+</code></pre>
+</div>
+
+<h2 id="20-lấy-ký-tự-từ-một-chuỗi">20. Lấy ký tự từ một chuỗi</h2>
+
+<p>Trước đây bạn phải sử dụng phương thức <code class="highlighter-rouge">charAt()</code> để lấy ký tự từ một chuỗi. Nhưng trong JavaScript, chuỗi cũng tương tự như mảng.</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">str</span> <span class="o">=</span> <span class="s1">'niithanoi.edu.vn'</span><span class="p">;</span>
+
+<span class="c1">// Bình thường </span>
+<span class="nx">str</span><span class="p">.</span><span class="nx">charAt</span><span class="p">(</span><span class="mi">0</span><span class="p">);</span> <span class="c1">// n</span>
+
+<span class="c1">// Viết tắt </span>
+<span class="nx">str</span><span class="p">[</span><span class="mi">0</span><span class="p">];</span> <span class="c1">// n</span>
+</code></pre>
+</div>
+
+<p><a href="https://javascript.plainenglish.io/20-javascript-shorthand-techniques-that-will-save-your-time-f1671aab405f">Source</a></p>
+
+      </article>
+
+      
+      <div class="blog-tags">
+        Tags:
+        
+        
+        <a href="/tags#backend">backend</a>
+        
+        <a href="/tags#frontend">frontend</a>
+        
+        <a href="/tags#javascript">javascript</a>
+        
+        
+      </div>
+      
+
+      
+      
+
+
+
+<section id="social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+  <a rel="canonical" href="https://twitter.com/intent/tweet?text=20+tips+r%C3%BAt+g%E1%BB%8Dn+code+trong+Javascript+http://thaycacac.github.io/2021-05-04-20-tips-rut-ngan-code-javascript/"
+    class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+    <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
+    <span class="sr-only">Twitter</span>
+  </a>
+  
+
+  
+  <a rel="canonical" href="https://www.facebook.com/sharer/sharer.php?u=http://thaycacac.github.io/2021-05-04-20-tips-rut-ngan-code-javascript/" class="btn btn-social-icon btn-facebook"
+    title="Share on Facebook">
+    <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
+    <span class="sr-only">Facebook</span>
+  </a>
+  
+
+  
+  <a rel="canonical" href="https://plus.google.com/share?url=http://thaycacac.github.io/2021-05-04-20-tips-rut-ngan-code-javascript/" class="btn btn-social-icon btn-google"
+    title="Share on Google+">
+    <span class="fa fa-fw fa-google-plus" aria-hidden="true"></span>
+    <span class="sr-only">Google+</span>
+  </a>
+  
+
+  
+  <a rel="canonical" href="https://www.linkedin.com/shareArticle?mini=true&url=http://thaycacac.github.io/2021-05-04-20-tips-rut-ngan-code-javascript/" class="btn btn-social-icon btn-linkedin"
+    title="Share on LinkedIn">
+    <span class="fa fa-fw fa-linkedin" aria-hidden="true"></span>
+    <span class="sr-only">LinkedIn</span>
+  </a>
+  
+
+</section>
+
+
+      
+
+      <ul class="pager blog-pager">
+        
+        <li class="previous">
+          <a href="/2020-10-13-24-code-snippets-giai-quyet-van-de-thuong-gap-trong-javascript/" data-toggle="tooltip"
+            data-placement="top" title="24 tips giải quyết vấn đề thường gặp trong Javascript">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="next">
+          <a href="/2021-05-20-101-repo-huu-ich-tren-github/" data-toggle="tooltip"
+            data-placement="top" title="101 repository hữu ích trên github">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+
+      
+      <div class="disqus-comments">
+        
+      </div>
+      <div class="comments">
+    <div id="fb-root"></div>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src =
+                'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12&appId=2190189127692080&autoLogAppEvents=1';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <div class="fb-comments" data-href="http://thaycacac.github.io/2021-05-04-20-tips-rut-ngan-code-javascript/" data-width="100%" data-numposts="5"></div>
+    <noscript>Please enable JavaScript to view the comments powered by Facebook.</noscript>
+</div>
+      
+    </div>
+  </div>
+</div>
+
+  <footer class="is-footer">
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links"><li><a href="/feed.xml" title="RSS"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">RSS</span>
+                </a>
+          </li><li><a href="mailto:thaycacac@gmail.com" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">Email me</span>
+                </a>
+          </li><li><a href="https://www.facebook.com/thaycacac" title="Facebook"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">Facebook</span>
+                </a>
+          </li><li><a href="https://twitter.com/thaycacac" title="Twitter"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">Twitter</span>
+                </a>
+          </li><li><a href="tel:84968038714" title="Phone"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">Phone</span>
+                </a>
+          </li><li><a href="https://linkedin.com/in/thaycacac" title="LinkedIn"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">LinkedIn</span>
+                </a>
+          </li><li><a href="https://www.instagram.com/thaycacac" title="Instagram"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">Instagram</span>
+                </a>
+          </li><li><a href="https://www.youtube.com/channel/UCSfVU0_rcB5Kn1SkYrcTbRw" title="YouTube"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">YouTube</span>
+                </a>
+          </li></ul>
+        <p class="copyright text-muted">
+          Thaycacac
+          &nbsp;&bull;&nbsp;
+          2024
+
+          
+          &nbsp;&bull;&nbsp;
+          <a href="http://thaycacac.github.io">thaycacac.github.io</a>
+          
+
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+
+
+
+
+
+
+
+<!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+
+<script src="/js/jquery-1.11.2.min.js"></script>
+<script src="/js/jquery-sakura.min.js"></script>
+
+<script>
+  if (typeof jQuery == 'undefined') {
+    document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+  }
+</script>
+
+
+<!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+
+<script src="/js/main.js"></script>
+
+
+
+
+
+<script>
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r;
+		i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date();
+		a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-137167305-1', 'auto');
+	ga('send', 'pageview');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137167305-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-137167305-1');
+</script>
+<!-- End Google Analytics -->
+
+
+</body>
+<script>
+$(window).load(function () {
+  $('body').sakura();
+});
+</script>
+
+</html>

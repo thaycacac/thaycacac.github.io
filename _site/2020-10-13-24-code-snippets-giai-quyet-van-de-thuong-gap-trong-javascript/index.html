@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+  <title>
+    24 tips giải quyết vấn đề thường gặp trong Javascript
+  </title>
+  <meta name="author" content="Thaycacac" />
+  
+  
+  <meta name="keywords" content="thaycacac, phạm ngọc hòa, pham ngoc hoa" />
+   
+  <meta name="p:domain_verify" content="a2be4006f87e62fc1cb690ce12700c90"/>
+  <link rel="alternate" type="application/rss+xml" title="Thaycacac | Phạm Ngọc Hòa"
+    href="/feed.xml" />
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137167305-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+
+  gtag('config', 'UA-137167305-1');
+</script>
+
+  
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-K9C9P7Z');
+</script>
+
+  
+  
+  
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/bootstrap.min.css" />
+  
+  <link rel="stylesheet" href="/css/bootstrap-social.css" />
+  
+  <link rel="stylesheet" href="/css/main.css" />
+  
+  <link rel="stylesheet" href="/css/jquery-sakura.min.css" />
+  
+  
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  
+  
+  
+  
+
+  
+
+  
+  <meta property="fb:app_id" content="2190189127692080" />
+  
+
+  
+  <meta property="og:title" content="24 tips giải quyết vấn đề thường gặp trong Javascript" />
+  
+
+  
+  <meta property="og:description" content="Mình đã chọn ra số đoạn code hay nhất từ 30 seconds of code và cố gắng sắp xếp chúng dựa trên việc sử dụng thực tế, giải quyết được những vấn đề phổ biến mà bạn có thể gặp phải trong dự án. 1. Ẩn tất cả các phần...">
+  
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://thaycacac.github.io/2020-10-13-24-code-snippets-giai-quyet-van-de-thuong-gap-trong-javascript/" />
+  <link rel="canonical" href="http://thaycacac.github.io/2020-10-13-24-code-snippets-giai-quyet-van-de-thuong-gap-trong-javascript/" />
+  
+
+  
+  <meta property="og:image" content="http://thaycacac.github.io/img/avatar-icon.png" />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:creator" content="@" />
+
+  
+  <meta name="twitter:title" content="24 tips giải quyết vấn đề thường gặp trong Javascript" />
+  
+
+  
+  <meta name="twitter:description" content="Mình đã chọn ra số đoạn code hay nhất từ 30 seconds of code và cố gắng sắp xếp chúng dựa trên việc sử dụng thực tế, giải quyết được những vấn đề phổ biến mà bạn có thể gặp phải trong dự án. 1. Ẩn tất cả các phần...">
+  
+
+  
+  <meta name="twitter:image" content="http://thaycacac.github.io/img/avatar-icon.png" />
+  
+
+  
+  
+</head>
+
+
+<body>
+
+  
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9C9P7Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+  <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="http://thaycacac.github.io">Thaycacac</a>
+      
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+        
+        <li>
+          
+
+
+
+
+
+
+<a href="/frontend">Front End</a>
+        </li>
+        
+        
+        
+        <li>
+          
+
+
+
+
+
+
+<a href="/backend">Back End</a>
+        </li>
+        
+        
+        
+        <li>
+          
+
+
+
+
+
+
+<a href="/uiux">UI/UX</a>
+        </li>
+        
+        
+        
+        <li>
+          
+
+
+
+
+
+
+<a href="/donate">Donate</a>
+        </li>
+        
+        
+        
+        <li>
+          
+
+
+
+
+
+
+<a href="https://kungfutech.edu.vn/">Kungfutech</a>
+        </li>
+        
+        
+      </ul>
+    </div>
+
+    
+
+  </div>
+</nav>
+
+  
+
+
+
+<header class="header-section ">
+  
+  <div class="intro-header no-img">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <div class="post-heading">
+            <h1>24 tips giải quyết vấn đề thường gặp trong Javascript</h1>
+            
+            
+            <h2 class="post-subheading">Cố thiện chiến giả, cầu chi ư thế, bất trách ư nhân, cố năng trạch nhân nhi nhậm thế</h2>
+            
+            
+
+            
+            <span class="post-meta">Posted on October 13, 2020</span>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      
+      
+      
+      
+
+      <div id="header-gh-btns">
+        
+        
+        
+        <iframe src="https://ghbtns.com/github-btn.html?user=thaycacac&type=follow&count=true" frameborder="0"
+          scrolling="0" width="220px" height="20px"></iframe>
+        
+        
+        
+      </div>
+      
+
+      <article role="main" class="blog-post">
+        <p>Mình đã chọn ra số đoạn code hay nhất từ <a href="https://www.30secondsofcode.org/">30 seconds of code</a> và cố gắng sắp xếp chúng dựa trên việc sử dụng thực tế, giải quyết được những vấn đề phổ biến mà bạn có thể gặp phải trong dự án.</p>
+
+<h2 id="1-ẩn-tất-cả-các-phần-tử-nào-đó">1. Ẩn tất cả các phần tử nào đó</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">hide</span> <span class="o">=</span> <span class="p">(...</span><span class="nx">el</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">[...</span><span class="nx">el</span><span class="p">].</span><span class="nx">forEach</span><span class="p">((</span><span class="nx">e</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">(</span><span class="nx">e</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">display</span> <span class="o">=</span> <span class="s2">"none"</span><span class="p">));</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">hide</span><span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="s2">"img"</span><span class="p">));</span> <span class="c1">// Ẩn tất cả các phần tử &lt;img&gt;</span>
+</code></pre>
+</div>
+
+<h2 id="2-cách-kiểm-tra-phần-từ-có-lớp-được-chỉ-định-hay-không">2. Cách kiểm tra phần từ có lớp được chỉ định hay không</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">hasClass</span> <span class="o">=</span> <span class="p">(</span><span class="nx">el</span><span class="p">,</span> <span class="nx">className</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">el</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">contains</span><span class="p">(</span><span class="nx">className</span><span class="p">);</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">hasClass</span><span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s2">"p.special"</span><span class="p">),</span> <span class="s2">"special"</span><span class="p">);</span> <span class="c1">// true</span>
+</code></pre>
+</div>
+
+<h2 id="3-toggle-một-class-cho-một-phần-tử">3. Toggle một class cho một phần tử</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">toggleClass</span> <span class="o">=</span> <span class="p">(</span><span class="nx">el</span><span class="p">,</span> <span class="nx">className</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">el</span><span class="p">.</span><span class="nx">classList</span><span class="p">.</span><span class="nx">toggle</span><span class="p">(</span><span class="nx">className</span><span class="p">);</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">toggleClass</span><span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s2">"p.special"</span><span class="p">),</span> <span class="s2">"special"</span><span class="p">);</span>
+<span class="c1">// thẻ p sẽ không có lớp 'special' nữa</span>
+</code></pre>
+</div>
+
+<h2 id="4-lấy-vị-trí-scroll-hiện-tại">4. Lấy vị trí scroll hiện tại</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">getScrollPosition</span> <span class="o">=</span> <span class="p">(</span><span class="nx">el</span> <span class="o">=</span> <span class="nb">window</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">({</span>
+  <span class="na">x</span><span class="p">:</span> <span class="nx">el</span><span class="p">.</span><span class="nx">pageXOffset</span> <span class="o">!==</span> <span class="kc">undefined</span> <span class="p">?</span> <span class="nx">el</span><span class="p">.</span><span class="nx">pageXOffset</span> <span class="p">:</span> <span class="nx">el</span><span class="p">.</span><span class="nx">scrollLeft</span><span class="p">,</span>
+  <span class="na">y</span><span class="p">:</span> <span class="nx">el</span><span class="p">.</span><span class="nx">pageYOffset</span> <span class="o">!==</span> <span class="kc">undefined</span> <span class="p">?</span> <span class="nx">el</span><span class="p">.</span><span class="nx">pageYOffset</span> <span class="p">:</span> <span class="nx">el</span><span class="p">.</span><span class="nx">scrollTop</span><span class="p">,</span>
+<span class="p">});</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">getScrollPosition</span><span class="p">();</span> <span class="c1">// {x: 0, y: 200}</span>
+</code></pre>
+</div>
+
+<h2 id="5-tạo-scroll-to-top-mượt-mà">5. Tạo scroll to top mượt mà</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">scrollToTop</span> <span class="o">=</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="kr">const</span> <span class="nx">c</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">documentElement</span><span class="p">.</span><span class="nx">scrollTop</span> <span class="o">||</span> <span class="nb">document</span><span class="p">.</span><span class="nx">body</span><span class="p">.</span><span class="nx">scrollTop</span><span class="p">;</span>
+  <span class="k">if</span> <span class="p">(</span><span class="nx">c</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nb">window</span><span class="p">.</span><span class="nx">requestAnimationFrame</span><span class="p">(</span><span class="nx">scrollToTop</span><span class="p">);</span>
+    <span class="nb">window</span><span class="p">.</span><span class="nx">scrollTo</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nx">c</span> <span class="o">-</span> <span class="nx">c</span> <span class="o">/</span> <span class="mi">8</span><span class="p">);</span>
+  <span class="p">}</span>
+<span class="p">};</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">scrollToTop</span><span class="p">();</span>
+</code></pre>
+</div>
+
+<h2 id="6-kiểm-tra-nếu-phần-tử-cha-bọc-phần-tử-con">6. Kiểm tra nếu phần tử cha bọc phần tử con</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">elementContains</span> <span class="o">=</span> <span class="p">(</span><span class="nx">parent</span><span class="p">,</span> <span class="nx">child</span><span class="p">)</span> <span class="o">=&gt;</span>
+  <span class="nx">parent</span> <span class="o">!==</span> <span class="nx">child</span> <span class="o">&amp;&amp;</span> <span class="nx">parent</span><span class="p">.</span><span class="nx">contains</span><span class="p">(</span><span class="nx">child</span><span class="p">);</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">elementContains</span><span class="p">(</span>
+  <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s2">"head"</span><span class="p">),</span>
+  <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s2">"title"</span><span class="p">)</span>
+<span class="p">);</span>
+<span class="c1">// true</span>
+<span class="nx">elementContains</span><span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s2">"body"</span><span class="p">),</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s2">"body"</span><span class="p">));</span> <span class="c1">// false</span>
+</code></pre>
+</div>
+
+<h2 id="7-kiểm-tra-xem-một-phần-tử-đang-được-hiển-thị-trên-màn-hình">7. Kiểm tra xem một phần tử đang được hiển thị trên màn hình</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">elementIsVisibleInViewport</span> <span class="o">=</span> <span class="p">(</span><span class="nx">el</span><span class="p">,</span> <span class="nx">partiallyVisible</span> <span class="o">=</span> <span class="kc">false</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="kr">const</span> <span class="p">{</span> <span class="nx">top</span><span class="p">,</span> <span class="nx">left</span><span class="p">,</span> <span class="nx">bottom</span><span class="p">,</span> <span class="nx">right</span> <span class="p">}</span> <span class="o">=</span> <span class="nx">el</span><span class="p">.</span><span class="nx">getBoundingClientRect</span><span class="p">();</span>
+  <span class="kr">const</span> <span class="p">{</span> <span class="nx">innerHeight</span><span class="p">,</span> <span class="nx">innerWidth</span> <span class="p">}</span> <span class="o">=</span> <span class="nb">window</span><span class="p">;</span>
+  <span class="k">return</span> <span class="nx">partiallyVisible</span>
+    <span class="p">?</span> <span class="p">((</span><span class="nx">top</span> <span class="o">&gt;</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="nx">top</span> <span class="o">&lt;</span> <span class="nx">innerHeight</span><span class="p">)</span> <span class="o">||</span>
+        <span class="p">(</span><span class="nx">bottom</span> <span class="o">&gt;</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="nx">bottom</span> <span class="o">&lt;</span> <span class="nx">innerHeight</span><span class="p">))</span> <span class="o">&amp;&amp;</span>
+        <span class="p">((</span><span class="nx">left</span> <span class="o">&gt;</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="nx">left</span> <span class="o">&lt;</span> <span class="nx">innerWidth</span><span class="p">)</span> <span class="o">||</span> <span class="p">(</span><span class="nx">right</span> <span class="o">&gt;</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="nx">right</span> <span class="o">&lt;</span> <span class="nx">innerWidth</span><span class="p">))</span>
+    <span class="p">:</span> <span class="nx">top</span> <span class="o">&gt;=</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="nx">left</span> <span class="o">&gt;=</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="nx">bottom</span> <span class="o">&lt;=</span> <span class="nx">innerHeight</span> <span class="o">&amp;&amp;</span> <span class="nx">right</span> <span class="o">&lt;=</span> <span class="nx">innerWidth</span><span class="p">;</span>
+<span class="p">};</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">elementIsVisibleInViewport</span><span class="p">(</span><span class="nx">el</span><span class="p">);</span> <span class="c1">// (not fully visible)</span>
+<span class="nx">elementIsVisibleInViewport</span><span class="p">(</span><span class="nx">el</span><span class="p">,</span> <span class="kc">true</span><span class="p">);</span> <span class="c1">// (partially visible)</span>
+</code></pre>
+</div>
+
+<h2 id="8-cách-fetch-tất-cả-các-hình-ảnh-trong-một-phần-tử">8. Cách fetch tất cả các hình ảnh trong một phần tử</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">getImages</span> <span class="o">=</span> <span class="p">(</span><span class="nx">el</span><span class="p">,</span> <span class="nx">includeDuplicates</span> <span class="o">=</span> <span class="kc">false</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="kr">const</span> <span class="nx">images</span> <span class="o">=</span> <span class="p">[...</span><span class="nx">el</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="s2">"img"</span><span class="p">)].</span><span class="nx">map</span><span class="p">((</span><span class="nx">img</span><span class="p">)</span> <span class="o">=&gt;</span>
+    <span class="nx">img</span><span class="p">.</span><span class="nx">getAttribute</span><span class="p">(</span><span class="s2">"src"</span><span class="p">)</span>
+  <span class="p">);</span>
+  <span class="k">return</span> <span class="nx">includeDuplicates</span> <span class="p">?</span> <span class="nx">images</span> <span class="p">:</span> <span class="p">[...</span><span class="k">new</span> <span class="nx">Set</span><span class="p">(</span><span class="nx">images</span><span class="p">)];</span>
+<span class="p">};</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">getImages</span><span class="p">(</span><span class="nb">document</span><span class="p">,</span> <span class="kc">true</span><span class="p">);</span> <span class="c1">// ['image1.jpg', 'image2.png', 'image1.png', '...']</span>
+<span class="nx">getImages</span><span class="p">(</span><span class="nb">document</span><span class="p">,</span> <span class="kc">false</span><span class="p">);</span> <span class="c1">// ['image1.jpg', 'image2.png', '...']</span>
+</code></pre>
+</div>
+
+<h2 id="9-tìm-ra-xem-thiết-bị-là-điện-thoại-máy-tính-để-bàn-hay-laptop">9. Tìm ra xem thiết bị là điện thoại, máy tính để bàn hay laptop</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">detectDeviceType</span> <span class="o">=</span> <span class="p">()</span> <span class="o">=&gt;</span>
+  <span class="sr">/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i</span><span class="p">.</span><span class="nx">test</span><span class="p">(</span>
+    <span class="nx">navigator</span><span class="p">.</span><span class="nx">userAgent</span>
+  <span class="p">)</span>
+    <span class="p">?</span> <span class="s2">"Mobile"</span>
+    <span class="p">:</span> <span class="s2">"Desktop"</span><span class="p">;</span>
+
+<span class="nx">detectDeviceType</span><span class="p">();</span> <span class="c1">// "Mobile" or "Desktop"</span>
+</code></pre>
+</div>
+
+<h2 id="10-lấy-url-hiện-tại">10. Lấy URL hiện tại</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">currentURL</span> <span class="o">=</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="nb">window</span><span class="p">.</span><span class="nx">location</span><span class="p">.</span><span class="nx">href</span><span class="p">;</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">currentURL</span><span class="p">();</span> <span class="c1">// 'https://google.com'</span>
+</code></pre>
+</div>
+
+<h2 id="11-cách-tạo-một-đối-tượng-chứa-các-tham-số-của-url-hiện-tại">11. Cách tạo một đối tượng chứa các tham số của URL hiện tại</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">getURLParameters</span> <span class="o">=</span> <span class="p">(</span><span class="nx">url</span><span class="p">)</span> <span class="o">=&gt;</span>
+  <span class="p">(</span><span class="nx">url</span><span class="p">.</span><span class="nx">match</span><span class="p">(</span><span class="sr">/</span><span class="se">([^</span><span class="sr">?=&amp;</span><span class="se">]</span><span class="sr">+</span><span class="se">)(</span><span class="sr">=</span><span class="se">([^</span><span class="sr">&amp;</span><span class="se">]</span><span class="sr">*</span><span class="se">))</span><span class="sr">/g</span><span class="p">)</span> <span class="o">||</span> <span class="p">[]).</span><span class="nx">reduce</span><span class="p">(</span>
+    <span class="p">(</span><span class="nx">a</span><span class="p">,</span> <span class="nx">v</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">(</span>
+      <span class="p">(</span><span class="nx">a</span><span class="p">[</span><span class="nx">v</span><span class="p">.</span><span class="nx">slice</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nx">v</span><span class="p">.</span><span class="nx">indexOf</span><span class="p">(</span><span class="s2">"="</span><span class="p">))]</span> <span class="o">=</span> <span class="nx">v</span><span class="p">.</span><span class="nx">slice</span><span class="p">(</span><span class="nx">v</span><span class="p">.</span><span class="nx">indexOf</span><span class="p">(</span><span class="s2">"="</span><span class="p">)</span> <span class="o">+</span> <span class="mi">1</span><span class="p">)),</span> <span class="nx">a</span>
+    <span class="p">),</span>
+    <span class="p">{}</span>
+  <span class="p">);</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">getURLParameters</span><span class="p">(</span><span class="s2">"http://url.com/page?n=Adam&amp;s=Smith"</span><span class="p">);</span> <span class="c1">// {n: 'Adam', s: 'Smith'}</span>
+<span class="nx">getURLParameters</span><span class="p">(</span><span class="s2">"google.com"</span><span class="p">);</span> <span class="c1">// {}</span>
+</code></pre>
+</div>
+
+<h2 id="12-các-mã-hóa-một-tập-hợp-các-phần-tử-biểu-mẫu-như-một-đối-tượng">12. Các mã hóa một tập hợp các phần tử biểu mẫu như một đối tượng</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">formToObject</span> <span class="o">=</span> <span class="p">(</span><span class="nx">form</span><span class="p">)</span> <span class="o">=&gt;</span>
+  <span class="nb">Array</span><span class="p">.</span><span class="nx">from</span><span class="p">(</span><span class="k">new</span> <span class="nx">FormData</span><span class="p">(</span><span class="nx">form</span><span class="p">)).</span><span class="nx">reduce</span><span class="p">(</span>
+    <span class="p">(</span><span class="nx">acc</span><span class="p">,</span> <span class="p">[</span><span class="nx">key</span><span class="p">,</span> <span class="nx">value</span><span class="p">])</span> <span class="o">=&gt;</span> <span class="p">({</span>
+      <span class="p">...</span><span class="nx">acc</span><span class="p">,</span>
+      <span class="p">[</span><span class="nx">key</span><span class="p">]:</span> <span class="nx">value</span><span class="p">,</span>
+    <span class="p">}),</span>
+    <span class="p">{}</span>
+  <span class="p">);</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">formToObject</span><span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="s2">"#form"</span><span class="p">));</span> <span class="c1">// { email: 'test@email.com', name: 'Test Name' }</span>
+</code></pre>
+</div>
+
+<h2 id="13-cách-để-truy-xuất-một-tập-hợp-các-thuộc-tính-được-chỉ-ra-bởi-các-bộ-chọn-đã-cho-từ-một-đối-tượng">13. Cách để truy xuất một tập hợp các thuộc tính được chỉ ra bởi các bộ chọn đã cho từ một đối tượng</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">get</span> <span class="o">=</span> <span class="p">(</span><span class="nx">from</span><span class="p">,</span> <span class="p">...</span><span class="nx">selectors</span><span class="p">)</span> <span class="o">=&gt;</span>
+  <span class="p">[...</span><span class="nx">selectors</span><span class="p">].</span><span class="nx">map</span><span class="p">((</span><span class="nx">s</span><span class="p">)</span> <span class="o">=&gt;</span>
+    <span class="nx">s</span>
+      <span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="sr">/</span><span class="se">\[([^\[\]]</span><span class="sr">*</span><span class="se">)\]</span><span class="sr">/g</span><span class="p">,</span> <span class="s2">".$1."</span><span class="p">)</span>
+      <span class="p">.</span><span class="nx">split</span><span class="p">(</span><span class="s2">"."</span><span class="p">)</span>
+      <span class="p">.</span><span class="nx">filter</span><span class="p">((</span><span class="nx">t</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">t</span> <span class="o">!==</span> <span class="s2">""</span><span class="p">)</span>
+      <span class="p">.</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">prev</span><span class="p">,</span> <span class="nx">cur</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">prev</span> <span class="o">&amp;&amp;</span> <span class="nx">prev</span><span class="p">[</span><span class="nx">cur</span><span class="p">],</span> <span class="nx">from</span><span class="p">)</span>
+  <span class="p">);</span>
+<span class="kr">const</span> <span class="nx">obj</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="na">selector</span><span class="p">:</span> <span class="p">{</span> <span class="na">to</span><span class="p">:</span> <span class="p">{</span> <span class="na">val</span><span class="p">:</span> <span class="s2">"val to select"</span> <span class="p">}</span> <span class="p">},</span>
+  <span class="na">target</span><span class="p">:</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="p">{</span> <span class="na">a</span><span class="p">:</span> <span class="s2">"test"</span> <span class="p">}],</span>
+<span class="p">};</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">get</span><span class="p">(</span><span class="nx">obj</span><span class="p">,</span> <span class="s2">"selector.to.val"</span><span class="p">,</span> <span class="s2">"target[0]"</span><span class="p">,</span> <span class="s2">"target[2].a"</span><span class="p">);</span> <span class="c1">// ['val to select', 1, 'test']</span>
+</code></pre>
+</div>
+
+<h2 id="14-cách-để-gọi-hàm-đã-cung-cấp-sau-khi-đợi-tính-bằng-mili-giây">14. Cách để gọi hàm đã cung cấp sau khi đợi (tính bằng mili giây)</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">delay</span> <span class="o">=</span> <span class="p">(</span><span class="nx">fn</span><span class="p">,</span> <span class="nx">wait</span><span class="p">,</span> <span class="p">...</span><span class="nx">args</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">setTimeout</span><span class="p">(</span><span class="nx">fn</span><span class="p">,</span> <span class="nx">wait</span><span class="p">,</span> <span class="p">...</span><span class="nx">args</span><span class="p">);</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">delay</span><span class="p">(</span>
+  <span class="kd">function</span> <span class="p">(</span><span class="nx">text</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">text</span><span class="p">);</span>
+  <span class="p">},</span>
+  <span class="mi">1000</span><span class="p">,</span>
+  <span class="s2">"later"</span>
+<span class="p">);</span>
+
+<span class="c1">// Logs 'later' after one second.</span>
+</code></pre>
+</div>
+
+<h2 id="15-cách-để-kích-hoạt-một-sự-kiện-cụ-thể-trên-một-phần-tử-nhất-định-truyền-dữ-liệu-tùy-chỉnh-theo-tùy-chọn">15. Cách để kích hoạt một sự kiện cụ thể trên một phần tử nhất định, truyền dữ liệu tùy chỉnh theo tùy chọn</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">triggerEvent</span> <span class="o">=</span> <span class="p">(</span><span class="nx">el</span><span class="p">,</span> <span class="nx">eventType</span><span class="p">,</span> <span class="nx">detail</span><span class="p">)</span> <span class="o">=&gt;</span>
+  <span class="nx">el</span><span class="p">.</span><span class="nx">dispatchEvent</span><span class="p">(</span><span class="k">new</span> <span class="nx">CustomEvent</span><span class="p">(</span><span class="nx">eventType</span><span class="p">,</span> <span class="p">{</span> <span class="nx">detail</span> <span class="p">}));</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">triggerEvent</span><span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s2">"myId"</span><span class="p">),</span> <span class="s2">"click"</span><span class="p">);</span>
+<span class="nx">triggerEvent</span><span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s2">"myId"</span><span class="p">),</span> <span class="s2">"click"</span><span class="p">,</span> <span class="p">{</span> <span class="na">username</span><span class="p">:</span> <span class="s2">"bob"</span> <span class="p">});</span>
+</code></pre>
+</div>
+
+<h2 id="16-cách-để-xóa-một-event-listener-khỏi-một-phần-tử">16. Cách để xóa một event listener khỏi một phần tử</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">off</span> <span class="o">=</span> <span class="p">(</span><span class="nx">el</span><span class="p">,</span> <span class="nx">evt</span><span class="p">,</span> <span class="nx">fn</span><span class="p">,</span> <span class="nx">opts</span> <span class="o">=</span> <span class="kc">false</span><span class="p">)</span> <span class="o">=&gt;</span>
+  <span class="nx">el</span><span class="p">.</span><span class="nx">removeEventListener</span><span class="p">(</span><span class="nx">evt</span><span class="p">,</span> <span class="nx">fn</span><span class="p">,</span> <span class="nx">opts</span><span class="p">);</span>
+
+<span class="kr">const</span> <span class="nx">fn</span> <span class="o">=</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s2">"!"</span><span class="p">);</span>
+<span class="nb">document</span><span class="p">.</span><span class="nx">body</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s2">"click"</span><span class="p">,</span> <span class="nx">fn</span><span class="p">);</span>
+<span class="nx">off</span><span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">body</span><span class="p">,</span> <span class="s2">"click"</span><span class="p">,</span> <span class="nx">fn</span><span class="p">);</span> <span class="c1">// no longer logs '!' upon clicking on the page</span>
+</code></pre>
+</div>
+
+<h2 id="17-convert-mili-giây-sang-ngày-giờ-phút-giây">17. Convert mili giây sang ngày giờ phút giây,…</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">formatDuration</span> <span class="o">=</span> <span class="p">(</span><span class="nx">ms</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="k">if</span> <span class="p">(</span><span class="nx">ms</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">)</span> <span class="nx">ms</span> <span class="o">=</span> <span class="o">-</span><span class="nx">ms</span><span class="p">;</span>
+  <span class="kr">const</span> <span class="nx">time</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="na">day</span><span class="p">:</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">(</span><span class="nx">ms</span> <span class="o">/</span> <span class="mi">86400000</span><span class="p">),</span>
+    <span class="na">hour</span><span class="p">:</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">(</span><span class="nx">ms</span> <span class="o">/</span> <span class="mi">3600000</span><span class="p">)</span> <span class="o">%</span> <span class="mi">24</span><span class="p">,</span>
+    <span class="na">minute</span><span class="p">:</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">(</span><span class="nx">ms</span> <span class="o">/</span> <span class="mi">60000</span><span class="p">)</span> <span class="o">%</span> <span class="mi">60</span><span class="p">,</span>
+    <span class="na">second</span><span class="p">:</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">(</span><span class="nx">ms</span> <span class="o">/</span> <span class="mi">1000</span><span class="p">)</span> <span class="o">%</span> <span class="mi">60</span><span class="p">,</span>
+    <span class="na">millisecond</span><span class="p">:</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">(</span><span class="nx">ms</span><span class="p">)</span> <span class="o">%</span> <span class="mi">1000</span><span class="p">,</span>
+  <span class="p">};</span>
+  <span class="k">return</span> <span class="nb">Object</span><span class="p">.</span><span class="nx">entries</span><span class="p">(</span><span class="nx">time</span><span class="p">)</span>
+    <span class="p">.</span><span class="nx">filter</span><span class="p">((</span><span class="nx">val</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">val</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">!==</span> <span class="mi">0</span><span class="p">)</span>
+    <span class="p">.</span><span class="nx">map</span><span class="p">(([</span><span class="nx">key</span><span class="p">,</span> <span class="nx">val</span><span class="p">])</span> <span class="o">=&gt;</span> <span class="err">`</span><span class="nx">$</span><span class="p">{</span><span class="nx">val</span><span class="p">}</span> <span class="nx">$</span><span class="p">{</span><span class="nx">key</span><span class="p">}</span><span class="nx">$</span><span class="p">{</span><span class="nx">val</span> <span class="o">!==</span> <span class="mi">1</span> <span class="p">?</span> <span class="s2">"s"</span> <span class="p">:</span> <span class="s2">""</span><span class="p">}</span><span class="err">`</span><span class="p">)</span>
+    <span class="p">.</span><span class="nx">join</span><span class="p">(</span><span class="s2">", "</span><span class="p">);</span>
+<span class="p">};</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">formatDuration</span><span class="p">(</span><span class="mi">1001</span><span class="p">);</span> <span class="c1">// '1 second, 1 millisecond'</span>
+<span class="nx">formatDuration</span><span class="p">(</span><span class="mi">34325055574</span><span class="p">);</span> <span class="c1">// '397 days, 6 hours, 44 minutes, 15 seconds, 574 milliseconds'</span>
+</code></pre>
+</div>
+
+<h2 id="18-cách-tính-khoảng-cách-theo-ngày-giữa-date">18. Cách tính khoảng cách (theo ngày) giữa Date?</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">getDaysDiffBetweenDates</span> <span class="o">=</span> <span class="p">(</span><span class="nx">dateInitial</span><span class="p">,</span> <span class="nx">dateFinal</span><span class="p">)</span> <span class="o">=&gt;</span>
+  <span class="p">(</span><span class="nx">dateFinal</span> <span class="o">-</span> <span class="nx">dateInitial</span><span class="p">)</span> <span class="o">/</span> <span class="p">(</span><span class="mi">1000</span> <span class="o">*</span> <span class="mi">3600</span> <span class="o">*</span> <span class="mi">24</span><span class="p">);</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">getDaysDiffBetweenDates</span><span class="p">(</span><span class="k">new</span> <span class="nb">Date</span><span class="p">(</span><span class="s2">"2017-12-13"</span><span class="p">),</span> <span class="k">new</span> <span class="nb">Date</span><span class="p">(</span><span class="s2">"2017-12-22"</span><span class="p">));</span> <span class="c1">// 9</span>
+</code></pre>
+</div>
+
+<h2 id="19-cách-tạo-một-request-get">19. Cách tạo một request GET</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">httpGet</span> <span class="o">=</span> <span class="p">(</span><span class="nx">url</span><span class="p">,</span> <span class="nx">callback</span><span class="p">,</span> <span class="nx">err</span> <span class="o">=</span> <span class="nx">console</span><span class="p">.</span><span class="nx">error</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="kr">const</span> <span class="nx">request</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">XMLHttpRequest</span><span class="p">();</span>
+  <span class="nx">request</span><span class="p">.</span><span class="nx">open</span><span class="p">(</span><span class="s2">"GET"</span><span class="p">,</span> <span class="nx">url</span><span class="p">,</span> <span class="kc">true</span><span class="p">);</span>
+  <span class="nx">request</span><span class="p">.</span><span class="nx">onload</span> <span class="o">=</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="nx">callback</span><span class="p">(</span><span class="nx">request</span><span class="p">.</span><span class="nx">responseText</span><span class="p">);</span>
+  <span class="nx">request</span><span class="p">.</span><span class="nx">onerror</span> <span class="o">=</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="nx">err</span><span class="p">(</span><span class="nx">request</span><span class="p">);</span>
+  <span class="nx">request</span><span class="p">.</span><span class="nx">send</span><span class="p">();</span>
+<span class="p">};</span>
+
+<span class="nx">httpGet</span><span class="p">(</span><span class="s2">"https://jsonplaceholder.typicode.com/posts/1"</span><span class="p">,</span> <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">);</span>
+
+<span class="c1">// Logs: {"userId": 1, "id": 1, "title": "sample title", "body": "my text"}</span>
+</code></pre>
+</div>
+
+<h2 id="20-cách-tạo-một-request-post">20. Cách tạo một request POST</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">httpPost</span> <span class="o">=</span> <span class="p">(</span><span class="nx">url</span><span class="p">,</span> <span class="nx">data</span><span class="p">,</span> <span class="nx">callback</span><span class="p">,</span> <span class="nx">err</span> <span class="o">=</span> <span class="nx">console</span><span class="p">.</span><span class="nx">error</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="kr">const</span> <span class="nx">request</span> <span class="o">=</span> <span class="k">new</span> <span class="nx">XMLHttpRequest</span><span class="p">();</span>
+  <span class="nx">request</span><span class="p">.</span><span class="nx">open</span><span class="p">(</span><span class="s2">"POST"</span><span class="p">,</span> <span class="nx">url</span><span class="p">,</span> <span class="kc">true</span><span class="p">);</span>
+  <span class="nx">request</span><span class="p">.</span><span class="nx">setRequestHeader</span><span class="p">(</span><span class="s2">"Content-type"</span><span class="p">,</span> <span class="s2">"application/json; charset=utf-8"</span><span class="p">);</span>
+  <span class="nx">request</span><span class="p">.</span><span class="nx">onload</span> <span class="o">=</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="nx">callback</span><span class="p">(</span><span class="nx">request</span><span class="p">.</span><span class="nx">responseText</span><span class="p">);</span>
+  <span class="nx">request</span><span class="p">.</span><span class="nx">onerror</span> <span class="o">=</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="nx">err</span><span class="p">(</span><span class="nx">request</span><span class="p">);</span>
+  <span class="nx">request</span><span class="p">.</span><span class="nx">send</span><span class="p">(</span><span class="nx">data</span><span class="p">);</span>
+<span class="p">};</span>
+
+<span class="kr">const</span> <span class="nx">newPost</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="na">userId</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
+  <span class="na">id</span><span class="p">:</span> <span class="mi">1337</span><span class="p">,</span>
+  <span class="na">title</span><span class="p">:</span> <span class="s2">"Foo"</span><span class="p">,</span>
+  <span class="na">body</span><span class="p">:</span> <span class="s2">"bar bar bar"</span><span class="p">,</span>
+<span class="p">};</span>
+<span class="kr">const</span> <span class="nx">data</span> <span class="o">=</span> <span class="nx">JSON</span><span class="p">.</span><span class="nx">stringify</span><span class="p">(</span><span class="nx">newPost</span><span class="p">);</span>
+<span class="nx">httpPost</span><span class="p">(</span><span class="s2">"https://jsonplaceholder.typicode.com/posts"</span><span class="p">,</span> <span class="nx">data</span><span class="p">,</span> <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">);</span>
+
+<span class="c1">// Logs: {"userId": 1, "id": 1337, "title": "Foo", "body": "bar bar bar"}</span>
+</code></pre>
+</div>
+
+<h2 id="21-cách-tạo-bộ-đếm-với-phạm-vi-bước-và-thời-lượng-được-chỉ-định-cho-bộ-chọn-được-chỉ-định">21. Cách tạo bộ đếm với phạm vi, bước và thời lượng được chỉ định cho bộ chọn được chỉ định</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">counter</span> <span class="o">=</span> <span class="p">(</span><span class="nx">selector</span><span class="p">,</span> <span class="nx">start</span><span class="p">,</span> <span class="nx">end</span><span class="p">,</span> <span class="nx">step</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="nx">duration</span> <span class="o">=</span> <span class="mi">2000</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="kd">let</span> <span class="nx">current</span> <span class="o">=</span> <span class="nx">start</span><span class="p">,</span>
+    <span class="nx">_step</span> <span class="o">=</span> <span class="p">(</span><span class="nx">end</span> <span class="o">-</span> <span class="nx">start</span><span class="p">)</span> <span class="o">*</span> <span class="nx">step</span> <span class="o">&lt;</span> <span class="mi">0</span> <span class="p">?</span> <span class="o">-</span><span class="nx">step</span> <span class="p">:</span> <span class="nx">step</span><span class="p">,</span>
+    <span class="nx">timer</span> <span class="o">=</span> <span class="nx">setInterval</span><span class="p">(()</span> <span class="o">=&gt;</span> <span class="p">{</span>
+      <span class="nx">current</span> <span class="o">+=</span> <span class="nx">_step</span><span class="p">;</span>
+      <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="nx">selector</span><span class="p">).</span><span class="nx">innerHTML</span> <span class="o">=</span> <span class="nx">current</span><span class="p">;</span>
+      <span class="k">if</span> <span class="p">(</span><span class="nx">current</span> <span class="o">&gt;=</span> <span class="nx">end</span><span class="p">)</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="nx">selector</span><span class="p">).</span><span class="nx">innerHTML</span> <span class="o">=</span> <span class="nx">end</span><span class="p">;</span>
+      <span class="k">if</span> <span class="p">(</span><span class="nx">current</span> <span class="o">&gt;=</span> <span class="nx">end</span><span class="p">)</span> <span class="nx">clearInterval</span><span class="p">(</span><span class="nx">timer</span><span class="p">);</span>
+    <span class="p">},</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">abs</span><span class="p">(</span><span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">(</span><span class="nx">duration</span> <span class="o">/</span> <span class="p">(</span><span class="nx">end</span> <span class="o">-</span> <span class="nx">start</span><span class="p">))));</span>
+  <span class="k">return</span> <span class="nx">timer</span><span class="p">;</span>
+<span class="p">};</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">counter</span><span class="p">(</span><span class="s2">"#my-id"</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">1000</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">2000</span><span class="p">);</span> <span class="c1">// Creates a 2-second timer for the element with id="my-id"</span>
+</code></pre>
+</div>
+
+<h2 id="22-cách-tạo-clipboard-để-copy-text">22. Cách tạo clipboard để copy text</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">copyToClipboard</span> <span class="o">=</span> <span class="p">(</span><span class="nx">str</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="kr">const</span> <span class="nx">el</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s2">"textarea"</span><span class="p">);</span>
+  <span class="nx">el</span><span class="p">.</span><span class="nx">value</span> <span class="o">=</span> <span class="nx">str</span><span class="p">;</span>
+  <span class="nx">el</span><span class="p">.</span><span class="nx">setAttribute</span><span class="p">(</span><span class="s2">"readonly"</span><span class="p">,</span> <span class="s2">""</span><span class="p">);</span>
+  <span class="nx">el</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">position</span> <span class="o">=</span> <span class="s2">"absolute"</span><span class="p">;</span>
+  <span class="nx">el</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">left</span> <span class="o">=</span> <span class="s2">"-9999px"</span><span class="p">;</span>
+  <span class="nb">document</span><span class="p">.</span><span class="nx">body</span><span class="p">.</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">el</span><span class="p">);</span>
+  <span class="kr">const</span> <span class="nx">selected</span> <span class="o">=</span>
+    <span class="nb">document</span><span class="p">.</span><span class="nx">getSelection</span><span class="p">().</span><span class="nx">rangeCount</span> <span class="o">&gt;</span> <span class="mi">0</span>
+      <span class="p">?</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getSelection</span><span class="p">().</span><span class="nx">getRangeAt</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+      <span class="p">:</span> <span class="kc">false</span><span class="p">;</span>
+  <span class="nx">el</span><span class="p">.</span><span class="nx">select</span><span class="p">();</span>
+  <span class="nb">document</span><span class="p">.</span><span class="nx">execCommand</span><span class="p">(</span><span class="s2">"copy"</span><span class="p">);</span>
+  <span class="nb">document</span><span class="p">.</span><span class="nx">body</span><span class="p">.</span><span class="nx">removeChild</span><span class="p">(</span><span class="nx">el</span><span class="p">);</span>
+  <span class="k">if</span> <span class="p">(</span><span class="nx">selected</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nb">document</span><span class="p">.</span><span class="nx">getSelection</span><span class="p">().</span><span class="nx">removeAllRanges</span><span class="p">();</span>
+    <span class="nb">document</span><span class="p">.</span><span class="nx">getSelection</span><span class="p">().</span><span class="nx">addRange</span><span class="p">(</span><span class="nx">selected</span><span class="p">);</span>
+  <span class="p">}</span>
+<span class="p">};</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">copyToClipboard</span><span class="p">(</span><span class="s2">"Lorem ipsum"</span><span class="p">);</span> <span class="c1">// 'Lorem ipsum' copied to clipboard.</span>
+</code></pre>
+</div>
+
+<h2 id="23-cách-kiểm-tra-xem-tab-của-trình-duyệt-của-đang-được-focus-hay-không">23. Cách kiểm tra xem tab của trình duyệt của đang được focus hay không</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">isBrowserTabFocused</span> <span class="o">=</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="o">!</span><span class="nb">document</span><span class="p">.</span><span class="nx">hidden</span><span class="p">;</span>
+
+<span class="c1">// Ví dụ</span>
+<span class="nx">isBrowserTabFocused</span><span class="p">();</span> <span class="c1">// true</span>
+</code></pre>
+</div>
+
+<h2 id="24-cách-tạo-một-thư-mục-nếu-nó-không-tồn-tại">24. Cách tạo một thư mục, nếu nó không tồn tại</h2>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kr">const</span> <span class="nx">fs</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s2">"fs"</span><span class="p">);</span>
+<span class="kr">const</span> <span class="nx">createDirIfNotExists</span> <span class="o">=</span> <span class="p">(</span><span class="nx">dir</span><span class="p">)</span> <span class="o">=&gt;</span>
+  <span class="o">!</span><span class="nx">fs</span><span class="p">.</span><span class="nx">existsSync</span><span class="p">(</span><span class="nx">dir</span><span class="p">)</span> <span class="p">?</span> <span class="nx">fs</span><span class="p">.</span><span class="nx">mkdirSync</span><span class="p">(</span><span class="nx">dir</span><span class="p">)</span> <span class="p">:</span> <span class="kc">undefined</span><span class="p">;</span>
+
+<span class="c1">// Example</span>
+<span class="nx">createDirIfNotExists</span><span class="p">(</span><span class="s2">"test"</span><span class="p">);</span> <span class="c1">// creates the directory 'test', if it doesn't exist</span>
+</code></pre>
+</div>
+
+      </article>
+
+      
+      <div class="blog-tags">
+        Tags:
+        
+        
+        <a href="/tags#backend">backend</a>
+        
+        <a href="/tags#frontend">frontend</a>
+        
+        <a href="/tags#javascript">javascript</a>
+        
+        
+      </div>
+      
+
+      
+      
+
+
+
+<section id="social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+  <a rel="canonical" href="https://twitter.com/intent/tweet?text=24+tips+gi%E1%BA%A3i+quy%E1%BA%BFt+v%E1%BA%A5n+%C4%91%E1%BB%81+th%C6%B0%E1%BB%9Dng+g%E1%BA%B7p+trong+Javascript+http://thaycacac.github.io/2020-10-13-24-code-snippets-giai-quyet-van-de-thuong-gap-trong-javascript/"
+    class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+    <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
+    <span class="sr-only">Twitter</span>
+  </a>
+  
+
+  
+  <a rel="canonical" href="https://www.facebook.com/sharer/sharer.php?u=http://thaycacac.github.io/2020-10-13-24-code-snippets-giai-quyet-van-de-thuong-gap-trong-javascript/" class="btn btn-social-icon btn-facebook"
+    title="Share on Facebook">
+    <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
+    <span class="sr-only">Facebook</span>
+  </a>
+  
+
+  
+  <a rel="canonical" href="https://plus.google.com/share?url=http://thaycacac.github.io/2020-10-13-24-code-snippets-giai-quyet-van-de-thuong-gap-trong-javascript/" class="btn btn-social-icon btn-google"
+    title="Share on Google+">
+    <span class="fa fa-fw fa-google-plus" aria-hidden="true"></span>
+    <span class="sr-only">Google+</span>
+  </a>
+  
+
+  
+  <a rel="canonical" href="https://www.linkedin.com/shareArticle?mini=true&url=http://thaycacac.github.io/2020-10-13-24-code-snippets-giai-quyet-van-de-thuong-gap-trong-javascript/" class="btn btn-social-icon btn-linkedin"
+    title="Share on LinkedIn">
+    <span class="fa fa-fw fa-linkedin" aria-hidden="true"></span>
+    <span class="sr-only">LinkedIn</span>
+  </a>
+  
+
+</section>
+
+
+      
+
+      <ul class="pager blog-pager">
+        
+        <li class="previous">
+          <a href="/2019-09-28-share-components-mockups/" data-toggle="tooltip"
+            data-placement="top" title="Tôi design">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="next">
+          <a href="/2021-05-04-20-tips-rut-ngan-code-javascript/" data-toggle="tooltip"
+            data-placement="top" title="20 tips rút gọn code trong Javascript">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+
+      
+      <div class="disqus-comments">
+        
+      </div>
+      <div class="comments">
+    <div id="fb-root"></div>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src =
+                'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12&appId=2190189127692080&autoLogAppEvents=1';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <div class="fb-comments" data-href="http://thaycacac.github.io/2020-10-13-24-code-snippets-giai-quyet-van-de-thuong-gap-trong-javascript/" data-width="100%" data-numposts="5"></div>
+    <noscript>Please enable JavaScript to view the comments powered by Facebook.</noscript>
+</div>
+      
+    </div>
+  </div>
+</div>
+
+  <footer class="is-footer">
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links"><li><a href="/feed.xml" title="RSS"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">RSS</span>
+                </a>
+          </li><li><a href="mailto:thaycacac@gmail.com" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">Email me</span>
+                </a>
+          </li><li><a href="https://www.facebook.com/thaycacac" title="Facebook"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">Facebook</span>
+                </a>
+          </li><li><a href="https://twitter.com/thaycacac" title="Twitter"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">Twitter</span>
+                </a>
+          </li><li><a href="tel:84968038714" title="Phone"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">Phone</span>
+                </a>
+          </li><li><a href="https://linkedin.com/in/thaycacac" title="LinkedIn"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">LinkedIn</span>
+                </a>
+          </li><li><a href="https://www.instagram.com/thaycacac" title="Instagram"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">Instagram</span>
+                </a>
+          </li><li><a href="https://www.youtube.com/channel/UCSfVU0_rcB5Kn1SkYrcTbRw" title="YouTube"><span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">YouTube</span>
+                </a>
+          </li></ul>
+        <p class="copyright text-muted">
+          Thaycacac
+          &nbsp;&bull;&nbsp;
+          2024
+
+          
+          &nbsp;&bull;&nbsp;
+          <a href="http://thaycacac.github.io">thaycacac.github.io</a>
+          
+
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+
+
+
+
+
+
+
+<!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+
+<script src="/js/jquery-1.11.2.min.js"></script>
+<script src="/js/jquery-sakura.min.js"></script>
+
+<script>
+  if (typeof jQuery == 'undefined') {
+    document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+  }
+</script>
+
+
+<!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+
+<script src="/js/main.js"></script>
+
+
+
+
+
+<script>
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r;
+		i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date();
+		a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-137167305-1', 'auto');
+	ga('send', 'pageview');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137167305-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-137167305-1');
+</script>
+<!-- End Google Analytics -->
+
+
+</body>
+<script>
+$(window).load(function () {
+  $('body').sakura();
+});
+</script>
+
+</html>

@@ -8,7 +8,7 @@ categories: [frontend, backend]
 tags: [backend, frontend]
 ---
 
-Tổng hợp các công cụ hữu ích dành cho developer
+Tổng hợp các công cụ hữu ích dành cho developer:
 
 <table>
   <tr>
@@ -32,7 +32,6 @@ Tổng hợp các công cụ hữu ích dành cho developer
     </td>
   </tr>
 </table>
-
 
 ## responsively.app
 
