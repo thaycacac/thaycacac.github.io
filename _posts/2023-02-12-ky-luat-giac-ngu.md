@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kỷ luật giâc ngủ
+title: Kỷ luật giấc ngủ
 subtitle: Làm sao để kỷ luật giấc ngủ, không để ngủ nướng
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
