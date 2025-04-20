@@ -25,7 +25,7 @@ navbar-links:
   Front End: "frontend"
   Back End: "backend"
   UI/UX: "uiux"
-  Kungfutech: "https://kungfutech.edu.vn/"
+  AntOKR: "https://antokr.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
