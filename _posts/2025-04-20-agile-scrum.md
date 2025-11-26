@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agile Scrum - Phương pháp phát triển phần mềm linh hoạt
+title: Agile Scrum
 subtitle: Hướng dẫn chi tiết về Agile và Scrum framework để phát triển sản phẩm hiệu quả
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
