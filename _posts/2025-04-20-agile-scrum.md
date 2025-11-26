@@ -243,6 +243,85 @@ Scrum là một framework nhẹ nhàng giúp mọi người, nhóm và tổ ch�
 5. [P2] User có thể đánh giá sản phẩm
 ```
 
+### Product Backlog Refinement
+
+**Product Backlog Refinement** (hay còn gọi là Backlog Grooming) là quy trình làm rõ, chi tiết hóa và sắp xếp lại các items trong Product Backlog để chuẩn bị cho các Sprint sắp tới.
+
+#### Quy trình Refinement
+
+Trước khi một ý tưởng trở thành Product Backlog Item, nó cần trải qua quy trình refinement để đảm bảo chất lượng và giá trị:
+
+![Product Backlog Refinement Flowchart](/assets/img/2025/11/product-backlog-refinement-flowchart.png)
+
+**Các bước trong quy trình:**
+
+1. **Stakeholder có ý tưởng** - Một người nào đó (khách hàng, stakeholder, team member) có ý tưởng về tính năng mới
+
+2. **Tìm hiểu "Why" và "What"** - Product Owner và nhóm cần hiểu rõ:
+   - **Why:** Tại sao cần tính năng này? Vấn đề nào nó giải quyết?
+   - **What:** Tính năng này làm gì cụ thể?
+
+3. **Kiểm tra "Why" rõ ràng chưa?**
+   - Nếu chưa rõ → Quay lại bước 2 để làm rõ với stakeholder
+   - Nếu rõ → Tiếp tục
+
+4. **Kiểm tra "What" rõ ràng chưa?**
+   - Nếu chưa rõ → Quay lại bước 2 để làm rõ với stakeholder
+   - Nếu rõ → Tiếp tục
+
+5. **Kiểm tra đóng góp cho Product Vision**
+   - Nếu không đóng góp → Loại bỏ, không lãng phí thời gian
+   - Nếu có đóng góp → Tiếp tục
+
+6. **Kiểm tra có giá trị không?**
+   - Nếu không có giá trị → Loại bỏ
+   - Nếu có giá trị → Tiếp tục
+
+7. **Viết Product Backlog Item** - Chính thức thêm vào Product Backlog
+
+8. **Bắt đầu Product Backlog Refinement meeting** - Nhóm sẽ refinement item này chi tiết hơn
+
+#### Quy trình Backlog Refinement Meeting
+
+![Backlog Refinement Process](/assets/img/2025/11/backlog-refinement.png)
+
+**Đặc điểm quan trọng:**
+
+- **Refinement là Collaborative!** - Tất cả mọi người cùng tham gia, không phải chỉ Product Owner
+
+**Các bước trong Backlog Refinement:**
+
+1. **Sprint Goal được outline**
+   - Xác định lý do hoặc mục đích cho Sprint
+   - Thiết lập "tone" cho Sprint
+   - Đảm bảo **tất cả** các team đều hiểu và đồng thuận
+
+2. **Product Owner chuẩn bị Stories**
+   - Stories đã rõ ràng với một số acceptance criteria được định nghĩa
+   - Đã được sắp xếp ưu tiên để giữ cho session tập trung
+   - Mục tiêu là có ít nhất 1+ Sprint worth of stories sẵn sàng để được refinement
+
+3. **Team review và đảm bảo hiểu rõ intent**
+   - **Collaborate!** - Làm việc cùng nhau
+   - Thêm acceptance criteria phù hợp
+   - Chia nhỏ hoặc split stories nếu cần
+
+4. **Điều chỉnh/Split/Thêm User Stories nếu cần**
+   - Chia các stories lớn thành các stories nhỏ có thể thực thi được
+   - Thêm stories mới nếu phát hiện thêm yêu cầu hoặc nhu cầu
+
+**Kết quả:**
+
+- **Tất cả Definition of Done nên được cập nhật trong session đó**
+- Stories đã được làm rõ và sẵn sàng cho Sprint Planning
+- Nhóm hiểu rõ về các stories sẽ làm trong Sprint tiếp theo
+
+**Tần suất Refinement:**
+
+- Thường diễn ra **liên tục** trong suốt Sprint
+- Có thể có một session chính thức mỗi tuần
+- Product Owner và Development Team làm việc cùng nhau để refinement
+
 #### 2. Sprint Backlog
 
 **Sprint Backlog** là tập hợp các Product Backlog items được chọn cho Sprint hiện tại, cộng với kế hoạch để hoàn thành chúng.
@@ -389,6 +468,209 @@ Tôi muốn đăng nhập bằng email và password,
 - Lưu giỏ hàng vào localStorage
 - Hiển thị số lượng sản phẩm trong giỏ hàng
 - Viết test cho chức năng này
+
+## Story Points và Estimation
+
+### Story Points là gì?
+
+**Story Points** là một đơn vị đo lường tương đối được sử dụng để ước lượng độ phức tạp và công sức cần thiết để hoàn thành một User Story. Story Points không phải là đơn vị thời gian (giờ, ngày), mà là một con số đại diện cho nhiều yếu tố kết hợp.
+
+![User Story Estimation](/assets/img/2025/11/user-story-estimation.png)
+
+### Story Point đại diện cho điều gì?
+
+Một Story Point là một con số đơn lẻ đại diện cho sự kết hợp của 4 yếu tố:
+
+1. **Volume (Khối lượng):** Công việc này lớn đến mức nào?
+   - Số lượng code cần viết
+   - Số lượng tính năng cần implement
+   - Quy mô của công việc
+
+2. **Complexity (Độ phức tạp):** Công việc này khó đến mức nào?
+   - Logic phức tạp
+   - Thuật toán khó
+   - Tích hợp với nhiều hệ thống
+
+3. **Knowledge (Kiến thức):** Chúng ta có đủ kỹ năng không?
+   - Team đã từng làm việc tương tự chưa?
+   - Cần học công nghệ mới không?
+   - Có expertise trong lĩnh vực này không?
+
+4. **Uncertainty (Sự không chắc chắn):** Còn điều gì chưa biết?
+   - Yêu cầu có rõ ràng không?
+   - Có rủi ro tiềm ẩn không?
+   - Có nhiều câu hỏi chưa được trả lời không?
+
+**Nguyên tắc quan trọng:** Story Points là tương đối. Các Stories được ước lượng so với nhau, không phải so với một tiêu chuẩn tuyệt đối.
+
+**Ví dụ minh họa:**
+- **Công việc lớn, điểm cao:** Giống như một tòa nhà cao tầng - nhiều công việc, phức tạp, cần nhiều thời gian
+- **Công việc nhỏ, điểm thấp:** Giống như các khối xếp hình nhỏ - đơn giản, nhanh chóng, dễ dàng
+
+### Các thang đo Story Points
+
+Có nhiều cách để đo Story Points, nhưng có 3 phương pháp phổ biến nhất:
+
+![Story Point Scales](/assets/img/2025/11/story-point-scales.png)
+
+#### 1. T-Shirt Size Scale
+
+Thang đo đơn giản sử dụng kích cỡ áo phông:
+- **Small (S)** - Công việc nhỏ, đơn giản
+- **Medium (M)** - Công việc trung bình
+- **Large (L)** - Công việc lớn
+- **Extra Large (XL)** - Công việc rất lớn
+
+**Ưu điểm:**
+- Dễ hiểu, không cần số học
+- Phù hợp cho người mới bắt đầu
+- Tránh được việc tranh cãi về số điểm cụ thể
+
+**Nhược điểm:**
+- Không chi tiết bằng các thang đo số
+- Khó so sánh chính xác giữa các stories
+
+#### 2. Power of 2 Scale
+
+Thang đo dựa trên lũy thừa của 2:
+- **2⁰ = 1**
+- **2¹ = 2**
+- **2² = 4**
+- **2³ = 8**
+- **2⁴ = 16**
+- **2⁵ = 32**
+- **2⁶ = 64**
+- ...
+
+**Đặc điểm:**
+- Khoảng cách giữa các mức tăng theo cấp số nhân
+- Phù hợp khi có sự khác biệt lớn giữa các stories
+- Giúp nhóm tránh ước lượng quá chi tiết cho các công việc lớn
+
+#### 3. Rounded Fibonacci Scale (Phổ biến nhất)
+
+Thang đo Fibonacci được làm tròn là phương pháp phổ biến nhất:
+
+**1, 2, 3, 5, 8, 13, 20, 40, 100**
+
+**Đặc điểm:**
+- Dựa trên dãy Fibonacci (mỗi số bằng tổng 2 số trước)
+- Được làm tròn để dễ sử dụng
+- Rất phù hợp khi ước lượng các công việc lớn
+
+**Tại sao Fibonacci phổ biến?**
+
+1. **Phản ánh sự không chắc chắn:** Khi công việc lớn hơn, độ không chắc chắn tăng nhanh hơn. Fibonacci phản ánh điều này tốt hơn thang đo tuyến tính.
+
+2. **Tránh tranh cãi:** Khoảng cách lớn giữa các số giúp nhóm không tranh cãi về sự khác biệt nhỏ (ví dụ: 8 vs 9).
+
+3. **Tập trung vào tương đối:** Nhóm tập trung vào việc so sánh stories với nhau thay vì cố gắng đo chính xác.
+
+**Planning Poker Cards:**
+
+Các thẻ Planning Poker thường sử dụng Fibonacci scale:
+- **0** - Không có công việc hoặc đã hoàn thành
+- **1/2** - Công việc rất nhỏ
+- **1, 2, 3, 5, 8, 13** - Các mức điểm phổ biến
+- **20, 40, 100** - Công việc rất lớn
+- **?** - Cần làm rõ thêm
+- **∞** - Quá lớn, cần chia nhỏ
+
+### Cách ước lượng Story Points
+
+#### Planning Poker
+
+**Planning Poker** là kỹ thuật phổ biến nhất để ước lượng Story Points:
+
+**Quy trình:**
+
+1. **Product Owner trình bày Story** - Giải thích User Story và acceptance criteria
+
+2. **Nhóm đặt câu hỏi** - Mọi người có thể hỏi để làm rõ
+
+3. **Mỗi người chọn một thẻ** - Mỗi thành viên chọn một thẻ Planning Poker đại diện cho ước lượng của họ (không cho người khác thấy)
+
+4. **Tất cả cùng lật thẻ** - Mọi người cùng lúc lật thẻ để công khai ước lượng
+
+5. **Thảo luận nếu khác biệt lớn**
+   - Nếu tất cả chọn cùng một số → Chấp nhận số đó
+   - Nếu có khác biệt lớn (ví dụ: 3 vs 13) → Người chọn số cao và thấp giải thích lý do
+
+6. **Lặp lại** - Lặp lại bước 3-5 cho đến khi đạt được đồng thuận
+
+**Lợi ích của Planning Poker:**
+
+- Tránh ảnh hưởng của người có tiếng nói lớn
+- Mọi người đều có cơ hội đóng góp ý kiến
+- Thúc đẩy thảo luận và làm rõ
+- Tạo sự đồng thuận trong nhóm
+
+#### Relative Estimation (Ước lượng tương đối)
+
+**Nguyên tắc:** So sánh stories với nhau, không so sánh với thời gian tuyệt đối.
+
+**Cách làm:**
+
+1. **Chọn một Story baseline** - Chọn một story đơn giản làm chuẩn (ví dụ: 2 points)
+
+2. **So sánh các stories khác** - Mỗi story khác được so sánh với baseline:
+   - "Story này lớn gấp đôi baseline" → 4 points
+   - "Story này lớn gấp 3 lần baseline" → 6 points (làm tròn thành 8)
+   - "Story này nhỏ hơn baseline một chút" → 1 point
+
+3. **Điều chỉnh khi cần** - Khi có story mới, so sánh với các stories đã ước lượng
+
+**Ví dụ:**
+
+```
+Baseline: "Hiển thị danh sách sản phẩm" = 2 points
+
+"So sánh với baseline:"
+- "Thêm sản phẩm vào giỏ hàng" = 3 points (phức tạp hơn một chút)
+- "Thanh toán" = 8 points (phức tạp hơn nhiều)
+- "Đăng nhập" = 5 points (trung bình)
+```
+
+### Velocity và Sprint Planning
+
+**Velocity** là tổng số Story Points mà nhóm hoàn thành trong một Sprint.
+
+**Ví dụ:**
+- Sprint 1: Hoàn thành 21 points
+- Sprint 2: Hoàn thành 23 points
+- Sprint 3: Hoàn thành 20 points
+- **Average Velocity:** ~21 points
+
+**Sử dụng Velocity trong Sprint Planning:**
+
+1. **Xem Average Velocity** - Nhóm có thể hoàn thành khoảng bao nhiêu points mỗi Sprint?
+
+2. **Chọn Stories cho Sprint** - Chọn các stories có tổng points tương đương với velocity
+
+3. **Không cam kết quá mức** - Không nên chọn nhiều hơn velocity trung bình
+
+**Lưu ý quan trọng:**
+
+- Velocity chỉ là **hướng dẫn**, không phải cam kết chắc chắn
+- Velocity có thể thay đổi khi nhóm học hỏi và cải thiện
+- Không so sánh velocity giữa các nhóm khác nhau
+- Velocity của nhóm này không áp dụng cho nhóm khác
+
+### Best Practices khi Estimation
+
+1. **Ước lượng theo nhóm** - Không để một người ước lượng một mình
+
+2. **Sử dụng Planning Poker** - Đảm bảo mọi người đều có tiếng nói
+
+3. **Không ước lượng quá chi tiết** - Story Points là tương đối, không cần chính xác tuyệt đối
+
+4. **Chia nhỏ stories lớn** - Nếu story quá lớn (> 13 points), nên chia nhỏ
+
+5. **Không chuyển đổi sang giờ** - Story Points không phải giờ, đừng cố chuyển đổi
+
+6. **Re-estimate khi cần** - Nếu hiểu rõ hơn về story, có thể re-estimate
+
+7. **Tập trung vào tương đối** - Quan trọng là so sánh stories với nhau
 
 ## Quy trình làm việc với Scrum
 

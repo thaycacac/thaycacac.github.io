@@ -370,6 +370,12 @@ footer .theme-by {
 .post-entry {
   width: 100%;
   font-size: 1.3rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
 }
 .post-image {
   margin-top: 10px;
