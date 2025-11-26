@@ -14,7 +14,7 @@ Báo cáo tài chính là "bức tranh" phản ánh tình hình tài chính củ
 
 Một bộ báo cáo tài chính đầy đủ của doanh nghiệp thường bao gồm 3 báo cáo chính:
 
-![Báo cáo tài chính tổng quan](/assets/img/2025/11/bao-cao-tai-chinh.tiff)
+![Báo cáo tài chính tổng quan](/assets/img/2025/11/bao-cao-tai-chinh.png)
 
 1. **Bảng cân đối kế toán** (Balance Sheet) - Cho biết tài sản và nguồn vốn tại một thời điểm
 2. **Báo cáo kết quả kinh doanh** (Income Statement) - Cho biết doanh thu, chi phí và lợi nhuận trong một kỳ
@@ -32,7 +32,7 @@ Hoặc:
 
 **TÀI SẢN = NỢ PHẢI TRẢ + VỐN CHỦ SỞ HỮU**
 
-![Bảng cân đối kế toán](/assets/img/2025/11/bao-cao-kep.tiff)
+![Bảng cân đối kế toán](/assets/img/2025/11/bao-cao-kep.png)
 
 ### Cấu trúc bảng cân đối kế toán
 
@@ -40,7 +40,7 @@ Hoặc:
 
 **Tài sản ngắn hạn** (Current Assets) - Tài sản có thể chuyển đổi thành tiền trong vòng 1 năm:
 
-![Tài sản ngắn hạn](/assets/img/2025/11/tai-san-ngan-han.tiff)
+![Tài sản ngắn hạn](/assets/img/2025/11/tai-san-ngan-han.png)
 
 - **Tiền và tương đương tiền:** Tiền mặt, tiền gửi ngân hàng, các khoản đầu tư ngắn hạn có tính thanh khoản cao
 - **Các khoản phải thu:** Tiền khách hàng nợ doanh nghiệp
@@ -49,7 +49,7 @@ Hoặc:
 
 **Tài sản dài hạn** (Non-current Assets) - Tài sản sử dụng lâu dài:
 
-![Tài sản dài hạn](/assets/img/2025/11/tai-san.tiff)
+![Tài sản dài hạn](/assets/img/2025/11/tai-san.png)
 
 - **Tài sản cố định hữu hình:** Nhà xưởng, máy móc, thiết bị, phương tiện vận tải
 - **Tài sản cố định vô hình:** Bằng sáng chế, thương hiệu, phần mềm, quyền sử dụng đất
@@ -95,11 +95,11 @@ Báo cáo kết quả kinh doanh thể hiện doanh thu, chi phí và lợi nhu�
 
 **Doanh thu:**
 
-![Doanh thu](/assets/img/2025/11/doanh-thu.tiff)
+![Doanh thu](/assets/img/2025/11/doanh-thu.png)
 
 - **Doanh thu thuần:** Tổng doanh thu sau khi trừ các khoản giảm trừ (chiết khấu, giảm giá, hàng bán bị trả lại)
 
-![Doanh thu thuần](/assets/img/2025/11/doanh-thu-thuan.tiff)
+![Doanh thu thuần](/assets/img/2025/11/doanh-thu-thuan.png)
 
 **Giá vốn hàng bán (COGS):**
 - Chi phí nguyên vật liệu, nhân công trực tiếp, chi phí sản xuất chung
