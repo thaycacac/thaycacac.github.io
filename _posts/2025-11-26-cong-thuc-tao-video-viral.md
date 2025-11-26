@@ -4,8 +4,8 @@ title: Công thức tạo video viral
 subtitle: Bí quyết để video của bạn được chia sẻ rộng rãi trên mạng xã hội
 gh-repo: thaycacac/thaycacac.github.io
 gh-badge: [follow]
-categories: [Course Recap]
-tags: [Course Recap]
+categories: [course recap]
+tags: [course recap]
 ---
 
 Trong thời đại số hóa hiện nay, việc tạo ra một video viral không còn là điều bất khả thi. Tuy nhiên, để đạt được điều đó, bạn cần hiểu rõ các nguyên tắc và công thức đã được chứng minh qua nhiều case study thành công. Bài viết này sẽ chia sẻ với bạn những bí quyết quan trọng để tạo ra những video có khả năng lan truyền mạnh mẽ.
