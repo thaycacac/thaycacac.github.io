@@ -23,9 +23,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 ></iframe>
 
 <h4 id="new-version-httpskungfutecheduvnfpt">New Version: <a href="https://kungfutech.edu.vn/fpt" target="_blank">https://kungfutech.edu.vn/fpt</a></h4>
-<h4 id="dev-news-httpstechmelycom">Dev news: <a href="https://techmely.com/" target="_blank">https://techmely.com/</a></h4>
 <h4 id="youtube-httpswwwyoutubecomctechmely">Youtube: <a href="https://www.youtube.com/c/TechMely?sub_confirmation=1" target="_blank">https://www.youtube.com/c/TechMely</a></h4>
-<h4 id="youtube-fpt">Dành cho ae FPT: <a href="https://www.youtube.com/playlist?list=PLwJIrGynFq9AEAV3XXftLst6IB3AGDMX8" target="_blank">https://www.youtube.com/playlist?list=PLwJIrGynFq9AEAV3XXftLst6IB3AGDMX8</a></h4>
 
 ### [Semester 1](#)
 
