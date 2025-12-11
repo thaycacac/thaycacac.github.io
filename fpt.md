@@ -22,7 +22,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
  title="GitHub"
 ></iframe>
 
-<h4 id="new-version-httpskungfutecheduvnfpt">New Version: <a href="https://kungfutech.edu.vn/fpt" target="_blank">https://kungfutech.edu.vn/fpt</a></h4>
+<h4 id="new-version-httpskungfutecheduvnfpt">New Version: <a href="https://kungfutech.edu.vn/khoa-hoc/se" target="_blank">https://kungfutech.edu.vn/khoa-hoc/se</a></h4>
 <h4 id="youtube-httpswwwyoutubecomctechmely">Youtube: <a href="https://www.youtube.com/c/TechMely?sub_confirmation=1" target="_blank">https://www.youtube.com/c/TechMely</a></h4>
 <h4 id="youtube-httpswwwyoutubecomctechmely">Chương trình thạc sĩ kỹ thuật phần mềm: <a href="/fsb" target="_blank">https://thaycacac.github.io/fsb</a></h4>
 
