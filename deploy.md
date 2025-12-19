@@ -214,4 +214,47 @@ jobs:
           && pm2 restart yarn
 ```
 
+## Deploy v2
 
+```bash
+sudo nano /etc/systemd/system/kft-be.service
+```
+
+
+
+```bash
+[Unit]
+Description=KFT Backend Service
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/var/www/kungfutech-be
+ExecStart=/root/.asdf/shims/node dist/src/main.js
+Restart=always
+RestartSec=5
+Environment=NODE_ENV=production
+LimitNOFILE=65535
+
+# Giới hạn tài nguyên
+MemoryMax=600M
+
+[Install]
+WantedBy=multi-user.target
+```
+
+### Enable & start
+
+```bash
+sudo systemctl daemon-reload
+sudo systemctl enable kft-be
+sudo systemctl start kft-be
+```
+
+### Kiểm tra
+
+```bash
+systemctl status kft-be
+journalctl -u kft-be -f
+```
