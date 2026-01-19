@@ -1,3 +1,10 @@
+---
+layout: page
+title: Note
+subtitle: Note
+keyword: ['note']
+---
+
 ## Git alias
 
 ```bash
