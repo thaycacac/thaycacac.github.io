@@ -13,3 +13,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 ### PPR501
 - [Python cho kỹ sư](https://drive.google.com/drive/folders/1pfhy_qIDO0Q732mFsTGv22Z1I_nqOn2z?usp=sharing)
+
+### MLR501
+
+-[Phương pháp học tập và nghiên cứu khoa học](https://drive.google.com/drive/folders/1MmbPK4RhhWmYfNDw0nQdsPOKNq7fvWA3?usp=sharing)
