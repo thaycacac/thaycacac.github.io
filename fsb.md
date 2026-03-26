@@ -17,3 +17,7 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 ### MLR501
 
 - [Phương pháp học tập và nghiên cứu khoa học](https://drive.google.com/drive/folders/1MmbPK4RhhWmYfNDw0nQdsPOKNq7fvWA3?usp=sharing)
+
+### DSP501
+
+- [Xử lý tín hiệu số](https://drive.google.com/drive/folders/1BvA4RNyzYF6E17PlXhseBGf9_5BzouEI?usp=sharing)
