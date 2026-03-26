@@ -5,7 +5,7 @@ subtitle: Share my experience
 keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 ---
 
-### [Semester 1](#)
+## [Semester 1](#)
 
 ### MHP501
 
@@ -21,3 +21,9 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 ### DSP501
 
 - [Xử lý tín hiệu số](https://drive.google.com/drive/folders/1BvA4RNyzYF6E17PlXhseBGf9_5BzouEI?usp=sharing)
+
+## [Semester 2](#)
+
+### SWM501
+
+- [Quản trị dự án phần mềm nâng cao](https://drive.google.com/drive/folders/1Y4kOFct2dnoFxVQAtNWO060762DKGTpa?usp=sharing)
