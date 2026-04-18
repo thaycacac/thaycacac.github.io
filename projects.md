@@ -28,6 +28,10 @@ keyword: ['fpt', 'thaycacac']
 
 - Quản lý thiết bị, tòa nhà
 
+## ChoVui
+
+- Trang thương mại điện tử
+
 ### Mipart
 
 - Trang thương mại điện tử
