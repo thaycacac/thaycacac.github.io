@@ -4,6 +4,57 @@ title: Projects
 subtitle: Thaycacac's Projects
 keyword: ['fpt', 'thaycacac']
 ---
+# [2026](#)
+
+### LPBANK - REMI
+
+# [2025](#)
+
+### CoinSavi - REMI
+
+### 
+
+# [2024](#)
+
+### 
+
+# [2023](#)
+
+### DTOS - Schaeffler
+
+- Nền tảng hướng dẫn lắp ráp thiết bị 3D (Unity)
+
+### ANTA - Canon
+
+- Quản lý thiết bị, tòa nhà
+
+### Mipart
+
+- Trang thương mại điện tử
+
+# [2022](#)
+
+### X8 Platform
+
+- Nền tảng gamefi
+
+### Biomerieux - Hybrid-technologies
+
+- Nền tảng triển lãm 3D
+
+# [2021](#)
+
+### Học thần học - HiveTech
+
+- Nền tảng phân tích thần số học
+
+### Học mãi - InvestIdea
+
+- Nền tảng quản lý của học mãi
+
+### Đầu tư công - Ddso-labs
+
+- Quản lý đầu tư công của nhà nước
 
 # [2020](#)
 
