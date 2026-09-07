@@ -27,3 +27,26 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 ### SWM501
 
 - [Quản trị dự án phần mềm nâng cao](https://drive.google.com/drive/folders/1Y4kOFct2dnoFxVQAtNWO060762DKGTpa?usp=sharing)
+
+### IVP501
+
+- [Xử lý ảnh và video](https://drive.google.com/drive/folders/1zm6mw2xDPRcsotoOo9OJipaFFIeqxUNs?usp=sharing)
+
+### PHI501
+
+- [Triết học](https://drive.google.com/drive/folders/1A8W_69Cx8QeBxGVmWORB8ximJVsFN9vi?usp=sharing)
+
+### MLE501
+
+- [Học máy](https://drive.google.com/drive/folders/1AG6yeIGpDZOxlEsVFvP_AtHpYoX2zWdI?usp=sharing)
+
+### AIN501
+
+- [Trí tuệ nhân tạo](https://drive.google.com/drive/folders/1Jr3lLk0zXMjggTAR4tRRbpXP8yMtfe6J?usp=sharing)
+
+## [Semester 3](#)
+
+### IAD591
+
+- [Phát triển ứng dụng IOT](https://drive.google.com/drive/folders/1UAEAfCv3Wi4M449oBPZgXuyQkPM4bQnh?usp=sharing)
+
