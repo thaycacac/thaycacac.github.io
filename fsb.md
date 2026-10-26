@@ -40,13 +40,24 @@ keyword: ["fpt", "thaycacac, fpt university", "hoapn", "Phạm Ngọc Hòa"]
 
 - [Học máy](https://drive.google.com/drive/folders/1AG6yeIGpDZOxlEsVFvP_AtHpYoX2zWdI?usp=sharing)
 
-### AIN501
-
-- [Trí tuệ nhân tạo](https://drive.google.com/drive/folders/1Jr3lLk0zXMjggTAR4tRRbpXP8yMtfe6J?usp=sharing)
-
 ## [Semester 3](#)
 
 ### IAD591
 
 - [Phát triển ứng dụng IOT](https://drive.google.com/drive/folders/1UAEAfCv3Wi4M449oBPZgXuyQkPM4bQnh?usp=sharing)
 
+### AIN501
+
+- [Trí tuệ nhân tạo](https://drive.google.com/drive/folders/1Jr3lLk0zXMjggTAR4tRRbpXP8yMtfe6J?usp=sharing)
+
+
+### DDM501
+
+- [AI trong sản xuất DevOps, DataOps, MLOps](https://drive.google.com/drive/folders/1lCNv23aaTjUk3y211Eza8S7azzvMJqAI?usp=sharing)
+
+
+## [Semester 4](#)
+
+### Seminar
+
+- [Seminar](https://drive.google.com/drive/folders/1W8KCx7gf-aHxpUeKCL5XVj3U0L9ijPPw?usp=sharing)
